@@ -1,0 +1,30 @@
+... title: Face recognition and classification of mood
+
+
+
+Abstract
+
+## Introduction
+Deep learning and especially Convolutional Neural Networks (CNN) have achieved a huge improvement in computer face recognition accuracy. We will review several CNN based methods for face recognition. We will present models that are currently state-of-the-art at face recognition including few-shot learning models. In our diploma thesis we will propose model that can perform a face recognition and a mood classification.
+
+## Hybrid Networks
+Hybrid networks that are using CNN models achieved significant results with accuracy better than 90% e.g. High Dimension Local Binary Patterns [1]. Hybrid networks model can perform classification of many features like age, gender, and mood as well as do face recognition with greater accuracy.
+
+## Few-Shot Learning model
+A majority of image recognition models require large dataset of labeled data during the training phase. On the other hand, few-shot learning models categorize input by using few training examples. One example of successful few-shot learning model is Siamese neural networks [2]. 
+
+## Proposed solution
+In order to reach effective results in accuracy, we propose to use 2 neural networks that will be trained simultaneously. 1st network will be based on few-shot model architecture that will be used for face recognition and identification. The aim of the 2nd network will be to classify the mood from the input. Both above mentioned networks will be based on CNN architecture. The two networks will use back propagation algorithm during the training.
+
+## Future research
+We will try to build a specific merged model. Our merged model should be that type of model that contains embedding preprocessing network [3] and our previous two network models in one architecture, which will be trained altogether. When this architecture will be reliable, we will compare how merged model performance and accuracy is advantageous compared to separate models described before. Our expectation is that this architecture can reduce computational complexity and increase speed of recognition and classification in comparison to previous architecture. 
+
+## Keywords: Deep Learning, CNN, few-shot learning, face recognition, mood recognition
+
+## References
+[1] Chen, D., Cao, X., Wen, F., & Sun, J. (2013, June). Blessing of dimensionality: High-dimensional feature and its efficient compression for face verification. In *Computer Vision and Pattern Recognition (CVPR), 2013 IEEE Conference on* (pp. 3025-3032). IEEE.
+
+[2] Koch, G., Zemel, R., & Salakhutdinov, R. (2015). Siamese neural networks for one-shot image recognition. In *ICML Deep Learning Workshop* (Vol. 2).
+
+[3] Schroff, F., Kalenichenko, D., & Philbin, J. (2015). Facenet: A unified embedding for face recognition and clustering. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 815-823).
+

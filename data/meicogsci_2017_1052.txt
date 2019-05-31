@@ -1,0 +1,14 @@
+... title: Designing Web Usability: Cognitive Psychological Experiment as a Part of UX Research
+
+
+
+Abstract
+
+UX, short for User Experience, entails user behaviours, emotions and attitudes of individuals when interacting with products or services. UX research utilizes various quantitative as well as qualitative methods with the aim of an overall improvement in usability, findability and accessibility of the aforementioned digital products. Directly observable utility attributes are usually the main focus of a quality assessment within classic usability research. The ISO standard 9241/11 describes these attributes primarily through effectiveness and efficiency [1]. This suggests that UX research is centred around the examination of subjective qualities for users in relation to human computer interaction (HCI).
+	As UX examines the behaviour of humans, it is believed to be appropriate to carry out psychological experimentation that would enhance the findings of classic UX research. In our research, Stroop priming experiment was used to explore whether individuals correctly implicitly connect categorical icons with correct category labels. A more general interpretation of the Stroop experiment is that stronger a stimulus captures human attention, the more delayed the response. Steve Krug [2], a respected author in the UX field, describes intuitiveness of each web page elements as the most basic building block of usability. Data in the experiment was pulled from five e-commerce stores offering electronic devices and participants were asked to connect product category icons to corresponding labels. These icon-label pairs were in turn ordered by reaction times and number of correct responses, whereby pairs with the shortest reaction time and greatest accuracy of response were deemed to have the highest usability score. 
+	A usability test was carried out consequently, where the tested user tasks were related to the search for items falling into priorly examined product categories. This user testing was conducted on six participants. The assessment of user testing was done by the participants through Likert scales as well as by observations of the test conductor. This research was based on the premise that the findings of Stroop experiments should be in correlation with the findings of our usability testing. Hence, the product icon-label pairs that received the highest score from Stroop experiments will also be the ones that will receive highest rating from users in the usability testing. These findings have the potential to give way to an effective product categorization and improved usability of webpages. 
+
+!!References
+[1] International Organisation for Standardisation, ISO 9241-11 Ergonomic requirements for office work with visual display terminals (VDTs): Part 11: guidance on usability. Geneve, 1998.
+[2] S. Krug, Don't make me think!: a common sense approach to web usability. Berkeley, CA: New Riders Publ., 2012.
+

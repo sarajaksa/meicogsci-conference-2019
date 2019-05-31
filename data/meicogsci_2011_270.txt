@@ -1,0 +1,25 @@
+... title: Duration of tissue fixation does not influence immunohistochemical staining of GABA-A receptor subunits in human hippocampus
+
+
+
+Abstract
+
+BACKGROUND
+Gamma-aminobutyric acid (GABA) is the main inhibitory neurotransmitter in the central nervous system (CNS). It acts via three major classes of GABA receptors: fast-acting ionotropic GABA-A and GABA-C receptors and slower-acting metabotropic GABA-B receptors. The pentameric GABA-A receptors are assembled of 19 different subunits, resulting in a wide range of distinct pharmacological and electrophysiological properties (Sieghart et al., 1999). Elucidating the distinct distribution of individual GABA-A receptor subunits is of great importance for the understanding of the basic biopathological mechanisms of certain brain disorders, among which are epilepsy, schizophrenia, sleep dysfunctions and anxiety disorders. 
+The purpose of the current research was to identify whether a slight variation in the duration of tissue fixation of 3 days was essential for the immunohistochemical methods (IHC) applied for analysing the distribution of GABA-A receptor subunits (Waldvogel et al., 2006). It is already known that fixation time can have an influence on staining specificity and intensity in some markers due to increased masking of the antigen (Liu et al., 2010). Our aim was to investigate whether such an influence was present in the markers used in our research. 
+
+MATERIAL AND METHODS
+Two human hippocampal specimens from autopsy and epilepsy surgery were collected, sliced into two blocks of 5 mm thickness and fixed with 4% paraformaldehyde (PFA) for four and seven days. All other possible variables in the protocols were kept constant. The staining intensities were graded by two independent investigators. To ensure blinded evaluation, the single slices were coded and provided randomly, so that the two investigators had no knowledge of fixation time, type of marker or type of specimen. 
+
+RESULTS
+Staining intensities were graded equally by the two investigators, suggesting that a fixation time of four to seven days does not show different results in immunohistochemical staining of GABA-A receptor subunits and may be recommended for the investigation of GABA-A receptors in order to obtain comparable results. 
+
+
+References
+
+Liu, J. Y. W., Martinian, L., Thom, M., & Sisodiya, S. (2010). Immunolabeling recovery in archival, post-mortem, human brain tissue using modified antigen retrieval and the catalyzed signal amplification system. Journal of Neuroscience Methods, (190), 49–56.
+
+Sieghart, W., Fuchs, K., Tretter, V., Ebert, V., Jechlinger, M., Höher, H., et al. (1999). Structure and subunit composition of GABA-A receptors. Neurochemistry International, (34), 379–385.
+
+Waldvogel, H. J., Curtis, M. A., Baer, K., Rees, M. I., & Faull, R. L. M. (2006). Immunohistochemical staining of post-mortem adult human brain sections. Nature Protocols, 1(6), 2719–2732.
+

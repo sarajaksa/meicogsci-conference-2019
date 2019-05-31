@@ -1,0 +1,8 @@
+... title: On computational modeling and its importance (not only) in social cognition
+
+
+
+Abstract
+
+If cognitive science wants to make a significant progress, it cannot do so without computational models. As a warning, the recently provided statistics show that experimental contributions by far exceed in number the modelling papers, making it a challenge for the latter. In the talk, we will briefly summarise key ingredients of computational models, with emphasis on neural networks, and illustrate their use in various aspects of cognition, such as sensorimotor coordination, language-driven attention or the mirror neuron system.
+

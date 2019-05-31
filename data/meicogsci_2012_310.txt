@@ -1,0 +1,30 @@
+... title: [m] Collaborative Design Processes out of an Enabling Spaces Perspective
+
+
+
+Abstract
+
+In various parts of everyday life, creative problem solving and innovation, in terms of (co-)creating new knowledge [1], get more and more attention. Collaborative design processes, as being processes consisting of (expert) actions happening in parallel, accompanied by joint negotiation and evaluation [2], are a setting in which this plays an important role.
+As investigating such processes can lead to a deeper understanding of their unfolding, involved structures and ways to support them, they build a fascinating area of research.
+A theoretical framework is given by the concept of Enabling Spaces [1], which takes into account multiple dimensions (such as physical, organisational, social, communicational, emotional or cognitive dimensions)  in an interdisciplinary and integrative manner for creating a 'space' enabling innovation in terms of knowledge (co-)creation [1].
+The research here is done in an educational setting and focusses mainly on the physical and social dimensions, with the aim to understand the implications for this setting, especially given by the tools. Thereby the term 'tools' denotes all kind of artefacts which constitute the physical framework for/of the process and/or are manipulated during the process. The leading research question is: What patterns of interaction, latent needs, structures and affordances in respect to the process environment can be extracted from students interaction with tools in a collaborative design process?
+The concrete research context is given by a high school multimedia design class in Vienna with students working collaboratively on a small design project of film animation in groups of three people.	
+
+
+The research was done as qualitative field research, the main methods including observation and qualitative interviews with students and teachers. The field research was thereby divided into basic and deepened phases accompanied by literature research and expert interviews arranged in a cyclic and iterative research process [3].
+
+
+As a first step, tools (such as tables, paper, sketches, laptops or graphic tablets) and their position and role linked to the place and context were identified and the interaction of the students with these tools during the design process was observed.
+The following preliminary analysis revealed that students (actively) build and constitute (personal or group) areas for working, communicating or making a break by manipulating and (re-)arranging tools in their environment and design process. 
+The omnipresent tools seem to have different roles as constituting a social space or being a device to communicate, explain, visualise or convert ideas. Furthermore different patterns of interaction were shown with the same single tool depending on the phase of the design process.
+
+
+The further, still ongoing, analysis and interpretation will be concerned with extracting patterns of interaction, latent needs, structures and affordances in respect to the process environment, identifying the background and causation and synthesising that in form of qualities which can form a general and flexible basis for the integration of this aspects along several dimensions in the sense of an Enabling Space, or lead to the development of design patterns for the concrete case of the multimedia design class.
+
+
+References:
+
+[1] Peschl, F. M. & Fundschneider T., Designing (and) Enabling Interfaces for Collaborative Knowledge Creation and Innovation, 2011, To be published in: Computers in Human Behavior, 2012
+[2] Kvan, T., Collaborative design: What is it? Automation in Construction, 9, 409-415, 2000
+[3] Lueger, M., Grundlagen qualitativer Feldforschung, Wien: WUV-UniversitŠtsverlag, 2000
+

@@ -1,0 +1,20 @@
+... title: Seeing Through Music: Effect of Music-induced Arousal on Visual Attention
+
+
+
+Abstract
+
+!!!!   Seeing Through Music: Effect of Music-induced Arousal on Visual Attention
+
+Music can influence our mood, a fact well known from the domain of folk psychology. Moreover, music can elicit physiological responses, including increased blood pressure, pupil dilation and body movements. However, the question of whether music can influence our other cognitive systems directly remains unanswered.
+
+One reason why music has maintained its importance to humans can be found in its emotional rewards – it is capable of being as rewarding as food, sex and even drugs. Regarding the studies indicating the crossmodal integration of the auditory and visual cognitive systems [1], I am focusing on the transfer of arousal, one of the primary dimensions of emotion, from the musical to visual domain. As attention provides information crucial for reacting to changes in the environment, attending to visual information could play an even more important role, when the information is emotionally arousing. For instance the sudden appearance of a fearful face in the peripheral area of one's vision probably indicates an impending threat or danger, which calls for immediate attention. Considering the notion that emotion also facilitates early visual processing [2] I hypothesize that transfer of emotional arousal from musical domain will influence the celerity with which visual stimulus will be detected and the probability that visual information will be processed. 
+
+I will test my hypothesis by applying a crossmodal priming paradigm in which auditory primes (Romantic piano solo music) varying in arousal [3] will be followed by a visual search task. In Experiment 1 30 participants will be, after the presentation of the auditory stimulus, asked to detect the target stimulus and report it by pressing the button on the keyboard. As the response speed also depends on the arousal levels, I presuppose that reaction time will be shorter when the auditory prime will be more arousing, compared to low arousing excerpts. In Experiment 2 similar setting will be applied. 30 participants will be asked to fix their gaze on the cross in the middle of the screen. After the presentation of the musical stimulus the task will consist in shifting the gaze in the direction of the target while ignoring the distractors. Measurement of the direction and the velocity of the gaze movement will be performed. 
+
+!! References
+
+[1] M. M. Marin, B. Gingras and J. Bhattacharya, “Crossmodal Transfer of Arousal, but Not Pleasantness, From the Musical to the Visual Domain,” Emotion, vol. 12, no. 3, pp. 618–631, 2012.
+[2] M.I. Posner, “Orienting of attention,” The Quarterly Journal of Experimental Psychology, vol. 32, pp. 3–25, 1980.
+[3] B. Gingras, M. M. Marin and W. T. Fitch, “Beyond intensity: Spectral features effectively predict music-induced subjective arousal,” The Quarterly Journal of Experimental Psychology, DOI: 10.1080/17470218.2013.863954, 2013.
+

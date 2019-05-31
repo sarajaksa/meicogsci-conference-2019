@@ -1,0 +1,14 @@
+... title: Deficiency of Cognitive Control as a Predictor of Memory Intrusions
+
+
+
+Abstract
+
+In order to engage in goal-directed acting it is crucial to focus on the current task and to suppress irrelevant thoughts and memories. Irrelevant information needs to be removed from working memory, a task which is considered to be accomplished through inhibitory control. This way, the limited capacity of working memory can be optimally utilized. 
+As inhibitory control is critical for updating working memory in order to engage in goal directed  planning a lack of inhibition leads to disturbed information processing such as less accurate retrieval of relevant information and enhanced retrieval of irrelevant information. The consequences are psychopathological symptoms such as involuntary memories which are common in Posttraumatic Stress Disorder (PTSD) and other psychiatric illnesses such as depression, addiction, phobias, dissociate identity disorder and schizophrenia (Hertel, 2007) 
+The present study aims to investigate the relation between a working memory inhibition task and intrusive memory. 
+The modified Sternberg Task was designed to measure the ability of controlling attention in working memory. Subjects are asked to suppress irrelevant information in their working memory in order to identify relevant stimuli. (Joormann & Gotlieb, 2008). 
+In order to compare perceived attentional control and performance on the modified Sternberg task a questionnaire which intends to measure the ability to focus attention (ACS, Attentional Control scale) is applied.
+Since it would be unethical to induce real trauma the trauma film paradigm is used and the subjects are shown traumatic film material (Holmes & Bach, 2008). In a subsequent phase of three days all spontaneous memories of the film are noted (Intrusion Diary). A final questionnaire (IMS, Impact of Movie Scale) is used to assess subjective stress as a result of the traumatic film material.
+The goal of the present study is to evaluate the correlation of individual scores in the modified Sternberg task with later involuntary memories in order to answer the question whether the modified Sternberg task is suitable to detect vulnerability towards involuntary memories.
+

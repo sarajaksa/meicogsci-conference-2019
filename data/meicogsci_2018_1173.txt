@@ -1,0 +1,15 @@
+... title: Reducing Bias Against Algorithmic Forecasting
+
+
+
+Abstract
+
+Forecasts made by algorithms are consistently more accurate than forecasts made by humans in several areas including forecasting academic performance [1]. Despite evidence demonstrating the superiority of forecasting algorithms, people are reluctant to use imperfect algorithms, a tendency termed as "algorithm aversion". Evidence shows, however, that this aversion might be overcome if people are given a chance to (even slightly) modify the algorithms' forecasting outcome in order to reduce potential errors [1]. In previous research, however, participants were not involved actively in the algorithms' decision-making process by being able to manipulate the input of the algorithm. Therefore, I will include this factor in my experiment. I hypothesize that people will be more likely to choose to use an algorithmic forecaster and have more confidence in them if they can have *some* control over what factors the model should use as input variables.
+
+The experiment will be administered as an online survey. Participants will be undergraduate students who are inexperienced users of forecasting algorithms. Based on Dietvorst et al. [1], I will apply a between-subject research design, where the task is to forecast students' mathematics scores based on seven variables (for example, desired occupation and predicted highest degree). The output variable is the preference for choosing the algorithm's vs. their own forecasts. Participants will be informed that the algorithm can forecast students' scores, but the model's estimates are off by 15 percentiles on average (i.e. the algorithm is imperfect). 
+
+Participants will be assigned to one of three conditions. They have to choose either the model's forecasts or their own forecasts. In the *fixed* condition, participants can choose between exclusively using the model's forecasts or their own forecasts. In the *adjust-input* condition, if participants use the algorithm, they can slightly modify which factors the algorithm should use as input variables. In the *adjust-output* condition, if participants use the algorithm, they can slightly modify its forecasts. After completing the forecasts, participants will receive feedback on their performance and will report their confidence in the model's and their own forecasts. The results of the experiment may have important implications for organizations that use algorithmic forecasting and may contribute to devising new strategies to reduce people's bias against computer-based solutions. 
+
+##References
+[1] B. J. Dietvorst, J. P. Simmons, and C. Massey, "Overcoming algorithm aversion: People will use imperfect algorithms if they can (even slightly) modify them," *Management Science*, vol. 64, no. 3, pp.  1155-1170, 2016.
+

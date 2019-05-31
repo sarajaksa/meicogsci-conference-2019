@@ -1,0 +1,13 @@
+... title: Cognitive aspects of Starcraft 2
+
+
+
+Abstract
+
+Author tried to determine how and which cognitive capacities are developed by playing strategy video game Starcraft 2. In this study author focused mainly on capacities leading to wining of the game.  
+Starcraft 2 is real-time strategy video game that is played at extraordinary speeds. Player choose one of three races and to win the game he must command his units, prepare defenses, build base expansions to gather more resources while build bigger armies to outmanoeuvre his opponent. Players have to act simultaneously and continuously to accomplish their goals.  The GUI of the game contains angled top-down view over map terrain, where players have his vision limited to his own units and buildings. This creates a game of incomplete information where efﬁciently distributing one’s attention is paramount. Top players issue hundreds of actions per minute navigating around the terrain at prodigious speeds and maintaining their forces. Optimized attention to the environment allows for proper navigation and the coordination of global and local information for real-time decision making.
+Data for this study was obtained by analyzing the replay files, which enables users to rewatch games after they concluded. These replay ﬁles are records of the actions that players took and the time that each one occurred, so we can precisely see the every interaction of player with game environment.  Main tool for relevant information extraction was program Sc2gears. Author also wrote Java analysis plugin for Sc2gears to enhance extraction of important game information. The main collected variables were: 
+*Actions per minute (APM), calculated as the total number of actions over game time in minutes 
+*Spatial variance of action (SVA), the 2D spatial variance of all actions with location, such as placing a building or moving units.
+In results author assumes to obtain underlying evidence for explanation of basic skill set that good Starcraft 2 player has. This skill set should consists of well developed fine motor skills, the distribution of attention, precise planning, highly developed working memory, rapid problem solving, multi-tasking ability etc.
+

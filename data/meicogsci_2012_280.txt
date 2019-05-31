@@ -1,0 +1,45 @@
+... title: Physical and cognitive performance changes caused by expectation of enhancement
+
+
+
+Abstract
+
+The power of placebo
+
+Placebo effect has been most often studied within the context of patient population or used as the control condition in studies of treatment efficacy. In the recent years it has been repeatedly shown that many of these placebo conditions are actually physiologically different from the no treatment condition, revealing therapeutic effects in treatment of pain, Parkinson's Disease and Alzheimer [1] .  " The study of the placebo effect, at its core, is the study of how the context of beliefs and values shape brain processes related to perception and emotion and, ultimately, mental and physical health." Benedetti et al state on this very interdisciplinary field of research [2]. The present ongoing study, inspired by the study design used by Pollo et al. in 2008 [3] aims to improve current understanding of placebo effect mechanisms in healthy population. To do so, we chose a combined interdisciplinary approach by analyzing changes in 3rd person perspective measures of physical and cognitive performance induced by the expectation of the subjects. Preliminary and partial data are summed up here. 
+
+Methods
+
+   University students (n=25; age 21.7 +/- 2.3) of both genders (F/M=1,1) signed the informed consent to participate in a study employing short tests of physical (maximal hand grip force, maximal leg extension work performed in 1 minute) and cognitive (three-stimuli auditory oddball test with silent counting) performance. Subjects scheduled two experimental sessions at least three days apart at the same time of day. During each visit two measurement runs were separated by a brief intermission during which an effervescent tablet of vitamin C dissolved in water was administered and announced either as "a stimulant" or a "control" beverage. Subjects were told that stimulant effects vary with individual susceptibility and might be accompanied by a transient calorigenic effect. During the session EEG, EMG of hand flexors and ECG recordings were collected in a computer aided ePrime task paradigm. Perceived test difficulty and presence/intensity of side effect were also recorded. 
+
+Hypothesis
+
+Placebo and control sessions of the same participants are expected do differ significantly both in physiological and cognitive measures. In detail, we hypothesize that:
+
+1. There is an improved performance in both hand grip and leg workout in the placebo condition
+2. The EEG P300 event related potential component in the placebo condition varies significantly in latency and amplitude from the control condition
+3. The physiological measures EMG and ECG also vary significantly from each other within the subjects in both conditions, further supporting the induced physiological difference. 
+
+
+Results
+
+Preliminary results showed significant effect of enhancement expectation on total leg workout (p=0.0011) but not on maximal handgrip force (p=0.236), revealing an objectively measured placebo effect on motivation dependent performance endurance but not core muscle strength. 
+The cognitive results are still in analysis
+
+Discussion and Future outlook
+
+Obviously, the preliminary results vary in significance and hence raise the question how there can be an expectation effect in leg workout but not in hand grip performance. The answer to that remains still unclear. A possible explanation could be the nature of the tasks. Leg workout might be more affected for being also related to endurance whereas the maximum isometric force in handgrip could be less affected by the individual motivation of the subjects.
+Results of EEG EKG and EMG analysis will present additional insight into possible mediating mechanisms of the measured effect, also for the first time into the cognitive domain.
+
+There is plenty of possible applications for placebo, the former poor relation in clinical trials. Expectation effects increase treatment efficacy, be it with or without "active" drug components - sham treatments such as homeopathy, traditional chines medicine and acupuncture finally have received more neuroscientific justification. Pavlovian conditioning procedures can also be used to increase effectiveness of active drug components, stimulating a placebo co-response but also unconditioned expectation can lead to an increase of drug activity as Flaten et al already showed in 1999 with a muscle relaxant [ 4]. 
+
+Finally, a personal application could be the method of autosuggestion, which also represents a tool for improving health and brain physiology.
+
+
+References
+
+[1]   Finnis D, Kaptchuk T, Miller F, Benedetti F ( 2010) Biological, Clinical and ethical advances of placebo effects. The Lancet 375:686-95
+[2] 	Benedetti F., Mayberg H. (2005) Neurobiological Mechanisms of the Placebo Effect, The journal of neuroscience, 25(45):10390 –10402
+[3]	Pollo A, Carlino E, Benedetti F. (2008) The top-down influence of ergogenic placebos on muscle work and fatigue, European Journal of Neuroscience, Vol 28, pp. 379-388
+[4]	Flaten M.A., Simonsen T, Olsen H. (1999) Drug-Related Information Generates Placebo and Nocebo Responses that Modify the Drug Response, Psychosomatic Medicine 61:250-255
+

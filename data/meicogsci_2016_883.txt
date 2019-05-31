@@ -1,0 +1,26 @@
+... title: The Kitsch Switch: Why Do Some People like (or Not Allow Themselves to like) Thomas Kinkade's Art?
+
+
+
+Abstract
+
+!!Introduction
+The word “kitsch” has originated in Germany to criticize a type of art that is considered poor in taste and whose products are associated with decorative, mass commodities or cheap entertainment. [1] Kitsch is typically rich in superficial sentimentality, often presenting to the observer highly charged imagery that triggers automatic, unreflective emotional reactions, happy scenes or bright colors that create an immediate positive response. Kitsch is an interesting phenomenon because it tends to lead to polarization, dividing the masses who respond positively from critics, who mostly define Kitsch as “bad art”. 
+One of the best example in recent times is represented by the successful American painter Thomas Kinkade. He’s been America’s most collected artist and recipient of several millions of dollars’ for his art. On the other hand, his paintings are almost universally hated by experts. This raises the question of why Kitsch art tends to elicit such diverse reactions.
+
+!!Method 
+In our study, we will assess Kitsch from several angles. First, we will consider personality and the question of what psychological profiles like Kinkade’s art? Equally interesting is why others hate it. Through personality, mood questionnaires, we’ll try to evaluate the importance of different factors that may be involved in these individual differences. This will be assessed through online study in which individuals rate Kinkade and other Kitsch/non-Kitsch art.
+Second, we will consider the cognitive process of viewing Kitsch and formulating a liking decision, which may involve the meeting of top-down and bottom-up components. Based on previous literature [3] it may be that individuals do have an immediate liking of Kitsch, based on automatic processing of visual components. However, after some time, certain individuals may rebel against this assessment based on their personal taste, experiences or meaning. We have labelled this a Kitsch switch, which will be assessed by varying exposure from very short (millisecond) to longer durations and looking for changes in liking. We will also use EEG to look further for differing peaks of activity.
+Finally, we will follow a previous study [2] which showed that repeat exposures to Kinkade art lead to a decreased liking. This finding contradicts previous studies which found an increase in people’s attitude towards a stimulus which they’ve been exposed to several times, due to increased fluency. For our study, we will use a within-block exposure to art type, rather than repeat exposure to the same paintings, which may be a better test of diminished liking. This will be coupled with a more systematic set of evaluation factors to determine what changes over multiple exposures, and which could explain the changes in liking. 
+
+!!Expected results
+We expect to collect a dataset of viewer art ratings, as well as personality factors and neural data which can answer the above questions and which can be used in one to two journal publications.
+
+!!References
+
+[1] Greenberg, Clement. Avantgarde und Kitsch. na, 1939.
+
+[2] Meskin, Aaron, et al. "Mere exposure to bad art." The British Journal of Aesthetics 53.2 (2013): 139-164.
+
+[3] Leder, Helmut, et al. "A model of aesthetic appreciation and aesthetic judgments." British journal of psychology 95.4 (2004): 489-508.
+

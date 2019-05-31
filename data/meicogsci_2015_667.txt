@@ -1,0 +1,16 @@
+... title: Consciousness and cognitive control – Investigating bottom-up and top-down attentional selection in vision
+
+
+
+Abstract
+
+Although most classical theories of cognition highlight cognitive control as one of the key functions of consciousness, research in the past decades of cognitive psychology suggests that unconscious processing is involved in cognitive control in different ways (e.g. [1]). This development begs the age-old philosophical question whether consciousness is a pure bystander without causal influence in cognition. 
+In the present project, we work on this topic by investigating the role of visual awareness in the top-down control of visual attention. There is a big debate in this field of research as to whether attentional selection is at early stages independent of the top-down control (bottom-up) or whether it is top-down contingent, that is, whether attention capture only occurs when the features of the impinging stimuli matches current search templates. A recently proposed hypothesis is in line with theories that highlight the role of consciousness in cognitive control (e.g. [2]). It holds that, with stimulus awareness, attention is captured in a top-down contingent way, without awareness, attention is captured in a bottom-up way.   
+We test this hypothesis in a series of attentional cueing experiments with either clearly visible stimuli (cues) or with subliminal stimuli (cues). We predict that visible cues only capture attention when they resemble the searched-for target (top-down contingent attentional capture). In contrast, invisible stimuli will capture attention even without a match between the features of the target and those of the cue (bottom-up attention capture). We measure behavioral correlates of attentional capture: 1) reaction time and accuracy in manual responding and 2) effect on the eye gaze behavior (target fixations and saccade parameters).   
+Results obtained so far support the view that attentional capture is bottom-up when the impinging stimuli are subliminal. 
+
+
+!! References: 
+[1] U. Ansorge, W. Kunde, M. Kiefer, “Unconscious vision and executive control: How unconscious processing and conscious action control interact“, Conscious Cogn., vol. 27, pp. 268-287, Jul. 2014.
+[2] S. Dehaene, J.-P. Changeux, “Experimental and Theoretical Approaches to Conscious Processing“, Neuron, vol. 70, pp. 200-227. Apr. 2011.
+

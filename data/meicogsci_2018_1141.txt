@@ -1,0 +1,26 @@
+... title: Transforming Belief, Inspiring Action: The Cognitive Gap of Collective Sustainability.
+
+
+
+Abstract
+
+**Introduction**
+Ever since the Brundtland Report of 1987,[1] nations have been scrambling to work towards global sustainable development. Still, many of the key measures such as the carbon dioxide saturation of the air, global temperature, and the sea level are steadily worsening, causing ecological and economic problems, such as increased number of droughts or more powerful hurricanes.[2] Although many initiatives, institutions and movements have been formed and proposed many specialized solutions, the scientific research backing those endeavours still hasn’t come around to tackle one central issue: The cognitive gap between these global problems and the daily routine of an individual. 
+
+**Problem**
+This project aims at closing this gap, by investigating the cognitive basis of a sustainable lifestyle. Although there are many practices such as communal living, car-sharing, urban gardening etc. there is little research on generalized deductions on motivational patterns that lead to the formation of belief, which in turn causes the sustenance of these practices and the translation of said belief to other areas of life. 
+
+**Approach & Method**
+A first step will establish a working definition of sustainability by way of literature review, comparing both the results of global work such as the Brundtland Report as well as specialized literature that focusses on a certain aspect of life. A preliminary look into existing research revealed that sustainable living is oftentimes most vigorously and coherently expressed via organization as a community around a specific topic – such as Foodsharing or Transition Towns.[3] Also, there are significant parallels between the social structures, interactions and rules of these sustainable communities and hunter-gatherer tribes.
+
+In a second step, this project looks at the cognitive process of belief formation, which can be further divided into two cognitive phenomena: Activity-based learning and collective group action. In the case of activity-based learning, the cognitive mechanisms of individuals deducting rationales from immersive activities and experiences are examined. In the case of collective action, this project looks at the mental or physical artefacts that motivate people to join and stay in groups, align their actions to act in accordance with each other towards a common goal. 
+
+In a third step, this project synthesizes the findings of the previous steps to conceptualize a semantic space for the cognitive basis of sustainability. The method of all steps is mainly theoretical research, spanning neuroscientific and psychological research on motivation and learning over to economic literature on group dynamics. This project also sheds some light on the subjective dimension by including autoethnographic accounts of the author’s experience.
+
+**Impact**
+This work will contribute to research that embeds a cognitive phenomenon in a broader scientific context such as its ecological, economic and social dimension. Furthermore, it wishes to show that autoethnographic accounts are a worthwhile complement to literature based research, that any cognitive research project might consider.
+
+[1] Brundtland, G. H. (1987). Report of the World Commission on environment and development:" our common future.". United Nations. 
+[2] Shaftel, H. (2018, Feb. 8). Scientific consensus: Earth's climate is warming. Retrieved from https://climate.nasa.gov/scientific-consensus/
+[3] Hopkins, R. (2008). The transition handbook (pp. 1-240). Totnes: Green books.
+

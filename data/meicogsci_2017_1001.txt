@@ -1,0 +1,17 @@
+... title: Software Onboarding Process Evaluated Using Biometrics Data
+
+
+
+Abstract
+
+Every user of any software once faces the software for first time. The user has to understand how software works an d what options a User Interface (UI) offers and also how do they work. Most software solutions neglected this aspect of software lifecycle and "threw" user into UI without any help. 
+
+Phase or process of getting to know software is called onboarding. Software should provide some help, aids or cues to make this onboarding easier and to allow user understand how to work with UI as fast as possible. There are various approaches in providing this help. Yet it is not known which approach is most effective or how to choose approach based on context of a software. Effectivnes of onboarding can be determined by estimating whether user is able to use a software by various parameters which can be whether he/she is able to finish task in the software or remembers how to use UI after some time. Or whether a user is willing to use the software at all.
+
+Physiological data can be used to measure and study this parameters. Eye tracking is used most for such needs. Eye tracking can be supported by other biometrics for example electroencephalography (EEG). Data from EEG can help determine emotions and cognitive load of user while going through onboarding process. It also can help get some insight at how users perceive the UI [1].
+
+Study will consist of curent usage and statistics of onboarding solutions used by established software applications. Next part will be dedicated to describing various approaches to onboarding. Study will also describe some concrete implementations of approaches into chosen web application and evaluate them using biometrics. Outome of stoudy should be some general principles for implementing onboarding into applications.
+
+!!References
+[1] FALKOWSKA, Julia; SOBECKI, Janusz; PIETRZAK, Martyna. Eye tracking Usability Testing enhanced with EEG Analysis. In: International Conference of Design, User Experience, and Usability. Springer International Publishing, 2016. p. 399-411.
+

@@ -1,0 +1,24 @@
+... title: Evaluation of consumer EEG device Emotiv EPOC
+
+
+
+Abstract
+
+- Introduction -
+Acquiring an EEG system can be a costly issue, thus it would be a great advantage having a fairly cheap EEG device that delivers data of similar quality. The topic of this project was the evaluation of the Emotiv EPOC [1] consumer EEG device and the further investigation about possible scientific research application by the means of measuring reliability and validity of the acquired EEG data compared to a conventional EEG system.
+Emotiv EPOC is a consumer BCI based on EEG technology and priced at 750$, making it much more affordable compared to ordinary EEG systems which could easily cost a multiple. It offers 14 electrodes mounted on a wireless headset, which is effortlessly set up and connected to a computer. Initially it was introduced for PC gaming, but the research edition enables access to raw data for further analysis. If the relatively affordable and easy to use Emotiv EPOC produces reliable and valid EEG data, it would offer various opportunities for scientists to conduct new experiments or integrate it as support for existing ones.
+
+- Methods -
+The project was split into 4 stages: (1) getting a running system - setting up the EPOC and standard EEG system G-TEC [2] simultaneously while electrodes of both systems measured activity of the same cortical areas, (2) visual comparison - comparing graphical visualization of data from both systems, (3) quantitative comparison - analyzing and comparing data of both systems (4) EP based BCI - recording evoked potentials (EP) and using BCI with EPOC and defining signal differences of EPOC and G-TEC. G-TEC (6 electrodes) and EPOC (14 electrodes) were mounted on a subject’s head from where cortical activity was recorded. Standard tests [3] were run including common artifacts (blinking and muscle movement) and Alpha and Beta wave patterns (eyes closed/open). Recorded data was analyzed with MATLAB. Time-amplitude plots and spectrograms were used for visual comparison whereas time-frequency and frequency-power spectra were used for quantitative analysis.
+
+- Results -
+While there were similarities in handling both systems, the actual recording has shown to be a challenge, for adjustments had to be made, such as building and setting markers for easier and more accurate contrast between the EEG systems. Comparison between the two EEG devices suggest that data is alike in general, but the signal is cleaner and stronger in the G-TEC device. So far, an obvious contrast between open and closed eyed signal has been evident. Moreover there seems to be a drift in recording speed, even though both devices were set to record at 128 samples/sec.
+
+- Discussion -
+Concerning our tasks the EPOC device has proven to acquire real EEG data which is comparable to the one acquired by using conservative EEG devices. Some of the challenges included developing recording software for both devices, as well as testing existing software packages. Future work could focus on investigating P300 or mismatch negativity event related potentials, the utilization of the built-in gyroscope sensors for artifact reduction during movement or yes/no nodding, hemisphere synchronisation during meditation or crediting its wireless aspect, conducting experiments making use of the free moving capability of the EPOC.
+
+- References -
+[1] Emotiv EPOC Research Edition SDK. https://emotiv.com/store/sdk/eeg-bci/research-edition-sdk/ [accessed 20.5.2011].
+[2] G-TEC biosignal amplifier g.BSamp. http://www.gtec.at/Products/Hardware-and-Accessories/g.BSamp-Specs-Features    [accessed 20.5.2011].
+[3] iWorx. Electroencephalogram and (EEG) Wave Patterns and cortical Arousal. Human Physiology Teaching, 2011. http://www.iworx.com/LabExercises/lockedexercises/LockedEEG-CorticalArousal-LS2 [accessed 20.5.2011].
+

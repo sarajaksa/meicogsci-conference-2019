@@ -1,0 +1,28 @@
+... title: EEG-fMRI source localization
+
+
+
+Abstract
+
+!!!! EEG-fMRI Source Localization
+
+!! Introduction
+
+In the following paper we will make an attempt to present the method of combined EEG and fMRI in source localization. Synchronizing EEG recording with fMRI is a new technique that can provide insight, which reaches further than one received by each technique individually. This two non-invasive methods in cognitive science have complementary advantages with regard to their spatial and temporal resolution. One of the suggested resarch, that will be carried out in the future, is the source localization in epileptic patients. 
+
+!! Method Description
+
+The purpose of this multimodal technique is to track dysfunctional activity embedded into physiological brain processes with good temporal resolution of EEG and precision of fMRI in localizing the spatial topography of same neural processes. This method is combining different mathematical algorithms, special hardware and software, purpose-tailored experimental design and analysis strategies in getting more reliable results important for neuroscience. It is useful in localizing source of epilepsy by showing the haemodynamic effects of interictal epileptiform activity (IEA) [1].
+
+In analyzing data is significant to have designed artifact reduction algorithms. Three main artifact types arise from MRI scanning; cardiac pulsation and the amplitude and topography of the previous artifact types are affected. The strategy of this analysis includes finding averaged EEG event related responses and fMRI-derived activations. The goal is to limit EEG source localisation and identify a functional state of the brain which is associated with the EEG features. Moreover this data can be used to interrogate the simultaneously measured fMRI data [1].
+
+!! Applications
+
+Examples are brought from simultaneous EEG during fMRI in clinical neurology (localization of the epileptic sources) [2]. Integration of electrical and haemodynamic measures of neuronal activity presents new method which can be helpful not only in clinical neurology, but in cognitive and system neuroscience as well. Studies study could take advantage of the presented method in focusing on getting more detailed insight into cognitive functions mechanisms (e.g. working memory).
+
+!! References
+
+[1] H. Laufs, J. Daunizeau, D.W. Carmichael and A. Kleinschmidt. “Recent advances in recording electrophysiological data simultaneously with magnetic resonance imaging”. NeuroImage, vol. 40, pp. 515-28, Apr. 2008.
+
+[2] M. Zijlmans, G. Huiskamp, M. Hersevoort, J.H. Seppenwoolde, A.C. Van Huffelen and  F.S.S. Leijten. “EEG-fMRI in the preoperative work-up for epilepsy surgery”. Brain, vol. 130, pp. 2343-53, Jun. 2007.
+

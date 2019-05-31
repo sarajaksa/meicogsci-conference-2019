@@ -1,0 +1,18 @@
+... title: Life Satisfaction in Old Age: Comparing the Successful and Harmonious Aging Approaches
+
+
+
+Abstract
+
+Life satisfaction in old age has generated several theories in philosophy and psychology. The most prominent is the successful aging theory, proclaiming that aging successfully entails maintaining a busy, physically active and independent life, in addition to avoiding chronic diseases.[1] Harmonious aging is a newly formulated theory derived from East Asian philosophy, stressing the importance of balancing negative and positive life circumstances, and to be socially connected in old age.[2] The aim of this thesis was to compare the two theories in how older people evaluate life satisfaction. 
+
+Data was acquired from an established database in the Swedish National study on Aging and Care (SNAC)- Kungsholmen in Stockholm (n=1975, age= 60-104), through interviews, self-reported questionnaires and medical examinations. Life satisfaction was measured with the Life Satisfaction Index-A (LSI-A). The hypothesis was that harmonious aging factors (social network and activity, subjective health and feeling harmonious), rather than successful aging factors (number of chronic diseases, physical activity, exercise and independence) are associated with higher LSI-A score. The hypothesis was investigated using logistic regression analysis. 
+
+The results are in support of the hypothesis in that high scores in harmonious aging factors were significantly (p<0.001) associated with higher odds of having an LSI-A score of medium (≥ 7 <14) and high (≥14) LSI-A score compared to a low score (<7). Successful aging factors were not significantly associated with LSI-A score.
+
+The conclusion is that compared to the successful aging theory, harmonious aging is a more valid theory of life satisfaction evaluation in old age.
+
+!!References
+[1] J. Liang and B. Luo, “Toward a discourse shift in social gerontology: From successful aging to harmonious aging,” J. Aging Stud., vol. 26, no. 3, pp. 327–334, 2012.
+ [2] B. L. Neugarten, R. J. Havighurst, and S. S. Tobin, “The measurement of life-satisfaction,” J. Gerontol., vol. 16, no. 2, pp. 134–143, 1961.
+

@@ -1,0 +1,18 @@
+... title: State-dependent Modulation of Human Social Reward
+
+
+
+Abstract
+
+Rewards are powerful motivators of behaviors, and depending on the state in which the individual approached them (being in an appetitive or in an aversive motivational state), they can be processed differently [2]. Scientific studies have also led to the identification of two distinct neurobiological components of reward: a motivational component (wanting) and a hedonic component (liking) [1]. However, to date, no study has investigated how the state of the individual is specifically modulating wanting and liking of a reward.
+The aim of this study is, therefore, to investigate at the behavioral level how the different components of social reward, wanting and liking, are modulated by aversive and appetitive motivational states in humans. 
+Participants are divided into three groups in which either aversive, appetitive or neutral motivational states are induced via modified versions of the Trier Social Stress Test [3]. The effectiveness of the manipulation is assessed through subjective and physiological measures. After the manipulation, participants perform a task in which they can obtain social rewards, i.e. different types of social touch. Objective assessment of wanting is realized through subjects' squeezing of a hand dynamometer while facial electromyographic activity is used as an objective measure of liking. 
+The expected results are that during aversive motivational states, participants' will seek for the social reward in order to down-regulate stress and negative emotions and this will result in an increase in wanting. During appetitive motivational states, social contact will be sought as a source of pleasure and this will be reflected in an increase in liking. 
+The results of the study will crucially extend the existing knowledge on social reward in humans and will be also important to assess the suitability of the paradigm for future studies in the social neuroscience domain. Moreover, investigating the brain mechanisms involved in social reward will lead to a better understanding of disorders characterized by a deficit in reward processing, such as behavioral and substance addictions and clinical conditions such as autism and depression.  
+
+## References:
+
+[1] K. Berridge and M. Kringelbach, "Pleasure systems in the brain", Neuron, vol. 86, no. 3, pp. 646-664, 2015.
+[2] G. Loseth, D. Ellingsen and S. Leknes, "State-dependent µ-opioid Modulation of Social Motivation--a model", Frontiers in behavioral neuroscience, vol. 8, p. 430, 2014.
+ [3] C. Kirschbaum, K. Pirke and D. Hellhammer, "The 'Trier Social Stress Test'--a tool for investigating psychobiological stress responses in a laboratory setting", Neuropsychobiology, vol. 28, no. 1-2, pp. 76-81, 1993.
+

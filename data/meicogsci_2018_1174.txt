@@ -1,0 +1,23 @@
+... title: The Negotiation of Meaning: On Epistemic Vigilance, Plausible Deniability, and Uncertainty in Communication
+
+
+
+Abstract
+
+“That’s not what I meant! You’re taking my words out of context.” Disagreements on the gist of a conversation are omnipresent in our life, whether it is in the workplace, relationships, or politics. What we say and what we mean can be two quite different things. Since what a speaker says is only an indication of what she means (she provides pieces of evidence for interpretation), hearers have to infer from context and utterance to that meaning [1]. Hence absolute certainty is impossible. 
+
+‘Plausible deniability’ (cf. Lee/Pinker [2]), posits that a person can successfully claim that the hearer “got the message wrong” (i.e. misunderstood), after a conversation took place. Importantly, ‘possible deniability’ [2] stresses that even an interpretation, judged as implausible by both conversing parties, can be perceived as plausible by outsiders.
+
+Accounts such as Lee/Pinker’s [2] emphasize the strategic advantages of using this uncertainty in situations like bribing or come-ons. Construing from the hearer’s perspective instead, epistemic vigilance (EV), i.e. the ability to scrutinize the communicated meaning, aims to minimize the risk of being misinformed [1]. Reboul [3] argues that deniable (i.e. implicit) statements allow speakers to effectively circumvent the hearer’s EV. Existing literature has not yet tested this in case of falsehoods. Furthermore, it is unclear how hearers deal with seemingly certain statements, for which the most plausible interpretation might still be denied later on.
+
+Contrary to Reboul [3], we argue that PD does not press hearers to tend specifically to the exact utterance, allowing to bypass their EV. Rather, deniability results from providing only sparse (linguistic) evidence that is then available as reasonable proof of intended meaning. While EV is sensitive to changes in communicated meaning (checking its truth value), the anticipation of denial considers the linguistic means used (what is said).
+
+In a series of experiments, we present US American native speakers with everyday scenarios in online scripts. Using a between subject design, participants then have to indicate their agreement with normative and epistemic statements on a Likert scale. By manipulating context and statement in the scenarios, we investigate which factors influence EV and PD, respectively. 
+
+Investigating the process of interpretation and its relation the denial in social contexts, allows to better understand how people calibrate their trust, and their strategies to hold others accountable for what they say.
+
+## References
+[1] D. Sperber, F. Clément, C. Heintz, O. Mascaro, H. Mercier, G. Origgi and D. Wilson, “Epistemic Vigilance”, Mind & Language, vol. 25, no. 4, pp. 359-393, 2010.
+[2] J. Lee and S. Pinker, “Rationales for indirect speech: The theory of the strategic speaker.”, Psychological Review, vol. 117, no. 3, pp. 785-807, 2010.
+[3] A. Reboul, “Is implicit communication a way to escape epistemic vigilance?”, Pragmatics at its Interfaces, pp. 91-112, 2017.
+

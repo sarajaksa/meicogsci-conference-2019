@@ -1,0 +1,18 @@
+... title: Visualizing the Nigrostriatal Pathway: Comparison Between Sagittal and Angled Brain Sections
+
+
+
+Abstract
+
+!!Introduction
+Nigrostriatal pathway, also called nigrostriatal bundle (NSB), is one of the major dopaminergic pathways. NSB neurons begin in the midbrain in the substantia nigra and then project to the striatum, a subcortical structure with a role in motor planning and reward-based learning. Dopaminergic neurons play an important role in motor actions and their degeneration is one of the main pathological features of Parkinson’s disease [1].
+The aim of our research project is to compare the sagittal and angled rat brain sections in NSB and to demonstrate the usefulness of the angled cut. Because of the specific shape of NSB projections, the angled cut stands a better chance to capture more of the NSB neurons and therefore provides opportunity for their use in further research. Our hypothesis is that the sagittal cut will not conserve whole neurons in the NSB, suggesting that the proposed cut under 45 degree angle might prove itself as the better option. 
+!!Method
+Brains from two rats were used, where thick slices were made using a sagittal and a 45° cut from the midline. The slices were then embedded in paraffin and sectioned into thinner (3 μm) slices to prepare them for staining. For the immunostaining a three layer technique was used. The first layer was Tyrosine Hydroxylase (TH) antibody, the second layer was biotinylated antibody and the third one was a complex of avidin-biotin peroxidase. The peroxidase was developed by 3,3-diaminobenzidine (DAB) so that a brown precipitate was produced marking the distribution of TH. The stained slices were imaged with a light microscope and the images were then analysed using ImageJ software.
+!!Results
+According to the initial results, the 45° angled cuts seem to have a more conserved nigrostriatal pathway, compared to the sagittal cut. On the angled slices, we were able to see the substantia nigra, striatum and the neuron projection. 
+!!Discussion and conclusion
+The preliminary results show that, compared to the sagittal cut, the angled cut preserves more of the neurons in the nigrostriatal pathway. These results will be further checked and hopefully confirmed by using CLARITY technique which enables us to visualize the sections in 3D, in order to see (trace) preserved whole dopaminergic neurons. In future research it would be interesting to compare current results with thicker brain slices, obtained with the same method. Furthermore, this cut will be used as the basis for organotypic nigrostriatal neuron cultivation, which could be an exciting new model to study the dopaminergic pathway.
+!!References
+[1]	N. X. Tritsch, J. B. Ding, and B. L. Sabatini, “Dopaminergic neurons inhibit striatal output through non-canonical release of GABA.,” Nature, vol. 490, no. 7419, pp. 262–6, 2012.
+

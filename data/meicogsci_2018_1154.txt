@@ -1,0 +1,17 @@
+... title: Predictive Processing-based Needs Theory: An Empirical Investigation
+
+
+
+Abstract
+
+The current study empirically investigates a formulation of human needs in the framework of Predictive Processing (PP). PP postulates that the human brain embodies a hierarchical generative model, constantly trying to minimize prediction error throughout the levels of the hierarchy [1].
+	The key question is whether need satisfaction can be modeled based on the mechanisms of PP. This includes the relative use of priors and likelihood, as well as the influence of previous experience on perception of satisfiers. The term *needs* appears in the PP literature but is used vaguely and not studied systematically. Studies on needs outside of PP are typically concerned with creating lists of needs rather than investigating mechanisms of needs satisfaction [2].
+	We propose an experimental setup to test the formulation of needs in the PP framework. The setup consists of two consecutive tasks completed by participants assigned to two groups. The first task is a dot motion task with a probabilistic cue. In this task, participants learn to associate a certain color (cue) with goal achievement. The design of the task allows to model the relative use of prior information (probabilistic cue) and of current perceptual data (dot stimuli) on an individual level. The two groups differ in the prior information given to them about the probability with which the cue precedes the relevant stimulus. The second task is a simple maze game. During this task participants repeatedly have to choose between two alternatives which are equal with regards to the task at hand. They differ however as one of them has the appearance of the cue of the first task (color). Achieving the goal of the maze task is what is conceptualized as needs satisfaction in this experiment.
+	The experiment will be analyzed using path analysis. We hypothesize that the group condition (belief about the cue) will predict the strength of the use of the cue in the first task. The use of the cue in the first task will, in turn, predict the frequency of choosing the cue-related alternative in the second task. In short, it is shown how prior expectations impact learning of cue relevance and how experience with stimuli influence how they are perceived as satisfiers.
+	This design has strengths in internal validity which come at the cost of weaknesses in ecological validity. It should be considered as part of a larger endeavor of conceptualizing needs in the framework of PP. Together with related theoretical work and computational modeling it can contribute to first steps of a new understanding of human needs.
+
+## References
+[1] A. Clark, *Surfing Uncertainty: Prediction, Action, and the Embodied Mind.* New York, NY: Oxford University Press, 2015.
+
+[2] S. Human, G. Bidabadi, M. F. Peschl, and V. Savenkov, “An Enactive Theory of Need Satisfaction,” in *Philosophy and Theory of Artificial Intelligence III*, V. C. Müller, Ed. Berlin: Springer, 2018, forthcoming.
+

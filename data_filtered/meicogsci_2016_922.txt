@@ -1,0 +1,8 @@
+... title: Cooperation and Social Dilemmas
+
+
+
+Abstract
+
+The workshop will cover various effects on cooperation in social dilemmas, focusing on the Prisoner's dilemma game. People cooperate in social dilemmas even when standard game theory would judge such decisions as irrational. Human and animal cooperative behaviour has attracted  continuous interest and intensive exploration over the years. During the workshop, recent results concerning the influence on cooperation of the payoff structure of the game, information acquisition, Simpson’s paradox effects, and player's role effects will be discussed.
+

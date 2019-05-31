@@ -1,0 +1,21 @@
+... title: Parent - Offspring Interaction in Common Ravens (Corvus Corax)
+
+
+
+Abstract
+
+Parent - Offspring Interaction in Common Ravens (Corvus Corax)
+Parental investment is crucial for most species' survival. Investment might be limited only to produce eggs or live offspring, which are then left to fend for themselves. In some species, one or both parents invest in substantial periods of parental care, sometimes even after nutritional independence, as in several bird species and some mammals [1]. During that time, situations arise when parents and offspring are in conflict over the amount of investment they are selected to give and demand [2]. In most cases, parents favour some offspring than other. Parental favouritism might depend on the offspring's sex or weight as, lower weight and slow growth young seem to be the one parents discard first [3]. 
+
+Common ravens are long-lived, large-brained and highly social species. They reproduce once a year and parental investment continues after nutritional independence of the young. There was no previous study on family interaction on ravens.  Following study primarily aims to understand main dynamics in parent-offspring interaction on ravens and go further details in parent-offspring conflict. The study investigates the differences in parental care on different developmental times of the offspring; after fledging and after nutritional dependence. We expect that parental investment will decrease with time and parental favouritism will occur after offspring are nutritionally independence. Therefore, we expect to find differences in parental investment on different offspring in respect to feeding, allo-preening, and close contact. 
+
+Seven common raven (Corvus corax) families with four offspring each (42 individuals in total) are observed for the study. Subjects were housed in large, outside, identical aviaries at the Haidlhof Research Station and Konrad Lorenz Forschungsstelle. Observational data collection starts from the first day of fledging (about 6 weeks old) until they are independent from parents and dispersal as juveniles (about 6 months old). Weight and body mass of the offspring are collected two times; before fledging and before disperse. The videos from observational data will be coded with CyberTracker. The analysis will be done in R to fit the data in general linear mixed model. The current research lays the foundations for the social behaviour in raven species. The results can be used for a cross-species comparison, which could be interdisciplinary.
+
+!!Acknowledgements
+Special thanks to Prof. Thomas Bugnyar for supporting this project. 
+
+!!References
+[1] Gonzalez-Voyer A, Kolm N. "Parental Care and Investment". In Encyclopedia of Life Sciences, John Wiley & Sons, 2010.
+[2] Kölliker, M., Boos, S., Wong, J., Röllin, L., Stucki, D., S., Meunier, J. "Parent-offspring conflict and the genetic trade-offs shaping parental investment". Nature Communications, 2010.
+[3] Gottlander, K. "Parental feeding behaviour and sibling competition in the Pied Flycatcher Ficedula hypoleuca".18,269–276, 2009.
+

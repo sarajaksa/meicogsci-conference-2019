@@ -1,0 +1,25 @@
+... title: Simulation of a mobile robot tracking a free rolling ball
+
+
+
+Abstract
+
+There are two computational paradigms in Artificial intelligence (AI). The first is a sub-symbolic (connectionist) and the second is a symbolic approach. Connectionist approach is based on neural networks and it is mostly used for cognitive simulations. Symbolic approach in fact represents a complementary approach to connectionism in many aspects.
+This project describes an implementation of an experiment in which a virtual mobile robot tracks (follows) a free rolling ball using Radial Basis Function (RBF) network based controller. Motivation is influenced by effort to program simply and effective model. The project is split into four parts.
+In the first part we have compared connectionist approach with one realization of the symbolic approach which is based on the following algorithms: transformation of input projection of mobile robot to gray scale, finding edges of objects (methods used to locate changes in the intensity function; edges are pixels where this function (brightness) changes abruptly), thresholding (is used to determine objects segment and background), finding a gravitational center of the ball (Hough transformation - problem of finding object of known size and shape within an image) and finally generating a command for the wheels. The main disadvantage of this approach is that one has to develop and apply all the needed algorithms and Hough transformation is very computing expensive method. 
+The goal of the second part was to create a simple 3D environment with a ball, a robot and a environment (playground). Robot's body is represented by a blue block with red stripe on the front side. Its movement is represented by changing position of the camera. Camera resolution is 150 x 100 (width x height) pixels. The ball's position is controlled by the keyboard. Also, there is a possibility to use a random movement generator for automatic navigation of the ball. Output data from camera are simplified for RBF network by two types of preprocessing: 
+ - transformation to gray scale and
+ - thresholding. 
+The third part is an implementation of hybrid feedforward RBF neuron network. In feedforward network, the information moves in only one direction, forward, from the input neurons, through the hidden neurons (if any) and to the output neurons. 
+RBF network is composed of three layers of units with different roles. 
+The input layer is made up from sensory units, which receive visual information from the environment captured by camera. Each sensory unit has its own local (radial) receptive field (RF). In this case we have used RF with radius 8 pixels for each sensory unit. This RF is in immediate contact with environment. For defined size of robot perspective (150 x 100 pixels) is used 150 (15 x 10) RF with small overlaps and respect to their position. There are a few possible strategies for placement of the RF centers but we have chosen a manual selection - equidistantly distributed over the input space. 
+The next hidden layer represents neurons with radial basis function. Parameters of these units imply the specification of input layer (each hidden neuron has assigned one RF). These neurons are able to recognize changing of input data from camera in their RF. Possible activation for these neurons are in range of <0, 1> where 0 represent no activation and 1 represent the highest activation. Shiny pixels in whole RF of one neuron cause the highest activation. 
+The output layer is a linearly weighted sum of the outputs of hidden units. This layer consists of five output neurons. There is one neuron for each possible action (left, right, forward, backward, no action). The highest activation of one of the neurons is taken as the activation of the winner. Action assigned to winner neuron is performed in playground. 
+After implementation RBF network were trained by supervised learning. Robot's actual position after each actions in the playground is evaluated by an algorithm with the following rules: if the ball is too far away from the robot - both wheels go forward, if the ball is too close - both wheels go backward, if the ball is on the left side - right wheel goes forward and left goes backward and if the ball is on the right side - left wheel goes forward and right goes backward.
+The fourth part of the project presents the results of testing, the model effectiveness with respect to movement speed of the ball and the robot and the level of noise in input data. Noise is represented by using different textures on the surface of the ball and the playground (walls, floor) and by "killed" neurons in hidden layer. Comparison of effectiveness with respect to different conditions, especially with higher level of noise has shown decrease of successfulness rate.
+
+References:
+[1]HAYKIN S.: Neural Networks: A Comprehensive Foundation, Prentice Hall. 2005. 
+[2]SONKA, M., HLAVAC, V., BOYLE, R.: Image Processing, Analysis, and Machine Vision. 2008.
+[3]YILMAZ, A., JAVED, O. SHAH, M.: Object Tracking: A Survey. 2006.
+

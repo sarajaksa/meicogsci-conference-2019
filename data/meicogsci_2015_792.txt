@@ -1,0 +1,55 @@
+... title: Modelling Early Sensorimotor Development with Intrinsic Motivation
+
+
+
+Abstract
+
+!!Motivation
+
+Early human sensorimotor development has been observed and is believed to be
+quite well described, for instance by the constructivists [1]. In Piaget's theory of
+Cognitive and Affective Development, the infant's capabilities and internal schemas
+are documented and explained at various substages of their sensorimotor phase.
+There has been a variety of approaches for computational modelling of the topic,
+ranging from traditional cognitivist, such as the Sensorimotor Schemas [2],
+to more data grounded emergent systems. We chose to explore a particular embodied
+model - one based on a curiosity drive and active exploration of the world.
+
+!!Model
+
+Intelligent Adaptive Curiosity (IAC) is a learning system simulating an autonomous
+robot [3]. The IAC is curious, being driven by internal reward derived from
+achieved learning progress - getting better at predictions.
+As a side effect, it seeks novel experiences, but also is careful and avoids
+completely unknown, thus potentially dangerous, situations. Having no prior
+knowledge of the world, the robot learns to act and to predict only via interaction.
+
+In a complex world, it becomes unwieldy for a single monolithic learning system to
+handle everything. As the size of observed data grows, IAC organizes itself to
+better reflect parts of the world, developing experts for classes of situations.
+This organization then also allows for maximizing learning progress by letting
+the robot focus on the most salient task.
+
+!!Results
+
+We implemented the IAC algorithm (using the scientific Python stack) and benchmarked
+it on multiple virtual environments (a blind BatCat playing with a toy, or a robot trying to locate its docking platform).
+It actively explored the world, switching to more complex endeavours once the simple ones
+were understood, confirming the results of Oudeyer et. al.
+The most important task remains ahead: to fit IAC in the real world robot and reveal, whether its organizational mechanisms are enough to
+abstract away low level sensorimotor interactions, and produce similar behavior
+as the infants in Piaget's sensorimotor stage.
+
+!!Acknowledgements
+
+I wish to thank RNDr. Martin Takáč, PhD. for his utmost support,
+encouragement, and the insights on the topic he provided.
+
+!!References
+
+[1] Wadsworth, Barry J. Piaget's theory of cognitive and affective development: Foundations of constructivism . Longman Publishing, 1996.
+
+[2] Drescher, Gary L. Made-up minds: a constructivist approach to artificial intelligence. MIT press, 1991.
+
+[3] Oudeyer, P-Y., Frédéric Kaplan, and Verena Vanessa Hafner. "Intrinsic motivation systems for autonomous mental development." Evolutionary Computation, IEEE Transactions on 11.2 (2007): 265-286.
+

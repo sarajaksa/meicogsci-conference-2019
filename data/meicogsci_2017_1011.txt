@@ -1,0 +1,22 @@
+... title: Character Mining and Generation from Film Dialogs
+
+
+
+Abstract
+
+Robots that live and work with humans need both flexibility and consistency in their interaction. This necessitates that conversation “in character” is generated from a coherent character model. Systematic accounts of the conversational devices that contribute to the modeling of characters in the existing literature are scarce [1]. 
+
+The premise behind our research is that it is possible to generate an interacting character based on utterances. Hence, one of the aims was to establish how fictional characters are structured through dialog. For this purpose, a corpus of utterances from film scripts was analyzed. Our focus was on the characters of mentor and mentee as these two types are widely represented in popular culture, and have potential applications in robots that perform various tutoring tasks. 
+
+At the exploratory stage, we applied manual analysis in parallel with automated distance based analysis [2] to the textual descriptions of 51 mentor tropes extracted from tvtropes.org [3]. This allowed us to 1) gain a deeper understanding of the relations between individual mentor tropes, and to arrange them into 10 types based on several dimensions, e.g. moral compass (evil/benevolent), communicative style (direct/cryptic), source of expertise (expert knowledge/supernatural power), and others 2) to compare advantages and limitations of the automated analysis in comparison to the manual analysis performed by human experts. 
+
+Further on, the manual analysis of a sample of film scripts allowed us to identify two narrative strategies that define the interaction and the development of the relationship between the mentor and the mentee. The first strategy implies that the mentor is the one to seek out the mentee, when in case of the second strategy, it is the mentee who initiates the interaction by reaching out to the mentor for help or advice. The work in progress is focused on the manual modelling of the interaction between the mentor and the mentee based on these two strategies, and on the compiling and categorizing a database of utterances used at the key moments, e.g. first encounter, of the interaction between the mentor and the mentee. 
+
+The results obtained during the exploratory stage of the project will be used to build and train a computational model that will allow to generate dialogues between a virtual mentor and a human/virtual mentee. We expect to be able to modify the dialogues by influencing the weights of different factors, e.g. affective style. 
+!!References:
+[1] M. Skowron, M. Trapp, S. Payr, and R. Trappl, "Automatic Identification of Character Types from Film Dialogues." in Applied Artificial Intelligence, vol. 30, no. 10, 2016, pp. 942-973.
+
+[2] W.H. Gomaa and A.A. Fahmy, “A Survey of Text Similarity Approaches.” in International Journal of Computer Applications, vol. 68, no. 13, 2013, pp. 13-18.
+
+[3] [Online] Available: http://tvtropes.org/pmwiki/pmwiki.php/Main/MentorArchetype.
+

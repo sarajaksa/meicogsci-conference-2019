@@ -1,0 +1,17 @@
+... title: Explaining Robot Actions
+
+
+
+Abstract
+
+Human-robot interaction is a multidisciplinary field with contributions from human-computer interaction, AI, robotics, natural language understanding, design, and social sciences. Our research focuses on human-robot interaction via natural language. The possibilities that accompany the fast development of AI technology put us at a certain unease. In order for human users to “trust” the robots, we must first understand how they function. One way of illuminating the reasoning of robots is by programming them to explain why they execute certain actions. We believe that explanations via natural language are one of the most appropriate ways of describing the robot's intentions.
+
+Our main task was to improve the explanations given by the robot in Cvetkov's master thesis [1]. The robot uses natural language to explain its actions (moving coloured blocks), which are guided to complete certain goals. The robot has to explain every course of action it takes in order for us to understand its reasoning. After thorough analysis, we have concluded that the explanations given by the robot are unsatisfactory, mainly because they are too complicated and at times irrelevant. We believe our adjustments make explanations more comprehensible and intelligible because they only reveal vital information. We present one such adjustment. It is important to emphasize that at this stage, adjustments are manually added and not implemented in the robot itself through a general algorithm. Robot: »Moving orange block from violet block to blue block, so that violet block is clear. This brings the robot closer to completing the main goals: violet block on top of center 1 and orange block on top of violet block«, [1] pp. 55. Adjustment: »Clearing violet block. This helps achieve goals number 1 and number 2«. This is the only information essential for the user to understand the course of this action. The explanation is given in a concise manner and we therefore believe we have realised our task.
+
+It is important for future robots to be able to explain their behaviour as efficiently as possible. Future improvements of our work could include visualization (each step of the robot's planning presented with visual cues) and multiple levels of explanation that would suit different users’ preferences and needs. Furthermore, explanations presented in our example and in [2] and [3], could effectively be gathered, evaluated, and produced by crowdsourcing. We believe that the principles of robot's explanations we have presented could be applied in other fields of working with robots, such as GPS systems or autonomous mobile robots, [2], [3].
+
+!!References
+[1] M. Cvetkov, Making a robot explain its decisions, M.S thesis, Faculty of Computer and Information Science, University of Ljubljana, Slovenia, 2017.
+[2] S. Rosenthal et al., “Verbalization: Narration of Autonomous Robot Experience,” in Proc. of IJCAI'16. New York City, NY, 2016, pp. 862-868.
+[3] V. Perera et al., “Dynamic Generation and Refinement of Robot Verbalization,” in Proc. of RO-MAN'16, Columbia University, NY, 2016, pp. 212-218.
+

@@ -1,0 +1,17 @@
+... title: Blockchain-based IoT Data Storage
+
+
+
+Abstract
+
+The internet of things (IoT) enables devices to communicate with each other and to share data, e.g. sensor data. This enables a lot of new use cases in many domains, one particular interesting use case is in the production of goods. Highly automated production lines allow for a paradigm shift for industries from mass production to mass customisation, instead of producing one good in large quantities, many goods can now be produced in small quantities but with a higher variability in their respective shape or functionality, enabling even the production of unique goods to be profitable. IoT-backed production also helps to make manufacturing processes, post-production services, and supply chains transparent to both manufacturers and customers.
+
+However, despite the rapid development of IoT applications, the current cloud-centric IoT architecture is not necessarily the most suitable solution for storing IoT data, since it neglects the locality of the data and imposes centralisations and dependency on third parties. Blockchain technology is a promising approach to tackle these issues. The idea of decentralised, immutable accounting of (financial) transactions was introduced and made popular by Bitcoin [1], since then this technology was adapted for a manifold of different use cases. Ethereum [2] allowed Blockchains to store and alter states of a program, resulting in a programmable blockchain with a turing-complete programming language on top of it, Which Allows to use the advantages of a blockchain in a much more flexible way.
+
+For my thesis I would like to design a blockchain-based data storage for IoT data, implement it (on the Ethereum blockchain) and demonstrate its operation in the Smart Factory at TU Graz. In particular, I would like to use microtransactions to keep track of the amount of energy and material spent by manufacturing facilities to build a (batch-size-one) product. This allows tracking and storing the production history of a product, making this process transparent to the customer and helping the producer to keep track of the manufacturing costs of a product, which can be used as a reference for future products.
+
+
+## References
+[1.] S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", Bitcoin.org, 2008. [Online]. Available: https://bitcoin.org/bitcoin.pdf. [Accessed: 30- May- 2018].
+[2.] V. Buterin, "Ethereum white paper." GitHub, 2013. [Online]. Available: https://github.com/ethereum/wiki/wiki/White-Paper. [Accessed: 30- May- 2018].
+

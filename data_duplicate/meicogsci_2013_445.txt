@@ -1,0 +1,20 @@
+... title: !!!! Influence of Response Type on P3 Characteristics
+
+
+
+Abstract
+
+!! Introduction
+Recognition and management of cognitive impairment is an important aspect of clinical care in Parkinson's disease (PD). Standard neuropsychological tests used for the assessment of cognitive functions can be adversely affected by motor deficits resulting in inflated cognitive impairment estimates [1], [3]. EEG-derived electrophysiological measures reflect cortical cognition-related activity and might prove to be a less biased adjunct measure for cognitive dysfunction in PD. Therefore our hypothesis is that at the oddball task with required motor response (MR), the generated P3 amplitude would be lower and the variability greater comparing to the task, when the required response is mental.
+!! Methods
+EEG's were recorded while 20 healthy individuals performed a two-part oddball task and random motoric clicking task (64 channels, digital average reference and 0.15-30 Hz band-pass). P3 amplitude, latency and variability will be calculated and compared. Similar oddball tasks (40 channels, digital average reference and 0.15-30 Hz band-pass) included patients with PD in preliminary study.
+!! Preliminary Results
+Preliminary findings on four PD patients indicate that the MR task resulted in reduced (10-50%) and more variable P3 amplitudes (10-150% higher coefficient of variation) and increased P3 latency variability (27-66% higher coefficient of variation). Preliminary results show that the mental counting (MC) oddball version gives more robust P3 measures in PD.
+We continue the study by examining P3 amplitudes of 20 healthy individuals, where the amplitude of P3 is expected to be lower and the variability greater due to the influence of MR.
+!! Conclusions
+Cognition-related potentials were studied in two variants of the active oddball task: mental counting and MR. Since the MR version requires motor cortex activation, it seems plausible that the superposition of movement-related potentials might introduce additional variability into standard P3 measures. Aim is to elucidate which oddball version gives the most reliable P3 measures in PD in order to develop an optimized oddball task for electrophysiological assessment of cognitive functioning in PD.
+
+!! References
+[1] H. Shibasaki and M. Hallet, “What is the Bereitschaftspotential?” J. Clin Neurophysiol, vol. 117, pp. 2341-2356, July 2006.
+[2] J. Polich, “Updating P300: An integrative theory of P3a and P3b,” J. Clin Neurophysiol, vol. 118, pp. 2128-2148, June 2007.
+

@@ -1,0 +1,22 @@
+... title: Towards a Sensorimotor Account of Schizophrenic Self-disorders
+
+
+
+Abstract
+
+!!!! Towards a Sensorimotor Account of Schizophrenic Self-disorders
+
+In my thesis I am going to propose a neurophenomenological approach to schizophrenia by mutually elucidating Frith’s neurocognitive account [1] and the phenomenology of the disorder (e.g. [2]). Frith argues that schizophrenia is an aberration of self-monitoring resulting in dysfunctional metarepresentation, whereas the phenomenological tradition emphasises that a basal Self-disorder is found at the core of the disease rather than a disorder of higher-level cognitive skill [2]. According to phenomenological psychiatry the indistinct background of experience is at stake: Objects appear against this backdrop of a non-representational horizon so as to gain their meaning in the first instance. 
+
+In my thesis I am going to stress the phenomenological scope of the sense of agency in schizophrenia. This is standing to reason because in order to know that I am self-identical it is necessary to distinguish (perceptually) between my movement and external motion. It is argued that in order to have a sense of ownership I need to have a sense of agency in the first place, otherwise I will experience objects in the world and especially my body as self-detached and objectified. This intuition does, however, in part relate to the original proposal by Frith [1]: Frith argues that an absent sense of agency is explained by aberrant metarepresentation.
+
+Bayesian neurocognitive models (cf. “predictive coding”) of schizophrenia can conceptualize this claim. It is a key feature of self-initiated action that it is predictable and consequences for perception are anticipated by the same token. In schizophrenia, a failure of top-down prediction of self-initiated action enables prediction-errors to propagate upwards although they would have been “explained away” by higher-level predictions [3]. 
+
+As a result of this I suppose that phenomenology and predictive coding can inform themselves mutually by emphasizing the pre-thematic aspects of anticipation and their role in understanding the sense of agency in schizophrenia. Thereby we can gain a profound insight into our conception of cognitive top-down processes (constitutive of self-monitoring), which at that point cannot be understood as the basis for representation any longer. Top-down prediction can be rather understood in its role in projecting a tacitly meaningful background against which we engage in the world. 
+
+!!References
+
+[1]	C. D. Frith, The Cognitive Neuropsychology of Schizophrenia. 1992.
+[2]	L. A. Sass and J. Parnas, “Schizophrenia, consciousness, and the self,” Schizophr. Bull., vol. 29, no. 3, 2003, pp. 427–444.
+[3]	A. Clark, “Whatever next? Predictive brains, situated agents, and the future of cognitive science,” Behav. Brain Sci., vol. 36, no. 03, 2013, pp. 181–204.
+

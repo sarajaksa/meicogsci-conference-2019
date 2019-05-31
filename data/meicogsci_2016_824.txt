@@ -1,0 +1,15 @@
+... title: Can Eye Movements Give an Insight into Our Decision Making Process?
+
+
+
+Abstract
+
+To the untrained eye, playing chess may seem either simple or a thing not out of this world. On the other hand, chess experts know many if not all possible motifs, combinations of positions of chess pieces, but even they are not able to solve all chess problems. This does not apply only to chess, but also to other aspects of our life. It also shows that the difficulty of the problem depends on both the problem and the person [1].
+
+The twelve participants that participated in our study were all chess experts with FIDE Elo ratings between 1845 and 2279. They solved several chess problems of different difficulty, which were chosen from Chess Tempo online chess platform. The difficulty of the problem was rated according to the rating system used by the Chess Tempo platform, where problems change ratings according to which players (how strong players) solved this problem and which did not. Therefore, if a user solves a problem correctly, the problem rating goes down, and the user’s rating goes up, and vice versa: the problem’s rating goes up in the case of incorrect solution [1]. Participants solved the chess problems on the computer and we used EyeLink1000 eye tracking device [1]. To solve the problem correctly, they had to find a winning move. After they solved all the problems, they had to rank the problems according to their difficulty and describe the process they went through while solving them (retrospection).
+
+Previous analysis done on the data gathered by this experiment focused on statistical data. Their analysis shows that there is no correlation between player’s Elo rating and their success in ranking the positions of chess problems and only a mild connection between their success in estimating difficulty of the problems and their success in solving the problems correctly [1]. They used eye tracking data mainly as a way of proving physiological evidence of the areas on the chessboard that people attended to and as a verification of a player’s retrospection. We want to add on to what was already researched. We want to focus on eye tracking data and carefully examine if the eye tracking data matches the retrospections given by participants. Afterwards, we will be focusing on researching if we can predict which motif was observed on the chessboard by following the movement of the eyes. We will be using a program developed especially for this research that allows us to track eye movements across the chessboard in real time in order for us to find the moment that a person recognizes the motif present on the chessboard. There is a possibility that we will use this program also as a way to verify the retrospections gathered from the participants.
+
+!!References:
+[1] D. Hristova, M. Guid, I. Bratko, “Assessing the difficulty of chess tactical problems,” in International Journal on Advances in Intelligent Systems 7, 2014, 728-738.
+

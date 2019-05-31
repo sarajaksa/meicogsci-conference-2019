@@ -1,0 +1,21 @@
+... title: Embodied communication: Gesture synchronization in video chat experiment
+
+
+
+Abstract
+
+During communication process, gestures are frequently used to facilitate the expression of a message that a communicator is trying to send. According to the Information Packaging Hypothesis, gestures, together with language, help in the conceptualization of thoughts. Gesturing facilitates the communicator to express one's thoughts and they are more frequently used when the conceptualization of the content is more difficult (Hostetter & Alibali, 2004). However, not only the communicator has benefits from gesturing. Gestures also help the recipient to understand better. It is discussed that the neurological background for this lays in a neurological system called mirror neuron system. Iacoboni and Mazziotta (2007) state that two areas in human brain (posterior inferior cortex and rostral inferior parietal brain areas) become active just while observing movements of other people. These areas are in fact mirroring other peoples’ action, activating the same internal motor representation of the action, as if we ourselves were performing it. It is a simple neural mechanism for understanding actions that other people do. This synchronization with the behavior can be a basis for the understanding of other peoples’ messages. As suggested by Gallese, Eagle and Migone (2007), this mechanism of ‘shared activation’ is a mechanism of embodied simulation which enables the receiver to understand actions or emotions that the communicator is experiencing. This system is also held responsible for unconscious synchronization with other people in body postures or gestures. Regarding the previous statement, a hypothesis for this research has been made. It is assumed that recipients will synchronize with the communicator by imitating corresponding gestures in order to achieve better understanding of the message the other is trying to communicate. The goal of this experiment is to test if participants synchronize in gesturing.
+
+To test this hypothesis, a procedure which uses video chat has been chosen. Video chat has methodological advantages that enable recording the participants without them being aware of it. The participants were able to see the entire body postures of their partner. 99 pairs were tested during a video chat conversation divided into three categories. The categories were 33 male-male dyads, 33 female-female dyads and 33 male-female dyads. Half of the participants were given a task to describe a picture of a house and the other half had to describe a short cartoon. The picture and the cartoon are appropriate material to use in the experiment as their content is difficult to conceptualize and according to the Information Package Hypothesis, an increased amount of gesturing would be required during the description process. Differences between men’s and women’s gesturing will also be analyzed. Theparticipants’ interaction was recorded and subsequently will be analyzed using computer vision methods (motion energy and optical flow). Motion synchronization in gestures will be analyzed in vertical and horizontal motion in cross-correlation matrices. Because the communication isn’t only a verbal process, yet it involves our entire bodies, it is important to assess how this process operates and to put an emphasis on important question whether understanding is also part of embodied process in communication. 
+
+
+Key words: embodiment, mirror neurons, gestures, synchronization, video-chat
+
+
+
+Gallese, V., Eagle, M. N., Migone, P. (2007). Intentional Attunement: Mirror Neurons and the Neural Underpinnings of Interpersonal Relations. Journal of the American Psychoanalytic Association. 55 (1), 131-175.
+
+Hostetter, A. B., Alibali, M. W., (2004). On the Tip of the Mind: Gesture as a Key to Conceptualization. Proceedings of the Cognitive Science Society.
+
+Iacoboni, M., Mazziotta, J. C., (2007). Mirror Neuron System: Basic Findings and Clinical Applications.  Annals of Neurology. 62 (3), 213-218.
+

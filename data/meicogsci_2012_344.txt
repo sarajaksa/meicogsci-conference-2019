@@ -1,0 +1,26 @@
+... title: Personality Traits in Common Marmosets (Callithrix jacchus) - Influence of Social Enviroment on Individual Behaviour
+
+
+
+Abstract
+
+Animals exhibit consistent behaviour through time and across different contexts (e.g., aggressive behaviour in mating and feeding context). Such behavioural consistencies, which have been labelled with the term “personality”, have been well documented throughout the animal kingdom [1]. 
+In contrast to classical behavioural ecology, which considers behaviour as being potentially infinitely plastic, the notion of personality implies limited plasticity. Consequently, personalities can, via life-history trade-offs, account for non-optimal behaviour. Furthermore, the notion of consistency suggests that behaviour should not be investigated in isolated contexts. Instead, it should be pursued in an integrated fashion [2].
+Research has shown that social environment is an important factor in personality research. It has been observed that sex, age and dominance status of conspecifics can have a significant influence on the behaviour of the individual [3]. Moreover, the social environment might be a necessary condition for the expression of a broader range of behaviours. Findings suggest that it can facilitate learning and exploration. Additionally, it seems to have a fear-reducing function.
+
+Here, we investigate the influence of social environment on personality traits, more specifically  boldness, in common marmosets (Callithrix jacchus). We use twenty-one common marmosets from three different family groups. All individuals are tested in novel object and startle response tasks under two different conditions, namely individual and social. In the social condition each family group is divided into two experimental subgroups such that each subgroup contains one dominant individual and one individual of each following generation. 
+The novel object task is an addition to an experiment that was previously carried out at the Department of Cognitive Biology, University of Vienna (Šlipogor et al., in prep.). In this task, which lasts five minutes, the animals are confronted with a novel object, whereas in the control test, they are confronted with a familiar object. 
+In the startle response task, a bowl with mealworms, a high value food source, is offered to the animals. Next to the bowl there is a remotely controlled startle object which we trigger when the animals approach the bowl within one body length. After the startle we record the behaviour for two minutes. In the control test the animals are presented with a bowl of mealworms, but no startle object.
+For the purpose of the analysis we record the time durations spent on object manipulation, different vocalizations and foraging (only in startle response task). Additionally, we measure latencies (the time between the start of the experiment and the moment when the animal comes within one body lengh of the novel object/bowl or touches it), the time spent in different experimental compartments, which represent different levels of danger, and the returning time (the time between the startle and return of the animal within one body length of the bowl). 
+
+We hypothesize that individuals will exhibit bolder behaviour in social environment, when compared to individual trials. Futhermore, we investigate whether the social experience can produce any lasting effects on subsequent behaviour in individual trials. Finally, we expect to find consistency in inter-individual differences in behaviour across both tasks and conditions.
+
+
+REFERENCES:
+
+[1] Bergmüller, R., & Taborsky, M. (2012). Animal personality due to social niche specialisation. Trends in Ecology & Evolution, 25(9), 504-511. doi:10.1016/j.tree.2010.06.012
+
+[2] Sih , A., Bell, A., & Johnson, J. C. (2004). Behavioral syndromes: an ecological and evolutionary overview. Trends in Ecology and Evolution, 19(7), 372-378. doi:10.1016/j.tree.2004.04.009
+
+[3] Stöwe, M., Bugnyar, T., Loretto, M.-C., Schloegl, C., Range, F., & Kotrschal, K. (2006). Novel object exploration in ravens (Corvus corax): Effects of social relationships. Behavioural Processes, 73(1), 68-75. doi:10.1016/j.beproc.2006.03.015
+

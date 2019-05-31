@@ -1,0 +1,32 @@
+... title: The Rationality of the Crowd: Impact of Herding Behaviour on Financial Decision-making
+
+
+
+Abstract
+
+## Context
+
+Extreme financial market fluctuations, such as stock market bubbles and crashes, are mainly seen as the result of inadequate use of reason and herding behavior[1]. Herding is defined as a decision-making process during which individuals follow others and imitate group behaviors, rather than to decide independently based on personal perceptions. 
+
+## Purpose
+
+This article proposes an innovative approach to herding behavior in financial decision-making. The hypothesis is that herding reflects a specific pattern of interactions between different cognitive and emotional decision-making systems. By integrating the observed behavior of the other market participants in the calculation of the value of decision options, the individual efficiently adapts to conditions of high risk and uncertainty. This extended form of social learning is rational at its core as it aims at improving decision-making.
+The goal is to describe the behavioral and neural mechanisms by which herding influence affects value computation and probability-weighting functions, using the framework of Prospect Theory [2], and measure the context-dependency of its magnitude and duration.
+
+## Method
+
+In a series of behavioral experiments, changes in probability-weighting functions in simple financial decision tasks will be analysed to see how choices are affected by the presence of herding influence. Supplementing behavioral measurements with neuroscientific methods, its neural signature will be explored in the brain's emotional and cognitive decision-making systems in the ACC and vPFC.
+
+## Results 
+
+The results should reveal that the probability-weighting functions change in the direction of the aggregated decisions and are modulated by the relative size or direction of the crowd. Context-dependency of this effect in terms of amount of risk and uncertainty, framing, emotional valence and arousal further affect individual valuation mechanisms. 
+
+## Implications
+
+The results of our experiments will reveal which factors precipitate herding behavior in financial market situations and how value calculations of alternative behavioral options are shifted to the crowd. The model will hopefully be able to predict magnitude and duration of herding influence on financial decision-making, based on levels of endogenous fluctuations and other context-dependent variables. This is a first step towards a more comprehensive model of crowd rationality. 
+
+## References
+
+[1] M. Baddeley, "Herding, social influence and economic decision-making: Socio-psychological and neuroscientific analyses." *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 365(1538), pp. 281–90, 2010.
+[2] A. Tversky, D. Kahneman, D. "Advances in Prospect Theory: Cumulative representation of uncertainty." *Journal of Risk and Uncertainty*, 5, pp. 297–323, 1992.
+

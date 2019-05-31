@@ -1,0 +1,23 @@
+... title: What a Difference a Brain Makes - Motor Cortex Representations and Plasticity in Pianists vs. Non-Pianists
+
+
+
+Abstract
+
+What a Difference a Brain Makes -
+Motor Cortex Representations and Plasticity in Pianists vs. Non-Pianists
+
+Increasing numbers of researchers are convinced that music provides a valuable tool to investigate how our brain works as it involves a broad range of cognitive functions from complex auditory pattern-processing mechanisms, attention, memory storage and retrieval, motor programming or sensory– motor integration [1]. Some progress has already been made in the domain of motor skill learning as one important aspect of musical expertise. The ability of musicians to perform complex fine motor tasks when playing a musical instrument is clear and evident on a behavioural level. Moreover, a considerable amount of studies give support to the idea that this motor skill is based on structural and functional differences in the brains of musicians as opposed to matched non-musician controls. It is assumed that longterm motor training, initiated at an early age, leads to a different cognitive development with respect to certain brain structures. However, anatomical predispositions prior to training or other factors might also be involved [2].
+With this study we hope to gain further insight into functional differences in the brains of musicians compared to those of non-musicians by focusing on the role of the primary motor cortex (M1). Due to neural connections from M1 to the muscles of the limbs this cortical structure can be seen as output unit of motor commands. However, following findings of a broad range of recent studies in the domain of motor skill learning, M1 apparently plays also an important role in higher cognitive functions by showing plastic changes when acquiring new motor skills. By using TMS (Transcranial Magnetic Stimulation) it can be shown that the cortical activation map corresponding to 2 principal movements (extension/flexion) of a finger undergoes significant changes when training one of those movements. Pianists are highly specialized experts in controlling extension/flexion movements of their fingers when performing on their instrument. For this reason, it is our goal to look at neurophysiological changes in M1 of pianists and matched controls when performing a simple motor learning task. By concentrating on this aspect we want to investigate 2 basic questions: 
+1. Difference in cortical representation patterns: Following an observation during an earlier study, where we have occasionally tested an accordion player, we hypothesize that there is difference between pianists and non-pianists when mapping the representations of the specific muscle for extension/flexion-movement of 1 specific finger in M1.  
+2. Plasticity: We also seek to shed light onto the question whether the extent of reorganisation of this pattern after a training session of a simple movement task performed by this finger differs in pianists compared to non-musician controls.
+By answering such fundamental questions in combination with future studies including more complex motor tasks as well as questions with respect to the time course of cortical reorganisation we hope to provide valuable input for the field of music pedagogy. The development of specialized training programs for instrumentalists might be a fruitful collaboration between these two research fields.  
+
+
+References:
+
+[1] Zatorre, R. (2005) Music, the food of neuroscience? Nature, vol 434, pp. 312-15.
+[2] Schlaug, G. et al. (2005) Effects of music training on the child’s brain, Ann. N.Y. Acad.    Sci. 1060, pp. 219–230. 
+[3] Pascual – Leone, A. et al. (2005) The plastic human brain cortex. Annu Rev Neurosci, 
+vol 28, pp. 377-401.
+

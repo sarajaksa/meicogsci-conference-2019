@@ -1,0 +1,19 @@
+... title: Does Auditory Textures May Lead to Conscious Processes in the Brain?
+
+
+
+Abstract
+
+!!Main aim
+The theoretical neuroscience suggests that for conscious states to emerge it is necessary to activate a broad range of cortical networks e.g. arranging a certain representation of complex environmental stimuli. At the same time detecting residual consciousness, and thus a predictor for future recovery, in unresponsive patients after severe brain injuries remains a major clinical concern. To distinguish between two states of disorders of consciousness (DOC): minimally conscious state (MCS) and vegetative state (VS) it requires measurements that directly assess their cortical functions state e.g. in reaction to external stimuli. The main goal of the following experiment was to use auditory texture stimuli for the differentiation between conscious and unconscious brain states.
+
+!!Methods and Materials
+During the pilot study EEG recordings were performed on 10 healthy controls and 8 DOC patients with behavioral diagnosis of MCS or VS state. Subjects were received natural sound textures stimuli of rain and bubbling sounds and the change from one to another occur randomly in 3 different times. The change was relatively easy to detect, but the perception of each sound requires high level modeling of the statistics. To identify significant changes in neural response independent component analysis, across trial averaging and source localization were performed.
+
+!!Results 
+The first step of analysis concentrate on establish the EEG evoke responses and localization of its components in healthy control group. It revealed changes from auditory to higher cortical  regions while perceiving a change in the stimuli. The comparison to vegetative state/ minimally conscious patients showed that the differences were most prominent in frontal and central areas, mainly in VS group. Additionally EEG response patterns in VS group reveal a set of differences to response in MCS or control group. This results suggest the possibility that auditory textures can be further investigated as a marker of conscious processing in the brain.
+
+!!References
+[1] J. McDermott, E. Simoncelli, "Sound Texture Perception via Statistics of the Auditory Periphery: Evidence from Sound Synthesis" in Neuron, 2011, 71, p. 926–940.
+[2] C. Schnakers, A. Vanhaudenhuyse, J. Giacino, (...), G. Moonen, S. Laureys, "Diagnostic accuracy of the vegetative and minimally conscious state: clinical consensus versus standardized neurobehavioral assessment" in BMC neurology, 2009, 9, p. 35.
+

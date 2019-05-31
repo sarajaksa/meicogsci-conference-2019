@@ -1,0 +1,15 @@
+... title: Learning Environmental Probabilities in Changing Worlds
+
+
+
+Abstract
+
+In this research project, we want to investigate human learning in changing environments. Change is a fundamental aspect of environments relevant to human cognition. Some kinds of change, however, are more typical across natural environments than others. When human observers make inferences about the identity of objects given sets of observations, for example, changes in object base rates arguably occur more frequently than changes in object properties. In the more formal language of Bayesian statistics, the former correspond to changes in the prior probabilities of objects, while the latter correspond to changes in the likelihoods of objects having a particular feature value, conditioned on object identity. Given the adaptive nature of cognition, we believe these differences to be reflected in human learning and have devised an experiment to test for this.
+
+Our experiment is split into two sessions. In the first session, all subjects learn the probabilities of a single baseline environment. For subjects to experience probabilities in an ecologically valid way, the environment’s statistical structure is conveyed through experience-based learning with natural sampling from environmental probabilities [1]. Each trial, a stimulus object (a patient, a biological organism, or an abstract shape, depending on the cover story told) is randomly generated from the environment’s prior probabilities and likelihoods. Subjects are then given cues (symptoms, object features) and are asked to predict the unobserved object identity (disease, category). After each trial, subjects receive feedback as to whether their prediction was correct. This process is repeated until they consistently categorize each object as the most probable stimulus, given that object’s features.
+
+In the second session, subjects are randomly assigned to one of two conditions. In the ‘prior-change’ condition (and in the ‘likelihood-change’ condition, respectively) subjects re-learn environmental probabilities when only prior probabilities (or likelihoods) have changed. In choosing environmental probabilities, we use computer optimization methods to guarantee that the two environments are similarly different from the baseline environment. We thereby control for the overall amount of change while only varying type of change. The learning process is identical to the first session and terminates upon reaching criterion performance. Our main prediction is that subjects will be faster in reaching the learning criterion in the prior condition vs. in the likelihood condition.
+
+!!Reference
+[1] J. D. Nelson, C. R. McKenzie, G. W. Cottrell, & T. J. Sejnowski, “Experience matters: information acquisition optimizes probability gain,” in Psychological science, 2010, 21(7), 960-969.
+

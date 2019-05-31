@@ -1,0 +1,19 @@
+... title: WeatherAvatar
+
+
+
+Abstract
+
+Cognitive science is the interdisciplinary scientific study and one of its research discipline is oriented on neural network. Neural networks represent biological inspiring approach to computational algorithms of intelligent information processing. Every neural network posseses knowledge which is contained in the values of the connections weights. Modifying the knowledge stored in the network as a function of experience implies a learning rule for changing the values of the weights.[1]
+
+Main goal of this work is to use neural network for representing of the intelligent agent who will be able to reveal information about weather cognition with local context information by suiting of his clothes according to weather conditions. It´s combination of two cognitive branches. One is the creation of intelligent agent who is able to learn the weather temperature and another is the representation of human body to 3D visual shape. 
+
+Weather avatar should be the representation of real human being, who would like to adjust your clothes similary to weather avatar. This is the essential idea of the word "avatar". Realisation of this is possible by creating RealFeel temperature. The RealFeel Temperature is an index that describes what the  temperature really feels like. It is a unique composite of the effects of temperature, wind, humidity, sunshine intensity, cloudiness, precipitation and elevation on the human body - everything that affects how warm or cold a person feels. Temperature by itself gives only part of the picture. Other measures, like the Wind Chill or Heat Index, include temperature and only one additional element like wind speed or humidity and many are designed to measure effects on an inanimate object or an unclothed person. None of them tell what it really feels like to an appropriately dressed person. Only The RealFeel Temperature includes everything that affects how warm or cold a person feels.[2] 
+
+Computation of RealFeel temperature is unique algorithm which is not reveal yet. But by neural network is possible to create it with minimal error. For learning this neural network uses a more advanced batch training algorithm which achieves good results for many problems and it´s called RPROP. It is improvement of back-propagation algorithm. Project uses Fast Artificial Neural Network Library which is a free open source neural network library.[3]
+
+
+[1] Kvasnička V., Beňušková., Pospíchal J., Farkaš I., Tiňo P. a Kráľ A. - Introduction to theory of neural networks
+[2] AccurWeahter - creators of computational algorithm for RealFeel temperature 
+[3] Documentation to Fast Artificial Neural Network Library
+

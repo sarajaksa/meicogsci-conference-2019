@@ -1,0 +1,25 @@
+... title: The Influence of Concurrent Cognitive Tasks on Balance, Step Initiation and Gait in Healthy Young Adults
+
+
+
+Abstract
+
+!!!! The Influence of Concurrent Cognitive Tasks on Balance, Step Initiation and Gait in Healthy Young Adults 
+
+!! Introduction
+The most often noticed and performed locomotor task is none other than walking. In a scientific way, it is recognized as a very complex task requiring a multitude of systems simultaneously. Although locomotion is one of the main matters of the study, cognitive domain, no less significant, will also be addressed. As a matter of fact, our research could be considered the interface of these two phenomena. This area of research is still only at the beginning and more and more discrepancies are arising with the expansion of the explorations concerned with the topic. 
+
+!! Motivation and Impact
+Quality of life is strongly dependent on the ability to walk and maintain balance. Fall-induced injuries as a result of reduced postural control constitute high costs and a major public-health concern of the elderly, with an increasing trend in the future. Recent studies revealed that human locomotion is not a pure motor function but that it is tightly connected to cognitive processes [1,2]. Attention and executive functions are recognized as the main cognitive influencers of gait [2,3]. Recent studies have suggested that accuracy and speed of walking are affected if cognitive tasks are performed concurrently [3]. Additional research in the field of cognitive-motor interference would be of great importance for enhancing our understanding of gait, as well as for clinical purposes. 
+
+!! Methods 
+Subjects performed motor and cognitive tasks under a single and dual task condition. Experiment consisted of four blocks, focused on posturography, step initiation, gait and single mental tasking. Each of the motor tasks was combined with a mental one that demanded working memory resources, namely N-back and Brooks spatial memory task. Blocks and trials were randomized. The distribution of pressure during the motor tasks was acquired using two force plates, installed beneath a treadmill's belt, at the interval of 100 Hz. Relevant parameters from all the trials were subsequently extracted and analyzed. The data are being processed. We are expecting to find the significant influence of cognitive tasks on gait parameters.
+
+!! Acknowledgments
+Special thanks to Gregor Brecl Jakob for all the support.
+
+!! References 
+[1] Marjorie Woollacott and Anne Shumway-Cook, "Attention and the control of posture and gait: a review of an emerging area of research," Gait and Posture, vol. 16, pp. 1-14, 2002.
+[2] Mark D Grabiner and Karen L Troy, "Attention demanding tasks during treadmill walking reduce step width variability in young adults," Journal of NeuroEngineering and Rehabilitation, vol. 2, p. 25, 2005.
+[3] Katharina V. Echt, Steven L. Wolf, Wendy A. Rogers Courtney D. Hall, "Cognitive and Motor Mechanisms Underlying Older Adults’ Ability to Divide Attention While Walking," Physical Therapy, vol. 91, pp. 1039-1050, April 2011.
+

@@ -1,0 +1,9 @@
+... title: The social neuroscience of empathy and prosocial behaviour
+
+
+
+Abstract
+
+In my talk I will give an overview of my own and others' recent research on revealing
+the neural mechanisms underlying our ability to share and understand the affective states of others. This research indicates that empathy relies upon shared neuronal states between observed and self-experienced emotions. For example, seeing someone else in pain recruits neural networks in the anterior insular cortex and the medial cingulate cortex that are also active when being in pain oneself. At the end of my talk, I will outline how empathy might be linked to prosocial and antisocial behaviour, and how this link can be experimentally investigated.
+

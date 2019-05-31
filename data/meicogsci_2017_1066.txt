@@ -1,0 +1,18 @@
+... title: Automatic estimation of problem difficulty for humans in the case of Raven's progressive matrices-like puzzles
+
+
+
+Abstract
+
+Estimation of problem difficulty for humans is often desirable, for example in Intelligent Tutoring Systems. These computer systems are designed to interact with students and perform a variety of instructional functions while adapting to their individual needs and providing feedback that improves their learning experience. In our research we addressed human problem solving skills in the case of the Raven’s progressive matrices-like puzzles of varying difficulty. The Raven’s progressive matrices tests are an example of visual matrix problems that are commonly used in general human intelligence testing [1]. They are based solely on visual representations and thus serve as a nonverbal test of analogical reasoning by challenging one’s ability to recognize patterns consisting mainly of visual similarity and analogy [2].
+
+Our main goals were to determine the features of matrix problems that are most informative with respect to problem difficulty, and to assess the problem difficulty automatically. Since we did not have access to the Raven’s progressive matrices tests that are used in the official IQ tests, we developed a set of 45 visual matrix problems using 3-by-3 matrices and different sets of intrinsic rules of formation as well as combinations of symbols with low, medium and high complexity that we believe correspond to increasing levels of difficulty. In our research we presented the puzzles to participants in the form of an online questionnaire. The difficulty of problems was determined according to their success rates. The analysis of the results enabled us to determine most informative puzzle features. For data visualization and analysis we used software Orange. The obtained decision tree, optimized by pruning, suggests that the complexity of symbols plays the most important role in puzzle solvability.
+
+We achieved both of our goals to some extent. Determination of important features was strongly influenced by the given matrices, the reasonableness of their underlying rules of formation, and the set of possible answers. Our decision tree model split data into training and testing sets in the ratio 80:20 and reached the classification accuracy of 76% which suggests that the assigned features were relevant to determining puzzle difficulty. The research will continue in the direction of optimizing puzzle features, improving predictive power of our model and testing data with other classification methods such as support vector machines and neural networks.
+
+!!References
+
+[1] L. E. Matzen et al., “Recreating Raven’s: Software for systematically generating large numbers of Raven-like matrix problems with normed properties”, Behavior Research Methods, vol. 42, no. 2, pp. 525-541, 2010.
+
+[2] M. Kunda et al., “Addressing the Raven’s Progressive Matrices Test of “General” Intelligence”, Multirepresentational Architectures for Human-Level Intelligence: Papers from the AAAI Fall Symposium, pp. 22-27, 2009.
+

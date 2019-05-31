@@ -1,0 +1,18 @@
+... title: Memory Retrieval in a Rapid Sequence Visual Presentation Paradigm
+
+
+
+Abstract
+
+!!Introduction
+Memory is the ability of an organism to select, store and retrieve information from continuous streams of data. Several plasticity mechanisms for memory formation have been proposed, but the mechanism underlying information selection is not well understood. Here we study how selection from a rapid sequence of images (RSVP paradigm) is dependent on intrinsic brain rhythms, specifically theta, alpha and gamma oscillations, and how that relationship determines recall. When subjects are asked to memorise a sequence of visual stimuli, they show serial position biases such as the primacy and recency bias [1]. And when stimuli sets are composed of different categories, like human faces, animals or objects, each can have different effects on the selection mechanism. In our experiment, we used images of birds, cars and faces. To test whether these categories have different biasing effects on visual recognition, which could undermine the homogeneous sampling requirement for memory recall, we analysed recognition probability within an RSVP paradigm. In order to interpret the causal role of gamma oscillations, as a part of the larger project, we analysed the behavioural data of selective recall to gain an insight whether or not a serial position effects besides intrinsic brain activity might have directly influenced memory.  	 
+
+!!Method
+42 healthy subjects (18 female, 24 male) were instructed to fixate and attend a rapid succession of 8 images of human faces, birds and cars (in separate blocks) flashed for 32 ms duration each, in an RSVP paradigm while 128-channel EEG was recorded. Each RSVP trial was followed by a visual recognition task where the participants were asked to identify the initial 8 images from a gallery of 16 images, half of which were new. The selected images were sorted into two groups: correctly recognised stimuli and incorrectly recognised. Failure of recognition could have been due to an encoding failure, a memory retrieval failure, or both. 
+
+!!Results
+The analyzed EEG data suggests that it is not the stimulus that resets the gamma phase but rather the actual gamma phase enables downstream processing of visual information. However, this result relies on the assumption that the low-level processing of visual input is serially homogeneous, lacking of primacy and recency effect. We analyzed n=10 subjects data. We found neither significant primacy nor significant recency effects in our subjects (n=10, p<0.05, ANOVA was carried out on probability of recognising the first and last presented image  more frequently than other images in the sequence). Our next step will be analyzing the EEG data to see whether information selection us determined by intrinsic brain oscillations. 
+
+!!Reference
+[1] D. Broadbent and M. Broadbent, "Recency effects in visual memory", The Quarterly Journal of Experimental Psychology Section A, vol. 33, no. 1, pp. 1-15, 1981.
+

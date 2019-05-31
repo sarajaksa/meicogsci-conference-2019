@@ -1,0 +1,26 @@
+... title: The Phenomenological Interview: a New Approach to Schizophrenia
+
+
+
+Abstract
+
+!!!!The Phenomenological Interview: a New Approach to Schizophrenia
+Researchers of various fields contribute to the exploration of the several subtypes of schizophrenia since more than a century - still we are far from understanding the origin and the etiopathology of this complex and multilayered phenomenon. 
+Literature research shows that scientists are recently disenchanted with purely neurocentristic, cognitivist and computational approaches which lead to a strong focus on operationalizable concepts such as the DSM or the ICD10 manuals in the daily routine of psychiatry.
+Instead of pursuing the ongoing over-focus on reliability, “thinkers such as Dreyfus, Varela, Gallagher, Zahavi, Thompson, postulate a renewed focus on subjectivity and on the embodiment and embeddedness of the human subject in its environment” [1] 
+Following their concept this project focuses on a new empiric approach regarding the investigation of schizophrenia - the phenomenological interview. 
+Since this specific type of interview is a rather recent method, there are not many research examples and therefore there are still open questions about the actual procedure, its structure and rules.
+Accordingly this project serves as a basic research for following empirical studies on schizophrenia. It contains a literature analysis and the analysis of two conducted interviews.
+The aim is to find out if the phenomenological interview is applicable for research concerning the phenomenon of schizophrenia. And furthermore identifying the methodological problems/challenges of the appliance of a phenomenological interview within a study on schizophrenic patients and their personal experiences during  psychosis.
+In the course of the interview subjects are required “to direct attention exclusively to [their] own experience of the world, and its conscious appearance, and to exclude all beliefs, opinions, and theories about what that experience is (...)”. Participants should not “adopt predetermined descriptive categories but (...) develop their own descriptions.” [2] 
+The examination shows that the challenges such a method entails can be summarized in three different dimensions: guidance, participation and framework. 
+Guidance applies the internalisation of the concept of phenomenology on the part of the interviewer. 
+Participation concerns the possible difficulties that an untrained interviewee might have expressing his experience. 
+The most crucial dimension, framework, aims at ensuring a protective ambiance and foster the confidence of the patients. 
+To be an effective tool in the investigation of schizophrenia the method of phenomenological interviewing 
+requires, among other things, training both of the interviewer and the subjects on the phenomenological principles, social competence and a collaboration with medical staff. 
+
+!!References
+Sass, Louis/ Parnas, Josef/ Zahavi, Dan. “Phenomenological Psychopathology and Schizophrenia: Contemporary Approaches and Misunderstandings.” Philosophy, Psychiatry & Psychology, vol. 18, pp. 1-23, 2011.
+Gallagher, Shaun/ Sorensen, Jesper Brøsted. “Experimenting with phenomenology.” Consciousness and Cognition, vol. 15. pp. 119–134, 2006.
+

@@ -1,0 +1,19 @@
+... title: Prosodic Cues in a Reference Resolution Algorithm
+
+
+
+Abstract
+
+The present work aims to propose an adaptation to a previous reference resolution algorithm [1]. The proposal integrates prosodic cues with other linguistic and non-linguistic cues, such as gestures and eye-gaze, used in the original algorithm.
+
+When humans speak, they refer to, objects, actions, and other entities. Their human interlocutors are very good at determining what a particular expression refers to – an ability known as reference resolution - even when they have never heard that expression before and the words alone don't provide enough information to determine its meaning. Among other things, this ability makes us able to understand language in new situations, for example when a new task is explained to us. 
+This ability can be useful when it can be emulated by natural language processing systems. For example, if a household-aid robot needs to be hard-coded to perform certain tasks, its use is limited. However, if it can be equipped with that same ability to understand new task descriptions, it can be employed in many different situations. To this end, [1] have collected a corpus of situated task descriptions and developed an algorithm that resolves references in this context, on the basis of lexical information as well as information from other modalities that accompanies language use in natural situations.
+
+While the algorithm currently uses a number of linguistic and non-linguistic cues to resolve the referent of object references, it does not yet consider prosody. This project proposes an adaption to the algorithm by [1] that expands it to consider prosodic cues, such as prominence and intonation. Previous linguistic research shows that prosodic cues can signal information structure [2]: it can guide a listener's attention to particular expressions, as well as signal whether an expression is considered familiar, new or contrasted to the speaker. Therefore, we expect that prosody can provide an additional to determine which object is the most likely referent for a particular referring expression.
+
+The corpus used to develop the algorithm by [1] is a German language video-corpus of task descriptions. This project performs an exploratory analysis of that same corpus to find regularities in the co-occurrence of prosodic cues with other cues to the identity of referents. The corpus is annotated for prosodic features using the Praat and ELAN annotation tools. By integrating the results from this analysis with conclusions from previous research about the connection between prosody and referentiality, we suggest an adaptation to the existing reference resolution algorithm. 
+
+!!References
+[1] T. Williams, S. Acharya, M. Scheutz and S. Schreitter, "Towards Situated Open World Reference Resolution", in AAAI Fall Symposium on AI and HRI, Arlington, VA, 2015, pp. 142-149.
+[2] C. Röhr and S. Baumann, “Decoding information status by type and position of accent in German,” 17th International Congress of Phonetic Sciences, Hong Kong, 2011, pp. 1706 –1709.
+

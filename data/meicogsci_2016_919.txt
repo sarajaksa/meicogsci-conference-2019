@@ -1,0 +1,18 @@
+... title: Brainwaves Analysis for BCI with Robot-Assisted Training for Rehabilitation
+
+
+
+Abstract
+
+Stroke is caused by loss of blood supply and lack of oxygenation of the brain tissue, which may result in hemiparesis, inability to move the limbs on one side of the body. Common rehabilitation does not offer good results, thus the idea of robot-assisted rehabilitation has been created. Training by motor imagination is used as auxiliary rehabilitative technique, in which body starts to develop the image of movement in the working memory without the real movement itself [1]. Action observation, motor imagery, and imitation are represented in the same basic motor circuit as action execution—the mirror neuron system—and thus provide an additional or alternative source of information to motor training that may be useful to promote recovery from stroke [2]. 
+
+Our research aims to improve patient's condition by brain-computer interface (BCI). It detects changes of mental activity measured with EEG and transforms it into control signals. Therefore patient receives immediate feedback by seeing the outcome of his effort (movement of a robotic arm) and it allows him to modulate the state of activation of his brain more effectively. Futhermore, after a long-term exposure, it can induce neuroplastic changes in brain [2]. 
+
+In this case, a measured raw EEG signal was decomposed using the power spectrum analysis into 6 frequency bands – Mu, SMR 1, SMR 2, Beta 1, Beta 2 and Alpha. To that moment, we used only mu rhythm in BCI system, which is specific type of alpha rhythm localized in senzory-motor area with typical event-related desynchronisation (ERD) occuring during movement or motor imagery [3].  However we try to discover specific patterns and correlations among all rhythms. We found strongest correlation between SMR 1 and SMR 2 rhythm as well as between Beta 1 and Beta 2. Our future aim is to look at changes occuring during the „move“ condition and, on its basis, develop more complex model which will combine more rhythms together. 
+
+[1] Rizzolatti, G., Fadiga, L., Gallese, V., & Fogassi, L. (1996). Premotor cortex and the recognition of motor actions. Cognitive brain research, vol. 3, no. 2, pp. 131-141.
+
+[2] Cimrová, B., Farkaš, I., & Rosipal, R. (2014). Využitie rozhrania mozog-počítač pri neurorehabilitácii: prehľad aktuálneho výskummu. Kognícia umelý život, vol. 14.
+
+[3] Pfurtscheller, G., Neuper, C., & Mohl, W. (1994). Event-related desynchronization (ERD) during visual processing. International Journal of Psychophysiology, vol. 16, no. 2-3, pp. 147-153.
+

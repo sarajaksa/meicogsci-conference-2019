@@ -1,0 +1,20 @@
+... title: Autism Subtypes in Context of Current Theories
+
+
+
+Abstract
+
+Autism is a neurodevelopmental disorder usually defined with a triad of manifestations –      i) impaired social interaction and ii) communication, and iii) repetitive behavior [1]. Autistic individuals struggle with sharing and understanding of emotions, may have odd interests and clumsy movements. The question what causes the symptomatology remains unanswered. The thesis aims to describe autism in a context of traditional theories of autism. Bayesian Brain Hypothesis is prevailing theory of autism in cognitive science and offers a roof for most of the other theories. Bayesian Brain Hypothesis [2] understands the brain as a probabilistic machine which uses its general model to generate predictions. Current sensory input is tested against predictions or priors, and general internal model updates its beliefs about causes of the input. Pellicano and Burr [2] proposed the general model to be attenuated (hypo-priors) in autism. 
+
+Bayesian perspective is encouraging account for autism subtyping due to a possibility of modeling subtypes using various parameters. That could help to understand the nature of the differences within autism and explain inconsistencies in biological research. From previous findings [3], it seems like there are two main subtypes - "less severe" and "more severe". In this study, we derived clusters from behavioral data employing cluster validation and hierarchical cluster analysis with model-based clustering. Our dataset consisted of children's behavior description from their parent's standardized Interview (ADI-R) and clinician's observation (ADOS). Sample involved 217 autistic children, 13,36% girls 7,2 years old in average (SD =4,44) and 86.64% boys 7,5 (SD = 4,64) years old in average. 
+
+Our results are in line with earlier findings and suggest the existence of two main clusters based on onset of developmental anomalies and gesture communication. From the Bayesian perspective, weights of general model predictions could be the right parameter to simulate subtypes. We present a possibility of an association between severity of autism and ability to form representations. Besides, we discuss to what extent this can affect therapies.
+
+!!Acknowledgement
+The present work benefited from the valuable input of Prof. MUDr. Daniela Ostatníková, PhD. and Mgr. Hana Celušáková from Center for Autism Research at Comenius University in Bratislava. 
+
+!!References:
+[1] K. Thorová, “Poruchy autistického spektra”, Prague, Czech Republic: Portál, 2006 
+[2] E. Pellicano and D. Burr, “When the world becomes ‘too real’: a Bayesian explanation of autistic perception”, Trends in Cognitive Sci., vol. 16, no. 10, pp. 504-510, 2012
+[3] O. J. Veatch et al., “Genetically meaningful phenotypic subgroups in autism spectrum disorders”, Genes, Brain and Behavior, vol. 13, no. 3, pp. 276-285, 2014
+

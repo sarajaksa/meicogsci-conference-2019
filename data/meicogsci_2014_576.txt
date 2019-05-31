@@ -1,0 +1,21 @@
+... title: Deriving the Drivers of Decisions in a Financial Portfolio Optimisation Scenario
+
+
+
+Abstract
+
+!!!! Deriving the Drivers of Decisions in a Financial Portfolio Optimisation Scenario
+
+Adaptive user interfaces are recent topic of research. The merit of these interfaces lies in their adaptability to different users in different contexts and use cases. T. Torsney-Weir, M. Sedlmair, and T. Möller from University of Vienna, conducted a user study on two almost identical user interfaces, one with and one without a risk bar, designed to facilitate financial investment. The result of the study showed that people can be categorised into two groups when interacting with these interfaces. First group, risk fixers, seem to have a predefined notion of tolerated risk in terms of investment. The second group, sweet spotters, will interact with the user interfaces to find the optimum point to maximise return versus risk. The question arises why people act in these two different ways and, given a limited knowledge of the personality of subjects, is there any distinguishing features to decide to which group they belong. Such knowledge can help the interface to adapt to the interacting person for the best user experience.
+
+There are in total 23 subjects, male and female university students. There are 21 recorded audio interviews, basic demographic data (age, sex, etc), self assessed investment experience, and interface usage questionnaire available. To begin, a literature survey was conducted to see how experts make decisions which involve risk and whether or not that could help us coming up with explanations of the two groups. it was concluded that experts tend to use their expertise to identify a path to the desired outcome rather than comparing different options against each other[1]. Unfortunately, this information is not very useful since this study’s subjects were not experts.
+
+Each subject gave a semi-structured interview after interacting with two interfaces, where they explained how they placed their investment and which interface was the most useful. Since the interview recordings were in audio format, we coded them using grounded theory methods[2]. We, my supervisor and I, initially listened to the interviews and identified important parts of the interviews. Then, we went over the phrases, came up with descriptive short phrases coding the content of the real phrase, compared codes to devise the final set of codes, went through the interviews again, and coded them with the final codes. Afterwards, similar codes were grouped into axial codes. Both axial and subset codes went through Krippendorff’s alpha[3] inter-rater reliability test to measure their reliability. In the last phase, decision tree learning was used to find the most distinguishing features between the two classes of risk fixers and sweet spotters.
+
+In conclusion, the top distinguishing features in decision trees will be our desired set. Based on this set, people can be classified and the user interface can then adapt to the target group. This study can be the basis for future work on using questionnaires and limited psychological data for adaptation of user interfaces.
+
+!! References:
+[1] Lipshitz, R., Klein, G., Orasanu, J., & Salas, E. “Taking stock of naturalistic decision making,” Journal of Behavioural Decision Making, 2001,14(5), 331-352.
+[2] Charmaz, K., “Constructing grounded theory: A practical guide through qualitative analysis,” Pine Forge Press, 2006
+[3] Krippendorff, K., “Computing Krippendorff's alpha reliability,” Departmental Papers (ASC), 2007, 43.
+

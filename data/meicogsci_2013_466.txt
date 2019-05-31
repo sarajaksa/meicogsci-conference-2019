@@ -1,0 +1,31 @@
+... title: Shared Neural Underpinnings of Anticipatory Processes and Theory of Mind
+
+
+
+Abstract
+
+!!!! Shared Neural Underpinnings of Anticipatory Processes and Theory of Mind
+
+This paper renders the common neural underpinning of anticipatory processes and theory of mind. Recent studies account for neural correlates of an anticipatory system and theory of mind (ToM) in the anterior cingulate cortex (ACC). I argue that the ACC might instantiate global, large-scale inhibitory control and that this faculty is particularly necessary for ToM, anticipatory processes and, more generally, for higher-order intentionality.
+
+!! Theory of Mind and the Anterior Cingulate Cortex
+
+While the ACC was proposed to be the predominant underpinning of ToM, it is known that it embodies a decoupling mechanism, which is responsible for distinguishing mental representations of reality from virtual representations. Moreover, the ACC enables taking an intentional stance, especially when at least two individual minds have to be mentally separated. That is, the ACC facilitates second or higher order intentionality [1]. An immediate response to environmental stimuli has to be suppressed in the first place, so as to instantiate the cognitive disposition for higher-order intentionality. The suspension of first-order intentionality thus enables higher order intentionality. 
+
+!! Anticipation and the Anterior Cingulate Cortex
+
+Still, one cannot find a unified neurobehavioral notion of anticipation. In contrast to ToM, anticipation has never been proposed to rely on the ACC activity in general, nor was the ACC suggested to be the prior mnemonic capacity that contributes to anticipation. 
+
+Nevertheless, it was found that the ACC is increasingly activated during anticipation in cognitive tasks, i.e. semantic judgment tasks. Before the task was performed, an increased hemodynamic signal was found in the ACC, suggesting that the anterior cingulate contributes to anticipatory, preparatory cognitive processes [2]. More specifically, the ACC has also been shown to be involved in anticipation of conflicting stimuli, anticipation during uncertainty and reward-related feedback. In the according specificities of anticipation, inhibitory control is essential in order to adapt sufficient temporal latitude for processes that instantiate decision-making.
+
+!! Inhibitory Control and the Anterior Cingulate Cortex
+
+In general, the ACC contains evolutionary novel spindle cells, which were speculated to contribute to reward delay and the execution of deception, which are based on inhibitory control [3].
+
+In this paper I propose that ToM and the anticipatory system draw on inhibitory control that is implemented within the ACC. Following this, future research has to elucidate the according finding in more detail. 
+
+!! References
+[1] H. Walter et al., “Understanding intentions in social interaction: the role of the anterior paracingulate cortex,” J. Cogn. Neurosci., vol. 16, no. 10, pp. 1854–1863, Dec. 2004.
+[2] S. Murtha et al., “Anticipation causes increased blood flow to the anterior cingulate cortex,” Hum. Brain Mapp., vol. 4, no. 2, pp. 103–112, 1996.
+[3] M. Brüne and U. Brüne-Cohrs, “Theory of mind—evolution, ontogeny, brain mechanisms and psychopathology,” Neurosci. Biobehav. Rev., vol. 30, no. 4, pp. 437–455, Jan. 2006.
+

@@ -1,0 +1,29 @@
+... title: Qualitative study of prolonged sitting’s effects on cognitive tasks performance
+
+
+
+Abstract
+
+!!!!Qualitative study of prolonged sitting’s effects on cognitive tasks performance
+
+
+!!Introduction
+The following paper explores phenomenological accounts of the effects of prolonged sitting on the performance of cognitive tasks. In the context of this paper the notion of ‘sitting’ refers to a work- or education-related static bodily position (typically at a desk or in front of a computer). To be discussed, in particular, are the perceived effects of prolonged sitting in relation to two extreme views: a) static sitting as a de-arousing stressor [1] (similar to sleep deprivation) and b) static sitting as a necessary stimulus deprivation that facilitates the focusing of attention. Arousal is regarded as a focal point of this paper, given the fact that it represents a key to linking the related research on stress and task difficulty. An important contribution in this regard is the work of Kamijo et al. concerning the interactive effect of exercise intensity and task difficulty on human cognitive processing [2]. Further physiological mechanisms to be accounted for, in relation to embodied cognition, are proprioception system, muscle metabolites and blood supply to the brain. The assessment of the subjective perception of one’s own abilities to tackle mentally-demanding tasks during a prolonged period of passivity (i.e. sitting), is performed by means of  qualitative interviews. 
+
+
+!!Methods
+The theoretical foundation of this paper encompasses, among others, such scientific fields as cognitive science, neuroscience, ergonomics and psychophysiology. Information about the subjective perception of the effects of prolonged sitting on the ability to tackle mentally challenging tasks has been acquired through retrospective semi-structured interviews. Research subjects have been asked questions encompassing their sedentary behavior and preferences in connection to cognitive problem solving. Interviews are kept short, but informants are encouraged to share additional opinions or experiences. 
+Further empirical data is assessed by way of participant observation in a public library - place where prolonged static sitting is a common practice. Behavioral observation accounts are then combined with the phenomenological report of perceived bodily and cognitive effort. 
+
+
+!!Results
+This paper accounts for the general tolerance towards prolonged sitting and individual differences. The analysis of its influence on cognitive performance can, in turn, account for a broad range of results. The expected result is qualitative data that enables creation of the models of body position’s influence on cognition. Such models can be used for prototyping practical solutions that enhance cognitive performance. 
+
+
+!!Acknowledgements
+Thanks to Prof. Markus Peschl and the Enabling spaces crew! 
+
+!!References
+[1] G. Matthews, “Human performance: cognition, stress and individual differences”, East Sussex, Psychology press., 2000
+[2] K. Kamijo  et al., “The interactive effect of exercise intensity and task difficulty on human cognitive processing”, in International Journal of Psychophysiology 65, 2007, pp. 114–121
+

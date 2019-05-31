@@ -1,0 +1,17 @@
+... title: response inhibition in bilinguals
+
+
+
+Abstract
+
+Large body of research on bilingualism has indicated that using two or more languages has a beneficial effect on the efficiency of attention and cognitive control. This relation is believed to be the result of tremendous training of executive functions, caused by constant activation of both languages in the bilingual brain. Two simultaneously active language systems compete with each other and therefore enforce frequent use of selection mechanisms and the inhibition of interference. [1] 
+!!
+One of the tasks which can be used to  measure the inhibition of interference is a stop-signal task (SST). This variation on go/no-go paradigm is especially suitable for measuring the ability to alter one's behavioural response while performing the activity in order to optimise its results. SST provides a possibility to measure an inhibition of a response that have already been initiated. [2][3] Up to this day, the potential advantages of bilinguals regarding this particular skill has not been thoroughly examined. 
+!!
+I will present a detailed description of the stop-signal task, its mechanism and the principles behind it, as well as examples of the previous usage of this task in the field of psycholinguistic research. Moreover, I will present summary and the preliminary results of my own study conducted on 32 Polish monolinguals and 32 Polish-English bilinguals.
+
+!!References: 
+[1] Kroll J.F., Bobb S.C., Misra M., Guo T., "Language Selection in Bilingual Speech: Evidence for Inhibitory Processes." Acta Psychologica vol. 128 pp.416–430, Jul. 2008
+[2] Logan G.D, Cowan W.B, & Davis K.A., "On the Ability to Inhibit Simple and Choice Reaction Time Responses: A Model and a Method." Journal of Experimental Psychology: Human Perception and Performance, 10, pp. 276-291, Oct. 1984
+[3] Dagenbach, D.; Carr, T. H. "Inhibitory processes in attention, memory, and language." Academic Press, pp.189-239, Mar. 1994
+

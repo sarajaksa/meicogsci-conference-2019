@@ -1,0 +1,16 @@
+... title: What Is the Pattern of Brain Activation During the Orthographical Repetition Suppression Task in the Blind People Reading Braille?
+
+
+
+Abstract
+
+Reading as an relatively young cultural ability gives us insight into how brain organizes itself. About 5600 years ago, brain tissue started to reorganize itself in order to process written language. Nowadays, we try to understand the processes that drive such plasticity and the nature of results of these processes. One of the methods to get insight into brain's functions consists of using repetition suppression paradigm during fMRI scans.
+ Orthographical repetition suppression refers to a decreased neural response when the target stimulus (e.g. ROAT) is preceded by the prime stimulus similar in orthographical structure (MOAT). The facilitation of the targets’ processing can be used to study the nature of processing in a given brain region. In sighted subjects, orthographic repetition suppression (MOAT-BOAT) is observed in the occipitotemporal cortex, named Visual Word Form Area [1]. 
+The presented study is intended to determine the repetition suppression patterns in blind Braille readers. We expect to find an orthographical repetition suppression without semantic suppression in the ventral occipitotemporal cortex of the blind, analogously to the sighteds’ activation. This would be the evidence in favour into a supposition that the VWFA is a metamamodal operator for word form (irrespective of sensory modality).  On the other hand, a different experimental outcome is also possible, as the blinds’ V1 becomes a high-level amodal language region.
+ In our study we plan to collect a behavioral and a fMRI data from a representative group of congenitally blind people reading braille. As we plan to investigate an ortographical aspect of stimuli, we developed a braille analog of task used by Binder et. al. [2]. The subjects will be presented with pairs of four letter strings (prime-target) in which they are asked to determine if any of letters is an only-two-dot-letter. The experimental conditions are based on manipulation of similarity between prime and target. There are three main conditions – identical (ARTW-ARTW), one-letter-different (ARTW-ARGW) and all letters different (ARTW-EFIK). We use only pseudowords, due to ortographical focus in our hypothesis. Moreover, there is one auditory control condition planned. In the behavioral part of study we plan to track finger movements in order to control if subjects scan through the end of all letter strings. 
+!!Acknowledgments
+I am grateful to my supervisor dr hab. Marcin Szwed for opportunities he gives me and for his support.
+!!References
+[1] Cohen, L. and Dehaene, S, “Specialization within the ventral stream: the case for the visual word form area”, Neuroimage 22, 2004, pp. 466–476.
+[2] Binder, J. R., Medler, D. A., Westbury, C. F., Liebenthal, E., & Buchanan, L., “Tuning of the human left fusiform gyrus to sublexical orthographic structure”, NeuroImage, 33(2), 2006, pp. 739–748.
+

@@ -1,0 +1,43 @@
+... title: The Role of Vitality Affects in Human Experience and its Relation to the Ontogenesis of the Body-Mind Split
+
+
+
+Abstract
+
+## Introduction
+
+Cartesian views, which radically split body and mind, have penetrated our day-to-day lives. However, if we look at our everyday human experience with a phenomenological attitude, we find that the ‘true subject’ is not only the ‘thinking Ego’, but a body-subject [1].
+
+## Problem
+
+The aim of this research is to understand how this body-subject develops in infants, to study the ontogenesis of a sense of self that encompasses an experience of the split between body and mind – primarily based on Daniel Stern’s central concept of *vitality affects* [2]. How does the infant’s experience, immersed in bodily affectivity, later evolve into a fully fledged, Cartesian understanding of the subject?
+
+## Gap in literature
+
+There are two ways in which vitality affects appear in the literature. On the one hand, there are studies that explicitly discuss the term ‘vitality affects’. These works, however, most often either (i) lack a properly interdisciplinary approach, (ii) fail to account for the developmental aspects of the phenomena, (iii) or do not recognise the relational, intersubjective nature of vitality affects. On the other hand, there are texts, mostly from phenomenological literature, whose subject matters are centered around a similar aspect of experience to what Stern coined as vitality affects, yet the links between these texts and Stern’s account have not been established. 
+
+## Approach
+
+Phenomenology considers affects a phenomenon that connects body, self, and the world. In this thesis, an account is developed that attempts to provide an all-encompassing treatment of the concept of vitality affects: a truly multidisciplinary, developmental approach that hopefully facilitates the discussion of the role of affectivity in subjectivity by exploring the journey infants go through. The conclusions drawn from the study of infant affectivity are applied to a philosophical analysis of movement and somatic therapies.
+
+
+## Method
+
+An integration and conceptual clarification are carried out in the literature on vitality affects. It is followed by a critical comparison between Stern’s phenomenologically influenced developmental psychological account [2] and views in enactivism [3], phenomenology [1], clinical psychology, and neuroscience. 
+
+## Impact
+
+Gaining a deeper phenomenological understanding of the nature and development of affectivity has huge implications in comprehending how movement therapies and somatic oriented psychotherapies work.
+
+## Acknowledgement
+
+I am grateful for Katalin Vermes for her insightful supervision.
+
+## References
+
+[1] M. Merleau-Ponty, “The Child’s Relations with Others (1950-1951) in Child Psychology and Pedagogy,” in The Sorbonne Lectures 1949-1952, Northwestern University Press., 2010, pp. 241–315. 
+
+[2] D. N. Stern, The Interpersonal World of an Infant. A View from Psychoanalysis and Developmental Psychology. Karnac Books, 1985.
+
+[3] E. Thompson, Mind in Life. Biology, Phenomenology, and the Sciences of Mind. Harvard University Press, 2007.
+

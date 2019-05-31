@@ -1,0 +1,23 @@
+... title: Memory: A Paradigm for Reductionism?
+
+
+
+Abstract
+
+The objective of this project is to examine whether the logical requirements of the concept of reductions can be applied successfully to the notion of memory. In other words, does memory research provide a model for the reductionist project? 
+Memory offers an excellent framework, since it has a rich historical and empirical heritage. Traditionally, the question of nature and mechanisms of memory has been approached from three distinct perspectives, which constitute autonomous areas of research. These various perspectives are: cognitive, systemic, and cellular/molecular, which represent different levels of complexity. Our concern is whether the cognitive aspect is reducible to the systemic, and the systemic is reducible to the molecular. To do this, we have to clarify what the concept of reduction entails. Furthermore, we have to provide a detailed, and accurate review of the current research in these fields. Finally, we pose question whether our current knowledge justifies the assumption of reductionism. However, we begin with an analysis of what reductionism actually means. We will also try to clarify any possible distinction between the notion of reducibles and correlates.
+Reductionism is the view that proposes that the complex phenomena of the universe should be explained in terms of more foundational principles. This usually a directional enterprise, which assumes a hierarchy of natural science with physics at its foundation. There are different types of reductionism: ontological, methodological, semantic, and theoretical reductionism. Clearly, ontological reductionism makes the strongest claim, while methodological and semantic reductionism make the weaker claims. Moreover, reductionism assumes certain ontology. Accordingly, the world is composed of logically independent concrete particulars, which characterized by separately analyzable quantifiable properties. These concrete particulars enter into interaction with each other through causality. 
+The job of reduction of theory 2 to theory 1 is comprised of derive the laws of theory 2 from those of theory1. This requires the development of bridge principles. We can think of bridge laws as translators, which for every principle in theory 2 gives the correct principle in theory 1. The possible candidates for bridge laws can be definitions or empirically observed lawful relationships. Our question is whether such bridge laws can be found in between the cognitive, systemic, and molecular accounts of memory?
+Are there bridge principles, which can relate the phenomena of Long Term Potentiation (LTP) and other molecular frameworks of memory such as phosphorylation of various proteins, dendritic spine tagging, RNA localizations, gene expression, etc to the systemic behavior of circuits such as EEG 200 Hz ripples of place cells in the hippocampus in particular and rhythmic electrical behavior of brain as expressed in EEG in general. Furthermore, are there bridge laws which relate these more ‘fundamental’ aspects of memory to the cognitive dimension such as implicit vs. explicit long term memory, semantic vs. episodic memory, flashbulb memories, recollection as reconstruction, schemata, among others. It is important to note that at the cognitive level a new stage of complexity emerges, which includes meaning, semantics, content, value, and intentionality. The cognitive treatment of memory also requires the consideration of the notion of attention. 
+It is my contention that the reductionist model, although useful and successful in some very important instances, cannot be successfully applied to the realm of cognition and consciousness. This requires a paradigm shift reminiscent of the paradigm shift in physics at the beginning of the 20th century. Here, we are challenged to reject the primacy of the substantialist ontology, the monopoly of causality, and superiority of the representationalist theory of mind. We are required to think in terms of processes, systems, autonomous complexities, and emergence.              
+
+
+
+
+
+References:
+
+[1]	Anderson, J.R (2000). Learning and Memory: An Integrated Approach, John Wiley & Sons Inc, Danvers Massachusetts, USA.
+[2]	Buzsaki, G (2006). Rhythms of the Brain, Oxford University Press, Oxford, UK.
+[3]	Sweatt, J.D (2003). Mechanisms of memory, Elsevier Academic Press, San Diego, CA, USA.
+

@@ -1,0 +1,22 @@
+... title: Task Oriented Games for Neurorehabilitation: a multimodal approach
+
+
+
+Abstract
+
+!!Abstract
+The use of immersive virtual environments in neurorehabilitation has increased substantially over the past several years [1]. Recent studies demonstrated the brain's capacity for functional and structural plasticity and recovery even in severe chronic stroke by using task oriented games which have been proven effective for improving motor learning and stroke recovery by increasing user motivation during the training, and eliciting neuroplasticity [2]. 
+
+Motor-imagery (MI), is an imagination of a movement and shares the same control mechanisms and neural substrates when observing or performing a movement, thus providing a unique opportunity to study neural control of movement in patients with neurological impairments [3]. It serves as a basis for one of the control paradigms for BCIs, and provides an alternative route of communication between the brain of the patient and a computer system or a device. 
+
+Patients will use an EEG based BCI system, which will track the brain activity in realtime. Additionally, the patient will receive multimodal feedback through functional electrical stimulators (FES) attached to the hands, and the avatar movements in the virtual environment. This provides a feedback loop and facilitates motor recovery through neuroplasticity.
+
+Within the scope of this project, a scientific study will be designed to investigate the efficacy of control via the BCI and embodiment of the player with the virtual avatar, resulting in an improved neurorehabilitation outcome. The study will assess objective factors such as EEG measures and in-game activities, and subjective measures such as user engagement through a questionnaire. The results will be integrated into the existing neurorehabilitation platform.
+
+The goal is to develop a BCI controlled adaptive multimodal neurofeedback paradigm using immersive virtual environments and motor priming.
+
+!!References
+[1] F. Lotte, J. Faller, C. Guger, Y. Renard, G. Pfurtscheller, A. Lécuyer and R. Leeb, "Combining BCI with Virtual Reality: Towards New Applications and Improved BCI", Towards Practical Brain-Computer Interfaces, pp. 197-220, 2012.
+[2] M. Grosse-Wentrup, D. Mattia and K. Oweiss, "Using brain–computer interfaces to induce neural plasticity and restore function", J. Neural Eng., vol. 8, no. 2, p. 025004, 2011.  
+[3] A. Vourvopoulos, J. E. M. Cardona, and S. B. i Badia, “Optimizing Motor Imagery Neurofeedback through the Use of Multimodal Immersive Virtual Reality and Motor Priming,” presented at the 2015 International Conference on Virtual Rehabilitation (ICVR), 2015.
+

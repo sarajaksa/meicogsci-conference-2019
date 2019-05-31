@@ -1,0 +1,18 @@
+... title: Comparison of Character Recognition by Humans and OCR Software
+
+
+
+Abstract
+
+!Motivation
+
+Character and word recognition (reading) is considered to be a crucial part of basic cognitive abilities of humans, it is nonetheless a highly complicated process that is influenced by multiple variables such as the type of handwritting, the language presented, whether the read subject is well understood or whether the given text has some if any meaning to reader. The main goal of this project is to account for these variables with the use of inferential statistics.
+
+!Method
+
+The first task was to produce at least 4 arbitrary articles made up of at least 200 characters, equal distribution of characters and with approximatelly the same amount of all characters. The second task was to distribute said articles in order to produce 8 samples of hand written text of given articles. This will yield two examples of cursive text of every article and two examples of typed text of every article. There will be two types of text to be recognized by humans, first type will be article with coherent meaning that will make sense to human reader. The second type of text will be of no coherent meaning made up of pseudo-words that are syntactically similar to Slovak language. This is to account for the human ability to infer words based on the previous words in sentence and meaning of the sentence as a whole. The next task is to look for certain patterns of errors in human recognition in comparison of two types of texts (simple text versus pseudo text) and to look for the most common character substitutions in the recognition process and to compare the error rates of cursive and typed text. The last task is to compare human ability to recognize characters to the current cutting-edge open source optical character recognition software Tesseract-ocr which is one of the oldest OCR engines, currently being mainly developed at Google.
+
+!References 
+[1] Bayesian t tests for accepting and rejecting the null hypothesis
+Jeffrey N. Rouder, Paul L. Speckman, Dongchu Sun, and Richard D. Morey University of Missouri, Columbia, Missouri and Geoffrey Iverson University of California, Irvine, California, 2009
+

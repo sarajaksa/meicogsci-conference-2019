@@ -1,0 +1,24 @@
+... title: Change Detection in Peripheral Vision Using Art Paintings and Snapshots.
+
+
+
+Abstract
+
+!!!! Change Detection in Peripheral Vision Using Art Paintings and Snapshots
+
+Peripheral field of vision provides a better concept and understanding of the environment in which the person is located. It gives us the ability to grasp the whole scene at once without the necessity to look at everything separately. One of its purposes is to catch one's attention. [1] We were interested in the question whether is the processing of visual perception inside the peripheral field of vision influenced by the top-down information processing of the brain. We approached this question by testing the detection of changes on art paintings and on the snapshots of real life. 
+
+The hypothesis was that there will be a significant difference in detecting the changes between these two types of visual inputs. There are scientific proofs [2, 3] that art has certain impact on human psyche, but is this impact so strong that it could influence the visual processing of information in the brain? Are people better prepared to notice a change that will happen in the environment that is more natural to them, or are they going to be distracted by the art and won't be able to notice the change at all? There is of course also possibility that there will be no difference at all.
+
+We have decided to split our research into two parts. During the first part we created our own version of the previous experiments on the size and shape of peripheral field of vision that is involved in cognitive processes. We have found it to have elliptic shape of certain size that corresponded with settings and equipment in our laboratory.
+
+The finding of the size and shape of this ellipse was important for the second part of our experiment, where we measured the detection of changes itself, on digitised paintings and on snapshots. We mapped the acquired ellipse to the image and determined whether the change occurred inside or outside of it. This information was compared with the results of successfully/unsuccessfully detected changes. As we were interested in top-down processing, we determined that successfully detected change was the one when the participant answered what exactly changed on image, not that just a change occurred.
+
+The preliminary results show that the probability of wrongly/no detecting of the change outside the ellipse is larger than correctly detecting the change inside the
+ellipse. The lower number of processed results didn’t allow us yet to get more detailed conclusions, or possibility to confirm or disapprove the hypothesis.
+
+!! References
+[1] Danahy, J. W. (2001). Technology for dynamic viewing and peripheral vision in landscape visualization, Landscape and Urban Planning vol. 54.
+[2] Parsons, R., & Hartig, T. (2000). Environmental Psychophysiology, In J. T. Caccioppo, L. G. Tassinary, and G. Berntson (eds.), Handbook of Psychophysiology, New York: Cambridge University Press.
+[3] Calvo, M. G., & Lang, P. J. (2004). Gaze Patterns When Looking at Emotional Pictures: Motivationally Biased Attention, Motivation and Emotion, Vol. 28, No. 3.
+

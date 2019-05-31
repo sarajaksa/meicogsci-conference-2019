@@ -1,0 +1,26 @@
+... title: Interactive Tool for Experimenting with Neural Networks
+
+
+
+Abstract
+
+!!!!Interactive Tool for Experimenting with Neural Networks
+
+The ultimate goal of the field of artificial intelligence is to create an artificial mind. This mind must act as a perfect black box. No adjustable parameters, no tuning, and no tweaking — a truly independent thinking machine. Of course, this will take some time… Meanwhile, we need better tools to create and understand systems that are becoming predecessors to this ultimate machine.
+
+The field of deep artificial neural networks is a promising path, which yields an outstanding results on many machine learning tasks, comprising of visual object recognition, speech recognition, molecular activity prediction, and others. [1] However, to create and understand such system is a tedious task. It requires a mathematical understanding of neural networks, and an ability to write computer programs that carry them out.
+
+These obstacles could be avoided by using a tool that enables us to create and understand neural networks in a more natural way than the symbolic approach used by math and code. This novel approach must appeal to all three stages of mental representations — enactive, iconic and symbolic. [2]
+
+Visual programming lets users create programs by manipulating program elements graphically rather than by specifying them textually. Such environment is based on the idea of “boxes and arrows," where boxes represent entities and arrows correspond to the relations between them. However, the traditional visual programming is nothing more than a blind manipulation of symbols in a more pleasing way than the textual programming.
+
+A solution to the problem of the visual programming can be eliminated by visualizing the behavior of the system by showing the data flowing through the network. One can think of this as an analogy to MRI vs. fMRI brain scans. Visualizing only the architecture of the neural network is just not enough to understand behavior of the system as a whole.
+
+We verified presented principles on a working prototype, but there is a lot to be done in terms of design and implementation decisions which will require a careful evaluation from an interdisciplinary audience.
+
+Let’s have a transparent box before we paint it black.
+
+!! References
+[1] J. Schmidhuber, “Deep Learning in Neural Networks: An Overview,” Technical Report IDSIA-03-14 / arXiv:1404.7828 v2 [cs.NE], 2014. Available online: http://www.idsia.ch/~juergen/DeepLearning28May2014.pdf
+[2] B. Victor, “Media for Thinking the Unthinkable,” Presentation at the MIT Media Lab, 2013. Available online: http://worrydream. com/MediaForThinkingTheUnthinkable/
+

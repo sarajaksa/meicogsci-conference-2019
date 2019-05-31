@@ -1,0 +1,15 @@
+... title: The impact of cognitive conflict on processing of negative emotions
+
+
+
+Abstract
+
+Emotional regulation is the top-down management of emotional response. Due to the brain’s negativity bias, studies are focusing mainly on negative, i.e. disruptive or undesirable emotions, so do we. Emotional regulation is very important as it is associated with people’s socio-economic success and general well-being. Two broad groups of processes are investigated by researchers in this domain, those are the explicit (i.e. effortful) forms of emotion regulation and the implicit (i.e. automatic) forms. The second is reflected in the event related Late Positive Potential (LPP) in the brain[1].
+Cognitive control refers to the ability to guide one’s actions accordingly to one’s internal intentions. It requires implementation of top-down control processes and enables choosing the proper response while two options are simultaneously competing. Conflicts’ detection displays itself in the ERP-component N2 [2].
+In this study, we focus on the mutual impact of those two mechanisms. There is a rich body of evidence for the influence of emotional processing on cognitive processes, including cognitive control. However, few studies have investigated the opposite relationship.
+In the Flanker Task participants are asked to react to the direction of an arrow located between other arrows. If its direction is incongruent with the others, cognitive conflict is induced. In our research we investigate how the cognitive control mechanism influences the automatic emotional control, which will be reflected in modulated neural sensitivity to emotionally relevant pictures. We present results from EEG recordings, in which we analyze the N2, P300 and LPP components [3].
+
+[1] A. Gyurak, J.J. Gross, A. Etkin,”Explicit and Implicit Emotion Regulation: A dual-Process Framework”, Cognition and Emotion, vol. 25 no. 3, pp. 400-412, Apr. 2011.
+[2] M.J. Larson, P.E. Clayson, A. Clawson, “Making sense of all the conflict: a theoretical review and critique of conflict-related ERPs”, Int. J. Psychophysiol., vol. 93, no. 3, pp. 283-297, Sep. 2014.
+[3] G. Hajcak, A. MacNamara, D.M. Olvet,. “Event-related potentials, emotion, and emotion regulation: an integrative review”, Dev. Neuropsychol., vol. 35, no. 2, pp. 129-155, 2010.
+

@@ -1,0 +1,23 @@
+... title: Empathy of Catholics
+
+
+
+Abstract
+
+!!Main aim
+This project is focused on the phenomenon of the empathy, defined by Baron-Cohen as an ability to suspend our single-minded focus of attention, and instead adopt a double-minded focus of attention. He continues that “empathy is our ability to identify what someone else is thinking and feeling, and to respond to their thoughts and feelings with an appropriate emotion.”[1]
+
+Empathy is as an important part of social life and as a common element or object of many socio-cultural and political discussions. The main reason for choosing this topic is the fact that in the most emotive social discussions in Slovakia the empathy is often emphasised as something certain sides of these discussions lack of. The most recent case was Slovak February 2015 referendum about the definition of marriage, adoption rights and parental rights regarding sexual education. In this case, it was the supporters of the referendum who were frequently blamed for being hateful, heartless, prejudiced and “phobic”, with all of these being, I suppose, results of low empathy. The referendum was basically non-religious, but there is an evident significant overlap of the referendum supporters and the Catholics. The main organisations and personalities supporting referendum were undoubtedly Christian, especially Slovak Catholic Church. In 2011 census, 65.8% of Slovak population proclaimed themselves to be Catholic.[2]
+
+!!Methods
+Thus, there is an opportunity to research the empathy of Catholics and to compare it with the empathy of non-Catholics, especially non-believers. The respondents were asked to fill in the Baron-Cohen’s Empathy Quotient questionnaire in Slovak language. They were also asked for their Catholic religious life and socio-demographic questions. The main criteria for the Catholic religious life are (1) considering oneself Catholic, (2) an attendance at the holy masses, (3) praying, (4) studying of the Bible or also other religious literature, and (5) attendance at the Christian community life. These should ensure that the respondent is truly Christian Catholic, opposed to the common criterion being only the proclamation of one’s religious affiliation in the census.
+
+The empathy scores were gathered from both Catholics and non-believers. They were differentiated according their answers to the religious life questions. The empathy scores of Catholics were compared with the scores of non-believers to discover whether there is some connection between the Catholic faith and the empathy.
+
+!!Results
+The author is responsible for the results, as presented in the poster. Since the results are not known at the time of writing this abstract, they are not given here.
+
+!!References
+[1] S. Baron-Cohen. Zero Degrees of Empathy: A New Theory of Human Cruelty. Penguin/Allen Lane. 2011.
+[2] Statistical Office of the Slovak Republic: Sčítanie obyvateľov, domov a bytov 2011, TAB. 118 Obyvateľstvo podľa pohlavia a náboženského vyznania [online]. URL: http://census2011.statistics.sk/SR/TAB.%20118%20Obyvate%BEstvo%20pod%BEa%20pohlavia%20a%20n%E1bo%9Eensk%E9ho%20vyznania.xls
+

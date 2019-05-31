@@ -1,0 +1,24 @@
+... title: Sex and Inanimate Objects: Does Grammatical Gender Influence How We Think about Inanimate Objects?
+
+
+
+Abstract
+
+Linguistic relativity is still a debated topic within cognitive sciences. There are thousands of languages which differ one from another in many aspects. B.Whorf [1] advocated an idea that a language determines the way of how we think. Moreover, recent empirical evidence suggest that language could shape a particular parts of thinking such as perception of time, spatial relations, or even grammatical gender (GG)[2]. 
+
+Some people doubt GG's advisability because assigning of GG to objects seems to be semantically arbitrary. Moreover, GG of inanimate objects differs across languages [2]. On the other hand, there are many studies which confirm the linguistic notion that GG and meaning are narrowly related. This empirical evidence, however, is still weak and open to different interpretations [3]. 
+
+We aim to replicate Boroditsky's study on GG [2] with slight modifications and compare both results. Unlike Boroditsky, we examine GG's influence in Slovak and Czech native speakers instead of German native speakers. We have also decreased the number of nouns (from 24 to 20) and used different nouns.
+
+The entire experiment is conducted through the internet in English (no GG for inanimate objects). Hence, all participants must have a good level of English but it cannot be their native language. Participants are university students divided into three groups: Slovak-English, Spanish-English, and Czech-English speakers. Czech and Slovak are chosen due to its closeness (not only linguistic but also cultural). Each group of participants has the same list of nouns in English that represent (abstract) inanimate objects, e.g. 'a bicycle', 'a book', 'a week', 'a life' etc. The list consists of 20 English nouns which are chosen according to GG in native language of participants in this manner: if a presented noun is feminine in Spanish, a noun in Slovak and Czech has to be masculine and vice-versa. The task is to write 3 adjectives in English that come first to their mind to describe each noun. Participants do not know the purpose of the study.
+
+Our assumption is that if a word is masculine (feminine) in participants' native language, written adjectives will be rather masculine (feminine) than feminine (masculine). We expect no significant difference between Slovak and Czech native speakers.
+
+!! Acknowledgement
+Special thanks to J.Basnakova, M.Galasova, reviewers, and to all participants.
+
+!!References
+[1] Whorf, B. (1956). In J. B. Carroll (ed.), Language, Thought, and Reality: Selected Writing of B.L.Whorf. Cambridge, MA: MIT Press.
+[2] Boroditsky, L., Schmidt, L., & Phillips, W. (2003). Sex, Syntax, and Semantics. In Gentner & Goldin-Meadow (Eds.), Language in Mind: Advances in the Study of Language and Cognition. MIT Press: Cambridge, MA.
+[3] Cubelli, R., Paolieri, D., Lotto, L., Job, R., (2011). The Effect of Gram. Gender on Object Categorisation.J.Exp.Psychol.Learn.Mem.Cogn.37, 449–460.
+

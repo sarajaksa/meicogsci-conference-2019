@@ -1,0 +1,36 @@
+... title: Effects of Oxytocin on prosocial behaviour and autonomic nervous system in patients with Borderline Personality Disorder
+
+
+
+Abstract
+
+Bernadette von Dawans (1), Markus Heinrichs (1), Martin E. Keck (2), Silvia U. Maier (1,3*)
+
+1 – University of Freiburg (D)
+2 - University of Zurich (CH)
+3 – University of Vienna (A)
+*corresponding author
+
+Background. Borderline Personality Disorder (BPD) is a psychiatric condition that affects on average 1.5 per cent of the total population. Patients have an impaired ability to form and maintain stable social relationships, to regulate impulsivity and emotions adequately, and to maintain a stable sense of self. 
+
+No specific drug exists to attenuate all symptoms of BPD. As the neuropeptide oxytocin is believed to enhance trust in other persons and to facilitate social approach, a study at the Department of Biological and Personality Psychology at the University of Freiburg (Germany) investigates whether BPD patients improve under oxytocin. The clinical trial is conducted at two university hospitals. It is planned to run from 2009 to 2013 and will include 150 patients. 
+
+Methods. The corresponding author aims at examining psychophysiological effects and behavioural outcomes in a so called trust game. Observations (N = 26) were made in a randomised, double-blind, placebo-controlled experiment in which patients received a single dose of either 24 IU oxytocin or placebo intranasally before playing.
+
+The trust game is derived from economics. It reflects the initial beliefs of a player in an exchange situation when interacting with other players. Patients played the role of an investor who has to decide how many points to assign to an anonymous person, and to a risky project respectively. The present experiment extends the usual setup by collecting heart rate data that reflect the state of the autonomic nervous system of the patient.
+
+Heart rate (HR) reflects sympathetic activation and serves as a measure of arousal. Heart rate variability (HRV) reflects the resources a patient is able to mobilise in order to adapt to a changing environment. High overall HRV is associated with a more flexible adaptation, whereas low HRV is associated with physical and psychiatric illness. BPD patients are held to have a rather low HRV, and to react more strongly to social stressors. A socially aversive situation that causes stress (e.g., trusting another person) may be facilitated by oxytocin administration as the hormone is believed to buffer social stress. This may in turn change the outcome of the trust game. The autonomic output may give first hints towards a model of how oxytocin exerts its effect. For the heart rate, mean differences between subsequent RR intervals (mrr; equivalent to mean heart rate) are analysed. To investigate heart rate variability, rmssd (square root of the mean squared differences of successive RR intervals) was chosen as a robust measure for the short-term variation of high-frequency band components. These are held to reflect parasympathetic activation. A corrected value (LF/HF ratio) informs about the low-frequency band which is held to reflect sympathetic activation. Measures were chosen according to the recommendations of Camm et al. (1996). Heart rate data (RR intervals) were acquired with a Polar Pro Trainer RS 800 system. Artifacts were corrected with the inbuilt algorithm of Polar Pro Trainer 5 software. Data analyses were performed with Kubios 2.0 HRV software (University of Kuopio, Finland).
+
+Sample. A total of 26 observations was analysed for the trust game (13 oxytocin, 13 placebo; mean age: 29 yrs, range: 18-48 yrs; 20 female, 6 male). For the heart rate analysis data of 22 patients were included (12 oxytocin, 10 placebo; mean age: 22 yrs, range: 18-48 yrs; 18 female, 5 male). Three observations were lost due to technical problems during data acquisition which resulted in uncorrectable artifacts. 
+
+Results. Final results have not yet been obtained as the clinical trial is still in progress. The corresponding author worked on an interim analysis for her Master's thesis.
+
+Sources:
+[1] Camm, A.J., Malik, M., et al. (1996), Heart rate variability Standards of measurement, physiological interpretation, and clinical use, European Heart Journal, 17, 354-381
+[2] Kosfeld, M., Heinrichs, M., Zak, P., Fischbacher, U., Fehr, E. (2005), Oxytocin increases trust in humans, Nature, 435 (7042), 673-676
+
+Keywords: Oxytocin, Borderline Personality Disorder, Trust Game, Heart Rate Variability
+
+B.v.D., M.H. and M.E.K. designed the study
+S.U.M. analysed the data
+

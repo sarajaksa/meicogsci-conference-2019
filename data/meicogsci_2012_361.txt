@@ -1,0 +1,24 @@
+... title: Scanning the World: Eye Gaze as a Measure of Social Attention
+
+
+
+Abstract
+
+Social attention in real world settings is triggered by several behaviors that are linked to socially relevant information. Social attention is defined as the processes by which observers select and encode aspects of other people (Frank, Vul, & Saxe, 2011). Cues that our brains use to interpret an actual social event are found on basic levels, such as gender, speed, and body motion of the people present in the scene (Shiffrar, 2008). It is imperative to study this phenomenon in real world settings, because previous work on social attention was limited to laboratory studies. 
+
+This study combines behavioral observation with visual attention in a natural environment. The aim was to find out which factors elicit social attention on a subliminal level. It was conducted with the use of electric occulo-graph (EOG) and surveillance videos that can hold social events in a natural environment. Tested were 100 randomly selected people (50 male and 50 female). 
+
+We projected videos from surveillance cameras of an underground station on four screens simultaneously. The participants’ task was to monitor the screens and to look at the things that triggered their attention. The experiment consisted of four trials, each consisting of two-minute video parts. Participant’s gaze direction was measured with an EOG. We used a four channel configuration, which simultaneously records vertical and horizontal eye movements using LabChart software. We annotated behaviors occurring in the videos with a catalogue consisting of 8 items.
+
+Results of our study showed that a certain part of visual attention is reserved for random scanning of the movies, but the attention is not randomly distributed. People pay greater attention to evolutionary relevant cues, such as intentions of others (potential threat) and unexpected events (Birmingham & Kingstone, 2009). We also found sex differences. The behavior coded as “forbidden object” caught the most attention to male participants. That means that attention of males was mostly triggered by the objects that are prohibited on the train station. 
+
+With our study, we could show that visual attention can be used as a measure for relevance of a given scene. This research is part of the European VANAHEIM* project.
+
+Birmingham, E., & Kingstone, A. (2009). Human Social Attention. A New Look at Past, Present, and Future Investigation, The Year in Cognitive Neuroscience 2009, 118-140.
+
+Frank, M.C., Vul, E., & Saxe, R. (2011). Measuring the Development of Social Attention Using Free-Viewing. Infancy, 1-21. 
+
+Shiffrar, M. (2008). The Visual Perception of Dynamic Body Language in Embodiment of Communication in Humans and Machines, ed. Ipke Wachsmuth, Lenzen M., Gunther K., 95−109. New York: Oxford University Press.
+
+*VANAHEIM: European FP7 project (Video/Audio Networked surveillance system enhAncement through Human-cEntered adaptIve Monitoring).
+

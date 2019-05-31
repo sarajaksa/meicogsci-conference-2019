@@ -1,0 +1,17 @@
+... title: Therapeutic Effects of Interactive Digital Storytelling
+
+
+
+Abstract
+
+The aim of the study is to investigate possible therapeutic effects of Interactive Digital Storytelling (IDS). The underlying idea of the study is to explore how storytelling can be used to manipulate mental states of individuals. More specifically, it seeks to answer the question of how storytelling can be utilized in dealing with trauma that the idea of our own mortality provokes. The question will be approached qualitatively by using the method of textual analysis of narratives and storyboarding. The result of the study is not the development of a specific tool (e.g. a story), but the development of a storyboard that can be later used for an implementation using IDS techniques.  
+
+Consideration of death is undoubtedly one of the foremost sources of anxiety for people because of the ongoing struggle between the will to live and the knowledge that they die. According to an existential psychologist Rollo May, humans fear death because they cannot comprehend their own lack of existence [1]. Death is fearful, however, culture provides the means and strategies to reduce this fear. Current studies suggest that the modern Western society is less and less accepting of death and that it perceives it as something that needs to be avoided or hidden [2]. Since people cannot live indefinitely in a psychologically and culturally induced state of denial it is a challenge for psychologists and other researchers to discover the pathways to death acceptance. 
+
+IDS is an emerging field which aims at developing systems in which storylines are not predetermined and can be influenced in real-time by the actions of the users. It is most commonly used for educational or entertainment purposes, however, research suggests that storytelling can be used as a tool to help people cope with difficult or traumatic situations [3].  This study aims at contributing to the current research with an  innovative approach because the idea of integrating interactive systems with death acceptance has not been studied so far.
+
+!!References
+[1] R. May, The Psychology of Existence, New York, NY: McGraw-Hill, 1995.
+[2] P. Ariés, Western Attitudes Toward Death From The Middle Ages To The Present, London: Marion Boyars, 1974. 
+[3] C. A. Ingemark, Therapeutic uses of Storytelling: An Interdisciplinary Approach to Narration as Therapy, Lund, Sweden: Nordic Academic Press, 2013
+

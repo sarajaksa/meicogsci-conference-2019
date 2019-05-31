@@ -1,0 +1,23 @@
+... title: The Power Of Being Here And Now - Mindfulness And Emotional Reactivity
+
+
+
+Abstract
+
+!!The Power Of Being Here And Now - Mindfulness And Emotional Reactivity
+
+!!Introduction
+
+Cultivation of mindfulness, the ability to pay un-judgemental attention to the inner experience of the present moment, is becoming an increasingly popular subject in the scientific society and in the past twenty years there have been hundreds of scientific studies researching the effects mindfulness based interventions (MI) have on the body, cognitive processes in the brain and with them connected behaviour. Several studies have demonstrated, that MI can be successfully used in the clinical setting, as well as for the improvement of cognitive functions and general well-being in a non-clinical population. This positive effect is often contributed to an improvement in adaptive emotion regulation (ER) - the ability to regulate the subjective as well as physiological and behavioural responses to emotional stimuli - which is suggested to occur due to the enhanced attentional control and monitoring abilities developed through the practice of mindfulness [1]. While previous research has shown that even a short mindfulness practice indeed leads to a smaller emotional interference in a resting state [2], the precise mechanisms behind it as well as the ways they differ from more conventional ER techniques are still unknown. 
+
+!!Experiment design
+
+My research will focus on the unique feature of mindfulness ER technique that it doesn’t seek to alter the experienced emotion per se, but rather the relationship an individual has with it, therefore regulating emotional impact by adopting the attitude of acceptance. This is in a contrast with other ER techniques that employ an active manipulation of the unwanted emotion, which, in addition to reduced emotional interference, also leads to restricted attentional focus and consequently impaired cognitive performance [1]. 
+
+I am aiming to develop a task that would observe emotional-interference in the instances, where traditional emotion-regulation techniques are difficult to apply, such as when emotions are triggered without a visible cause and not fully cognisant, which makes it hard for a person to wilfully regulate them. The effects of MI on such subliminally evoked stimuli hasn’t really been researched so far, but based on the supposedly enhanced ability of the meditators to attend to the present and choose what emotions they will react to, my hypothesis would be that emotional interference in meditation-naïve subjects should lessen after a few weeks of MI. Furthermore, I would hypothesize that the same pattern wouldn’t be observed to the same extent in the people that practise other ER techniques.   
+
+!!References
+
+[1] R. Chambers, E. Gullone and N. Allen, ‘’Mindful emotion regulation: An integrative review’’, in Clinical Psychology Review, vol. 29, no. 6, 2009, pp. 560-572. 
+[2] C. Ortner, S. Kilner and P. Zelazo, ‘’Mindfulness meditation and reduced emotional interference on a cognitive task’’, in Motivation and Emotion, vol. 31, no. 4, 2007, pp. 271-283.
+

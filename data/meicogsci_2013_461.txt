@@ -1,0 +1,26 @@
+... title: The Impact of Free Will Beliefs on Psychological Functions
+
+
+
+Abstract
+
+!!!!The Impact of Free Will Beliefs on Psychological Functions
+
+!!Introduction
+Questions related to free will were and still are an important philosophical field of inquiry, but in modern days it is not only philosophy that addresses the problem of free will and its related topics. Psychology too provides new insights to the problem. The question is, is there a correlation between believing in being free, being in control (free will beliefs) and the performance in executive function tasks – the Stroop task and Go/No-Go tasks, for example. 
+
+!!Theoretical groundings 
+Research conducted by Vohs & Schooler [1] demonstrated that there is a positive correlation between disbelief in free will and antisocial behavior, cheating on a test for example. Other similar studies have shown that there is a connection between job performance and believing or disbelieving in free will [2]. This research paper assumes that one of the main reasons why some people have better job performance is that beliefs in free will facilitate exertion of control over one’s actions. But the research does not stop here; research done by Rigoni et al. [3] has demonstrated that free will priming has an impact on the readiness potential. In this study the readiness potential was reduced in individuals primed to disbelief in free will. These findings indicate that there is a correlation between abstract belief systems and basic unconscious brain processes. 
+
+The assumption that emerges and that can be tested is: do beliefs about free will have an influence on other basic inhibitory or control functions of our brain? The hypothesis is that beliefs in free will have an impact on the performance in executive function tests or with other words that there is a connection between free will priming and the performance in the Stroop test, Go/No-Go tasks and similar inhibitory or task switching tasks. Ample research is showing that when performing on these tasks, activity in the dorsolateral prefrontal and anterior cingulate cortex is very high. As mentioned before [3], the research by Rigoni et al. demonstrates that beliefs about free will can change very basic brain processes related to motor control. 
+
+!!Empirical approach 
+Participants will be randomly assigned into three groups: a control group, a “free will exists”, group and a “free will does not exist” group. The two non-control groups will be primed with “free will exists” and “free will does not exist” world views depending on the group. The free will beliefs will be evaluated with FAD-Plus questionnaire and the executive function will be tested with a Stroop test and a Go/No-Go task. The performance will show if there is a correlation between free will beliefs and executive functions performance. 
+
+!!References
+[1] Kathleen D. Vohs et. al. (2008, January). “The Value of Believing in Free Will.” Psychological Science. [On-line]. 19(1), pp. 49-54. Available: http://www.csom.umn.edu/assets/91974.pdf [May. 22, 2013]. 
+
+[2] Tyler F. Stillman et. al. (2010, January). “Personal Philosophy and Personnel Achievement: Belief in Free Will Predicts Better Job Performance.” Social Psychological and Personality Science. [On-line]. 1(1), pp. 43-50. Available: http://www.carlsonschool.umn.edu/assets/164290.pdf [May. 22, 2013]. 
+
+[3] Davide Rigoni et. al. (2011, April). “Inducing Disbelief in Free Will Alters Brain Correlates of Preconscious Motor Preparation: The Brain Minds Whether We Believe in Free Will or Not.” Psychological Science. [On-line]. 22(5), pp. 613–618. Available: http://www.ncbi.nlm.nih.gov/pubmed/21515737 [May. 22, 2013].
+

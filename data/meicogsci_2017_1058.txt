@@ -1,0 +1,22 @@
+... title: When Language Goes out of Hand: Measuring the Effect of Hand Movement on N400 Component
+
+
+
+Abstract
+
+Rizzolati and Arbib [1] imply that human language evolved from the capacity to recognize actions, in which mirror neuron system plays a significant role. The idea that the mirror system in monkeys is the homologue of Broca’s area in humans, which is assumed to be responsible for speech processing, has been suggested by other authors as well [2]. There have been many assumptions about the links between language, hand, and gestures at the neural level, however there is still a lot to learn.
+The aim of our research is to explore the relation between the hand movement and language using event-related potentials (ERPs), which provide a sensitive measure of changes in language processing. We focus on N400 component, which is typically observed when semantically incongruous words are presented.
+We used within-subjects experimental design. In total, 6 participants will go under two experimental and one control condition, across three different days. 
+In the first condition, participants will watch a video that shows how to use Chinese chopsticks. They will be instructed to repeat the hand movements using the technique described in the video and practice on several tasks with various types of food and level of difficulty. The aim of this task is to use fine hand movement which requires certain amount of attention and awareness. Moreover, it’s been shown that imitation elicits stronger responses in Broca’s region compared to action observation or execution alone [2].
+The second condition is focused on hand movement exercises adapted from Feldenkrais therapy method that increases the awareness and physical sensitivity in the hands. This condition will explore the effect of hand movement alone. The third, control condition, consists of breathing exercises.
+ERPs are measured using go/no-go task before and after each manipulation. Stimuli for this task are pictures of common objects, followed by a matching or mismatching word. The N400 is widely noted to be decreased in amplitude in patients with aphasia, and previous research demonstrated the modulation of N400 after rTMS treatment [3].
+We expect to find difference in mean amplitude of N400 after hand movement lessons and compared to the control condition, and by doing so, we hope to shed some light on the relation between hand movement and language processing. 
+
+!!Acknowledgments
+Special thanks to Barbora Cimrova, Peter Gergel and Julia Unger for their guidance and support.
+
+!!References
+[1] G. Rizzolatti, & M.A. Arbib, “Language within our grasp,” Trends in neurosciences, vol. 21(5), pp. 188-194, 1998.
+[2] N. Nishitani, M. Schürmann, K. Amunts, & R. Hari, “Broca’s region: from action to language,” Physiology, vol. 20(1), pp. 60-69, 2005.
+[3] C. H. Barwood et al., “Modulation of N400 in chronic non-fluent aphasia using low frequency Repetitive Transcranial Magnetic Stimulation (rTMS),” Brain and language, vol. 116(3), pp. 125-135. 2011.
+

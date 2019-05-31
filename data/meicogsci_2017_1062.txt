@@ -1,0 +1,21 @@
+... title: Learning to Reach with Cues using a Simulated Robotic Arm
+
+
+
+Abstract
+
+We will implement a reinforcement learning (RL) algorithm in the context of a simulated robotic arm trying to reach the given target that should, based on given reward, learn to interpret linguistic cues given to it. We will try various parameters of the model to find the best ones for the task. The main goal of the work is to explore capabilities of the used algorithm and its relation to human cognition in (to some extent) realistic scenario simulating the whole agent with the “brain” and the “body” in a physical environment.
+
+RL is a type of machine learning that is inspired by operational conditioning (OC). OC works by giving a reward to an agent with the goal of reinforcing or decreasing given behavior. RL can be applied to problems that can be formalized as Markov decision processes (MDP), which is the case in our task. There is also neurological evidence that in the brain there are mechanisms similar to how reinforcement learning algorithms (also with the Actor-Critic architecture) works [1].
+
+We will need a RL algorithm that is capable of dealing with continuous state and action spaces because in our scenario the simulated robotic arm that can get into “infinitely” many states and do “infinitely” many actions. The agent will in each step of simulation do an action (move in some way) and receive a reward proportional to how close the tip of the robotic arm is to the predefined target.
+
+We will use the algorithm called Continuous Actor-Critic Learning Automaton (CACLA) [2], in which the Critic learns to evaluate how good a state is and Actor, based also on feedback from Critic, learn to choose actions that will maximize the received reward. The Actor and the Critic have to work, generally speaking, as function approximators. We will use artificial neural networks (specifically multilayer perceptron) to do the job. The Actor and the Critic will receive an input representing current state of the robotic arm and the linguistic (imprecise) cue (e.g. “left”, “right”..., in one-hot encoding) that is giving the agent information about where to move.
+
+The performance of the agent will be measured as a number of steps it will take to reach the target. This work is interesting also from the perspective of Human-robot interaction [3] as natural language is the natural way for humans to communicate.
+
+!!References: 
+[1] K. Doya, “What are the computations of the cerebellum, the basal ganglia and the cerebral cortex?,” Neural networks, vol. 12, no. 7, pp. 961–974, 1999.
+[2] H. Van Hasselt and M. A. Wiering, “Reinforcement learning in continuous action spaces,” in Approximate Dynamic Programming and Reinforcement Learning, 2007. ADPRL 2007. IEEE International Symposium on, 2007, pp. 272–279
+[3] K. Dautenhahn, “Socially intelligent robots: dimensions of human–robot interaction,” Philosophical Transactions of the Royal Society B: Biological Sciences, vol. 362, no. 1480, pp. 679–704, 2007.
+

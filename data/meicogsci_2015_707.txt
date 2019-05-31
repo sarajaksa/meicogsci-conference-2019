@@ -1,0 +1,19 @@
+... title: The Medium Is the Message: How Presentation Formats Help People Ask Better Questions
+
+
+
+Abstract
+
+!!Background
+A large body of previous work has shown that performance on probabilistic reasoning tasks is heavily dependent on how information is presented [1]. However, it has not yet been examined if presentation formats also facilitate how probabilistic information is utilized in an information search task. We examined (1) whether or not search strategies are affected by presentation formats, and (2) if this effect is mediated either by the ability to accurately understand the probabilistic structure of the search environment or by numeracy skill.
+!!Methods
+We conducted an MTurk study (n=818) where subjects were asked to make an information search query with the explicit goal of maximizing classification accuracy. The underlying probabilities of the search environment were designed such that the two possible queries corresponded to the optimal strategy for different informational utility functions, namely the reduction of uncertainty measured via Shannon entropy (“information gain”) [2] on one hand, and the improvement of classification accuracy (“probability gain”) [3] on the other. Relative to the goal of maximizing classification accuracy, only the probability gain query can be considered rational.
+The three main types of presentation formats that we tested were the “probability format” (numbers expressed as percentages), the “natural frequency format” (numbers expressed through natural sampling), and various “visual formats” (icon arrays, bar graphs, and dot diagrams). Subjects were randomly assigned to a presentation format, which was displayed for both the information search task and a probability estimation task. Lastly, subjects also completed a numeracy test. 
+!!Results
+The results are twofold, uncovering a strong effect of presentation format on search decisions (rational search decisions ranging from 27% to 86% of subjects), as well as finding no evidence that this effect is mediated either by numeracy or subjects’ ability to judge the environmental probabilities. Taken together, our findings suggest that the way statistical information is presented strongly influences human information search behavior. Additionally, our results also indicate that the widespread use of explicit probability judgments may be a poor indicator for how well a subject can reason about a problem. Instead, we found that given the appropriate presentation formats, individuals can be quite capable of making rational decisions, regardless of their ability to explicitly provide accurate probability judgments.
+
+!!References
+[1] G. Gigerenzer and U. Hoffrage, “How to Improve Bayesian Reasoning Without Instruction: Frequency Formats,” Psychol. Rev., vol. 102, no. 4, pp. 684–704, 1995.
+[2] D. V. Lindley, “On a Measure of the Information Provided by an Experiment,” The Annals of Mathematical Statistics, vol. 27, no. 4. pp. 986–1005, 1956.
+[3] J. Baron, Rationality and Intelligence. Cambridge, England: Cambridge University Press, 1985.
+

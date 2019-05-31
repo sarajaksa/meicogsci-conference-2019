@@ -1,0 +1,17 @@
+... title: TYPOLOGY OF PHENOMENOLOGICAL AND PHYSIOLOGICAL RESPONSES TO THE INCREASE OF DIFFICULTY IN SOLVING MATHEMATICAL PROBLEMS: A CONTINUATION
+
+
+
+Abstract
+
+Skin conductance refers to how well the skin conducts electricity, and was already used in some event-related skin conductance responses studies to analyse participants reactions to sudden stimuli, such as a loud noise or emotional pictures [2] and also their reaction in relation to mathematical anxiety [3]. For our research we assumed the existence of individual differences in experiencing mathematical problem solving. By observing at the same time the physiological response, i.e. electrodermal activity and pulse, of participants, our research aims to analyse the correlation between phenomenological and physiological responses. The aim of the research is to produce typology of responses while solving mathematical problems.
+
+The preliminary research was conducted in 2015 and presented at the 2015 MEi:CogSci conference [4]. For the recording of skin conductance and the heart rate we used the Biopac MP150 System; the acquiring was constant throughout the testing. Participants were asked to solve 20 mathematical problems, divided into four sets of five problems each. Because it was found in pilot testing that a countdown on screen had an impact on the experience of the problem solving, the research was divided in a first non-clock phase (first 2 sets) and a clock phase (last 2 sets) in order to investigate whether a time-limit is contributing as a stress factor in solving mathematical problems. At the beginning and after every phase, an interview was conducted to assess the overall physical and psychological well-being of participants (i.e. their physical sensations and the focus of their thoughts), and the experience of problem solving (i.e. the specific strategies and techniques).
+
+In the preliminary research analysis, one of the parameters for interviews was the fun participants experienced while solving mathematical problems (on a scale 1 to 5, where 1 means “not fun”). The experiment showed a correlation between how much the participants had fun while solving and their correspondent skin conductance reaction. The data showed also that the visual presence of the clock had an impact on the experience of problem solving, with an increase of experienced anxiety and an experienced loss of concentration. The further research will investigate the correlation between physiological responses and the corresponding experience in order to gain a better understanding, thus moving closer to the intended neurophenomenological typology.
+
+!!REFERENCES
+[1] D. R. Bach et al., Time-series analysis for rapid event-related skin conductance responses in J Neurosci Methods, 2009 Nov 15; 184(2): 224–234.
+[2] D.K. Harriss, J. P. Galassi, M. D. Galassi, Math anxiety: Relation with situational test anxiety, performance, physiological arousal, and math avoidance behavior in Journal of Counseling Psychology, Vol 31(4), Oct 1984, 580-583.
+[3] Petrač P., Potokar B., Proceedings of the Mei:CogSci Conference 2015, published by Comenius University in Bratislava in June 2015, p.126.
+

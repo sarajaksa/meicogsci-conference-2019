@@ -1,0 +1,16 @@
+... title: Do Scientific Convictions Serve as Bulwark against Death Anxiety?
+
+
+
+Abstract
+
+The idea that science and scientific results are not what people like to call "objective facts", but rather are depended on a variation of cultural, social and subjective factors has been gaining more and more support. However, constructivist notions have yet to make their way into scientific practice: not enough studies have tried to quantify such confounding dynamics in science. One of these confounding factors may be the scientist’s degree of investment into an academic framework, as an over the top identification with a certain framework may blind them for its flaws and limitations.
+Our goal with the present study is to shed light on to what extend the identity of members of scientific communities hinges on their academic convictions. There are different ways for a community to qualify as scientific: our first choice, Linguists following a Universal Grammar approach, is a group of professionals working under one theoretical framework. Our second choice is a group of loosely affiliated advocates of rational decision making (“rationality movement”). This second group was selected, on the one hand, because of their adherence to scientific standards and their investment in this specific world view, but on the other hand, unlike for the Universal Grammarians, their professional future is not dependent on this world view.
+In an attempt to quantify the abstract notion of identity, the study was situated within the framework of Terror Management Theory. TMT poses that, when humans are reminded of their mortality and death in general, they seek to alleviate this death anxiety by indulging in world views that are central to their identity. Religious people, for example, tend to be more firm in their faith after a death prime. [1]
+	To validate whether these effects also generalize to scientific communities, we are administering a survey to Generative Linguists and members of the Rationality movement (2x2 design). The A-groups' survey will consist of first a death prime (participants are asked to reflect upon their death), then a distractor task (world view reinforcing effects of death anxiety occur when it is present only subconsciously) followed by items to measure adherence to the respective paradigm. The B-groups receive the same questionnaire as their matched A-group with a negative, but not death-related reflection task instead of the death prime. 
+We expect the death prime groups to show higher adherence scores than the control groups. Such results would indicate that a scientific commitment can, like religion or political world views, serve as buffer for death anxiety. This in turn would show that an even greater awareness of such bias inducing identity effects is needed in scientific practice. [1]
+!!References:
+[1] B. Burke, A. Martens and E. Faucher, "Two Decades of Terror Management
+Theory: A Meta-Analysis of Mortality Salience Research", Personality and
+Social Psychology Review, vol. 14, no. 2, pp. 155-195, 2010.
+

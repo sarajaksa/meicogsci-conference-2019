@@ -1,0 +1,22 @@
+... title: The impact of sleep depression on the attention of students playing MOBA games
+
+
+
+Abstract
+
+Abstract
+
+Sleep is one of the basic human needs. The lack of sleep has a negative impact on the human nervous system and its cognitive processes. The appearance of insomnia, regardless of its causes, duration and severity, is most commonly reported at around 35% in the entire population.
+
+The definition of sleep deprivation is based on a subjective sleep assessment, which is difficult to achieve, interrupted by repetitive restarting with a difficult re-sleep, short to early morning wake, no sense of refreshing. Sleep deprivation also includes daily effects, and the most common feeling of fatigue, lack of energy, difficulty concentrating, increased irritability. The basic criterion for the severity of sleep deprivation is the degree of deterioration in social and working abilities during the day. 
+
+Nowadays, researchers have noted that the number of MOBA (Multiplayer Online Battle Arena) player has increased. Thanks to games such as League of Legends (LoL) or Defense of the Ancients (DOTA), many studies have been made based on these games. (1, 2) 
+The purpose of our experiment is to find out what impact the lack of sleep has on my attention during the play of MOBA games. We chose pretest and posttest design. Experiment will be attended by 20 participants. The experiment will take place in the evening and at night. After 10 hours of wakefulness, participants will undergo, Psychomotor Vigilance Test, that we have coded.  In following 14 hours they will play next 14 hours, League of Legends. After 14 hours of night-time wakefulness that participants used to play MOBA games, we are administering the Psychomotor Vigilance Test again. We assume that the test scores before and after the experiment will vary, so the amount of attention after sleep deprivation will drop.
+
+Acknowledgments
+Honorable thanks to all participants
+
+References
+1.	Katherine Albrecht, Katina Michael and M.G. Michael. "The Dark Side of Online Gaming" Taipei, TaiwanInternational Conference on Cyber Behavior (2014) 
+2.	HUTCHISON, David. Playing to Learn: Video Games in the Classroom. [s.l.] : [s.n.], 2007. 280 s. ISBN 159158492
+

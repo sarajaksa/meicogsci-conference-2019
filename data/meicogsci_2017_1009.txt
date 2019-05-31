@@ -1,0 +1,24 @@
+... title: Augmenting Aesthetic Experience of Art with Brain Stimulation
+
+
+
+Abstract
+
+Within recent decades, the empirical study of beauty and the aesthetic experience has increased as an area of interest in psychology, cognitive science, and neuroscience. The aesthetic experience can be attributed to numerous areas of activation within the brain. Particularly, the left dorsolateral prefrontal cortex (lDLPFC) has been found to play an essential role in aesthetic appreciation [2]. Previous studies on aesthetic appreciation of artworks have found anodal stimulation of the lDLPFC to increase liking responses to various representational and abstract artworks[1]. This increase in liking is believed to result from the down regulation of negative emotions, mediated by the lDLPFC. Yet, the underlying processes explicating why the lDLPFC stimulation leads to a higher liking response remains unclear. 
+
+In this experiment, the lDLPFC was stimulated using transcranial direct current stimulation (tDCS) to test the hypothesis regarding the lDLPFC and its functional role in the aesthetic experience of art [3]. This study focuses on positive valence and negative valence representational artworks, rather than neutral valence artworks as used in the previous studies [1]. During this experiment, 20 participants rated artworks in two 90 minute sessions, one in which they received stimulation and one in which they did not (sham). The participants were randomly shown representational artworks of both negative and positive valence before and after tDCS stimulation. The participants rated the artworks according to colourfulness (control) and how much he or she liked the art, using a 1(least colourful/strongly dislike) to 9 (most colourful/strongly like) point scale. 
+
+The specific purpose of this experiment is to evaluate the potential increase in liking of negative valence artworks by comparing liking ratings before and after stimulation. These findings could further support the claim that the lDLPFC plays a crucial role in the aesthetic experience of art, and furthermore, contributes to the notion that one has the capability to appreciate usually negatively categorised art. 
+
+!!Acknowledgements
+
+Special thanks to Gernot Gerger and the Empirical Visual Aesthetics (EVA) Lab for supporting this project. 
+
+!!References
+
+[1] Cattaneo, Z., Lega, C., Flexas, A., Nadal, M., Munar, E., & Cela-Conde, C. J. (2013). The world can look better: enhancing beauty experience with brain stimulation. Social cognitive and affective neuroscience, nst165.
+
+[2] Ferrari, C., Lega, C., Tamietto, M., Nadal, M., & Cattaneo, Z. (2015). I find you more attractive… after (prefrontal cortex) stimulation. Neuropsychologia, 72, 87-93.
+
+[3] Woods, A. J., Antal, A., Bikson, M., Boggio, P. S., Brunoni, A. R., Celnik, P., ... & Knotkova, H. (2016). A technical guide to tDCS, and related non-invasive brain stimulation tools. Clinical neurophysiology, 127(2), 1031-1048.
+

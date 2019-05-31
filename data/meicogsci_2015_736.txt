@@ -1,0 +1,37 @@
+... title: Enabling Mental Time Travel in Virtual Environments: an Interdisciplinary Approach!
+
+
+
+Abstract
+
+!!Introduction
+Research in philosophy of needs suggests that people are very often hardly aware of them [1]. Bewextra (B.) [2] is a recently developed methodological approach at the University of Economics in Vienna to gather knowledge about needs from stakeholders in organizations.
+
+B. consists of 3 phases. Data acquisition (B. Collect) is based on a 20 minute imaginative mental time travel exercise called “Interacting with an envisioned future”. This should enable participants to detach from present boundaries and restrictions to report their needs from a future desired “as-if” perspective [3]. The gathered needs get aggregated with an abductive qualitative method (B. Analytics) and validated among all participants (B. Validate). The method results in a catalog of validated needs from all stakeholders within organizations and can be used as a starting point for organizational learning (e.g. to develop a bottom-up vision or mission statement).
+
+
+!!Problem and Motivation
+In B. Collect, a workshop setting provides dedicated time and space as well as personal guidance to enable the time travel exercise. 
+That is why the scale of B. Collect is rather small. To scale the method for larger organizations (e.g. for more participants) the question arises whether it is possible to reproduce the workshop setting within a virtual environment.
+
+
+!!Research Question
+The project seeks to answer the following question:
+"What are cognitive, technological and situative requirements to enable 'Interacting with an envisioned future' using Information and Communication Technologies?"
+
+
+!!Results
+Requirements will be drawn from the domains of cognitive psychology, human-computer-interaction, usability studies, online-based-therapy, online-coaching and mindfulness studies. 
+Detailed (design) recommendations for the practical implementation will be given and structured on different dimensions.
+The review is still in progress but preliminary results suggest that there are few possibilities to actively support participants to enter a mindful state of cognition. Rather, facilitating imagination implies turning off distractions combined with easy to use and intuitive interfaces.
+
+
+!!Acknowledgements
+Many Thanks to Alexander Kaiser, Florian Kragulj and Thomas Grisold for supervising this project, to Katharina Rötzer for helpful ideas and to three anonymous reviewers for helpful comments.
+
+
+!!References
+[1] S. K. McLeod, “Knowledge of need" International Journal of Philosophical Studies , vol. 19, no. 2, pp. 211 - 230, 2011.
+[2] A. Kaiser, B. Fordinal, and F. Kragulj, “Creation of need knowledge in organizations: An abductive framework," in System Sciences (HICSS), 2014 47th Hawaii International Conference on. IEEE, pp. 3499 - 3508, 2014.
+[3] F. Kragulj, “Interacting with the envisioned future as a constructivist approach to learning" Constructivist Foundations, vol. 9, no. 3, pp. 439 - 440, 2014.
+

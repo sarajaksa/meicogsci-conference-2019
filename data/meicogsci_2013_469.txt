@@ -1,0 +1,23 @@
+... title: !!!! Effects of Death Priming on Risky Behavior Engagement
+
+
+
+Abstract
+
+!!!! Effects of Death Priming on Risky Behavior Engagement
+
+Terror management theory (TMT) states that by creating a culture, humans try to gain a sense of immortality in order to overcome death related thoughts. In TMT, self-esteem is considered to be an anxiety buffer against potential fear of death found in death primed people [1]. Furthermore, the likelihood of performing a risk-taking action rises when the possibility of a negative outcome is perceived to be minimal or the potential gain is perceived to be great [2]. Correspondingly, individuals may tend to engage in risky behavior if it is likely to raise their self-esteem [3]. We investigate this relation by examining the impact of death primes on a simple risk taking task.
+
+The study comprises three distinct phases.
+
+In the first phase, the participants are separated in two groups based on visual death/pain priming by ten simple word recognition tasks. The priming is conducted by a Java applet which instructs subjects to classify words in verbs and nouns.
+The second, incubation phase lasts five minutes and consists of thirty simple tasks: unrelated questions with a purpose to distract subjects from conscious death/pain thoughts.
+In the third phase, the Balloon Analog Risk Task (BART) method is applied. The participants are presented with ten virtual balloons sequentially, and asked to inflate them by pressing a keyboard key, receiving one virtual dollar for each press/inflation. The exact moment of the balloon burst is unknown and randomized, thus ten balloons will be inflated either to the level determined by the subject, or to the level of burst. Point of burst is set to be different for every of the ten balloons but same for all participants in both groups. The participant receives no virtual dollars for a particular balloon in case of burst and the goal is to collect as many virtual dollars as possible.
+
+In our hypothesis, we expect death primed subjects to engage in risky behaviors more, due to the deprivation of their beliefs and cognitive control. This aspect is observed also as the sum of all inflations regardless of the outcome. Should the death primed group significantly outperform the pain primed group in the total number of inflations, this study will provide another perspective of relation between the TMT and risk-taking behavior, using a unique combination of methods.
+
+!! References
+[1] T. Pyszczynski et al., “A dual-process model of defense against conscious and unconscious death-related thoughts: an extension of terror management theory,” Psychological review, vol. 106, no. 4, pp. 835–45, Oct. 1999.
+[2] R. F. Baumeister and S. J. Scher, “Self-defeating behavior patterns among normal individuals: review and analysis of common self-destructive tendencies,” Psychological bulletin, vol. 104, no. 1, pp. 3–22, Jul. 1988.
+[3] H. Ben-Zur and M. Zeidner, “Threat to life and risk-taking behaviors: a review of empirical findings and explanatory models,” Personality and social psychology review, vol. 13, no. 2, pp. 109–28, May 2009.
+

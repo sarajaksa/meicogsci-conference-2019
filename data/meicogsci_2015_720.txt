@@ -1,0 +1,22 @@
+... title: How Ladylike Is a Ladybug? – Making Sense Of Noun-noun Compounds in Context
+
+
+
+Abstract
+
+!!Introduction
+Many psycholinguistic experiments have studied the processing of compounds and investigated the role of the two compound constituents, their transparency and the relevance of headedness [1]. These experiments usually use lexical decision tasks on lists of single compounds, where understanding is established mostly by bottom-up decomposition of the constituents or by holistic lexical access [2]. The problem with such studies is that we normally do not encounter compounds in isolation but in the context of a text or conversation. Yet, in text linguistics and corresponding psycholinguistic experiments text comprehension has been shown to involve top-down-processing [3]. Already the first sentence of a text creates expectations about what is to follow and the importance of bottom-up processing is diminished. 
+Consequently, this paper wants to investigate how top-down and bottom-up processing interact in the comprehension of compounds of different transparency in the context of a minimal text. Moreover, the cross-linguistic differences between L1 German and English speakers and the processing of native versus non-native English speakers are studied.
+!!Experiment
+20 native German speakers and 30 non-native English speakers are tested at Vienna University and 20 L1 English speakers at Brock University, Ontario.
+Participants have to read 2-sentence stories and then intuitively rate on a scale from 1 to 4 how much sense the story makes. The two sentences are presented on the screen, appearing word by word with each press of the space bar. 
+The material consists of 64 triplets of sentence sequences with lexical, semantic or neutral priming: The first sentence of a sequence is always the same except for the last word, which is either identical to one of the compound constituents, semantically related or neutral. The second sentence is identical for each triplet with the target compound always in second position after a determiner. 
+!!Preliminary Results
+It is expected that top-down processing will have the most impact in lexical priming and the least in neutral priming. Accordingly, the reaction time for the target compound and the whole second sentence should be shortest for lexical and longest for neutral priming. Analyses of German native speakers so far confirm these expectations. Regarding L1 versus L2 differences, it is anticipated that bottom-up effects will be stronger for L2 English speakers due to higher metalinguistic awareness.
+!!Acknowledgements
+Special thanks to W.U. Dressler and Gary Libben for the many weekends they sacrificed.
+!!References
+[1] G. Libben. “The nature of compounds: A psychocentric perspective”. Cognitive Neuropsychology, vol. 31(1-2), 8-25, 2014.
+[2] G. Libben, et al. “Compound fracture: The role of semantic transparency and morphological headedness”. Brain and Language, 84(1), 50-64, Jan. 2003.
+[3] W. Kintsch and T. A. van Dijk. „Towards a model of text comprehension and production”. Psychological Review, 85(5), 363-394, 1978.
+

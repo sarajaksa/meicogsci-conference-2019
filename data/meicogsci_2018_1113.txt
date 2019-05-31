@@ -1,0 +1,27 @@
+... title: Academic Writing and the Enactive Approach: An Empirical Pilot Study
+
+
+
+Abstract
+
+## Context
+
+Writing is the fundament of any academic work. It constitutes the main channel of communication between researchers. However, most fields related to cognitive science employ an understanding of writing as a “representation of the world”. This view takes up the notion that “things in the world out there” can and need to be depicted accurately. Thus, academic writing is often seen as fulfilling the purpose to accurately depict a researcher’s findings and thoughts. 
+
+## Purpose
+
+While the referring epistemological notion is challenged by the enactive framework in cognitive science, a corresponding revision of academic writing is still waiting. In this regard, first theoretical foundations have recently been laid out [1]. According to this enactivist account, academic writing is understood as a process in which a writer enacts a world together with others. This world-making is shaped by artefacts (e.g. texts), by the writer’s epistemology, and by the academic community. The project’s aim is to empirically explore the potential of enactivism for reconceptualizing writing processes and writing didactics.
+
+## Method
+
+To empirically explore this theoretically grounded view, empirical data was acquired through two methods: (1) Phenomenological interviews; Conducting and qualitatively analysing phenomenological interviews focusing on the lived experience during writing; (2) Descriptive behavioural observations; Collecting and categorizing behavioural data from observing writers while they were working. The focus was on artefacts used.
+Academic writers have been observed in the context of a so-called “writing marathon” during which academic writers, in this case university students, work on real projects such as their master thesis. Thus, the writing environment was structured, standardised, and controlled and at the same time real projects were investigated. This aspect of the study design distinguishes this study from other work on academic writing as most of the previous studies investigated the production of dummy texts. Furthermore, research methods were employed which are as non-invasive as possible to minimize interruptions of the writing process. The aquisition, analysis, and interpretation is embedded in an academic writing research project  with Brigitte Römmer-Nossek, Erika Unterpertinger, Frano Rismondo, Klara Dreo, Claudia Hackl, Marcela Hubert, Jadpreet Kaur. 
+
+## Implications
+
+This pilot study and according follow-up studies may have an impact on academic work on two pathways. First, the results could inform new writing didactics which support future generations of researchers in their writing. Second, the epistemological reframing of academic writing could trigger more general discussions about underlying presumptions of academic work.
+
+## References
+
+[1] B. Römmer-Nossek, “Academic Writing as a Cognitive Developmental Process: An Enactivist Perspective,” Dissertation, University of Vienna, Austria, 2017.
+

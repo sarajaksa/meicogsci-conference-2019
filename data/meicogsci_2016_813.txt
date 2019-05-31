@@ -1,0 +1,19 @@
+... title: Modality specific topographies of P3 event related potential
+
+
+
+Abstract
+
+!!Introduction
+P3 (also P300) is an event related potential (ERP) measured mostly over the parietal cortex with onset from 250 ms to 500 ms after stimuli presentation. It is also the first ERP thought to be independent of sensory modality and connected to higher levels of processing, in particular attention and memory [1]. Even though the P3 stands as one of the most studied ERPs, there are still some unresolved questions regarding the origin of its underlying neural generators. 
+Our goal was to examine the electrophysiological correlates of attentional processes in the auditory and visual modality. For this purpose, we build on a similar study conducted at Laboratory for Cognitive Neuroscience Dreo et al. (2014) which is currently in press, and introduce some major methodological modifications. The main research question was whether attentional focusing takes place along one unified processing pathway in a modality-independent fashion, or if there are multiple attentional processing pathways for specific sensory modalities.
+!!Methods 
+A high resolution EEG with 128 recording channels was used to record data from 30 healthy participants (20 female) during a classical three-stimuli oddball task. Participants were asked to mentally count randomly presented target stimuli and ignore more frequent standard and distractor stimuli. There were four different experimental conditions with varying task difficulty (easy and hard) and task sensory modality (visual and auditory). Individualized task difficulty was determined on the basis of just noticeable difference (JND) between standard and target stimuli obtained by an adaptive up and down step algorithm and not generalized over all participants as in preceding study [2]. The differences between standards and targets were in terms of the angle of inclination and sound frequency for the visual and auditory modality, respectively. Distractors were matched to targets by duration and loudness or brightness.  
+!!Results 
+We are currently still analyzing the data, but the final results will be available by the time of the conference.
+!! Discussion
+There are promising results from a previous study that show topographical inter-modality differences in P3 bilaterally in central and parieto-occipital regions [2]. However the mentioned study used clicking with finger as a response to target stimuli. To further test that these results are not a consequence of different motor cortex activations during clicking, we introduced mental counting as a response to targets. 
+!! References
+[1] J. Polich and M. R. D. Heine, “P300 topography and modality effects from a single-stimulus paradigm,” Psychophysiology, vol. 33, no. 6, pp. 747–752, Nov. 1996.
+[2] J. Dreo et al., “The P3 cognitive event related potential has at least some sensory-modality specific generators, evidence from high-resolution EEG”, unpublished.
+

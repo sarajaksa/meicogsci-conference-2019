@@ -1,0 +1,43 @@
+... title: Making Sense
+
+
+
+Abstract
+
+I believe that there is a misconception of the nature of the mind. I invite you to challenge your ideas about objectivity, the brain as just a reactive mechanism, and several other things a proper scientist usually does not question. I will lay out a philosophic argument, on why any "monopolistic" all-explaining Ism necessarily brakes down once the mind (as being the observer at the same time) is included in a holistic explanation of the world. This is even the case with scientist's favoured paradigm of explanation, Physicalism (when claiming universality).
+
+In the second part I will use the insight, that different paradigms can and should be "equal, first class citizen" for the description of the world (when including the mind), to present a paradigm of subjectivity and constructionism, complementing Physicalism. It is motivated by the an analysis of Natural Science's main (and, in fact, also the layman's intuitive) forms of description (Things, Agents, Cause and Effect, and the ephemeral term Emergence).
+
+To demonstrate the usefulness of a complementary subjective paradigm, an experiment in developmental robotics is conducted as part of the Master Thesis, where a robot agent, as the source of active involvement with the world, actively seeks to learn ways of manipulating it's environment to yield certain properties of it's sensation. It will literally try to "make sense".
+
+
+
+1) The mathematics of the mind, or, the Science of Scientist
+
+Why does Science and the Scientist not mix? Fundamentally, Cognitive Science aims to be the Science of the mind, which necessarily includes the (hopefully, thinking) scientist. On a second thought, this seems paradox. Natural Sciences base themself on the paradigm of an independent observer, who strictly not interferes (or rather, does not exist, for all purposes!) with the object of study, so as not to influence it. There is a very strong reason to do so, as we will see. But unfortunately that trick simply does not work in the object of study in Cognitive Science.
+
+So, how can we ever have the slightest hope of explaining the observer herself by this paradigm, if it is a priori axiomatically excluded? Trying to include it leads to "homunculus argument" fallacies, or artificial paradoxical partitioning like cartesian dualism.
+The realisation, that the necessary distinction of observer and observed is not possible, as it is in literally any other science, might sound fatalistic to some of you. Some will surely opt for a religous stance (there are things science can't explain), but instead I invite you to explore with me the restrictions and requirements of paradigms for a Science of the Scientists, or the Science of the Mind, as it is more generally called, and discover the possibility of peacefully coexisting paradigms of explanation, complentary to Physicalism.
+
+
+The starting point of the argument is the connection of Natural Science to Mathematics, and Godel's Incompleteness Theorems, to show that any complete Theory of the World including the mind necessarily leads to contradictions, which is the reason to usually exclude the observer from the description (objectivity in Physicalism).
+
+To summarise my argument, by relating fundamental restrictions of mathematics to the specific challenge of Cognitive Science, we can conclude that our paradigms /necessarily/ need to brake down at some points, and we can only gain completeness of a unified theory by losing it's logical consistency (as with e.g. materialism, classical forms of dualism, etc.). As an alternative, I propose the coexistence of complementary (non-unifiable) Paradigms.
+
+
+2) Why Emergence is an ephemeral concept, why this is good, and how this illuminates a possible paradigm to complement Physicalism
+
+As the previous philosophic argumentation might seem remote to actual practical problems, I continue to illustrate it with the concept of Emergent behaviour.
+
+An important aspect of this interpretation of Emergence is, that the notions of things, agents, cause and effect, are conceptions of the mind, and not properties of the perceived world. I would even go as far as claiming, that the brain is hardwired to interpret the interactions with the world in terms of things, agents, causes and effects. For corroborating evidence, i want to point to the theory of quantum mechanics. With certain phenomena (e.g. interactions between distinct quantum particles/their wave functions) the concept of causality or even thing-ness simply is not sensibly applicable (unless one conceives a paradoxical particle-wave dualism). These counter-intuitive behaviours of nature puzzled Physicists for the better part of the 20th century, and for many people, quantum theory is "the level of physics where common sense stops to work". Boldly put, the physical "laws of nature" are inappropriately named so, and are just (albeit highly useful!) projections of the scientifically engaged mind, illuminating the nature of it's environment.
+
+So, here we finally arrived at a subjective notion of the mind explaining the interactions of the world via a set of tools (things, agents, causes and effects), which exist only in the mind. This mind frees itself from the reactive imperative of (objective) Physicalism, as it is up to itself, how it sees (or, constructs) the world. It's emenating actions influence it's receiving sensation, and whether something belongs to the emancipated mind or not, is also decided by the mind itself. The mind is literally Making Sense.
+
+Is this a sensible paradigm? I think so, as it complements nicely Physicalism in areas where it fails spectacularly (like explaining free will), whereas Physicalism can take over where the notion of a subjective construction of the world would get questionable (e.g. with inanimate objects, laws of nature, etc. that don't stop to exists when you die). Both paradigms are consistent (as to not yield contradictions when applied recursively to themself), but their validity can not be proven, just believed.
+
+
+3) Application to autonomous agents
+
+Up to now, we were deeply involved in a highly philosophical discussion, and one might ask whether this yields any new insights, or methods in everyday, "real" things, say the design of autonomous agents? The use of a dual subjective constructionist/objective physicalist approach yields a nice way to consolidate different strategies of problem solving in robotics. Classical AI (and also Connectionsm), on one hand, represent the objective approach, and one would be mad to ignore the impressive solutions AI research found for a number of problems. The subjective approach, on the other hand is implicitely taken by proponents of embodiment, social and developmental robotics, where internal subjective notions of the agent are projected by it's interaction, or "imprinted" on the problem, leading the solution by rather limiting the problem than enabling computation. A good example is the use of "emotion" states for modelling an agent's modes of operation. From a purely objective point of view this is totally superfluos, but makes sense the second we understand that this "humanises" the agent, thus making it more similar to what we are used to in everyday life (and thus easier to handle).
+A second example is an agent, which genuinely acts on the environment to yield a desired measurement, or to structure it's sensory input in a certain way. The agent is considered to be the prime source of cause, a view which simply is not possible with the objective reactionary paradigm of Physicalism.
+

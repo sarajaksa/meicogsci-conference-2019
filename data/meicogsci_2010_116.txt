@@ -1,0 +1,31 @@
+... title: Automatic detection of security issues using the methods from AI
+
+
+
+Abstract
+
+Computer security is a very fast developing branch of computer science. The main reason is that the computer criminality is growing even more rapidly. The targets of computer attacks are not only big organisations or governments, but also ordinary home users. Think about how much your personal information is stored either on your own computer or on the Internet. Consider how much of your daily life depends on computers: communication, transportation, entertainment, or shopping. Computer security comes from the need to safeguard such information systems. Computer security also involves preventing, detecting, and responding to attacks or other security violations. We need to deal with such attacks by searching for new solutions using either the existing methods or developing new ones.
+
+This work describes methods and algorithms known from Artificial Intelligence (AI) and Machine learning for detecting computer security issues. These methods are attracting more and more attention nowadays. In contrast to currently used Intrusion detection systems (IDS) [1], AI offers learning ability, flexibility, and greater user comfort which are necessary properties when trying to deal with recent security threats.
+
+The main goal of this work is to present an AI-based model of an IDS system consisting of couple of subsystems. I will implement some of these subsystem as computer programs and present the results obtained with them.
+
+The first subsystem I will look at is a network firewall [2]. Today, the most common network firewalls are rule-based. They use symbolic approach, i.e. the rules in rule-base are written in a special artificial or also natural language. Firewall's "knowledge" consists of set of rules which defines a group of network data, called packets, with possible actions like allow and drop. Firewall than upon these rules process all packets going through. I will use the Multilayered perceptron (kind of Artificial neural network [3]) to learn the rules from observing the "normal" state of the network, and than detecting the abnormalities. I will analyse the learning process and the properties the "encoded" rule-base in the neural network, especially the implications of the Gold's theorem [4].
+
+Another subsystem is a network traffic flow monitor which will work similarly to the network firewall system, namely, as a anomaly detector of the network bandwidth usage. High deviances, either they are higher or lower than the "normal" state, could mean a possible attack or hardware failure and should be reported. I will describe solutions using Multilayered perceptron and Holt-Winters method (a time series analysis method).
+
+Next, I will characterise a subsystem learning the patters of how fast are messages written to a log file or multiple files. Higher-amplitude changes from the standard write speed or amount of data written could correlate with potential security problems. Either an attacker repeatedly attempts to remotely log on the machine or a important program suddenly stops to write usual logs entries. I will discuss possible implementation methods.
+
+Finally, I will describe the intelligent IDS system, which will generate alerts for users (administrators) upon signals (and correlations among them) coming from the subsystems mentioned above. Some sophisticated attacks could not trigger an alarm on none of the subsystems, but together, the signals could create a characteristic (potentially fuzzy) pattern which can be learnt, detected, and reported. Of course, a ready-to-use IDS would need many other modules and parts, like a user interface, but this is beyond the scope of this work.
+
+Motivation for this work was researching this interesting branch of applying AI techniques in terms of the growing attention to deal with computer security.
+
+Results from the implementation of the stateful firewall subsystem are promissing. However the classification rate is above 99%, there is still place for further improvements and research.
+
+References
+
+[1] K. Scarfone and P. Mell. Guide to Intrusion Detection and Prevention Systems (IDPS). Special Publication 800-31, National Institute for Standards and Technology (NIST), 2007.
+[2] A. Wool. Packet filtering and stateful firewalls. John Wiley & Sons, 2006.
+[3] S. Haykin. Neural Networks: A Comprehensive Foundation (2nd Edition). Prentice Hall, 1999.
+[4] E. Mark Gold. Language identification in the limit. Information and Control, 10(5):447-474, 1967.
+

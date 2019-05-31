@@ -1,0 +1,18 @@
+... title: Contact Points Between Psychoanalysis and Neuroscience
+
+
+
+Abstract
+
+What are the contact points between psychoanalysis and neuroscience? Recent research shows that the psychoanalytic approach is not necessarily inconsistent with a biological approach when talking about behaviour. In recent years there are many researches that are reconnecting both disciplines; by investigating how psychotherapy affects brain, by studying psychological processes in patients with brain injuries and trying to explore neural correlates of psychoanalytic concept.
+One of the main themes of this comparison, in the light of current knowledge on the mechanisms of neural plasticity, is about the possibility that psychoanalysis and psychotherapies can change the functioning of the brain. The similar findings, for example, were observed by Erik Kandel [1] who has discovered a protein in the nervous system that plays a key role in turning short-term memories into long-term memories, and therefore he believes that the experience produces physical changes in neurons by activating or disabling genes. This plasticity, which involves every kind of experience, implies that the dynamics of the psyche, conscious or unconscious, could be reflected in neural dynamics.
+Another comparison regards exploring neural correlates of psychoanalytic concept particularly psychological strategies. My study will observe defense mechanisms and similarities with brain injury symptomatics. The discussion will continue on neuropsychological and imaging findings in neuropsychiatric disorders in relation to neural integration and specific defense mechanisms.
+The term defense mechanisms was coined over 100 years ago to describe a construct of psychological mechanisms for coping with intra-psychic conflict. Defense mechanisms are complex emotional-cognitive constellations and require specific functional mechanisms to integrate neuronal activity across several brain regions. [3] The list of defence mechanisms is enormous and there is no theoretical consensus on the number of them. In my study I will present the predominating ones, attempting to relate them with principles of neuronal integration.
+In conducting an experimental work an appropriate methodology will be used. This is a methodological strategy developed by Northoff et al. [2] and it is called “first person neuroscience”. It systematically links subjective first-person experience (defense mechanisms are first-person data) to the third-person observation of neural states.  
+On the other hand there are several neurological disorders with similarities that one can find in manifestations of defense mechanisms. An example is a neurologic disorder of anosognosia where the patients develop lack of awareness of his or hers own sensory and motor deficit. The symptomatics can be correlated to the defense mechanism of denial where patient fails to recognize obvious implications or consequences of a thought, act or situation. However some authors (in [3], p15) state that anosognosia might be the result of a defensive reaction based on motivation, including the strong need for self-respect and the inability to cope with failure and loss.
+
+
+[1] Kandel, E. R. (2008). Psychiatry, psychoanalysis, and the new biology of mind. American Psychiatric Pub.
+[2] Northoff, G., Bermpohl, F., Schoeneich, F., & Boeker, H. (2007). How does our brain constitute defense mechanisms? First-person neuroscience and psychoanalysis. Psychotherapy and psychosomatics, 76(3), 141-153.
+[3]Northoff, G., & Boeker, H. (2006). Principles of neuronal integration and defense mechanisms: Neuropsychoanalytic hypothesis. Neuropsychoanalysis: An Interdisciplinary Journal for Psychoanalysis and the Neurosciences, 8(1), 69-84.
+

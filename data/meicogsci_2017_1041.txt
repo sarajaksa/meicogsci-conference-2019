@@ -1,0 +1,29 @@
+... title: Meaning in Morphological Decomposition
+
+
+
+Abstract
+
+!! INTRODUCTION
+When we recognize a word, we process it by first dividing it into morphemes [1]. This means that, upon encountering a word like »unlikely«, we subconsciously decompose it into parts like »un«, »like« or »ly«. Research has been done on how this happens for various kinds of words and theoretical models of word processing have been put forth. It is also known that the meaning of a word plays a role in word recognition. However, information on the relation of meaning and morphology in word processing is scarce.
+!! PROBLEM
+By stripping the prefix of a word, we sometimes get a non-word (submit → mit), sometimes a word that seems to be related to it in meaning (reconstruction → construction), other times a word that seems to be very unrelated (extent → tent). It is not entirely clear how the word-root relationship influences word processing.
+!! GOAL
+The goal of the research is to find out what the role of meaning is in the processing of morphologically (more or less) complex words, according to morpheme count.
+When this question is reformulated as a hypothesis, it is expected that mean measured reaction times in a lexical decision task would increase in the following fashion:
+1.	non-words regardless of prefixation
+2.	non-prefixed words
+3.	prefixed words with semantic counterpart
+4.	prefixed words with unrelated counterpart
+!! METHOD
+40 native slovene-speaking students, aged 19–29 will take part in a lexical decision task. There are about 400 stimuli in total. Reaction times will be gathered by measuring the button-press latency on a computer after the stimulus appears on the screen.
+The measurements for each stimulus will first be averaged across participants, then data for stimuli with a relevant number of incorrect answers will be excluded. The data will be analyzed for relevant differences across the different conditions. The details of the analysis are still to be elaborated.
+!! EXPECTED RESULTS
+Confirmation of the hypothesis would suggest that semantic relations influence word recognition as a standalone process. However, rejection of the hypothesis offers more interesting scenarios:
+˗	A longer reaction time for prefixed than non-prefixed pseudowords: morphologically complex words are recognized slower simply due to sharing (part of a) form with other words (that share the morpheme) without it necessarily being an actual (meaningful) morpheme.
+˗	A similar latency for all prefixed words: semantic properties of word recognition in this case play no role in word recognition.
+˗	A higher reaction time for unrelated groups (prefix and non-prefix): recognition is throttled only by semantic and not morphological interference.
+˗	A higher reaction time for related groups: word recognition takes longer due to unexpected interference of the word that is homonymous with the root morpheme.
+!! REFERENCES
+[1] M. Taft, “Recognition of affixed words and the word frequency effect,” Memory & Cognition, 7, pp. 263–272, 1979.
+

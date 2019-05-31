@@ -1,0 +1,25 @@
+... title: Relationship Between Natural and Cultural Evolution of Humanity and the Development of Human Mind - Mathematics and Abstract Thinking
+
+
+
+Abstract
+
+!!!! Relationship Between Natural and Cultural Evolution of Humanity and the Development of Human Mind - Mathematics and Abstract Thinking
+
+The main problem the paper presents is how to explain complex frame of the present-day human mind with data and theories from human evolution. Examples from biological and cultural evolution are used. Since the early hominid evolution both are integral parts of the evolution of the species.
+
+!! Introduction
+There are several hypotheses regarding the incidence of human mind. Researchers who study animal cognition give attention to the importance of mental continuity. The most similar to humans are species with the common ancestor, i.e. the primates. Researchers of comparative animal cognition presented different hypotheses about the incidence of human mind: (1) Vygotskian hypothesis [1], (2) social intelligence hypothesis [2] and (3) cultural intelligence hypothesis [2].
+
+Humanity differs from other animals with its ultrasociality and cumulative culture. The latter provides humans accumulation of knowledge and tools development, i.e. industries and technologies no other species use. Mental representations among humans are changing through time and their complexity rises. Dean et al. [3] made an empirical study where they compared chimpanzees, capuchin monkeys and human infants. Their results showed that human infants solve tougher tasks much better. Human infants used three important socio-cognitive processes: teaching through verbal instruction, imitation, and prosociality.
+
+!! Aim
+The objective of this paper is to present interdisciplinary (evolutionary biological, anthropological, psychological, philosophical and neuroscientific) arguments relationship between natural and cultural evolution with insights of cognitive science. Human species' history and environment will be specifically stressed, i.e., cognition which gives strategic advantage to an individual in his/her struggle for survival. This is indeed a very broad topic, therefore, the presentation will focus on comparative analysis of processes human beings use in mathematics. 
+
+The main part of the paper will analyze various empirical and theoretical observations regarding recognition of quantity, counting and complex mathematics in animal species and humans. Studies showed that rhesus macaques (Macaca mulatta) can distinguish between small numbers (< 4), but when numbers are higher, the ability to distinguish precisely between amounts becomes more difficult. The question arises of how to go from distinguishing quantities to mathematics. The goal of the paper is also to propose new empirical approach in which we may test how cultural and natural aspects in human evolution relate to the shaping of human mind and works of activities.
+
+!! References 
+[1] H. Moll and M. Tomasello. “Cooperation and human cognition: the Vygotskian intelligence hypothesis.” Phil Trans R Soc B, vol. 362, pp. 639-648, 2007.
+[2] E. Herrmann, J. Call, M. V. Hernandez-Lloreda, B. Hare and M. Tomasello. “Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis.” Science, vol. 317, pp. 1360-1366, 2007.
+[3] L. G. Dean, R. L. Kendal, S. J. Schapiro, B. Thierry and K. N. Laland. “Identification of the Social and Cognitive Processes Underlying Human Cumulative Culture.” Science, vol. 335, pp. 1114-1118, 2012.
+

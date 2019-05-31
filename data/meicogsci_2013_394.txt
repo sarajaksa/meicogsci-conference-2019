@@ -1,0 +1,10 @@
+... title: CATOS (Computer Aided Training/Observing System)
+
+
+
+Abstract
+
+!!!! CATOS (Computer Aided Training/Observing System)
+
+In animal behavioral biology, there are several cases in which an autonomous observing/training system would be useful. 1) Observation of certain species continuously, or for documenting specific events, which happen irregularly; 2) Long- term intensive training of animals in preparation for behavioral experiments; and 3) Training and testing of animals without human interference, to eliminate potential cues and biases induced by humans. The primary goal of this study is to build a system named CATOS (Computer Aided Training/Observing System) that could be used in the above situations. As a proof of concept, the system was built and tested in a pilot experiment, in which cats were trained to press three buttons differently in response to three different sounds (human speech) to receive food rewards. The system was built in use for about 6 months, successfully training two cats. One cat learned to press a particular button, out of three buttons, to obtain the food reward.
+

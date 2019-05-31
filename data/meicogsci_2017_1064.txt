@@ -1,0 +1,22 @@
+... title: Like if reductionist, comment if non-reductionist: A Comparison of the Almetric Perfomance in Neuroscientific Literature
+
+
+
+Abstract
+
+Critical neuroscience (CN) [1] as an initiative was born in Berlin around a group of young researchers with various backgrounds (e.g., neuroscience, philosophy, sociology). Their common worry was the “neurohype” in science, especially the humanities, driven by the advancement of neuroimaging technology during the last two decades. With the emergence of new neuro-inspired disciplines in the social sciences (e.g., neuroethics) they emphasise the need for scrutiny in the face of increasingly reductionist approaches.
+
+Scholarly communication (SC), the study of the creation, evaluation, and dissemination of research, has experienced a renaissance with the recent publication crisis and rise of social networks [2]. Social media have become an integral part of society, including the scientific community. Not only are popular services, such as Facebook and Twitter, used and embraced by academics, but platforms tailored to the needs of researchers, like ResearchGate and Academia, are highly successful. While the traditional academic incentive system is driven by grants, publications in high impact factor journals, and citations, the recent success of social media have given rise to alternative metrics of science impact (altmetrics).
+
+Confronted with increasing interest in neuro* methods across all sciences [1] and an ever accelerating and interconnected system of SC [2], this work intends to investigate whether reductionist intepretations of neuroscientific findings perform better in their altmetric scores. Almetrics introduced an alternative to the traditional academic incentive system ("publish or perish") and, thus, the interpretation of neuroscientific findings (reductionist vs non-reductionist) might represent a publication bias for academics working in the cognitive sciences.
+
+I want to investigate the difference between reductionist and non-reductionist interpretations of neuroscientific findings. While the original piece might be wary of any philosophical conclusions,  the intepretations (in e.g., scientific articles, news articles or blogposts) might interpret the results in a different way. I assume that reductionist interpretations will achieve better altmetric scores on social media.
+
+Due to the early stage of this project two main questions still need to be discussed: (1) the selection of the intitial set of articles will strongly influence the validity of the results and (2) the distinction between reductionist and non-reductionist poses a critical question, that requires a careful review of the existing literature. While being aware of the constraints, I still hope that the results will show that SC and empirical research can contribute to a CN.
+
+!!References
+
+[1] S. Choudhury and J. Slaby, Critical neuroscience, 1st ed. Chichester, West Sussex: John Wiley & Sons, 2016.
+
+[2] C. Sugimoto, S. Work, V. Larivière and S. Haustein, "Scholarly use of social media and altmetrics: a review of the literature", arXiv preprint, 2016.
+

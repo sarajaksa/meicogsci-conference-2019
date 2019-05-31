@@ -1,0 +1,18 @@
+... title: Behavioural and Electrophysiological Characteristics of Cognitive Control: A Comparison of Healthy and Clinical Groups
+
+
+
+Abstract
+
+Cognitive control is essential for higher cognitive functioning. It is the ability to flexibly adapt behaviour to the requirements of a particular task, preferring the task-relevant goal-oriented information over other competing ones [1]. The theory of dual mechanism (DCM) [2] proposes the existence of two distinctly operating modes – proactive control as a form of ‘early selection’ and reactive control as a ‘late correction’. The DCM framework was built on a simple delayed-response paradigm known as the AX-Continuous Performance Task (AX-CPT), where participant is instructed to respond every time a cue A is followed by a probe X. It was shown that diverse situational factors can lead to a shift in cognitive control strategy [3] and a strategy usage also varies amongst different age groups, and between healthy and clinical groups; which results in distinct brain activation profiles and behavioural performance characteristics [2].
+Therefore, the aim of this work is to study behavioural and electrophysiological characteristics of two healthy (young and old adults) and three clinical groups (Parkinson diseased patients in early stage and in later stage with cognitive impairments, and Alzheimer’s dementia patients/patients with mild cognitive impairment without other specification), since those clinical groups are highly untested. We compare them in accordance with the age and clinical condition. The participants' EEG activity was measured during AX-CPT in four different conditions: AX-70 (70% of AX trials, 10% of BX, AY and BY trial type separately), BX-70 (70% of BX trials and 10% of others), short delay between the cue and the probe (1.5s), and long delay (4s). 
+Apart from the fact that the results may bring a deeper theoretical knowledge of the nature of cognitive control, they may be beneficial in terms of better understanding of the chosen neurodegenerative diseases on the cognitive and behavioural level. In addition, abnormalities found in ERP components may be linked to an alteration of cognitive processing and may be of clinical relevance in early diagnostics of those neurodegenerative diseases.
+
+!!References:
+
+[1] M. M. Botvinick, T. S. Braver, D. M. Barch, C. S. Carter, & J. D. Cohen, "Conflict monitoring and cognitive control", Psychological review, vol. 108, pp. 624-652, 2001.
+
+[2] T. S. Braver, "The variable nature of cognitive control: a dual mechanisms framework", Trends in cognitive sciences, vol. 16, pp. 106-113, 2012.
+
+[3] C. Gonthier, B. N. Macnamara, M. Chow, A. R. Conway, and T. S. Braver, "Inducing proactive control shifts in the AX-CPT", Frontiers in Psychology, vol. 7, pp. 1-14, 2016.
+

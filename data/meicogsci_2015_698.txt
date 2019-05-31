@@ -1,0 +1,23 @@
+... title: Modality Differences in Processing of Auditory and Visual Oddball Tasks: a High-resolution EEG Study of P3
+
+
+
+Abstract
+
+!!Introduction
+Electrophysiological studies of attention are mostly connected to EEG measurements of the P3 event related potential (also named P300). P3 is not a unitary phenomenon – it contains two temporally, functionally and topographically distinguishable subcomponents: P3a and P3b. The first originates from stimulus-driven disruptions of frontal attention engagement during task processing, while the latter can be observed when temporal–parietal mechanisms process stimulus information for memory storage [1]. P3 is usually elicited using the oddball paradigm in which target stimuli are randomly mixed with standard stimuli and possible distractors that are presented to the subject. Even though the P3 potential is a widely studied event related potential (ERP), there has been no conclusive evidence for different processing of stimuli from various modalities. Some initial evidence for sensory-modality specific generators of a cognitive P3 potential has been presented by Dreo, Attia and Pirtošek [2]. Our study will examine the electrophysiological correlates of attentional processes in two different modalities; auditory and visual. The main question to be answered is whether attentional focusing takes place along one unified processing pathway in a modality-independent fashion, or if there are rather multiple attentional processing pathways for specific sensory modalities. 
+
+!!Methods
+Healthy, young adults (N=30) were asked to participate in the study. They will be required to participate in three separate sessions, during which their brain activity will be recorded with a 128-channel EEG. Subjects will have to count the number of randomly placed targets (oddball) in a series of more common (standard) stimuli with distractors. There will be two types of conditions for each task set: task difficulty (easy and hard) and sensory-modality (visual and auditory). Special task sets were designed to determine task difficulty for each subject based on a modified transformed two-up one-down algorithm [3]. This adaptive algorithm will be used to determine a subjects’ personal just noticeable difference (JND). JND is a measure of the smallest frequency (auditory) or angle (visual) difference between standard and target stimuli, which subjects can consistently recognize. 
+
+!!Results
+EEG recordings are underway and will be available partly in 1 month and fully in 3 months, we base our expected results solely on the aforementioned pilot study [2]. They found that both P3a and P3b exhibited statistically significant (p < .001) differences in brain surface potentials in three distinct regions. For the P3b these were: 1) one medial-central around Pz, 2) two bilateral parieto-occipital regions and 3) two bilateral central regions. 
+
+
+!!References:
+[1] J. Polich and J. R. Criado, »Neuropsychology and neuropharmacology of P3a and P3b.« International Journal of Psychophysiology 60.2 (2006): 172-185.
+
+[2] J. Dreo, D. Attia, and Z. Pirtošek, “The P3 cognitive event related potential has at least some sensory-modality specific generators, evidence from high-resolution EEG” (2014-in press).
+
+[3] M. R. Leek, “Adaptive procedures in psychophysical research.” Perception & psychophysics, 63(8), 1279–1292.
+

@@ -1,0 +1,20 @@
+... title: Innovation Holograph - From Blind Spots to Innovation Potentials
+
+
+
+Abstract
+
+Innovation has been identified as the key driver of economic stability and sustainable growth [1]. Hence, there has been a drastic increase in innovation management tools, most of them reflecting the idea that innovation can be produced in a mechanistic manner. Results are therefore mainly incremental, i.e. rather superficial adaptations of already existing products and services. On the other side of the spectrum is the concept of emergent innovation [2], aiming at bringing forth fundamentally new - yet organically fitting - knowledge and products that will have a disruptive impact on the environment. I argue that, in order to be successful, organizations will need to create innovations of the latter kind. This requires a phase shift in organizational mindset and practices: from managing to enabling innovation. How can that be achieved?
+
+Following Fleck [3], products, organizational culture and practices are determined by thought styles. Innovation Holograph refers to them as "mental models", i.e. individual or collective interpretations of an (innovation) object or phenomenon. And while mental models are the glue holding an organization together, they are also creating “blind spots”, thus obscuring "sweet spots" for innovation.
+
+Innovation Holograph has been adapted from the FFG funded, COIN research project “Innovation Lens” (project no. 845942, developed by the University of Vienna and Salzburg Research). It aims at (1) identifying collective mental models, (2) twisting them through perturbations from "the outside world", and (3) - out of this interaction - revealing innovation potentials.
+
+The process has been designed for small to large sized organizations in various industries, evolving around a core team of around 10 members and extending over a period of two to three months. Various methods are used: Generative interviews, semantic mapping, circular questioning etc. Innovation Holograph is currently being tested within the project "Innovating Interpreting" at the Centre for Translation Studies at the University of Vienna. Phases 1 to 3 will be finished by End of June, results on process stability and qualitative outcomes are expected by mid July. 
+
+!! References
+
+[1] European Commission, "Europe 2020: A Strategy for Smart, Sustainable and Inclusive Growth: Communication from the Commission," Brussels, Belgium: Publications Office of the European Union, 2010.
+[2] M.F. Peschl, and T. Fundneider, "Theory-U and Emergent Innovation. Presencing as a method of bringing forth profoundly knew knowledge and realities,” in O. Gunnlaugson, C. Baron, and M. Cayer (Eds), Perspectives on Theory U: Insights from the field, Hershey, PA: Business Science Reference/IGI Global, Oct. 2013, pp. 207-233.
+[3] L. Fleck, “Schauen, sehen, wissen," in L. Fleck (Ed.), Erfahrung und Tatsache. Gesammelte Aufsätze, Berlin, Germany: Suhrkamp, Feb. 2011, pp.147-174.
+

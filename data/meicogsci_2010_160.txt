@@ -1,0 +1,23 @@
+... title: Utilization of text analysis in blog portal
+
+
+
+Abstract
+
+World Wide Web consisted mostly from a small number of information resources - servers, which belonged to the same small group of authorities, institutions, organizations. Most users, therefore, was passive - did not create any new content, only consumed it. Blogs at its beginning facilitating access to search for information, collect related information in one place, but an enormous increase in their numbers have become unclear, as the web itself. Blogs mass expansion allowed Web users leave their passivity and by their creative work or views often affect a huge number of visitors of their blogs.
+
+Therefore, the mechanisms for separation, classification, and such mechanisms are also tags (keywords) were induced. This also increases the efficiency of search and classification, but only in so far as user is able to use the "right" tags. Based on that, we propose an automated system that seeks to help bloggers by proposing appropriate tags while creating new posts. Simultaneously, this system should help on efficient retrieval and display of thematically related postings.
+
+People usually insert things, events, facts, in some groups of categories. The same tends to do well with their postings to the blog, put them somewhere, integrate them. And it is not always easy task, because every author wants to be read and thus wants people to find easily his postings. But if the blog portal contains a large number of articles from many authors, it is difficult to stand out among them. So by looking for the right tags, keywords, which would make blogger reach that goal quite often leads to a confusing choice which words choose as tags for that post. These tags have to very well reflect the content, not to be too much in count, because they can threaten that posting to be marked as spam, and ideally they must be properly selected keywords so that the article should appear as relative to the other articles of similar topics. More important part of this problem is that every author writes with his own language expressions used, and although she may describe the same thing, event, feeling, so another man could describe that with quite different words.
+
+Our proposed solution is a tool which offers suggestions for tags for a given new post to the blog. After submitting a new posting, system evaluate the input text by text frequency analysis and then propose a group of tags. These can be then used by author to tag his new post. Suggested tags should be words in a root form that occurred in some form in the analyzed text. This should extent solving the problem with synonyms, as group of tags is proposed. On the other hand built frequency table of words from all the articles analyzed gives the potential to further reduce this problem, because this table will also evaluate that tags which tend to occur together with other tags, thus can give these tags to the relation. For example, an article on Mastiffs would have occurred, among others, tags "Dog, Mastiff", for another article on the Labrador topic we find tags " Labrador, Dog." Thus on the basis of these two groups of tags, we can say that "Labrador, Mastiff" should be in relation.
+
+We also use word frequency analysis in the article (post) itself and also in all processed articles. Program creates his own frequency table, where are collected root forms of analyzed words, concretely only verbs and substantives, because they are usually the meaning bearing words in Slovak language sentences. Table also contents frequency of that words in analyzed articles and also a list of identifiers of that articles. The importance of the words in article is calculated by TF-IDF (1) value of every analyzed word from that article.
+
+The goal was to create a tool that can suggests relevant tags for the blog article. Program suggested tags even tend to reflect well the wider context, but sometimes have problem to strike a major point of article, since it is not always explicitly expressed in words directly. It is also possible to implement search feature for related articles with data from program's frequency table.
+
+The work could serve as a tool for first-person methodology of consciousness research, because it offers first-person data representation, which allows authors to analyze this data in number of interesting ways.
+
+References:
+1: TF-IDF = term frequency - inverse document frequency (http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+

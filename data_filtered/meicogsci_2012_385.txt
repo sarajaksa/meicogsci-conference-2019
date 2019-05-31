@@ -1,0 +1,34 @@
+... title: On the foundations of cognition and communication
+
+
+
+Abstract
+
+The workshop will focus on some fundamental problems of cognition and communication. Its main methodological tool will be a philosophical analysis of the following concepts: representations, sign, information, knowing and knowledge, virtuality, openness, reality and virtual reality, communication, community, culture, individual vs. social cognition. 
+
+Certain elements of cognitive science, information theory, communication theory, theory of culture will be referred and analyzed.
+
+In the representation of the subject matter of knowledge two essentially different strategies can be identified: the free and the bound (bound, non-free, connected, etc.) strategies. As an illustration the physiological vs. cultural representations can be mentioned. These different strategies have different boundaries (disabilities, limitations, etc.) and can be elaborated different mechanisms to transcend them. However, human beings can parallelly use both of these strategies, they can combine them. These “mixed strategies” of representation contain collections of components of the free and the bound strategies. Some aspects of these representation strategies will be shown. 
+
+Signs have a central role in every mechanism of representations. How can we understand the functioning and nature of the signs, taking into account that such scientific disciplines as semiotics, informatics, theories of communication, etc. apply also a concept of sign, but sometimes in really different meaning? Studying the representing beings - represented beings relations a philosophy of information can be disclosed. 
+
+A hermeneutic philosophy of information will be proposed: information is defined as interpreted beings. In other words: information is created by interpretation. Knowledge: a special kind of information. Information: the whole sphere of knowing, including essential and contingent relations. Knowledge: knowing the causes (Aristotle) – a restricted sphere of knowing. Taking into account the „as if” characteristics of signs easy to see that the very nature of the information is virtual one. 
+
+A better understanding of the concepts of virtuality (and openness) can be based on the Aristotelian concepts of potentiality and actuality. Virtuality and openness can be interpreted as two sides of the inseparable coexisting potentiality and actuality. Applying these ideas it is concluded that it is necessary to supply the Aristotelian dualistic ontological system with an additional sphere, and besides the actual- and potential forms of being to bring into being a third form of being (virtuality) in which the actuality and potentiality coexist in an inseparable unit. Virtuality is a reality with a (non-absolute) measure, a reality which has no pre-given and absolute character, but which has a relative and undergoing measure. The concept of virtuality has a central role in the reformulation of reality concept: virtuality is not the reality, but just “as if” reality. The term virtuality is new, but its content is not: in a historical overview shows that during the history of philosophical thinking, considering the nature and features of reality, many fundamental characteristics of the (premodern, modern and postmodern) virtuality has been disclosed. 
+
+In spite of the widely accepted view, it will be proposed that the very meaning of virtuality (and reality) is not an individual, but a common product. According to the relevant philosophy of communication and culture human communities and cultures are created by communication using its formal and substantial dimensions. Every social existence is a fusion of coexisting communities and cultures and it is a fundamental requirement for any kind of individual existence. As a consequence instead of individual cognition the social cognition has a determinant role in the process of cognition. 
+
+Extended use of representation technologies instead of material ones becomes the dominant factor in the reproduction of the social existence in the last decades and this shift creates changes on our concept of reality. Since all beings produced by representation technologies are virtual by origin, every component of our recent reality becomes more and more virtual including the communities, the individuals, and their knowing and knowledge as well.
+
+In conclusion some new characteristics of knowledge and cognition will be shown during the workshop.
+
+
+Some references:
+
+Heim, Michael (1993): The Metaphysics of Virtual Reality. New York & Oxford: Oxford University Press.
+
+Lombard, Matthew - Ditton, Theresa (1997): At the Heart of It All: The Concept of Presence.
+Journal of Computer-Mediated Communication 3(2): http://www.ascusc.org/jcmc/vol3/issue2/lombard.html (28 June, 2001).
+
+Ropolyi, László (2001): Virtuality and Plurality. 167-187, in: A. Riegler, M. F. Peschl, K. Edlinger, G. Fleck, W. Feigl (eds.): Virtual Reality. Cognitive Foundations, Technological Issues & Philosophical Implications. Frankfurt am Main: Peter Lang.
+

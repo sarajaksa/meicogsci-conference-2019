@@ -1,0 +1,18 @@
+... title: The Origins and Evolution of Language
+
+
+
+Abstract
+
+!!!! The Origins and Evolution of Language
+
+One of the yet unresolved questions in the field of cognitive science is how and when human language as we know it emerged and evolved. Being a problem for which we are not able to get direct information or tangible evidence, it is a topic that is to a great extent studied on the basis of theoretical assumptions. Several scientific tools from different fields can help to outline the hypotheses regarding the possible origin of human language, such as the research done on fossils,  archaeological evidence, the comparison between humans and other animals, the studies of language acquisition and the contemporary language diversities.
+
+Historically, the discussion concerning the origins and evolution of language is a long debated, yet unsolved issue to which several scientists have contributed, including Charles Darwin, who is one of those who posed the theoretical basis for the evolutionism of human language. Unfortunately, not long after Darwin’s theory, there was a big temporal gap due to the 1866 Société de Linguistique de Paris' ban to discuss the issue [1]. The topic was then rediscovered in the scientific circles in the late 20th Century [2]. Since then it has divided scientists between several positions, the two extremes are either arguing for or against the evolutionism of language. Nowadays, several linguists and other scientist have defended their standing points in the debate. In the constellation of different theories and hypotheses, two of the most prominent opposite standpoints are strongly defended on the one side by Noam Chomsky, who supports the discontinuity theory, which indicates a single and sudden gene mutation being of key importance for the arising of human language, and on the other by Steven Pinker and Paul Bloom, which defend the continuity theory, that considers language as being developed with a gradual evolution [2].
+
+Since the debate is still open, I found it interesting and useful to do an accurate review about what was already written to provide a starting point for further research. I decided not to take a position in the debate, in order to remain open-minded regarding the issue and treat equally all the different positions and theories. My work is theoretical. Considering the existing theories and supporting scientific discoveries, I trace the historical development of the issue and consider the neurophysiological basis of the centre for language formation in the brain. I analyse the current theories regarding the subject, trying to provide a broader insight into in the question of the origin and evolution of human language itself.
+
+!! References
+[1] J. Aitchison, “A natural curiosity: How did language begin?,” in The Seeds of Speech: Language Origin and Evolution, Canto ed. Cambridge, UK: Cambridge University Press, 2000.
+[2] T. C. Scott-Phillips, “Evolutionary Psychology and the Origins of Language,” in Journal of Evolutionary Psychology, 8, 4, 2010, 289–307.
+

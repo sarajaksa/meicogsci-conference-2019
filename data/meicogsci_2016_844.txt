@@ -1,0 +1,21 @@
+... title: The Influence of a Pet Dog on Psychophysiological Responses During a Stressful Task
+
+
+
+Abstract
+
+!!Introduction
+A large body of evidence has shown the effect of stress on changes in various physiological parameters. Mental stress induced in the laboratory setting, using physiological and psychological stressors,  can produce an increase in systolic and diastolic blood pressure and heart rate as well as changes in skin conductance and skin temperature [1].  The degree of sympathetic response can be affected by the social support during the stressor. Various studies that  associated pet ownership or interaction with a pet and cardiovascular functioning have suggested reduction in cardiovascular levels and reactivity [2].
+
+There are three main hypotheses of possible relaxing effects of interaction with an animal. First is the spontaneous relaxing effects of tactile interaction with pets on cardiovascular activity. Second is the buffering cardiovascular effects of social emotional support provided by pets and the third is a classical conditioning of relaxation response [2]. A number of studies has shown the effect of dogs on subjective stress and anxiety ratings as well as physiological and endocrine parameters [3]. 
+
+!!Upcoming study
+The goal of our upcoming study is to investigate the psychological and cardiovascular influence of a pet dog on the owner during two different stressors. For stress inducing tasks we will use two previously used laboratory tasks that produces reliable increases in autonomic reactivity: mathematical problems as a psychological stressor and cold water task as a physiological stressor. Our participants will be dog owners (students and working population), assigned to control and experimental group. Control group will perform those tasks alone, experimental group with the presence of their dog. Through the whole duration of experimet we will record participant's blood pressure and heart rate. Before and after both stressors they will fill in the State-Trait Anxiety Inventory (STAI) and Positive and Negative Affect Schedule (PANAS) to asses their anxiety levels and mood. Based on existing literature we predict lower cardiovascular reactivity during both stressful tasks, faster recovery of physiological parametrs after both stressful tasks, lower subjective experience of the stress and better mood while the dog is present.
+
+!!References
+[1] J. Ogorevc, A. Podlesek, G. Geršak, J. Drnovšek, “The effect of mental stress on psychophysiological parameters”, Medical Measurements and Applications Proceedings (MeMeA), 2011 IEEE International Workshop on, Bari, May. 2011, pp. 294 – 299.
+
+[2] J. Virués-Ortega, G. Buela-Casal, “Psychophysiological effects of human-animal interaction: theoretical issues and long-term interaction effects”, The Journal of Nervous and Mental Disease, vol. 194, no. 1, pp. 52-7, Jan. 2006.
+
+[3] A. Beetz, K. Uvnäs-Moberg, K. Kotrscha, “Psychosocial and psychophysiological effects of human-animal interactions: the possible role of oxytocin”, Frontiers in Psychology, vol. 3, article 234, Jul. 2012.
+

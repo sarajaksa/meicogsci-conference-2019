@@ -1,0 +1,24 @@
+... title: Rather see once than read numerous times? Animated visual aids in probabilistic reasoning
+
+
+
+Abstract
+
+!!!! Rather see once than read numerous times? Animated visual aids in probabilistic reasoning
+
+Several decades of research have shown that not only laypeople but also professionals experience difficulties with solving Bayesian problems. Since probability judgment is a common part of our decision-making processes, finding ways to help people understand statistical information is of great theoretical and practical importance. 
+
+Recent evidence on the effects of static pictorial representations in solving probabilistic tasks is ambiguous [1]–[3]. In our research, we aimed to design animated visual aids, examine whether their presence improves Bayesian reasoning and identify the key components responsible for potential facilitation of performance. We will report a pilot phase of our investigation, a between-subject experiment with twenty-four participants in two conditions (either with or without the visual display). Research material consisted of the “Disease X” problem in a chance-risk format [2] accompanied by the animated pictorial aid based on an Euler circles diagram. The participants provided comments and suggestions for improvement of the current version of the visual display which will be considered and implemented into the final design.
+
+Results showed a better understanding of the task instances and a higher proportion of correct Bayesian inferences in the experimental condition with the visual aid compared to the control group. Moreover, the occurrence of particular solving strategies differed according to the level of a problem comprehension score. Our findings support the hypothesis of performance enhancement through directly experienced animation of a nested-sets structure of information from the conditional probability task.
+
+We will introduce the follow-up stages of our research plan and their particular objectives. Contribution of our study to the debate between ecological rationalists and proponents of the nested-sets account will be discussed. Furthermore, we will address practical implications of our research, with a primary focus on the area of health-related decisions and medical diagnostics.
+
+!! Acknowledgments
+Special thanks belong to my tutor Mgr. Miroslav Sirota, PhD. and to Ing. Miroslav Valuš for their ideas and advice on research design and programming.
+
+!! References
+[1] G. L. Brase, “Pictorial representations in statistical reasoning,” Applied Cognitive Psychology, vol. 23, no. 3, pp. 369-381, 2009.
+[2] M. Sirota, L. Kostovičová and M. Juanchich, “The effect of visual displays on statistical reasoning: Evidence in favor of the null hypothesis,” Psychonomic Bulletin & Review, Advance online publication, 2013.
+[3] S. A. Sloman, D. Over, L. Slovak, and J. M. Stibel, “Frequency illusions and other fallacies,“ Organizational Behavior and Human Decision Processes, vol. 91, no. 2, pp. 296-309, 2003.
+

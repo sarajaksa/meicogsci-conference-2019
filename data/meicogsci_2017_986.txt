@@ -1,0 +1,16 @@
+... title: The Use of Embedded Robots in the Therapy for Children on the Autism Spectrum
+
+
+
+Abstract
+
+It has been demonstrated that social robots used as mediators support the interaction between the children on the autism spectrum and their adult partner[1]. The enactive intersubjectivity concept [2] combines the coordinated interaction of embodied agents and the agents’ experience of this process. Our hypothesis is that enactive intersubjectivity should constitute a theoretical basis for designing social robots for therapeutical purposes for children on the autism spectrum.
+
+The primary aim of the master thesis is to study the constitutional features of social interaction of children on the autism spectrum from the perspectives of enactive intersubjectivity and engineering: human-robot interaction (HRI), and to analyze whether the enactive intersubjectivity perspective can be considered a theoretical foundation for the successful interaction of an autistic child with a robot. Taking the enactive intersubjectivity perspective, the ambition is to identify and detail characteristics of the interaction between a child on the autism spectrum and their caregiver and to describe how children on the autism spectrum are interacting when their repertoire of skills is limited. In the HRI approach, the focus is on describing and understanding the characteristics of autistic child-robot interaction, arguing for the robot being perceived as a social agent, and identifying design considerations of the social robot. 
+
+We will carry out a meta-analysis of the literature regarding the mentioned fields of study and formulate a conceptual framework, addressing the role of enactive intersubjectivity concept in the design of social robots for children on the autism spectrum. Frequent meetings with practitioners in the mentioned research areas and in the therapeutical field will be carried out to gather a professional insight and understanding into the phenomenon. Empirical research will be conducted, which aims at describing the manifestation of social skills of children on the autism spectrum.
+
+!!References
+[1]	E. S. Kim, L. D. Berkovits, E. P. Bernier, D. Leyzberg, F. Shic, R. Paul, and B. Scassellati, “Social robots as embedded reinforcers of social behavior in children with autism,” Journal of autism and developmental disorders, vol. 43, no. 5, pp. 1038–1049, 2013.
+[2]	T. Fuchs and H. De Jaegher, “Enactive intersubjectivity: Participatory sense-making and mutual incorporation,” Phenomenology and the Cognitive Sciences, vol. 8, no. 4, pp. 465–486, 2009.
+

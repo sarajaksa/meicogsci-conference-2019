@@ -1,0 +1,16 @@
+... title: Author's Expertise, Certainty in Expression, and Comprehensibility of Text as Factors in Forming of Epistemic Trust
+
+
+
+Abstract
+
+!!Introduction
+Living in the Information Age that followed the Digital Revolution provides us with at least as many challenges as it does with benefits. Every day we are flooded with "junk" information, as the society produces more information than necessary for normal functioning, with most information of low quality (email spam is a typical example, with conspiracy theories and pseudoscience following right after). This is a new type of pollution, called information smog [1]. When seeking well-being for self and others using knowledge granted by a system of freely-accessible information, it seems imperative to be able to properly navigate it in terms of credibility of its contents. 
+Epistemic trust is a potentially quantifiable attitude towards knowledge meant to serve this purpose, a tendency to attribute information with a certain degree of truth value on a spectrum from complete belief to complete disbelief. 
+
+!!Methods
+We set out to investigate several factors that may bear influence on the process of attitude formation in terms of epistemic trust towards a piece of information (a text on a specific topic in our case). These are: expertise of the author (text author descriptions), author’s certainty in expression regarding presented information, and comprehensibility. Using an 2x2x2 experimental framework, each participant will be exposed to two excerpts with varying levels of the focal variables (e.g. an easily comprehensible text of an expert that expresses absolute certainty in his statements, an easily comprehensible text of a non-expert that expresses his certainty in percentages, etc.) . Participants will be randomly assigned to the experimental conditions, and rate the texts based on their perceived credibility and trust. Subsequently, we will evaluate the amount of influence of individual factors on the decisions of participants regarding the truth values of provided texts. We are expecting author’s expertise on the subject discussed, high author’s certainty in expression regarding his claims and high comprehensibility of text to increase epistemic trust. 
+
+!!References
+[1] BEZROUKOV, N., Information Overload - How Digital Devices Deprive Brain of Needed Downtime, available online as of 15.5.2015 at http://www.softpanorama.org/Social/overload.shtml
+

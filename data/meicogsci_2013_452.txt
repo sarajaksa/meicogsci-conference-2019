@@ -1,0 +1,22 @@
+... title: An Exploratory Case Study of Problem Solving in Mental Imagery
+
+
+
+Abstract
+
+!!!! An Exploratory Case Study of Problem Solving in Mental Imagery
+
+Problem solving is a cognitive process usually seen as the hallmark of “higher cognition”, making use of numerous faculties of our cognitive architecture. Research on expertise has shown that experts in their domain—as opposed to novices who have to employ “weak methods” like means-end analysis—efficiently solve problems by employing a deeply integrated framework of domain-specific knowledge (“strong methods”). When concerned with problems in their domain, this allows experts to rapidly recognise relevant information, to apply adequate sub-procedures and to easier retrieve intermediate stages of the process, cf. [1]. Due to their automatised procedures experts have more working memory capacity at hand, enabling them to explore problems that require a deeper understanding of the domain principles.
+While a lot of progress has been made, we still do not know precisely which processes mediate the qualitative change from novice to expert, that is how this deeply integrated framework the expert possesses, is constructed and how this is put to use in problem solving. Considering the development of expertise, there is ample evidence that especially in intermediate periods, reflection and self-explanation are playing a particularly important role. E.g. subjects instructed to explain their reasoning performed significantly better in transfer tasks than subjects instructed to explain on the problem-level and subjects who thought-aloud [2].
+Thus, if we want to get protocol data about how problem solving strategies are constructed and integrated with the existing knowledge framework, it seems sensible to acquire process-level data about these learning periods. We present an experimental paradigm that is designed to allow for the collection of comprehensive process-level data from introspection about the development of expert-like problem solving skills. This paradigmatic setup adheres to the properties of a microgenetic study, cf. [3]. It is aimed at facilitating deep-level learning in order to allow small scale studies of “expertise in the making”. They are 1) the use of multi-stage tasks of increasing difficulty, 2) instructing subjects to solve tasks in mental imagery and 3) the instruction to introspect.
+We will present preliminary results from an exploratory case study, serving as a proof-of-concept by providing high-fidelity descriptions of problem solving processes.
+
+!! Acknowledgments
+This work is conducted in cooperation with C. Schreiber and S. Schneider.
+
+[1] T. J. Nokes, C. D. Schunn and M. T. H. Chi. "Problem solving and human expertise" in International encyclopedia of education, vol. 5. P. Peterson, E. Baker, & B. McGraw Eds., Oxford: Elsevier, 2010, pp. 265–272.
+
+[2] B. Berardi-Coletta, L. S. Buyer, R. L. Dominowski and E. R. Rellinger. "Metacognition and problem solving: A process-oriented approach". Journal of Experimental Psychology: Learning Memory & Cognition, vol. 21(1), pp. 205–223, 1995.
+
+[3] R. S. Siegler. "Microgenetic analyses of learning" in Handbook of child psychology: Vol. 2: Cognition, perception, and language, 6th ed., D. Kuhn and R. S. Siegler Eds., Hoboken, NJ: Wiley, 2006, pp. 464–510.
+

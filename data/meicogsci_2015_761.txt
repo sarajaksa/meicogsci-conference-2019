@@ -1,0 +1,27 @@
+... title: Changes in Galvanic Skin Resistance During Voluntary Inhalation and Breath-hold Activity in Healthy Adults
+
+
+
+Abstract
+
+!!Introduction
+
+Galvanic skin resistance (GSR) is the most widely used parameter to detect changes in sympathetic nervous activity indicating anxiety or arousal [1]. It has been proposed that in humans the act of inhalation is linked to stress response and may be partly responsible for initiation of fight and flight response [2]. The objective of this research was to observe how voluntary inhalation and breath-hold affect galvanic skin resistance in healthy subjects.
+
+!!Methods
+
+A total of 16 healthy adults (ages 18 - 52; M = 30,13, SD = 12,25; 5 male, 11 female) were recruited via advertisement flyers. Written informed consent was obtained from all subjects prior to research. Subjects were first asked to wash their hands without soap and dry them carefully. Then they were seated in a relaxed position and attached to Galvanic Skin Response (GSR) sensor connected to Arduino computer that streamed recording data to personal computer at 200Hz sample rate. Two surface electrodes were attached to the index and the middle finger. The room was kept quiet and at a comfortable temperature. Researcher observed GSR data on personal computer and waited for subjects to achieve their baseline. Then researcher asked subjects to perform a voluntary inhalation and hold their breath for few seconds. Change in GSR was noted and afterwards researcher told the subject to relax and waited for baseline to be achieved again. Five consequent inhalations were performed by each subject and changes in GSR were noted accordingly.
+16 subjects performed five voluntary inhalations each, resulting in 80 voluntary inhalations. Each subject’s mean and standard deviation of change in GSR during inhalation was calculated.
+!!Preliminary results
+Overall, GSR was reduced in all subjects (M = 24, 92%, SD = 6, 38%). None of the subjects’ GSR raised. We are planning to expand our sample, after which further analysis will be conducted to determine whether drop in GSR values (already sampled and those to come) is statistically significant.
+
+!!Discussion and conclusions
+
+Our preliminary results suggest that inhalation and breath holding affect GSR in a way that GSR values drop, which may indicate increased anxiety or arousal. Such link between inhalation and anxiety may be observed in everyday life when one holds breath due to being exposed to stressful or arousing stimuli. However, it should be noted that upon expanding number of subjects, appropriate statistical tests will be used to determine whether these results are statistically significant.
+
+!!References
+
+[1] R. Hoehn-Saric and D.R. McLeod, “The peripheral sympathetic nervous system. Its role in normal and pathologic anxiety,” Psychiatric Clinics of North America, vol. 11, no. 2, pp. 375-386, June 1988.
+
+[2] M. Leskovšek, A. Skarlovnik, G. Derganc and N. Pušenjak, “Short-term cued visual stimuli recall in relation to breathing phase,” Neurology, Psychiatry, and Brain Research, vol. 19, no. 4, pp. 216-220, Dec. 2013.
+

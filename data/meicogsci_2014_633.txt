@@ -1,0 +1,27 @@
+... title: Multi-agent Model of Crowd Emotion Propagation
+
+
+
+Abstract
+
+!!!! Multi-agent Model of Crowd Emotion Propagation
+
+Crowd dynamics is name for a widely observed phenomenon [1], where people in a crowd behave differently than they would do alone. Behavioral patterns of individuals involved in crowd situations appear to converge in a short time and reach consensus, making the crowd itself appear as a single organism. These patterns seem to propagate across members of a crowd. This can be observed in various group sizes, ranging from relatively small groups to even nation-wide level. My aim is to design and implement a computational model capable of providing believable behavior of groups of artificial agents, whose physical proximity would-be small enough to allow for “face to face” encounters. Motivation for such model is its future use in real-time simulation and animation, such as computer games or interactive drama.
+
+By reviewing works from fields of psychology, social psychology and multi-agent simulation, I identified many factors that are assumed to influence the crowd behavior. With respect to my goal I chose emotions as the driving force of this phenomenon. I build on assumptions, that
+* emotions are contagious and spread across members of a group,
+* emotions are an output of a process, in which an individual appraises current situation from his or her point of view,
+* emotions influence action tendencies of individuals.
+
+Taking into account the need of heterogeneity of individual agents, the proposed model is multi-agent. An agent consists of
+* a physical module, responsible for perception and action execution,
+* a cognitive module, responsible for evaluation of events happening in the environment and choosing the action to be executed,
+* an emotion module, serving as an input for the cognitive module's evaluation processes
+* and a personality module, influencing the capability of an agent to “infect” or “be infected” by other agent's emotions.
+
+Individual agent's emotional level is influenced by the weighted average of emotional levels of other agents in its perception range, inspired by [2]. The development of a simple virtual scenario is currently reaching its final state. A user-controlled character can move in a group of artificial agents and take actions. These increase the anger level of nearby agents, which can cause them to attack. With growing number of agents attacking in the perception range, the tendency of an agent to attack increases. Attacking of a group of agents is expected to be a result of emotional contagion between them and the number of other agents involved in the attack, rather than by individual reactions to threatening stimulus itself. 
+
+!! References
+[1] S. Reicher, "The Psychology of Crowd Dynamics," in Blackwell Handbook of Social Psychology: Group Processes, Blackwell, 2008, ch. 8, pp. 182-208
+[2] T. Bosse et al., “A multi-agent model for mutual absorption of emotions,” Proceedings of the 23rd European Conference on Modelling and Simulation ECMS-09, 2009, pp. 212-218
+

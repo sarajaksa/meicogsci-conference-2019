@@ -1,0 +1,20 @@
+... title: Investigating the Ability of Dogs to Follow Human Gaze into Distance
+
+
+
+Abstract
+
+The ability to follow others' gaze is considered to be important for the understanding of others' mental states. It enables sharing intentions and forms a basis for collaborative actions. It has been argued that sharing intentions is a unique human ability that plays a central role in human cognition, specifically in human ontological development [1]. However, gaze-following is not limited to humans and has also been found in other species.
+
+It is possible to distinguish two kinds of situations in which gaze-following provides a significant benefit. First, it can be used as a communicative intentional tool, such as when individuals share information about the location of food in one of two containers. Dogs prove to be especially skilled at reading human cues in this context, which is even more unusual as this ability has not been demonstrated in non-human primates. Second, gaze-following into distant space is a source of information about significant events in the environment [2]. It has been observed in a number of species, including apes, birds, goats and wolves, but it is believed to be absent in dogs [3]. If this observation is confirmed, it raises questions such as why dogs have the ability to follow gaze in one but not the other situation.
+
+The present work investigates whether dogs have the ability to follow gaze into distant space. For this purpose 220 videos of a behavioural test conducted between 2010 and 2013 at the Clever Dog Lab in Vienna will be analysed. During the test, the dogs were separated from their owners for a period of 3 minutes. After this time, the owners came back, but did not greet the dog instantly; instead they were instructed to look ahead. Dogs, similarly to many other species, engage in greeting behaviours after a period of separation, and the lack of reaction from the owners is likely to violate their expectation and thus serve as a as a cue for an important event happening in the direction towards which the owners looked. The dogs’ behaviour while their owners are ignoring them and looking into distance will be analysed with respect to whether the direction in which they were looking was the same as that of the owners. The expected result is that that the dogs will follow the gaze of the owner into distant space in this context. 
+
+!!Acknowledgments
+I thank Zsófia Virányi and the Clever Dog Lab for enabling this project.
+
+!!References
+[1] M. Tomasello, M. Carpenter, J. Call, T. Behne and H. Moll. “Understanding and sharing intentions: the origins of cultural cognition”. Behavioural and Brain Sciences, vol. 28, pp.675-735. 2005.
+[2] F. Range and Z. Viranyi. (2010, Feb.) “Development of Gaze Following Abilities in Wolves (Canis Lupus)”. PLoS ONE [Online], vol. 6(2): e16888. 2010. doi: 10.1371/journal.pone.0016888
+[3] B. Agnetta, B. Hare and M. Tomasello, “Cues to food location that domestic dogs (Canis familiaris) of different ages do and do not use”. Animal Cognition, vol 3(2), pp.107-112. 2000.
+

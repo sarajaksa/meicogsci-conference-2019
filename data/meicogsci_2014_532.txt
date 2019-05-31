@@ -1,0 +1,19 @@
+... title: Impact of Contextual Information on Visual Working Memory
+
+
+
+Abstract
+
+!!!! Impact of Contextual Information on Visual Working Memory
+Our scientific project was designed to enrich the knowledge on visual working memory (VWM). Traditional research focuses either on capacity of visual working memory or on its fidelity. By this project we tried to learn more about how context information is stored and retrieved, so we would get a piece of picture of how do levels of representation in our minds work. 
+According to some recent studies, elements of a visual scene are not stored in VWM independently of each other [1]. Every display has multiple levels of structure – from separate units to whole ensembles. There is always a particular number of elements that is encoded, each having its own fidelity, but in order to encode the complete picture, the contextual (featural and spatial) information must also be stored. 
+In order to verify how context information influences capability of the retrieval of elements of a visual scene, we designed a novel version of the change detection task [2], in which information was stored on two levels. The first level consisted of a group of simple small geometrical shapes (such as circle, trapesium, star, heart, etc.), and the second was a large pattern (e.g. circle, trapesium) composed of elements from the first level. In some trials, the shape of one element matched the pattern, in the rest of them no shape could match it. The participant’s task was to detect the change between two trials.
+The interaction between these two levels based on featural context information can be understood as a congruence of shape between the large pattern and one of the elements that this pattern was built of. Moreover, we assumed that if the element would have the same shape as the large pattern, then the change within this element will be perceived more often than in the incongruent case. To verify this hypothesis, we conducted Exp. 1 (with 9 elements) and Exp. 3 (with 5 and 6 elements).
+The spatial context information was operationalized as a regularity of the large pattern, in which distance between elements was either always equal (as in Exps. 1 & 3) or disturbed by manipulation of this distance. We suspected that regular patterns would yield higher scores on the task. Moreover, according to Gestalt rule of symmetry, we predicted that figures like circle or “X” would score even higher than trapesium or irregular quadrangle. In this procedure, we also decided to conduct the experiment in two versions, each of which contained a different number of elements (respectively Exp. 2 and Exp. 4).
+We will present results and interpretation of described experiments as fresh insight into visual working memory exploration. Generally, the data supported our hypotheses (with some exceptions), with local-global congruence, regular patterns, and symmetric patterns yielding higher accuracy of responses than incongruent, irregular, or asymmetric patterns.
+!! References
+[1] T. F. Brady, T. Konkle, & G. A. Alvarez. “A review of visual memory capacity: Beyond individual items and toward structured representations.” Journal of Vision, vol. 11(5), pp. 1–34, May 2011.
+[2] S. J. Luck, & E. K. Vogel. “The capacity of visual working memory for features and conjunctions.” Nature, vol. 390, pp. 279-281, Dec. 1997.
+!! Acknowledgements 
+We are very grateful to Dr Adam Chuderski for his constant support.
+

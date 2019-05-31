@@ -1,0 +1,15 @@
+... title: Plasticity of the primary motor cortex in learning new movement trajectories
+
+
+
+Abstract
+
+The control of hand movements is a demanding and complex process for the motor system. It needs an exact calculation of spatiotemporal characteristics and required forces to achieve satisfying movement performance. Unlike decades ago we now know that to some degree these operations are carried out by the primary motor cortex (M1) and that this area is more than a simple and static output structure for motor commands. One of the key components for which neurons in this area fire is the direction of movement (1). Furthermore M1 exhibits a high degree of permanent plasticity which enables this area to contribute immediatley to the acquiring of new motor skills. TMS (transcranial magnetic stimulation) has been found to be a valuable tool to investigate these functions and plastic changes of the motor cortex. Numerous studies have shown that the M1-hand area underwents changes in its topography and excitability during the learning period and that these are related to movement performance (2). By using this method and measuring the acceleration of the finger movement we are able to show two things: 1. that the acquisition of the new trained movement causes changes within the topography of the map and 2. that the preferred direction of this cortical area responsible for the finger movement can be changed immediatly by short training epochs of 20 min. Subjects underwent extensive training of the finger on five consecutive days to reveal the characteristics of  motor learning on a larger time-scale. By combining electromyographic responses and acceleration of the finger we are able to determine more precisely what effect this training has and how these are related to the rearrangement of the hand area in whole. These results sheds further light onto the functional characteristics of the primary motor cortex and let us conclude that this area is involved in „higher-order“ functions and represents one key area for movement control. The implications for the computational processes of the motor system will be discussed and tried to embbeded into a principal framework for motor control in the human brain (3).
+
+
+References:
+
+1. Georgopoulos. Current issues in directional motor control. Trends Neurosci (1995) vol. 18 (11) pp. 506-10
+2. Pascual - Leone et al. The plastic human brain cortex. Annu Rev Neurosci (2005) vol. 28 pp. 377-401
+3. Bizzi et al. Neural basis of motor control and its cognitive implications. Trends in Cognitive science (1998) vol. 2 (3) pp. 97-102
+

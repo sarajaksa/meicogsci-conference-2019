@@ -1,0 +1,23 @@
+... title: Enhancing User Experience Testing Using Electroencephalography
+
+
+
+Abstract
+
+Enhancing User Experience Testing Using Electroencephalography
+
+## Differentiating reasons of the time spent on a task based on emotions and mental workload
+
+
+Software tools can help people perform time consuming tasks faster and more efficiently only when user interface of a software is designed to be understandable and when working with the software does not require too much effort. An ambition of User Experience (UX) field is to make a software more enjoyable or to allow for a positive experience with the software. Of course, positive experiences or minimizing negative experience can be achieved by minimalizing workload, making work with a tool even more efficient or by making interface nice and enjoyable.
+
+One of tools employed by UX is Usability testing, where participants are asked to use a software, while a UX specialist is watching for possible usability problems. This can be enhanced by tracking user’s eye gaze on screen within software interface using technique called eye-tracking. Time on task is measurement to make such testing quantifiable. This is based on simple presumption, that the longer it takes for a user to complete given task, the less usable the interface is. However, one can never know reason why the user spent so much time on the task, whether it is because of too much thinking or simply because user enjoyed interacting with interface.
+
+The resaon of longer time on task could be distinguished using electroencephalography (EEG). EEG data can help uncover reasons of user's gaze focus. Frontal asymmetry is effect which allows to recognize either valence elicited by a stimulus or motivation to approach or withdraw from the stimulus. Ratio of frontal midline theta to parietal midline alpha waves indicates mental workload. These effects were studied in various conditions and can also help at UX research. [1][2][3]
+
+Presented thesis tries to answer whether it is possible to enhance results of user experience testings by electroencephalography. Standard usability testings with eye tracking will be conducted, but also EEG data will be recorded. Eight hypotheses regarding possibility of such enhancement are postulated working with the ratios of brain waves and whether they fit the needs in matters of time and resolution. E.g.: Effect of frontal asymmetry is elicited in a time that the effect can be assigned to particular visual stimuli.
+
+[1] G. Vecchiato, J. Toppi, L. Astolfi et al. "Spectral EEG frontal asymmetries correlate with the experienced pleasantness of TV commercial advertisements", Med Biol Eng Comput 2011, 49:579.
+[2] J. A. Coan, J. J. Allen, "Frontal EEG asymmetry as a moderator and mediator of emotion", Biological psychology, 2004, 67(1-2), 7-50.
+[3] A. Gevins, M. E. Smith, "Neurophysiological measures of cognitive workload during human-computer interaction", Theoretical Issues in Ergonomics Science, 2003, 4(1-2), 113-131.
+

@@ -1,0 +1,21 @@
+... title: U-Experience 1.0: Open Mobile Platform for Experience Research
+
+
+
+Abstract
+
+!!!! U-Experience 1.0: Open Mobile Platform for Experience Research
+
+U-Experience is a personal data collection system that uses mobile phones to collect experiential data, complemented with multimedia and GPS data. The main goal is to develop ecologically valid environment that enables researchers to create and deploy customised experience sampling research protocols, optimise researchers’ time and allow an in-depth understanding of phenomenological processes while providing research participants with insights into their experiential landscape. 
+
+Currently, the application’s used and copied method is DES (Descriptive Experience Sampling) together with the beneficial aspects of yes/no questions method. DES (Descriptive Experience Sampling) is a method, first developed by R. T. Hurlburt, where research subject is “beeped” on random occasions throughout the day, while the subject's task is to write down her ongoing experience from the moment right before the beep. A DES investigator then meets with the subject for an interview on collected beep notes within 24 hours [1]. Another alternative to such a method is a so-called Just Ask Approach, where the subject is given a series of yes/no questions and answers accordingly.  As the application allows participants to describe their experiences in various ways – by taking a (portrait) photograph, by open text and/or by creating new key words – the user doesn’t need to give a phenomenological insight and there is no need for a time-consuming interviewer’s guidance in a dialogue, for this task is done by the app itself. 
+
+The platform has gone through first testing by researchers and needs for upgrades have been identified. Future plans include to make experience sampling more customisable and context-aware, complemented by additional data streams in order to enable more specific research. Furthermore, an advantage of automated context-aware experience sampling is that for research protocols which don’t require random sampling, user interruptions are minimised while the “value” of data gathered is maximised [2], thus making the research process more effective. In addition, such experience sampling tools can be used for user modelling and could be integrated in various adaptive applications in domains such as for example serious games and health care applications for assessing patient’s current state and guiding therapies accordingly. Further research on this topic is needed.
+
+!! Acknowledgements:
+Special thanks to Urban Kordeš (University of Ljubljana) and Paolo Petta (OFAI) for support and guidance.
+
+!! References:
+[1]	C. L. Heavey, R. T. Hurlburt, and N. L. Lefforge, “Descriptive experience sampling: A method for exploring momentary inner experience,” Qual. Res. Psychol., vol. 7, no. 4, pp. 345–368, 2010.
+[2]	A. Kapoor and E. Horvitz, “Experience sampling for building predictive user models,” in Proceeding of the twenty-sixth annual CHI conference on Human factors in computing systems - CHI ’08, 2008, pp. 657–666.
+

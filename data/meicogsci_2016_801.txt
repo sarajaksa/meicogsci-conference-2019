@@ -1,0 +1,25 @@
+... title: EDA Based Detection of Empathic Accuracy
+
+
+
+Abstract
+
+Empathic accuracy (EA), the ability to empathize with another person often refers to the accurate judgments of the amount and kind of emotion experienced by another person [1]. A typical EA task involves participants (in similar studies known as perceivers) continuously judging the emotional experience of the ‘target’ participants, where the target individuals describe their autobiographical experiences  comprised of  negatively  and positively charged events. Furthermore, the empathic accuracy builds on a combination of experience-sharing and mental state attribution processes including both cognitive and affective domains, whose relevance is further explained in the study by Zaki and Ochsner, 2011 [2]. 
+
+The present study was carried out in two phases, with an aim to investigate if behavioral synchrony and Electro-dermal-activity (EDA) synchronization can differentiate between attentive and non-attentive listening. EDA contains information about the level of arousal, based on which emotional intensity can be inferred.  
+
+In the initial phase of this study 1 male and 1 female selected targets are asked to recall and discuss positive and negative autobiographical events, while having their EDA measured. Upon recording the stimulus videos, targets were instructed to use “Affect Dial” to continuously rate the intensity of the affective valence they had felt while telling the stories. The "Affect Dial" system was installed at the bottom of the video as a 9-point sliding Likert scale anchored at "very negative" on the left and "very positive" on the right, through which participants are able to rate the affect they had felt while discussing events and not during the events themselves [3]. 
+
+In the second phase participants watched the recorded videos under normal and distracted condition, while continuously rating them using “Affect Dial” measured simultaneously with their EDA response. Our primary goal was to examine whether perceivers will react differently and get a lower EA and EDA synchronization in the case of distracted stimuli. In addition, EDA synchronization should correlate with EA in the non-distracted condition (between targets and perceivers). The final goal of this study was to emphasize the importance of attention in empathic accuracy judgments and to outline the necessity of attention training in a clinical setting (e.g. psychotherapeutic and clinical psychology education). The whole study is a minor modification of the original methodology described in [3]. The data collection process is finished, though the results of the data analysis process are expected in the near future. 
+
+!!Acknowledgments
+
+I would like to specifically thank Dr. Geraldine Fitzpatrick, Dr. Petr Slovak, Daniel Boandl and the Human-Computer Interaction (HCI) group at the Vienna University of Technology for supporting this project. 
+
+!!References
+[1] J. Lee, J. Zaki, P. Harvey, K. Ochsner and M. Green, "Schizophrenia patients are impaired in empathic accuracy", Psychological Medicine, vol. 41, no. 11, pp. 2297-2304, 2011.
+
+[2] J. Zaki and K. Ochsner, "Reintegrating the Study of Accuracy Into Social Cognition Research", Psychological Inquiry, vol. 22, no. 3, pp. 159-182, 2011.
+
+[3] J.  Zaki, J.  Weber, N.  Bolger and K.  Ochsner, "The neural bases of empathic accuracy", Proceedings of the National Academy of Sciences, vol. 106, no. 27, pp. 11382-11387, 2009.
+

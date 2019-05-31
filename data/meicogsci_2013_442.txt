@@ -1,0 +1,23 @@
+... title: !!!!Experimental Syntactic Microsynchronization: the psychology of relative clauses in natural language dialogue
+
+
+
+Abstract
+
+!!!!Experimental Syntactic Microsynchronization: the psychology of relative clauses in natural language dialogue
+
+From recent dialect syntax projects (dialectsyntax.org) it is known that phonology-based classifications of language varieties (dialects, regiolects, sociolects) may not be congruent with lexical- and syntax-based classifications. Hence, even within phonological dialects there is a steady syntactic “contact”-situation. For Bavarian (Bavaria in Germany, Austria without Vorarlberg, South Tyrol in Italy) the spreading and retreat of some syntactic phenomena was observed by [1] in an apparent time approach on an macrolevel. As language contact is a contact between speakers, this project shows, how speakers from different syntactic varieties behave in dialogue: by either aligning or persisting syntactic patterns. This process of microsynchronization was shown for phonology [2] but not yet for syntax. 
+The presented phenomenon are “doubled relative pronouns” (RP). Varieties of Bavarian offer two possibilities for relative clause formation: with one or two relative pronouns. There is not only syntactic but also lexical variation involved. 
+*Das ist die Frau, die / (die) wo / (die) was ich neulich getroffen habe. (That is the woman, that / (that) who / (that) what I recently met.)
+For Bavarian Speakers it is far from clear a) where in the Bavarian language area which particular variant is used and b) under which circumstances single vs. doubled instances of RPs occur. Standard German does only show single RPs. To answer a), the results of an online query (350 locations in the Bavarian language area) show the distribution of RP variants. 
+Concerning question b), no reliable natural language task evoking RPs existed. Hence a new method was developed. The result is a video stimulus showing objects that must be discriminated by their movement. This is implemented into a team setting. By a preliminary questionnaire the composition of teams is controlled. 
+As there have been studies relating the grade of alignment in dialogue to personality traits [3] this and other parameters are covered by a questionnaire (e.g. attitudes towards language varieties / dialogue partners, RP predisposition) to facilitate a connection between observed language behaviour and psychological factors. An interview, subsequent to the task, reinforces the analysis. Applying this method to a set of 10 Bavarian vs. 10 German Standard speakers shall give rise to the following questions: 
+*How do speakers behave in natural language dialogue if confronted with deviant syntactic patterns?
+*Which factors trigger the use of particular RP variants? 
+*If alignment / priming for new syntactic patterns is successful, is the general acceptance of these variants / the grammar of speakers affected? 
+
+!!References
+[1] A. N. Lenz, T. Ahlers, M. Werner, “Bairische Syntax im Spannungsfeld regionaler und generationsspezifischer Variation - eine Pilotstudie”, in preparation. 
+[2] E. Schmidt, J. Herrgen, “Sprachdynamik: Eine Einführung in die moderne Regionalsprachenforschung”, Berlin, Erich Schmidt Verlag, 2011.
+[3] C. Brockmann, A. Isard, J. Oberlander, M. White. “Modelling alignment for affective dialogue”, in Proceedings of the Workshop on Adapting the Interaction Style to Affective Factors, 10th International Conference on User Modeling (UM-05), Edinburgh, UK.
+

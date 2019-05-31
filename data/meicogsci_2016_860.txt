@@ -1,0 +1,29 @@
+... title: Practical Approaches to ERP Analysis in the Context of Visual Short-term Memory
+
+
+
+Abstract
+
+!!Introduction
+We provide an overview of practical approaches to the analysis of event-related potentials (ERP)[1] and demonstrate the use of such methods in the context of visual short-term memory (VSTM), which is the capacity for holding a small amount of visual information in a readily available state for a brief period of time and limited to about two to five objects at any given moment.
+
+Inter-individual differences in humans performing short-term memory tasks can be attributed to different factors including different stages of the memory process, namely encoding, maintenance, resistance to interference, and recall.
+
+!!Methodology
+We analyse which of these stages is the strongest predictor of performance measured by response accuracy using data from a short-term memory task, in which 28 subjects shortly observed a visual target stimulus which was then covered with a mask for three seconds and had to be retained in VSTM. Then, they were presented with a probe stimulus and had to judge whether it was rotated clockwise or counter-clockwise with respect to the target, and indicate their decision by a key press [2].
+
+We describe time-domain analysis and statistical methods developed to make reliable inferences based on electrophysiological data which contain many observations, and present the methodology and results of our sensor-level exploratory analysis from start to finish (data handling, time-locked averaging, statistical design, multiple comparisons correction, etc.) using FieldTrip, an open source software package for the analysis of M/EEG data [3].
+
+!!Results
+The main result is a consistent area of strong correlation (r > 0.5, p < 0.01) between the response accuracy and the amplitude of the respective ERP in the time window between 376 and 552 ms after the onset of the target stimulus, i.e. during the late encoding stage and extending shortly into the maintenance period, over the medial part of the frontal lobe.
+
+!!Conclusion
+Our results suggest that the capacity of VSTM relies mostly on the efficiency of information encoding. The summary and practical extensive demonstration of analytical approaches to ERP may provide useful guidance for further studies linking cognitive and neuronal processes.
+
+!!References
+[1] T. W. Drew, a. W. McCollough, and E. K. Vogel, “Event-Related Potential Measures of Visual Working Memory,” Clin. EEG Neurosci., vol. 37, no. 4, pp. 286–291, 2006.
+
+[2] I. Riečanský, L. Tomova, S. Katina, H. Bauer, F. P. S. Fischmeister, and C. Lamm, “Visual image retention does not contribute to modulation of event-related potentials by mental rotation,” Brain Cogn., vol. 83, no. 2, pp. 163–170, 2013.
+
+[3] R. Oostenveld, P. Fries, E. Maris, and J. M. Schoffelen, “FieldTrip: Open source software for advanced analysis of MEG, EEG, and invasive electrophysiological data,” Comput. Intell. Neurosci., vol. 2011, 2011.
+

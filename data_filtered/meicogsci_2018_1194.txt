@@ -1,0 +1,27 @@
+... title: Simulies: Graded Lies and Dynamic Trust. A Simulation Study
+
+
+
+Abstract
+
+Despite the common definition of a lie being the liar believing some proposition A but asserting that A is not the case, in reality few lies are so clear-cut [1]. 
+Particularly, we are interested in partial lies (when a liar is confident but not certain that A and asserts “(probably) not-A”) and start our investigation at the outset of a recent debate regarding the blameworthiness of partial liars (see [1];[2]). We argue that partial lies are more damaging since they are harder to detect. 
+
+To test our claim, we developed a coin-toss-based computer simulation based on an artificial agent (the dupe) who updates her beliefs based on partial lies and her dynamic degree of trust in the source, while following the principles of Bayesian epistemology for partial beliefs. Particularly, the dupe iteratively updates her belief based on the following parameters: the outcomes of the previous coin tosses, prior assertions made by the liar and the current degree of trust 
+
+Lying – if to be successful – is only possible when the recipient of a lie extends at least some degree of trust into the message and the liar as the source of the message. Thus, following Wang and Vassileva [3] we incorporated trust dynamics in the simulation by inferring that the dupe will update her trust in the liar by “keeping a tab” of how many times the liar made either a correct or a false assertion. Furthermore, we used Brier Scores to assess the *epistemic damage* caused by relying on the liar’s assertions whereas a form of cash betting was incorporated to formalize *practical damage* (see [1]). 
+
+Preliminary insights showed, that in instances of both short-term and long-term simulations partial lies lead to more epistemic damage than outright-lies – however, with differences as to how the “severity” of the lie affects the trust dynamics. 
+
+We acknowledge that simulation studies of (embedded) social phenomena such as lying and trust streamline the complexity associated with real-world-interactions. However, formalization processes and computer simulations afford philosophy with a distinct advantage (e.g. systematical exploration of temporal dynamics) over traditional ways of research, which otherwise suffers from small sample sizes or could hardly be extensively investigated [4].
+
+References
+
+[1] Krauss, S. F. (2017). Lying, risk and accuracy. Analysis 77(4), 726–734.
+
+[2] Benton, M. A. (2018). Lying, accuracy and credence. Analysis. 78(2), 195–198.
+
+[3] Wang, Y. and J. Vassileva (2007).  A review on trust and reputation for web service selection.  Indistributed Computing Systems Workshops, 2007. ICDCSW’07. 27th International Conference on, pp. 25–25. IEEE.
+
+[4] Marsella, S., J.  Gratch, and P. Petta (2010). Computational models  of  emotion.  In K. R. Scherer, T. Bänziger, and E. B. Roesch (Eds.), Blueprint for Affective Computing: A Sourcebook, pp. 21–46. Oxford and New York: Oxford University Press.
+

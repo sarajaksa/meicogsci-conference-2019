@@ -1,0 +1,18 @@
+... title: The cognitive bases for social attention in real life situations
+
+
+
+Abstract
+
+Human sensory systems are confronted with large amounts of information. Processing every detail about the environment would overload our cognitive system. That is why humans have evolved sensory biases towards evolutionary relevant stimuli over irrelevant stimuli (Birmingham et al., 2008). 
+
+We hypothesized that there are social cues that attract relevant numbers of individuals, thus attention should not be randomly distributed; behaviours are biologically determined and therefore vary among sex.
+
+The experiment took place at Vienna University. A total of 100 randomly selected participants (50 women and 50 men) took part and were naïve to the purpose of the experiment. Demographic data was collected. The experiment lasted for 16 minutes (8 two-minute movie-clips). There were 150 movies in total, collected from Torino automatic underground station surveillance cameras. Movie clip scenes were compatible in terms of basic layout- they were randomly selected (RS) without replacement. The average age of participants was 25 years old. The task involved subjects watching four movies at once for 2 minutes. Every 2 minutes a new set of four random movies appeared on the screens, repeatedly for 8 times. When an event or behaviour triggered their attention, participants had to decide and press a corresponding key to the respective movie. The behaviours in the movie clips were annotated with a behaviour catalogue consisting of 10 behaviours . We analysed the data with SPSS in order to search for statistical differences. The distribution was skewed to the right therefore we used the non-parametric tests. We used the Kruskal-Wallis test to obtain differences with the highest attention scores in coded behaviours. The Mann-Whitney test was used to test sex differences.
+
+Our results confirmed our hypothesis, that the attention is not randomly distributed over the movies; there are sex differences in attention scores. Kruskal-Wallis non parametric test showed that key pressing coded behaviours differ among them significantly. The coded behaviours we observed were: 1. Disabled people/children alone (CD); 2. Change in a group size (CS); 3. Forbidden object (FO); 4. Group (GP); 5. Left luggage (LL); 6. Standing around/loitering (LS); 7. People running (PR); 8. Turnstile problems (TS) and NO- no action/code. “Groups” and “change in group size” attracted significantly more attention than others (χ2 = 257.267; p = .000); these are the behaviours that attracted the majority. The most coded behaviour in the movies was “groups”, coded was “left luggage “(LL). The study of social attention is important to enable us to understand how our cognitive attention system selects and prioritizes relevant events in our surroundings. The presented study provides one of the first attempts to explain social attention in the complex social word.
+
+ References
+1.	Birmingham, E., & Kingstone, A. (2009). Human Social Attention. A New Look at Past, Present, and Future Investigation, The Year in Cognitive Neuroscience 2009, 118-140. 
+2.	Birmingham, E., Bischof, W. F., & Kingstone, A. (2008). Social attention and real-world scenes: The roles of action, competition and social content, The Quarterly Journal of Experimental Psychology 2008, 61(7), 986−998.
+

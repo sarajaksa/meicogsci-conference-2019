@@ -1,0 +1,17 @@
+... title: Complex Skill Development with Starcraft 2
+
+
+
+Abstract
+
+!!!!Complex Skill Development with Starcraft 2
+In this study author tried to determine how is obtained expertise during playing strategy video game StarCraft 2 in order to verify and expand results of Thompson, Blair, Chen, Henrey [1]. Since importance of variables is not constant across levels of expertise [1] author is using machine learning tools for data mining to define them.
+StarCraft 2 is real-time strategy video game that is played at extraordinary speeds. Player choose one of three races and to win the game he must command his units, prepare defenses, build base expansions to gather more resources while build bigger armies to outmanoeuvre his opponent. Players have to act simultaneously and continuously to accomplish their goals. The GUI of the game environment creates a game of incomplete information where efﬁciently distributing one’s attention is paramount. Top players issue hundreds of actions per minute navigating around the terrain at prodigious speeds and maintaining their forces. Optimized attention to the environment allows for proper navigation and the coordination of global and local information for real-time decision making. 
+Data for this study was obtained by analyzing the replay files. These replay ﬁles are records of the actions that players took and the time that each one occurred, so we can precisely see the every interaction of player with game environment. Every replay file creates a lots of behavioral data – most of the games contained more than 1000 moves per player. Using measures of attentional, cognitive-motor, and perceptual processing of players at 7 different levels of expertise we can show that variable importance is not static across these levels. This is done by creating statistical classificators to distinguish players from different leagues. Author tries to introduce new types of variables in order to expand previous work in field. 
+Author is introducing different approach to classification of these variables, as he believes that leagues directly besides each other can be separated with usage of other classifier than used in previous researches [1]. 
+Author is also trying to correct overlooked fact that, each of playable races have unique design, so they are played differently and produce different kinds of data. This fact is based on author’s previous work in field, game experience and on research of predecessor of StarCraft 2 – StarCraft: Brood War [2].
+In results author assumes to confirm previous results from this field of study, expand it and introduce new separate results for each playable race. If study will be successful then author is planning to release results and parser for classifier in form of web application, so player community can compare their own replays with these results.
+!! References 
+[1] Thompson JJ, Blair MR, Chen L, Henrey AJ (2013) Video Game Telemetry as a Critical Tool in the Study of Complex Skill Learning. PLoS ONE 8(9): e75129. doi:10.1371/journal.pone.0075129
+[2] Lewis JM, Trinh P, Kirsh D (2011) A corpus analysis of strategy video game play in StarCraft: Brood War. In expanding the space of cognitive science: Proceedings of the 33rd annual conference of the cognitive science society. L. Carlson, C. Hoelscher, T. F. Shipley, Eds. Austin, TX. 687–692.
+

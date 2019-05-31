@@ -1,0 +1,23 @@
+... title: Spatial and Temporal Distribution of Gabaa Receptor Subunits in Human Cortical Areas
+
+
+
+Abstract
+
+!! Introduction
+γ-Aminobutyric acid (GABA) is quantitatively the most important inhibitory neurotransmitter in human brain and exerts its actions through GABAA receptors (GABAA-Rs). GABAA-Rs are pentameric chloride ion channels, which can be composed of 19 different subunits. The subunit composition of the receptor determines its pharmacological properties and, to some degree, its sub-cellular distribution. GABAA-Rs contribute to important brain functions including memory functioning, learning and cognition and are the site of action of many clinically relevant substances, including benzodiazepines, anesthetics, and ethanol [1]. Notably, there is paucity of data regarding the distribution of different GABAA-R subunits in the human brain on protein level. Thus, describing the distribution of different GABAA-R subunits is of great importance. 
+
+My project involved studying brain on histological and neuropathological basis. I focused on the distribution of different GABAA-R subunits in different cortical regions (inferior temporal, entorhinal and insular cortex) and in different layers (marginal zone, intermediate zone and subventricular zone) that are involved in cognitive processes. The purpose of my research was to describe the normal development of different GABAA-R subunits in the human cortical brain structures and to compare them to the age-matched (14-34 gestational week) Down syndrome (DS) cases. I performed a detailed histological investigation of four GABAA-R subunits (α1, α2, α3 and γ2) in human cortical areas and evaluated the immunoreactivity (IR) patterns for each subunit-specific antibody. 
+
+!! Methods
+A total of 67 age-matched fetal cases of normal and DS human developing brains were included in this study, on which immunohistochemistry was performed. Glass slides were converted to digital slides with high-resolution digital slide scanner. Selected structures were exported and evaluated for the presence or absence of specific IR for different GABAA-R subtypes using program ImageJ. The percentage of the stained area in both groups was measured and statistical analysis was performed using SPSS. 
+
+!! Results
+Final data revealed spatial and temporal differences in expression patterns of single GABAA-R subunits during normal development. This expression was disturbed in DS cases, at which we could notice lower amount of IR as well as delayed onset of immunohistochemical detection of single subunits. These findings support the possibility of GABAA-R subunits being an important factor in human neurodevelopmental disorders.
+
+!! Acknowledgments
+I thank my mentor Ivan Milenkovic, MD PhD and his team at the institute for kindly providing all the resources that were needed during my project work. 
+
+!! References 	
+[1] Sieghart W., “Structure and pharmacology of gamma-aminobutyric acidA receptor subtypes,” in Pharmacological reviews, 1995, 47:181-234.
+

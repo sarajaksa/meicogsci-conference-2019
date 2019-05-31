@@ -1,0 +1,26 @@
+... title: Analysis of conceptual metaphors of emotions in Slovak language
+
+
+
+Abstract
+
+How can we characterize human emotions? Should we treat them as biological, psychological, or cultural entities? Can they be reduced to purely biological phenomenon, or are they social constructs? The approach of cognitive linguistics escapes this simplistic division by explaining how concepts of human emotions arise from individuals’ embodied experience in different cultural settings. Emotions are indeed constructed differently in diverse cultures but they all share the basis of common bodily experience which cannot be disregarded. In this view, metaphorical language about the emotions, human physiology of emotions and cultural aspects are all part of an integrated system. 
+
+Goal 
+The main aim of this thesis is to analyze the figurative language we use when talking about emotion in Slovak. We would like to confirm that the most central metaphors and metonymies are grounded in bodily experience and they are universally understandable across the languages. We intend to compare the metaphorical models of emotion in Slovak language which has not been yet well-documented with the analysis of these models in other languages, particularly in English. Another goal is to have a closer look on universality of such models within the domain of emotions and see which patterns are unique for particular emotions and which can be used for emotions in general. For our analysis we chose 6 emotions that are relatively well represented in Slovak language as well as in English: anger, fear, happiness, sadness, pride, and shame. 
+
+Methodology 
+In our analysis we used the cognitive linguistic framework within the tradition that was established in the 1980s by the work of George Lakoff (Lakoff, 2006; 2002), Mark Johnson, Zoltán Kövecses (Kövecses, 2000), and others. We searched for the sources of conceptual metaphors mapped into the expressions of emotions commonly used in Slovak language. To acquire the most complete list of expressions that are related to the concepts of selected emotions we used three types of linguistic sources of metaphors: National corpus, dictionaries of phrases, and common expressions from everyday discourse. We processed the results in two ways: 
+
+1. We categorized them into the system of conceptual metaphors 
+2. We used corpus statistics to analyze the frequencies of collocation of different contexts with each of the studied emotions. 
+
+Results 
+Although most of the emotion metaphors corresponded very closely to those in English, we have still found some minor differences in conceptualization of specific emotion in Slovak language. Most of the metaphors turned out to be quite generally used in all of the studied emotion concepts. We have found quite few emotion-specific metaphors. We have also found an interesting example in conceptualization of fear, which seems to contradict the basic hypothesis of Kövecses (2000) that the conceptualization may vary only within the constraints of universal physiology of emotions.
+
+References:
+
+1.	Kövecses, Zoltán. 2000. Metaphor and Emotion: Language, Culture, and Body in Human Feeling. Cambridge : Cambridge University Press, 2000.
+2.	Lakoff, George and Johnson, Mark. 2002. Metafory, kterými žijeme [Metaphors we live by]. [trans.] Mirek Čejka. Brno : Host, 2002.
+3.	Lakoff, George. 2006. Ženy, oheň a nebezpečné veci [Women, Fire and Dangerous Things]. [trans.] Dominik Lukeš. Praha : Triáda, 2006.
+

@@ -1,0 +1,28 @@
+... title: Linguistic Expressions of Spatial Relations and How to Model Their Semantics
+
+
+
+Abstract
+
+## Purpose
+In this project, I wish to explore the potentials of Grounded Language Learning in a multi-modal setting where visual input is coupled with verbal descriptions of particular actions performed in an experimental environment and how to develop the semantics of prepositions based on multi-modal input data.
+
+## Problem and Approach
+This incorporates the challenges of spatial semantics. Grounding spatial concepts to the physical world directly produces a lot of ambiguity or undetermination, because a specific physical situation may satisfy several concepts being expressed by many different linguistic expressions such as ‘next to’, ‘left of’, ‘in between’. The approach followed in this project is to achieve representations of the physical world from visual input to be paired with instances of linguistic expressions that trigger clustering these representations. Using machine learning techniques, models can be derived that correspond to spatial concepts, and link themselves to prepositions or more complex linguistic expressions expressing spatial relations.
+
+## Context
+Pairing concepts of spatial relations with linguistic descriptions may enable a language-specific partition of these (semantic) concepts. Modeling spatial concepts and learning the meaning of words expressing these concepts hopefully fosters a bridging between embodied cognition and grounded language learning, which seems highly relevant from a interdisciplinary perspective. This project will be carried out in the context of two projects at the Austrian Research Institute for Artificial Intelligence (OFAI): ATLANTIS (“ArTificial Language uNdersTanding In robotS”) and RALLI (“Robotic Action-Language Learning through Interaction”).
+	ATLANTIS aims at understanding and modeling the very first stages in grounded language learning, and how first grammatical generalizations emerge from multi-modal input [1]. Similarly, RALLI tackles the critical problem of learning and modeling actions and the words expressing those actions.
+
+## Method
+Within both projects, a specific corpus was developed, the Action Verb Corpus (AVC), currently comprising multimodal data in total 499 instances of action/utterance pairs, such as take, put, push. [2] Recorded are audio, video and motion data, while participants perform an action and describe what they do. The main focus of this project will be on how learning the meaning of linguistic expressions that denote spatial relations can be achieved. Grounding Language Learning will be used, but also the question of how non-grounded abstract concepts will be explored.
+
+## Implications
+Beyond the goals of human language understanding, which is highly relevant for human-robot interaction, this project may also benefit from and have relevance for research for people with disabilities, such as blindness explored in Gleitman’s work [3]. Notable is the case Autism researcher Temple Grandin, who learned how to visualize non-visual concepts. 
+
+## References
+
+[1] 	Atlantis Project. [Online]. Available: https://atlantiscom.wordpress.com/ [Accessed: May 14, 2018]
+[2]	Gross et al. “Action Verb Corpus”, in: Calzolari et al. (eds.) Proceedings of the 11th International Conf. on Language Resources and Evaluation (LREC 2018) Miyazaki, Japan, pp. 2147-2151. May, 2018.
+[3] 	Gleitman, L. “The Structural Sources of Verb Meanings”, in: Language Acquisition 1/1, pp. 3-55, 1990.
+

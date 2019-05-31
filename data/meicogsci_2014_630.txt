@@ -1,0 +1,22 @@
+... title: Consciousness as cortical complexity.
+
+
+
+Abstract
+
+!!!! Consciousness as cortical complexity.
+According to Giulio Tononi's theory of consciousness as integrated information [1], being conscious requires thalamocortical networks to be highly integrated and differentiated at the same time. This is determined primarily by the presence of an effective connectivity between cortical areas and makes it possible for the thalamocortical system to be able to generate complex patterns of activation. One method of estimating the information content (algorithmic complexity) of the EEG signal involves perturbing the cortex with a transcranial magnetic stimulation (TMS) impulse and then recording the evoked EEG response across the whole scalp. A special algorithm run on the  EEG data acquired in such a way can yield a parameter called the perturbational complexity index (PCI). The value of this parameter in principle can help to discriminate between conscious and unconscious states. 
+
+The principal aim of such a study is to create a method for the reliable diagnosis of consciousness in patients after severe brain injury. During the talk TMS/EEG approach will be disscussed in addition to partial results obtained from 8 patients with disorders of consciousness. The results published by Massimini group will be described [2,3] and they suggest that during states of uncounsciousness such as deep NREM sleep, anaesthesia or vegetative state, thalamocortical integration breaks down. Low perturbational complexity index value correponds to the situation when TMS stimulation triggers a simple local response. In contrast, in minimally conscious state the evoked EEG response displays rather complex pattern and spans across distant cortical regions, which corresponds with the high perturbational complexity index value. 
+
+Taking all together, estimation of information complexity in thalamocortical system may be a promising tool for diagnosing consciousness on the basis of EEG signals. It seems possible that on the base of presented theory also other experimental approach may be developed.
+
+
+!! Acknowledgments
+I would like to express my great thanks to Prof. Massimini group at the University of Milano.
+
+!! References 
+[1] Tononi, G. An Information Integration Theory of Consciousness. BMC Neuroscience. 2004, 5:42.
+[2] Massimini, M., Breakdown of cortical effective connectivity during sleep. Science 2005, Vol. 309: 2228-2232.
+ [3] Rosanova, M. i wsp., Recovery of cortical effective connectivity and recovery of consciousness in vegetative patients. Brain, 2012, 135(4): 1308-1320.
+

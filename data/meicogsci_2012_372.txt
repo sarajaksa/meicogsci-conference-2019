@@ -1,0 +1,26 @@
+... title: Variation in Mind Wandering during class
+
+
+
+Abstract
+
+Introduction
+Mind wandering is not uniquely define yet, mostly is considered to be experience of thoughts which are environment or tasks unrelated. It does not remain trapped for a long time in a particular topic, especially when people are not engaged in a task that requires their attention (Schoolar, 2011). 
+Inspired by Killingsworth and  Gilbert’s (2010) research we devised a similar research question, aiming to population of students of University of Ljubljana. In the research we are presenting here, the main research question was how much students are present during different lectures and what is their mood during them. 
+
+Methods
+Because there is no clear example in the present science literature, we decided to form our own research method. Our pilot research was performed in a form of modified experience sampling method. During the different lectures a random moments were selected where students were asked to described their current experience. For this reason a random sound generator was programed. We tried to quantify experiential reports by asking participants to place their experiential state into two dimensional plane: one axis presenting their thoughts and the other axis presenting their attention. Participants were also asked to evaluate what kind of mood were they in at the time just before the signal emitted by sound generator. At the end of the questionnaire the participants were asked to write down some basic demographic data. There were six random signals performed during two different lectures. 28 test subject participated in the research.
+
+Result
+We were able to analyse the data along different pairs of variables according to type of study program (Cognitive Science and Philosophy): position of attention in relation to gender, position of thoughts in relation to gender and  mood in relation to gender. Our expectation that there will be the difference between attention of philosophy and cognitive science students was not confirmed. Due to different conditions (different lectures) in which the research was preformed and due to the minimum differences in data, we concluded that there is no significant difference between both groups of students. But still we managed to get some interesting comparisons. Perhaps the most interesting is the difference between signals which showed that general attention was much more focused during some periods and less during others. This last result let us to idea that similar method could be successfully used as a way to evaluate lecturers ability to draw attention of the students. 
+Conclusion
+In this line we would believe that further studies could yield interesting results, one of them being improving quality assessment methods of a higher education lectures. 
+
+References:
+
+Killigsworth, A. Matthew, Daniel T. Gilbert  (2010). A Wandering Mind Is an Unhappy Mind. Science. Vol. 330 no. 6006 p. 932. DOI: 10.1126/science.1192439
+
+Schooler, Jonathan W., Jonathan Smallwood, Kalina Christoff, Todd C. Handy, Erik D. Reichle and Michael A. Sayette. (2011). Meta-awareness, perceptual decoupling and wandering mind. Trends in Cognitive Science. Volume 15, Issue 7, July 2011, pp. 319–326
+
+Smallwood, J., J.W. Schooler. (2006). The Restless Mind. Psychological Bulletin. 132(6), 946-958.
+

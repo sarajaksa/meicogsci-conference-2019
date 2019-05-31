@@ -1,0 +1,19 @@
+... title: Processing Suffix Combinations in Slovene
+
+
+
+Abstract
+
+In morphological theory, it is assumed that all derivations start from a lexical base (be it a root or a stem) to which then affixes are attached step by step, i.e. for suffixation: BASE → BASE+SUFF1 → BASE+SUFF1+SUFF2, etc. All theories, irrespective of the type of morphemes they recognize, agree that affixes without bases do not play any role in morphology. However, recent psycholinguistic studies provide evidence that affixes have a life of their own and can be accessed and processed without reference to lexical bases or any other semantic cues [1][2]. The results of the present study speak for this view.
+
+The psycholinguistic experiment the results of which we report was an adapted-to-Slovene replication of Manova and Brzoza’s [3] study on processing of Polish suffix combinations. The Slovene experiment consisted of the identification of 60 suffix combinations (30 existing and 30 non-existing), all without bases. We controlled for two variables: 1) existing versus non-existing combinations; and within the existing combinations, for 2) productive versus unproductive combinations. Productivity was determined based on type-frequency. The frequencies were counted in Slovar slovenskega knjižnega jezika (http://bos.zrc-sazu.si/sskj.html). 32 native speakers of Slovene (age M = 37.06, SD = 14.72) participated in the experiment.
+
+The accuracy of recognition of the existing and non-existing combinations was very high (89.17% for the existing and 85.67% for the non-existing combinations) but the difference between the two types of combinations was not statistically significant, t(29) = –.99; p =.33. We interpret this result as convincing evidence that native speakers know which suffix combinations exist and which do not, i.e. suffix combinations should be listed in the mental lexicon as such. With respect to productivity, the participants were better at recognizing productive combinations and there was a statistically significant difference in the accuracy of recognition of the productive and unproductive combinations, t(29) = 8.16; p < .01, which we see as evidence that productive and unproductive suffix combinations should be processed (and learned) differently. 
+
+We will present the selection of the data as well as the experiment and its results in detail and discuss the relevance of the results to linguistic theory and methodologies for foreign language learning.
+
+!!References 
+[1] Crepaldi D., L. Hemsworth, C. J. Davis & K. Rastle, “Masked suffix priming and morpheme positional constraints,” Quarterly Journal of Experimental Psychology 69(1), 113–28, 2016.
+[2] Manova, S. & B. Brzoza, “Suffix combinability and the organization of the mental lexicon,” 10th Mediterranean Morphology Meeting, Haifa, Israel, 7–10 September 2015.
+[3] Manova, S., & Brzoza, B, “Suffix ordering in Polish: Implications for foreign language learning,” manuscript. http://homepage.univie.ac.at/stela.manova/uploads/1/2/2/4/12243901/suffixorderingpolishimplicationsfll.pdf (13 March 2017).
+

@@ -1,0 +1,28 @@
+... title: Development of a Cognitive Training Application for the Older Adults: A User-centered Design Approach
+
+
+
+Abstract
+
+## Introduction 
+
+Due to demographic changes, the number of elderly people in Slovenia and in the world is increasing. The percent of the older adults (65+ years) in Slovenia is 19.1% and is expected to increase to 33.4% by 2060 [1]. Cognitive impairment is a major health problem in old age and the effective treatments for reducing cognitive decline are needed. One of the alternative non-pharmacological strategies for improving cognitive functions is cognitive training. Applications for cognitive training have shown benefits [2], however training programs, available to elderly Slovene population are either too expensive or not adapted to their needs and abilities. 
+
+## Purpose 
+
+The goal of our study is to develop a functional prototype of a cognitive training application for the older adults. The application will be designed for tablets as they are the best suited for the targeted population in terms of portability and users’ visual abilities. The development will include the design of the cognitive training tasks which will be based on the theories of aging cognition and will target the following cognitive processes: memory, language, attention and visuospatial function. Furthermore, special attention will be dedicated to application’s interface and interaction design to ensure that the application will be accessible, easy, engaging, user-friendly, satisfying, relatable to the user’s everyday life and effective in terms of improving targeted cognitive processes.  
+
+## Method 
+
+In user-centred design approach extensive attention is paid to the needs, requirements, and limitations of the users at each stage of the design process. The characteristics of the older adults will be analysed so the training tasks will be adapted to their perceptual, motor, cognitive and psycho-social capabilities. Iteratively, at least three successive versions of the user interfaces will be tested with five older adults per testing session in nursing homes and day-care centres. Sessions will be audio recorded and later analysed. These data will be then used to measure tasks and allow for a detailed analysis of participants’ performance. Additionally, the participants will be also asked to complete the System Usability Scale (SUS) to access the usability of the application. 
+
+## Expected Results 
+
+Task performance and user’s satisfaction from the first to the last iteration is expected to be improved. The results and findings from the usability tests will be assembled into design recommendations for older adults that may be a useful contribution to the broader community when designing tablet interfaces for the older adults. 
+
+## References 
+
+[1] N. Vertot and I. Križman, *Starejše prebivalstvo v Sloveniji*. Ljubljana: Statistični urad Republike Slovenije, 2010.
+
+[2] B. Klimova and M. Valis, "Smartphone Applications Can Serve as Effective Cognitive Training Tools in Healthy Aging", *Frontiers in Aging Neuroscience*, vol. 9, 2018.
+

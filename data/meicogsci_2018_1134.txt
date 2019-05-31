@@ -1,0 +1,21 @@
+... title: On the Bright Side of Existential Angst
+
+
+
+Abstract
+
+## Context & Purpose
+This study aims to investigate the impact of the belief in free will on pro-social and altruistic behavior. To this point, research has demonstrated that the disbelief in free will (i.e. belief in determinism) is associated with more impulsive and antisocial behavior (e.g. cheating)[1]. Moreover, the determinism-belief has been indicated to reduce helping and further to correlate with a willingness to exert self-control [2]. These adverse behaviors have been argued to emerge due to existential angst, which is provoked by the thought of meaninglessness and might be conveyed by the concept of determinism [3]. Yet, research so far has failed to elaborate the potential positive influences the (dis-)belief in free will might have on our perception, thinking and behavior. This implies not only a beneficial account for ourselves, but further, introduces the possibility of a wider literally pro-social scope. Can the belief in free will prevent antisocial behavior and self-serving thinking and as such be a crucial mediator of agency and altruism?
+
+## Method 
+	In our study we primed participants with the belief in free will or in determinism. Afterwards participants answered different comprehension types of comprehension questions about the text, which they had received in their condition. Then, while participants were led into a different room to perform the last task of the experiment, the researcher dropped their pens, seemingly by accident. Numbers of picked up pens by the participants were counted as an indicator for the presence/ absence and dimension of pro-social behavior of the primed participants. 
+	We expected participants of the Free Will Condition to be more likely to pick up pens and additionally to pick up a significantly higher amount of pens compared to the Determinism Condition.  
+
+## Implications
+	If, indeed a free will belief positively correlates with pro-social and even altruistic behavior, then our findings do not only highlight a strong social relevance but also offer novel insight and benefits in the scientific understanding of the nature of free will beliefs. Belief in free will may then be an essential aspect or even mediator of agency and altruism and would have to be taken into account in research. Finally, given that agency plays a major role in our everyday life, the support of a free will/ determinism- belief could be particularly relevant in the advertisement and education sector of our society. 
+
+## References
+[1] Rigoni, D., Kühn, S., Gaudino, G., Sartori, G., & Brass, M. Reducing self-control by weakening belief in free will. Consciousness and cognition
+[2] Baumeister, R. F., Masicampo, E. J., & DeWall, C. N. Prosocial benefits of feeling free: Disbelief in free will increases aggression and reduces helpfulness. Personality and social psychology bulletin
+[3] Heine, S. J., Proulx, T., & Vohs, K. D. The meaning maintenance model: On the coherence of social motivations. Personality and Social Psychology Review
+

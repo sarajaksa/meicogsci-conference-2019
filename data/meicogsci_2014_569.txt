@@ -1,0 +1,25 @@
+... title: Confabulation in Patients with Neurodegenerative Disorders and Brain Lesions
+
+
+
+Abstract
+
+!!!! Confabulation in Patients with Neurodegenerative Disorders and Brain Lesions
+
+Confabulation is a relatively common behavioural phenomenon in patients with some kind of neurological disorder. Confabulatory patients make false claims when asked a question or they talk in a stream of consciousness that makes no apparent sense. Researchers have classified the former type of confabulation as “mild” or “provoked” and the latter as “severe” or “spontaneous” [1].
+Because confabulators usually give blatantly false answers, one might think that they are lying. But physiological tests have shown that is not the case, therefore the conclusion is that confabulators believe what they say, without intending to deceive. Another curiosity is that many confabulators cannot be or are not easily convinced that their statements are ill-grounded.
+
+The neurological disorders that cause confabulation are varied, thus it can be a symptom of many different syndromes (e.g. Korsakoff’s syndrome, aneurysm of the anterior communicating artery, anosognosia for hemiplegia, Alzheimer’s disease, Capragas’ syndrome). What most syndromes seem to have in common is a lesion in the frontal lobe. Researchers therefore believe that confabulation can only occur if there is a frontal lesion or if the communication of a part of the brain with the frontal lobe is disturbed [2].
+However, the definition and classification of confabulation are highly disputed. Some believe it is merely a memory-filling mechanism that helps amnesiacs make sense of the world (a notion that was disproven by temporal amnesiacs, who show no confabulation tendencies). An alternative explanation says that confabulators lack the cognitive capabilities to assess the validity of a response – ideas are epistemically ill-grounded because they have not passed a review process. A third theory combines the two, saying that confabulation emerges because of memory and executive disfunction. 
+Other topics are also heavily disputed such as if confabulations can really be dichotomously classified into provoked and spontaneous, or are they on a continuum? Some researchers believe that confabulations are only verbal (i.e. expressed as sentences) while others believe that certain non-verbal behaviour can be classified as a confabulation.
+
+The conclusion is that the scientific community is heavily divided on what confabulations are, what are the underlying mechanisms and what do these findings tell us about neurotypical individuals. In my master thesis, I will attempt to answer some of these questions or at least provide information to help resolve the conflicts. I will use a standardized, structured questionnaire on patients with various neurological disorders, not only the ones who are expected to be confabulatory. This will show if confabulation is more wide-spread than previously believed and CT or MRI scans provided by the neurological clinic will give insight into what part of the brain is damaged. My goal is to test as many patients as possible (100+), since most other similar studies [3] use very narrow inclusion criteria and consequently test much fewer patients, resulting in a lack of raw data. By providing this data, I hope for a clearer insight into the epistemic problems of confabulations.
+
+!! Acknowledgments
+My thanks goes to Dr. Zvezdan Pirtošek for his ideas and support.
+
+!! References
+[1] W. Hirstein, Brain Fiction: Self-Deception and the Riddle of Confabulation (Philosophical Psychopathology). Cambridge, Massachusetts: MIT Press, 2005.
+[2] W. Hirstein, Confabulation: Views from Neuroscience, Psychiatry, Psychology and Philosophy. Illinois, USA: Oxford University Press, 2009.
+[3] M. S. Turner, “Confabulation: Damage to a specific inferior medial prefrontal system,” in Cortex 44, 2008, pp. 637-648
+

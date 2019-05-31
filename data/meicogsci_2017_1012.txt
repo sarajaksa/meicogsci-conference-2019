@@ -1,0 +1,19 @@
+... title: Influence of Manipulation of Complexity and Processing Fluency on Liking in Aesthetic Experience
+
+
+
+Abstract
+
+The mechanisms and even the purpose of aesthetic experience has baffled artists, philosophers, and psychologists since ancient times. In this work, the focus is on complexity and fluency of aesthetic experience. Research problem deals with Berlyne's arousal theory in connection to visual perception of abstract patterns, complexity, and fluency. Degrees of complexity and fluency are manipulated by adjusting the number of triangle elements in the stimuli, and exposure time, respectively. The hypothesis postulates that liking ratings awarded by participants descend as fluency increases with complexity kept at very low levels. 
+
+The processing fluency theory states that the ease with which an object is processed, is accompanied by a subjective feeling of fluency, which serves as a basis for several kinds of judgements and evaluations [1]. In previous, typical, experiments on processing fluency, the presentation of stimuli was manipulated in order to lessen or increase the ease of processing, i.e. processing fluency. Variations in presentation duration [1] are commonly used.
+
+The stimuli used were taken from a previous experiment [2] and modified in order to manipulate complexity and fluency by controlling the number of triangle elements comprising the stimuli and presentation duration, respectively. The experiment required 30 participants. Prior to the experiment, the participants were tested in colour vision and visual acuity using standardised tests. The measures of liking ratings were taken using a five point Likert scale, ranging from least liked to most liked. These ratings, as the manipulation of exposure time, were pre-programmed using software E-Prime version 3.0.
+
+Repeated measures design was used. To avoid stimulus repetition, which could result in mere exposure effects, every pattern was presented only once to each participant. Presentation durations were 100 ms, 300 ms, and 500 ms. This variation was based on previous studies showing reliable fluency effects in this time range [2]. Each trial started with a fixation cross (approx. 2000 ms), followed by a stimulus and a white noise mask (approx. 400 – 600 ms). After the mask, the participants provided their responses. Across participants, presentation durations for each complexity group were systematically permuted.
+The analysis of the data is still underway.
+
+!!References
+[1]M. Forster, H. Leder and U. Ansorge, "It felt fluent, and I liked it: Subjective feeling of fluency rather than objective fluency determines liking.", Emotion, vol. 13, no. 2, pp. 280-289, 2013.
+[2]Gerger, G., Forster, M., & Leder, H. "It felt fluent but I did not like it - Fluency effects in faces versus patterns.", Quart. J. of Experimental Psychology, vol. 218, pp. 1–34, May. 2016.
+

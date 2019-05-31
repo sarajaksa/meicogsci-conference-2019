@@ -1,0 +1,23 @@
+... title: Intelligent Tutoring System for Salsa Dance
+
+
+
+Abstract
+
+Introduction
+The long-term goal of the project is to build a dance tutor that could function as a part of a system in educational and other pedagogical disciplines. This involves learning to recognize basic salsa dance elements, specifically various dance steps from the motion data, recorded using Animazoo motion capture equipment and software.  
+
+Methods
+An upgrade of existing tutors functionality was essential by improving the recognition of dance steps in real time. The recording of multiple dance subjects was necessary to improve the learning capabilities of the system. The  gyroscopes were used as a part of a tutoring system that records the rotations of the major joints of the human body. The recorded data was preprocessed into human understandable form and classified for effective recognition of dance steps.  
+
+Results
+By using several recorded dance samples from an expert (and amateour) we made the system tutor more tolerant to faults. Furthermore, a greater accuracy was achieved in step recognition. The data were preprocessed into machine and human understandable form to be able to find differences as well as similarities in the movement data. By using K-Nearest Neighbor algorithm and Markov Chain we managed to improve the classification accuracy in steps recognition process and to reduce the number of Animazoo gyroscopes from 19 to four. 
+
+Conclusion
+This project is trying to present a specific classification of human dance steps that are presented in a form of time series. One of the goals of our work is to build an unexpensive Intelligent Tutoring System (ITS). Therefore the software based on 19 gyroscopes is not an option. The fully fuctional ITS can be easily extended for use in health care as a part of rehabilitation process after injuries or similar.   
+
+References
+Brown, J.S., Burton, D.: Intelligent Tutoring Systems, chap. Pedagogical, natural language and knowledge engineering techniques in SOPHIE I, II and III. Academic Press (1982).
+Murray, T.: Authoring intelligent tutoring systems: Ananalysis of the state of the art. Int. Journal of Arti_cial Intelligence in Education 10, 98{129 (1999).
+Woolf, B.: Building intelligent interactive tutors. Morgan Kaufman (2008).
+

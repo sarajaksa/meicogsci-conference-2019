@@ -1,0 +1,25 @@
+... title: Androgen Activity and Cognitive Aspects of Problem Behavior In Children with Autism Spectrum Disorders
+
+
+
+Abstract
+
+!!Introduction
+Autism spectrum disorders (ASD) are a set of heterogeneous neurodevelopmental conditions, characterised by early-onset difficulties in social communication, cognition and unusually restricted, repetitive behavior and interests. Children with ASD often present a high rate of problem behavior. Extreme male brain theory suggests that androgens, especially testosterone, can play a role in the complex etiology of various behavioral and emotional problems in children with ASD [1]. There are some studies linking aggression with androgen activity, but there are very few studies investigating this relationship in children with ASD.
+
+!!Aims	
+The purpose of our study was to investigate a relationship between actual testosterone levels, sensitivity of androgen receptor (AR) and cognitive aspects of problem behavior in boys with ASD.
+
+!!Methods and Results
+The study sample consisted of 51 boys (ages 3-15) with ASD. In all children, parents completed Behavior Problems Inventory (BPI-01) that consisted of specific sub-scales: self-injury, stereotypic and aggressive behavior. Sensitivity of (AR) was determined by the number of CAG repeats in the first exon of the gene encoding the AR. Total plasmatic testosterone levels and a number of CAG repeats were determined in the venous blood samples.
+
+No correlation was found between plasmatic testosterone levels, CAG repeats and any of the sub-scales of BPI-01. Further, it was found that the effect of testosterone on behavior is not determined by lower, medium and higher levels of CAG repeats.
+
+!!Conclusions
+In the light of interdisciplinary approach we point potential limitations of current research. Testosterone is not the only one hormone that plays a role in etiopathogenesis of problem behavior and we suggest to investigate mutual interaction between testosterone and other hormones/neurotransmitters (cortisol, oxytocin) in future research. Activity of enzymes involved in testosterone metabolism (5 alpha reductase, aromatase) also influences androgen effect [2]. The presence of blood brain barrier also influences transport of testosterone into cerebrospinal fluid and levels of testosterone in periphery might not reflect the testosterone effects in brain. Moreover, some cognitive theories suggest  that a specific impulse,  associated with a negative or fear memory in our brain can contribute to the etiology of problem behavior as well [3]. Further investigation of complex androgen activity and the causes of problem behavior might bring more clarification to the role of increased androgen activity and behavioral and emotional problems in ASD.
+
+!!References
+[1] Baron-Cohen, S. (2002). The extreme male brain theory of autism. Trends in cognitive sciences, 6(6), 248-254.
+[2] Durdiakova, J., Ostatnikova, D., & Celec, P. (2010). Testosterone and its metabolites--modulators of brain functions. Acta neurobiologiae experimentalis, 71(4), 434-454.
+[3] Anderson C.A., & Bushman B. J. (2002). Human aggression. Psychology (27).
+

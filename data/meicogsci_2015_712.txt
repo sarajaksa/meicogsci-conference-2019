@@ -1,0 +1,22 @@
+... title: Friends with Benefits: Effects of Social Support on Stress-coping Abilities in Pigs
+
+
+
+Abstract
+
+!!Background
+There is strong evidence that social interactions can be a positive factor during times of stress and that social support can attenuate the negative effects of stressful experiences in gregarious species [1]. In humans, it increases health, stress-coping abilities, and well-being [2]. Thus, it is reasonable to assume that social support promotes welfare in farm animals as well. Yet, very little is known about the influence of social partners on stress responses in farm animals. In this study, we examine the influence and effects of social support on stressors in domestic pigs as well as the potential implications for animal husbandry and welfare.
+
+!!Methods
+A total of 18 adolescent pigs was tested in ten conditions each. In order to assess the pigs’ relationships, their behaviours were evaluated and a hierarchy was established on the basis of a social network analysis, using extensive video footage. Afterwards, subjects were tested in two successive settings, an open field task and a novel object task, whereby the former served as a control condition. In the open field test, the animals’ locomotor activity and willingness to explore an unknown field was measured. Each subject was tested in five different scenarios: (i) alone; (ii) with the mother; (iii) with a human caregiver; (iv) with a preferential partner; (v) with an actively avoided partner (the order was not counterbalanced). In the ensuing task, the animals’ behaviour towards a stress-inducing novel object was observed in the same five conditions and assessed by means of focal observations.
+
+!!Results
+Final results have not been obtained yet as testing is still in progress. We expect the results to show a significant difference in the animals’ demeanour towards a stressful novel object in all five subconditions. We hypothesize the pigs to be less stressed in the presence of a group mate they like, as opposed to a group mate they dislike, as well as significantly higher stress responses in the asocial condition. Furthermore, we presume significant differences between the open field and the novel object test.
+
+!!Conclusion
+The study is believed to demonstrate the importance of social support in stress-induced experiences. The results are expected to indicate a more pronounced buffering effect in the presence of a preferred conspecific than in the asocial condition. The insights gained are intended to lead to a better understanding of pigs and their consequent needs. However, further research in the possible implications of social support is needed in order to improve farm animal welfare.
+
+!!References
+[1] E. Kanitz et al., “Social support attenuates the adverse consequences of social deprivation stress in domestic piglets,” Horm behav, vol. 65, no. 3, pp. 203-210, 2014.
+[2] A. C. DeVries et al., “Social modulation of stress responses,” Physiol Behav, vol. 79, no. 3, pp. 399-407, 2003.
+

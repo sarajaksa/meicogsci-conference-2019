@@ -1,0 +1,19 @@
+... title: Language comprehension and situation models
+
+
+
+Abstract
+
+Language comprehension is a complex problem. In order to understand what was heard/seen, humans have to take context into account, make predictions over the course of a sentence, deal with syntax and grammar as well as semantics, paralinguistic content, pragmatics, etc. Also, they have to recognize the information in the speech/text, which may contain events, entities, properties or categories. Language comprehension predicts having own interpretations of what was transferred in the language.
+
+In my thesis I deal with Situation models [1][4] and their use during comprehension of spoken and/or written language. It has been theorized, that the process of deeper understanding of language sentences involves construction of mental models of the situations depicted in them. Comprehenders keep track on multiple dimensions and number of aspects of the situations, like causality, intentionality, protagonists and their emotional states, soace objects and their visual characteristics like colors, etc. I study these models in the framework of embodied cognition. Theorists in embodied cognition suggest, that language is grounded in corresponding sensory-motor modalities and emotion processing. In this work I provide an overview of these ideas and describe two experiments, based on these ideas. 
+
+First one is dealing with effect of monochromatic stimulus habituation on subsequent comprehension of short sentences. This experiment was repeated with adjusted experimental conditions, due to insignificant results in the first run. Results of this experiment provide additional insights on previous work by Rakovsky [3]. Since he used two opposite colors (blue and yellow) in habituation and sentences, from his results it was not clear, whether the habituation on monochromatic stimulus had slowed comprehension of sentences, depicting situations with the same color, or facilitated comprehension of sentences of the opposite color (possibly both). Using a third color (green) type of the sentences, which were neutral to both monochromatic habituation types (blue and green), we were able to prove the first of two explanations, while the second cannot be supported from the results.
+
+Second experiment is dealing with effect of visual emotive stimuli priming on further comprehension of short sentences, depicting situations, which typically evoke similar or different emotion. Result show, that priming on emotion of happiness facilitates comprehension of sentences, depicting situations, which typically make the protagonist happy and priming on emotion of anger facilitates comprehension of sentences, depicting situations, typically evoking the same emotion in the protagonist. This experiment is inspired by study called Gender, emotion and the embodiment of language comprehension [2].
+
+[1] Dijk, T. A. Van, & Kintsch, W. (1983). Strategies of Discourse Comprehension New York : Academic Press.
+[2] Glenberg, A. M., Webster, B. J., Mouilso, E., Havas, D. A., & Lindeman, L. (2009). Gender, emotion, and the embodiment of language comprehension. Emotion Review.
+[3] Rakovsky, M. (2009). Situation models in language comprehension. Diploma thesis. Comenius university Bratislava.
+[4] Zwaan, R. A. & Radvansky, G. A. (1998). Situation models in language comprehension and memory. Psychological Bulletin, 123(2), 162-85.
+

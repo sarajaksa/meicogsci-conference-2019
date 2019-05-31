@@ -1,0 +1,19 @@
+... title: Emotion Recognition in the Wild: A Machine Learning Challenge
+
+
+
+Abstract
+
+Currently, artificial emotion recognition exceeds 90% precision in laboratory settings, nevertheless, emotion recognition in the wild is as low as 75.2% of precision for state of the art implementations. Emotion recognition in the wild is understood as the ability to recognize emotions from facial expressions in unconstrained environments where data can be noisy, illumination conditions and head pose may differ, and occlusion can be present [1].
+
+The most popular methods for emotion recognition involve convolutional neural networks (CNN). One promising CNN-based solution is the multi-column deep neural network (MCDNN). It is a committee architecture, which means that there is a specific amount of independent CNN’s with varied network architecture, input normalization and random weight initialization that processes the inputs [2]. However, MCDNN used several CNN’s that by now are surpassed by more recent CNN architectures. One of the new architectures are residual networks that reduce the training error by creating a residual function from the initial inputs and outputs of the network. The other are “Inception” networks based on fire together wire together Hebbian theory and multi-scale processing.
+
+As for face detection, constrained local neural field (CLNF) is an improved effective facial detection method for images with two main parts, the Local Neural Field patch expert which captures more complex information and exploits spatial relationships between pixels, and the Non-Uniform Regularized Mean-Shift which takes the patch expert reliabilities into account. The reliabilities are represented by a parameter that extracts vertex features and while there is less variance inside the patch more reliability is achieved [3].
+
+Based on my current research, I propose to update MCDNN with residual networks and “Inception” networks because committee architectures were shown to be more precise in emotion recognition than individual networks and combine the outcome with CLNF which is specialized in face detection. CLNF allows preprocessing of ‘in the wild’ data that can further be processed by the updated MCDNN having as an outcome or faster processing times or major accuracy in emotion recognition than when using previous face detection methods.
+
+## References
+ [1] Dhall, A., Goecke, R., Gedeon, T., & Sebe, N. (2016). Emotion recognition in the wild. *Journal on Multimodal User Interfaces*, 10(2), 95–97. https://doi.org/10.1007/s12193-016-0213-z
+ [2] Kim, B.-K., Roh, J., Dong, S.-Y., & Lee, S.-Y. (2016). Hierarchical committee of deep convolutional neural networks for robust facial expression recognition. *Journal on Multimodal User Interfaces*, 10(2), 173–189. https://doi.org/10.1007/s12193-015-0209-0
+[3] Baltrušaitis, T., Robinson, P., & Morency, L. P. (2013). Constrained local neural fields for robust facial landmark detection in the wild. *Proceedings of the IEEE International Conference on Computer Vision*, 354–361. https://doi.org/10.1109/ICCVW.2013.54
+

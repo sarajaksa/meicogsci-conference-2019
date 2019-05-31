@@ -1,0 +1,21 @@
+... title: Constrained by convention: Emotional effect of microtonality on professional musicians and non-musicians.
+
+
+
+Abstract
+
+Majority of western music is based on equal temperament, where each scale is divided into twelve equally spaced intervals - “semitones”. This is only a convention based on the popularity of this system in the last 500 years. There are many other systems, which were either created in different time periods, come from different cultures or are product of music experiments.
+Our (western) ear is trained to interpret certain chord and tonal constructs in a certain emotional way (e.g. major chord = uplifting, minor chord = melancholic), but other constructs seem alien and dissonant. Are there any other musical constructs that might evoke emotions other than disgust? Is it possible to find pleasing sounds outside of equal temperament?
+
+Professional musicians use equal temperament on daily basis and are sensitive to detuned instruments or unexpected pitch [1]. The goal of this study is to show that this ability also makes them less open to new sounds and chords that are outside of the standart tuning. Their strength becomes their weakness in a sense.
+
+The experiment will be completed by two groups - professional musicians and non-musicians. The first group is defined by atleast 10 years of active professional musical career and musicians that have no experience with microtonality will be prefered. E.g. jazz musicians tend to experiment a lot, so they have to be unfortunately skipped. Non-musician is, on the other hand, a person that does not play any instrument and consumes current pop music. Again, people with experience in microtonal music (some experimental bands) will be left out.
+
+Both groups will listen to semi-randomized sample of musical cues (chords) and respond via PsychoPy interface. The scales used to evaluate emotional effect are based on the research [2] and are: wonder, transcendence, tenderness, nostalgia, peacefulness, power, joy, tension, sadness. In the beginning, the participants encounter basic chord structures (major, minor, dimminished) from equal temperament, to set the baseline for both groups and individual participants. Afterwards, the system will choose from more and more exotic pool of musical constructs, sometimes returning to equal temperament. Because evaluating music is relative (interpretation of a certain chord can differ based on the previous one), the resulting data will include also the sequential information about the cues. It is expected that professional musicians will have higher values in negative (tension, sadness) categories than non-musicians.
+
+!!References
+
+[1] N. Steinbeis, S. Koelsch and J.A. Sloboda, "The role of harmonic expectancy violations in musical emotions: Evidence from subjective, physiological, and neural responses," Journal of cognitive neuroscience, vol. 18, no. 8, pp. 1380-1393, 2006.
+
+[2] M. Zentner, D. Grandjean and K.R. Scherer, "Emotions evoked by the sound of music: characterization, classification, and measurement," Emotion, vol. 8, no. 4, p. 494, 2008.
+

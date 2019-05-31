@@ -1,0 +1,24 @@
+... title: Wearable EEG-Based Brain-Computer Game Controlling Interface
+
+
+
+Abstract
+
+EEG-based Brain Computer Interface (BCI) employing motor imagery enables direct communication between the user's brain and a computer or other smart device [1]. The user imagines moving his body, causing short moments of mu (8 – 12 Hz) and senzorimotor (12 – 15 Hz) rhythm desynchronizations in the sensorimotor cortex [2]. These are acquired by an EEG device and can be detected in the output signal by a computer program — this task is termed online classification. To be able to classify, the classifier first needs to be trained, which is usually done offline on pre-acquired training data.
+
+We are building an end-to-end BCI solution utilising a wearable headset. We record the signals with NeuroSky MindWave, an economical EEG headset equipped with on-board bluetooth connectivity. This device is reasonably priced, compact and gives user higher freedom of movement and is therefore more suitable for broad use than conventional EEGs. However it also bears only one electrode, which poses a challenge as we are unable to easily topographically distinguish the source of detected neural activity. We acquire the signal using OpenVIBE server, which sends it to OpenVIBE Designer [3]. These do not need to be run on the same computer. We are developing an online classifier in OpenVIBE to classify received signals based on hand motor imagery. Considering having only one EEG channel at our disposal we expect to be able to detect two brain states, effectively creating a brain switch. This switch produces one dimensional control output signal, which we forward to a custom game application via VRPN connection (network protocol).
+
+After a calibration of the classifier the user should be able to control the game using his thoughts alone.
+
+!!Acknowledgements
+
+I would like to express my thanks to my supervisor Barbora Cimrová.
+
+!!References
+
+[1]  A. Schlögl, F. Lee, H. Bischof and G. Pfurtscheller, "Characterization of four-class motor imagery EEG data for the BCI-competition 2005", J. Neural Eng., vol. 2, no. 4, pp. L14-L22, 2005.
+
+[2] D. McFarland, L. Miner, T. Vaughan and J. Wolpaw, "Mu and beta rhythm topographies during motor imagery and actual movements", Brain topography, vol. 12, no. 3, pp. 177-186, 2000.
+
+[3] Y. Renard, F. Lotte, G. Gibert, M. Congedo, E. Maby, V. Delannoy, O. Bertrand and A. Lécuyer, "OpenViBE: An Open-Source Software Platform to Design, Test, and Use Brain–Computer Interfaces in Real and Virtual Environments", Presence: Teleoperators and Virtual Environments, vol. 19, no. 1, pp. 35-53, 2010.
+

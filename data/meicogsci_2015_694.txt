@@ -1,0 +1,29 @@
+... title: Investigating the Impact of Personality Traits on Team Performance Using Agent-based Social Simulation
+
+
+
+Abstract
+
+!!Motivation and Research Question
+
+Personality models aim to provide characterizations of systematic differences in the behaviors of human individuals and groups [1]. The goal of this project is to investigate the methodological value of agent-based simulation to predict human social behavior based on personality types in settings that require social cognition and collaborative interaction. The scenario investigated is a teamwork setting, where individuals of certain personality types may interact in order to solve a task. In our research, next to improving our working knowledge of personality theory, we aim to learn about the specific challenges in the specification, implementation, and evaluation (i.e., gaining of scientific insights) of (such) agent-based simulations. Importantly, this will include validation of the simulation model against natural settings, i.e.: are task-solving performances of human teams composed of members with specific personalities predicted by the simulations?
+
+!!Methods
+
+In order to address these questions, the empirical part of the project comprises specification, evaluation and comparison of the teamwork scenarios in the natural/human and simulated/software agent settings. The personality traits of the human participants are assessed with the NEO-FFI-3 questionnaire that is based on the Five Factor Personality Model [1]. The implementation of personality traits in software agents will be based on a BDI software architecture [2]. 
+In both experiments, team performance in the respective tasks will be measured in terms of completion time as indicator of efficiency. 
+
+!!Expected Results
+
+Based on the preliminary study of the literature, we expect to be able to successfully specify and implement the collaborative task scenarios and to obtain positive validation results. Alongside, we expect to encounter significant theoretical and methodological learning opportunities that should improve our grasp of the intra- and interdisciplinary possibilities, challenges, and cultures of practice, in the involved fields of personality theory, agent-based simulation, computational modeling, and methodological and epistemic scientific analysis.
+
+!!Acknowledgements
+
+Many thanks to Paolo Petta for supervising this project.
+
+!!References
+
+[1] D. Cervone and L. A. Pervin, Personality. Theory and Research, 10th ed. Hoboken, NJ: Wiley, 2008.
+
+[2] D. Pérez-Pinillos et. al, “Modeling Motivations, Personality Traits and Emotional States in Deliberative Agents Based on Automated Planning,” in Proc. ICAART, 2011, pp. 146-160.
+

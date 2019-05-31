@@ -1,0 +1,22 @@
+... title: !!!! Making Sense From Phenomenological Experimental Data
+
+
+
+Abstract
+
+!!!! Making Sense From Phenomenological Experimental Data
+
+!! Introduction
+The main goal of this master thesis is to present a new level of understandig of phenomenological experimental data collected through the usage of software application via descriptive experience sampling to provide an in-depth research at an application user. 
+
+!! Method
+The collected data will be processed through a computer based environment and represented in a multi dimensional graphical interface that would allow the user itself to interract with the data recorded via customized application software on a daily basis [1]. The data is going to be sampled by the user and automaticly sent online to the required server, that will host all the necessary services. When the data transfer is completed from the user, the sampled data are then forwarded to a computorized environment that will be responsible for extracting, transforming and creating presentational aspects that were requested by the user in a specified time interval.
+
+!! Expected Results
+The usage of phenomenological experience sampling will open an opportunity for multi dimensional correlation research of user's experience in a fully customized environment [2]. An extensive data mining sandbox is also considered as a great research area for conducting future pragmatic researches by an optional customer.
+
+
+!! References
+[1] J.W. Creswell, Research design: Qualitative, quantitative, and mixed methods approaches, Thousand Oaks Sage, 2009.
+[2] U. Kordeš, "How to research experience" in Philosophical insights about modern science, E. Žerovnik, O. Markič and A. Ule, Ed. New York: Nova Science Publishers, 2009, ch. 11.
+

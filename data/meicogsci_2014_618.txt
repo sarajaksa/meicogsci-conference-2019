@@ -1,0 +1,27 @@
+... title: The Persistency of Motor Programs as a Source of Difficulty in Motor Learning
+
+
+
+Abstract
+
+!!!! The Persistency of Motor Programs as a Source of Difficulty in Motor Learning
+
+
+!! Introduction
+This paper explores how classical ballet-specific motor programs impact the process of movement acquisition for ballet dancers of different expertise. Learning a dance style consists of modification of the motor rules established during developmental phases [1]. In ballet, the shape of the movements is uniform and has to be internalized through ongoing training which implies strong priming of the motor system. Hence, ballet-related kinesthetic patterns are expected to be persistent and, according to our hypothesis, can be detected across contexts. For example, if an every day life move requires lifting a leg, the probability is increased for a ballet dancer to perform it with stretched feet, despite of doing a non-dance move. 
+We are looking into the implications that these ballet-related patterns can have in the process of the acquisition of movements from a new dance style. Due to the degree of priming of the movement system, implied by the increase of expertise of the ballet dancer, an effect equivalent to negative transfer [2] for motor learning is expected to be observed.  
+
+!! Methods
+In a feasibility experiment three groups of participants (n = 12) will be recorded with AnimaZoo (a 3D motion capturing suit): 1) professional ballet dancers; 2) lower intermediate ballet dancers; 3) and non- dancers. The first part of the study consists of attempting to detect dancers’ style-specific motor schemes in ballet and in everyday life moves. The 3D recordings will be analyzed through different state-of-the-art methods for movement analysis, such as slow feature analysis and dynamic time warping. We will test for the anticipated specifics of movement implementation in the test subjects as compared to the control group. 
+In the second part, participants will learn moves from dance styles, very different from ballet. The movements will be selected according to the following criteria: 1) alien – no scheme is developed for such a movement; 2) discrepant – using motor activations similar to a familiar move with minor difference. The success in acquiring the movements by the ballet dancers will be graded by professionals from the respective dance style. The degree of perceived difficulty of learning the move for the experiment participants will be assessed through questionnaires and in semi- structured qualitative interviews.
+
+!! Concluding remarks
+In the second part of the experiment, we will attempt to find out more about the types of difficulty our participants encounter. We expected that movements that contradict the logics and aesthetics of ballet will be perceived as more difficult by the dancers. We are also interested in the implications that learning dance style movements has for the subjective sense of agency of the participants.  
+
+!! Acknowledgements
+Sincere thanks Gregor Kamnikar and Vesna Geršak for supporting this project! 
+
+!! References
+[1] M. Jeannerod, “Motor Cognition”, Oxford: Oxford University Press, 2010
+[2] D. K. Detterman and R. J. Sternberg, Eds. “Transfer on trial: Intelligence, cognition, and instruction”, Norwood, NJ: Ablex. 1993
+

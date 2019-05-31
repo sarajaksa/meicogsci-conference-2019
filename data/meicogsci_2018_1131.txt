@@ -1,0 +1,23 @@
+... title: Enhancing the Concealed Information Test via Emphasis on Semantic Associations
+
+
+
+Abstract
+
+##Context
+The *Concealed Information Test (CIT)* is a modern technological deception detection method, with increasing scientific interest in the recent decades. In this test, several items are repeatedly presented in a random sequence, with one item being the probe — an item that only a guilty person would recognize (e.g., name of an accomplice), and the rest are irrelevant items similar to the probe (e.g., other names) and thus indistinguishable from the probe for an innocent person. Compared to the irrelevant items, the occurrence of the probe in case of the guilty examinee typically results in a *slower reaction time* (RT) when examinees respond with a key press for each item, and a *larger P300 event-related potential* when the reactions are measured with the EEG [1].
+
+##Method
+In this study, the probe items are items personally relevant to the “guilty” participants (e.g., their first name). The aim of the project is to propose an improvement to the CIT by including probe- and irrelevant-related *inducers* in the task, and therefore increasing attention to the *semantic context* in the test. For instance, when the probe is the participant’s name, the irrelevant-related inducers could be items like “other name” or “theirs,” while probe-related inducers could be items like “my name” or “mine”. These two categories have to be responded to using two different response keys.
+
+##Expected results
+Inducers lead to a greater response conflict for the “guilty” participants when the probe appears, making their RT even slower [2]. Moreover, the complex task increases cognitive load, which likely facilitates deeper processing of the stimuli, and also results in a slower RT. Since the saliency of the probe is due to its meaning, and a more salient probe leads to larger probe-irrelevant P300 differences [3], using inducers is also likely to lead to larger P300 differences.
+
+##Implications
+Advances in this research area could lead to real-life application of the EEG-CIT – which, if it improves as significantly as the RT-CIT [2] with the introduction of inducers, has the potential of becoming an accurate and widespread lie detection method.
+
+##References
+ [1] Meijer, E.H., Selle, N.K., Elber, L., & Ben-Shakhar, G. (2014). Memory detection with the concealed information test: A meta-analysis of skin conductance, respiration, heart rate, and P300 data. *Psychophysiology, 51*(9), 879–904.
+ [2] Lukács, G., Kleinberg, B., & Verschuere, B. (2017). Familiarity-related fillers improve the validity of reaction time-based memory detection. *Journal of Applied Research in Memory and Cognition, 6*(3), 295-305.
+[3] Marchand, Y., Inglis-Assaff, P.C., & Lefebvre, C.D. (2013). Impact of stimulus similarity between the probe and the irrelevant items during a card-playing deception detection task: The “irrelevants” are not irrelevant. *Journal of Clinical and Experimental Neuropsychology, 35*(7), 686–701.
+

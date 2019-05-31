@@ -1,0 +1,20 @@
+... title: Ethnographic Knowledge Elicitation: A Modelling Perspective on Decision Making in a Neuroscience Laboratory
+
+
+
+Abstract
+
+The central methodological tool in my background discipline, cultural and social anthropology, is ethnography (EG). EG is a process that employs different qualitative methods to describe a researched group. Contrary to the former locally bounded field sites, the recent focus is on encompassing, e.g., national or global, structures and interactions. One of the answers to the increased complexity of the theories for the social phenomena now under investigation is evaluation with computer-based simulations [1].
+A promising computational simulation method is agent-based modeling (ABM), which allows to relate agent behaviors to social structures through interactions. Few anthropologists have applied ABM to build models based on EG data. Nonetheless, these approaches have led to new insights regarding the relation between individual decision making and structural behaviors [1]. In the transition from EG data to ABM, a particular challenge is the elicitation of knowledge and formalization of the data through knowledge modeling.
+Laboratory EGs are descriptions of social interactions and structures observed in scientific laboratories. Neuroscience laboratories are one of the fields this research focuses on. The research interest of neuroscience laboratory EGs can be categorized into: i) context and technologies; ii) discussions of distributed/extended mind; iii) implications of neuroscience research beyond the laboratory [2]. All of these EGs rely on the traditional EG process and so far have made no use of simulations.
+Our research field is the sociotechnical system around an fMRI scanner in a neuroscience laboratory, specifically: the decision making of the involved individuals. The EG study will build on insights regarding i) and ii) reported in [2]; modeling of elicited knowledge will employ a specialized framework, such as MAIA [3]. Our analysis of the ABM created from the formalized data will explore behaviors and components sufficient for explaining the target phenomenon.
+Our research should contribute methodological insights about the viability of developing ABMs based on EG data. We expect further to identify relevant human processes in the field and to obtain a logically sufficient representation of human decision making.
+
+## Acknowledgements
+I would like to thank my supervisor Paolo Petta for his support.
+
+## References
+[1] M. Fischer and D. B. Kronenfeld, “Simulation (and modeling),” in _A Companion to Cognitive Anthropology_, D. B. Kronenfeld, G. Bennardo, V. C. de Munck and M. D. Fischer, Eds. West Sussex: Blackwell Publishing, 2011, pp.210-226.
+[2] T. Mahfoud, “Extending the mind: A review of ethnographies of neuroscience practice,” _Frontiers in Human Neuroscience_, vol. 8, no. 359, pp.1-9, 2014.
+[3] A. Ghorbani, G. Dijkema and N. Schrauwen, “Structuring qualitative data for agent-based modelling,“ _Journal of Artificial Societies and Social Simulation_, vol. 18, no. 1, January, 2015. Available: jasss.soc.surrey.ac.uk/18/1/2.html. [Accessed May 13, 2018].
+

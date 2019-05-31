@@ -1,0 +1,17 @@
+... title: !!The Costs of Being Behind a Screen – Could Social Media Use be Addictive?
+
+
+
+Abstract
+
+Roughly, 1.5 billion people around the world use social media (e.g.: Facebook, LinkedIn, Youtube, Instagram, Twitter, Snapchat, etc.) for different purposes, mainly however, for social motives [1]. This ubiquitous use of social media generates a massive amount of data. Lately, modern human can attempt to satisfy basic social needs not just by face-to-face meetings, but also through online interactions. There are three domains in cognitive functioning which are especially important in online social media communication: social cognition (mentalizing), self-referential cognition and social reward processes. Due to such influence on our cognition, social media use could also be addictive. However, excessive social media use may have detrimental effect on personal, social and professional lives of the users [1][2]. 
+
+My master thesis topic will revolve around the question of the relationship between social media use and the potential addiction to it through cognitive functioning. The aim of my project is to explore and assess the characteristics and prevalence of problematic/excessive use of social media. In my talk, I will present different theoretical models that provide explanations for the development of problematic social media use. I will explore the nature of clinical perspective of behavioral addiction in relation to social media. What is already known in previous studies of popular social media about influences on a behavior of users? How (and if) social media use could influence our cognition and behavior? My research questions are: i) could the use of social media reproduce addictive behavior? And ii) could social media use also present new research environment about human social cognition and function within which we can study social behaviors (social crisis, social conflicts, prosocial or antisocial behaviors)? I will acquire the data from different fields within cognitive science. The result will be a theoretical framework with systematic review of neuroscientific and psychological theories of behavior which will support social-cognitive processes connected to addictive behavior of social media use. 
+
+It would be informative to see if there are any perturbations in individual elements (e.g.: novel technological use) which might perturb the functioning of the larger system - like brains. Further research of problematic usage of social media could prevent children, adolescent and adults from addictive behaviors. 
+
+
+!!References
+[1] D. Meshi, D. I. Tamir and H. R. Heekeren, “The emerging neuroscience of social media,” in Trends in cognitive sciences, vol. 19,  no. 12,  pp. 771-782, Dec. 2015.
+[2] F. Bányai et al., “Problematic Social Media Use: Results from a Large-Scale Nationally Representative Adolescent Sample”. PloS one, vol. 12, no. 1, pp. 1- 13, Jan. 2017.
+

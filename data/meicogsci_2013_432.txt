@@ -1,0 +1,26 @@
+... title: Parental Input and Its Influence on Children’s Language Development
+
+
+
+Abstract
+
+!!!! Parental Input and Its Influence on Children’s Language Development
+
+!! Introduction
+
+This project investigates the influence of parental input on the language development of children, specifically, the role of differences in socioeconomic status as well as gender of the subjects. Extensive studies suggest that the quality and quantity of caregivers’ input differ according to the socio-economic status (SES) of families – with children from a higher background receiving more and richer input than children from a low SES background – and that this input may predict later language abilities [1]. 
+The present study is set within the framework of the larger INPUT project, which is conducted by the Comparative Psycholinguistics Research group. The INPUT project examines the role of family and kindergarten teachers’ input on language acquisition of German and Turkish speaking kindergarten children. This particular project is not concerned with cross-cultural differences, but the focus is rather on differences due to socioeconomic status and gender within German-speaking families. Research has shown that fathers seem to use more imperatives, especially when talking to their sons, and that mothers use tag questions more frequently [2]. Therefore, this project looks at possible gender differences and investigates if those may stand in relation to the socioeconomic status of families.
+
+!! Methods
+
+The data used in this study comprise four one-hour-long audio and video recordings of spontaneous interaction between the main caretaker and the child set in the homes of four different subjects – two high and two low SES families with one boy and one girl in each SES group. All the children are approximately 3.0 years old in order to attain comparable results. From these one-hour recordings, 30 representative minutes are chosen, which then are transcribed, coded and analysed using CHILDES. Furthermore, qualitative analyses are applied as well as statistical analyses using SPSS.
+
+!! Results
+
+Preliminary analyses already suggest that, indeed, children from higher SES families receive qualitatively and quantitatively richer input. In the case of the low SES boy, the mother uses mostly simple utterances and rarely even reacts to mistakes the boy makes. In contrast, the high SES mother uses more difficult words and sentence structures and engages much more with the boy, e.g. via the frequent use of tag questions. Regarding the aspect of gender, as all the main caretakers are mothers, analyses are slightly restricted and but it is still possible that there will be notable differences in interactions of mothers with their sons and with their daughters. Yet, as especially the interrelation of gender and SES in parental input and its influence on children’s language development is a rather novel and interesting aspect, more extensive research is advisable and may lead to a deeper understanding. 
+
+!! References
+
+[1] B. Hart and T. Risley. Meaningful differences in the everyday experience of young American children. Baltimore: Paul H. Brookes, 1995.
+[2] J. B. Gleason. “Sex differences in parent-child interaction,” in Language, Gender, and Sex in Comparative Perspective, S. U. Philips, S. Steele and C. Tanz, Eds. Cambridge: Cambridge UP, 1987, pp.189-199.
+

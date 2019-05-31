@@ -1,0 +1,17 @@
+... title: Moral Enhancement - What is Moral, How Can Morality be Enhanced, and What are the Bioethical Issues Involved?
+
+
+
+Abstract
+
+Moral enhancement can be viewed as a type of cognitive enhancement, which refers to the aim of improving the state of specific cognitive abilities of an organism beyond its normal healthy state [1]. More precisely, it can also be viewed as enhancement of specific sentiments such as altruism and empathy, or as a more complicated holistic approach to moral character with an empirically grounded model of different components or virtues which need to be balanced [2]. Such moral enhancements could be achieved through the use of electronic, psychopharmaceutical and genetic interventions. Similarly to cognitive enhancement, it has sparked controversy and debate regarding the ethical implications of such an enhancement. However, some argue that unlike other biomedical enhancements, which would benefit some and harm others, moral enhancement would be beneficial to all [3]. The aim here will be to better understand how morality could be enhanced based on an expanded definition of what is moral, and present some of the ethical issues involved in this type of enhancement.
+
+Through a broad interdisciplinary review starting with a theoretical overview of (bio)ethics and philosophy (implications of new technologies) of cognitive enhancement, focus was put on studies specifically discussing moral enhancement. Although there is still much to learn about brain mechanisms surrounding moral motives, certain traits and their biochemical processes relating to morality can be identified and enhanced using pharmaceuticals and techniques such as transcranial direct-current stimulation (tCDS) and transcranial magnetic stimulation (TMS). Nonetheless, with the enhancement of each of these traits there is the possibility of inhibiting other desirable traits (e.g. self-control can inhibit desirable risk-taking). A suggested solution to this is modulating the influence of other virtues (controlling all traits to create an overall balance). 
+
+Based on a review of the literature and existing models, an expanded definition (constructed from traits and virtues) of what is moral will be given, from which further exploration of the most viable techniques for enhancement of traits will be suggested. In terms of the ethical issues, arguments for and against moral enhancement will be examined, advocating this type of enhancement to be considered on an individual level and not imposed on society as a whole.
+
+!!References
+[1]N. Bostrom and R. Roache, "Ethical issues in human enhancement", New Waves in Applied Ethics, pp. 120-152, 2008.
+[2]J. Hughes, "Moral Enhancement Requires Multiple Virtues", Cambridge Quarterly of Healthcare Ethics, vol. 24, no. 01, pp. 86-95, 2014.
+[3]T. Douglas, "Moral Enhancement", Journal of Applied Philosophy, vol. 25, no. 3, pp. 228-245, 2008.
+

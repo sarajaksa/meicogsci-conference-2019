@@ -1,0 +1,13 @@
+... title: Colors in language comprehension
+
+
+
+Abstract
+
+In my work I am dealing with language comprehension in its embodied character. Situational models are discussed since Dijk & Kintsch [1]. To understand situations depicted in text we need to create models of situations in our minds. Construction of such models involves some of the brain structures which are used for perception of such situations as well.
+My experiment is a modification of experiment described in Rakovsky [3]. In the experiment he uses habituation of neurons in the visual cortex by watching the screen presenting only one color for two minutes. This habituation then affects processing of sentences containing, either explicitly or implicitly, the same color. Rakovsky uses two opposite colors [2]- blue and yellow. There are four blue sentences, four yellow and eight nonsense sentences. All of them, especially the those ones which are meaningful, are approximately equally long.
+In the first phase participants have to watch one of the colors for two minutes. In the second phase participants are asked to accomplish a simple cognitive task – that is to recognize sensible and nonsense sentences. In order to recognize sentences which are describing possible situations, participants have to create a model of the situation. If the situation involves the color of previous habituation phase, reaction time increases.
+In my experiment I added one non-opposite color, green, to the sentences presented. I also have two groups of participants, one with yellow and one with blue habituation. There are three types of sentences: Green sentences, Yellow sentences and Nonsense sentences. The setting is same as of the original experiment; there are two phases, in the first one participant is asked to watch the screen for two minutes and in the second he is asked to judge sensibility of sixteen consecutively presented sentences. 
+The theory of opponent color processes, as proposed in Hurvich & Jameson says that colors are processed in three channels: red versus green, blue versus yellow and black versus white (light and dark). In these channels, each of the colors is antagonistic to the other color. So it is possible, that habituation to one color, for example blue, enables easier and hence quicker processing of opposite, yellow sentences.
+The modification I provide in my version of the experiment is therefore needed to answer these questions: Does the habituation to certain color increase the reaction time for processing sentences containing that color, or does it speed up processing of sentences with opposite color mentioned? Or do both of these principles cause the difference in reaction times?
+

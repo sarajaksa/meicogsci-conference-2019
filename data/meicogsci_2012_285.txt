@@ -1,0 +1,18 @@
+... title: Touchscreen to Reality:  Can kea mountain parrots transfer behavior from a computer to real-life situations?
+
+
+
+Abstract
+
+This project tested the question: Can kea mountain parrots (nestor notabilis) learn a behavioural pattern on a touchscreen, and then transfer this behaviour to a real world situation when confronted with similar stimuli in the form of a three-dimensional box? 
+
+Pilot Study: As it had not yet been tested whether kea could transfer knowledge gained on a touchscreen to a real-world situation, there was first a small pilot study on picture/object recognition.  Kea were presented with a simple image discrimination task on the touchscreen. Once they performed reliably on this task, they were presented in reality with the same objects encountered on the screen. If they showed the same response in the real world situation as on the touchscreen, or if they matched more to this response than naïve subjects, this was a good indicator that they could make the transfer. 
+
+Main Study:The kea were alternately confronted with two distinctive images on the touchscreen. The visual stimuli were presented in the form of a single flower design image, but divided into 9 panels. Each of the two images required a different type of action for reward. Image A required that the kea peck the screen in a dispersed way. Image B required a persistent type of behaviour, where it was necessary that the kea repeatedly peck the centre panel. 
+
+Once the kea could reliably perform the two behaviours on the touchscreen, they  were presented with a three-dimensional box. On top was the same image they had encountered during the touchscreen training, this time displayed on wooden tiles. The task here was that they had to remove the tiles from the frame for reward, and they had to show the same type of behaviour as on the touchscreen; namely, when presented with image A, they must remove the tiles in a random, dispersive way. When presented with image B, they must persistently remove only the centre tile. 
+
+Discussion: These experiments tested several different cognitive aspects in the kea. First, transferring knowledge from a two dimensional touchscreen to a three dimensional object shows flexibility in learned behaviour. It also highlights  abstraction away from context, in the sense that they perceived an image as not only being the same, but as signalling the same type of behaviour in two quite different situations. This abstraction was impressive, as the image on a touchscreen consisted of pixels, and the image on the box was made of paint. 
+
+Object affordances were also highlighted in this study, as the touchscreen affords a pecking action whereas the tiles in the box afford a gripping and removing action. Because of the different affordances of the two modalities, simple associative learning can be partially ruled out, as more complex mechanism must also be at work. If the kea comprehends that the same behaviour type is required despite the different specific actions, this shows that it has learned a behavioural rule which goes beyond the actions themselves.
+

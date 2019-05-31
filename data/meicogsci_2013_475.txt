@@ -1,0 +1,23 @@
+... title: Interacting with tutoring systems – the role of power and related affect
+
+
+
+Abstract
+
+!!!! Interacting with Tutoring Systems – The Role of Power and Affect
+
+Teaching and learning, including tutoring, are assumed to be highly social activities and social interaction has been stated to be a key mechanism in tutoring situations [2]. 
+During the last 30 years many intelligent tutoring systems (ITS) have been developed. Such computer-based learning environments incorporate computational models from the cognitive sciences, learning sciences, computational linguistics, artificial intelligence, mathematics, and other fields and are supposed to track the learner's psychological states, such as subject matter knowledge, skills, strategies, motivation, emotions or other student attributes [1]. 
+The goal of the present master thesis is to investigate the social interaction between learner and tutor, systems using conversational interface agents which directly interact with the learner, attempting to simulate a human tutor, are of special interest. Here the quite successful AutoTutor [1] or similar systems can serve as an example that seems worthwhile investigating. 
+
+The core research interest is the role of power and related affect, as well as their relationship, in the interaction between the human learner and the software agent incorporated in the ITS. 
+This interaction is understood as a micro-level dyadic social interaction. Hereby student and tutor both are assumed to be (potential) social actors. The focus of the analysis lies on the social dimensions of this interaction, not on the (learning) content.
+
+Existing theories and approaches seem to fail to grasp the social dimensions of this specific kind of interaction. Furthermore, theories originating in the Social Sciences were meant to describe human-human social interaction, but seem to be directly transferred to human-computer interaction. In case of the construct of power, it is not said that assumptions and theories concerning human-human tutoring automatically hold for human-computer tutoring situations, even if the ITS resembles a human tutor. 
+Following an exploratory, theory-building study design, the present master thesis aims to formulate an adequate theory. Main influences are coming from socio-cognitive theories including interactionist, dramaturgical, micro-structural and social constructionist approaches, which usually operationalise the construct of power along concepts such as hierarchy, (interpersonal) control, role attribution processes, or performance expectations, thereby relating it to affect [2,3]. Sociological research traditions provide various theories about power and affect in micro-level interactions that can be drawn upon, such as power-status theory or affect-control theory [3]. 
+Within the scope of this master thesis, main methods will be of a qualitative kind. Besides theoretical research, users interaction with an ITS will be studied by the method of observation, followed by reflective interviews focussing on learner's subjective experiences, as well as pre- and post-test questionnaires. 
+
+[1] A. C. Graesser et al, “Intelligent tutoring systems”. In S. Graham et al. (Eds.), APA educational psychology handbook. Washington, D.C.: American Psychological Association,  2011
+[2] Y. Kim et al , “A Social-Cognitive Framework for Pedagogical Agents as Learning Companions” In Association for Educational Communications and Technology, vol. 54, no. 6, 2006, 569-596
+[3] J. E. Stets et al, “The sociology of emotions” In Lewis et al. 2008. Handbook of Emotions. Thirth Edition. Guilford Press, New York, London, 2008, 32-46
+

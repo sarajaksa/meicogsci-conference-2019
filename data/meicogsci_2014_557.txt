@@ -1,0 +1,17 @@
+... title: Life after Death? A Terror Management Account
+
+
+
+Abstract
+
+!!!! Life after Death? A Terror Management Account
+
+Terror Management Theory (TMT) posits that anxiety over death is the driving force behind a range of seemingly unrelated social behaviours. It is based largely on the works of cultural anthropologist Ernest Becker who claimed that this anxiety was due to humanity's superior intellectual capabilities which allow human beings to recognise their inevitable mortality. On the other hand, like other animals, human beings also possess the biological drive for self-preservation. Thus, it is this drive coupled with the knowledge of one's mortality that creates the potential for terror and comes to pervade many aspects of one's social interactions. According to TMT, this terror is managed by seeking protection through identification with a cultural worldview, which can provide either literal (religious beliefs in an afterlife) or symbolic (contributing to something permanent and death-transcending) security. Thus, when individuals are primed with death, they are more likely to react defensively to outside threats to their protective system - their worldviews. 
+
+The primary aim of the present study was to investigate whether it is death or alternatively the prospect of meaninglessness that is at the root of the 'terror'. Participants were assigned to read one of three bogus scientific articles which either (a) discussed a non-death related topic (control), (b) presented evidence refuting belief in an afterlife but supporting belief in the meaningfulness of life (no afterlife + meaning) and (c) presented evidence supporting belief in an aferlife but emphasising that it is devoid of meaning (afterlife + meaninglessness). Participants then received a bogus personality description, which was very positive in nature and were asked to rate how much they agree with it or not. Self-esteem striving was used as a measure because previous studies have indicated that following a MS induction, participants are more likely to agree with the validity of such positive personality descriptions [1]. However, results indicate no significant difference between the three groups on self-esteem striving (p> 0.05). Participants across all three conditions rated the positive personality descriptions as being generally true. 
+
+Owing to the fact that neither of the two conditions differed significantly from the neutral condition, it is possible that the classical MS effect observed in other TMT studies was not induced here. Furthermore, it is possible that the combinations of (no)afterlife and meaning(lessness) eliminated the effects either of them may have had individually. Thus, a valuable follow-up study would be a 2 (MS vs. Neutral) x 2 (Meaning vs. Meaninglessness) design, in order to rule out the likelihood that it was the lack of MS induction that contributed to the insiginificant results as well as to separate any conflicting aspects within the combinations in the two experimental conditions.  
+
+!!References:
+[1] Dechesne, M., Pyszczynski, T., Arndt, J., Ransom, S., Sheldon, K.M., Knippenberg, A., & Janssen, J. Literal and Symbolic Immortality: The Effect of Evidence of Literal Immortality on Self-Esteem Striving in Response to Mortality Salience. Journal of Personality and Social Psychology, 2003, pp. 722 - 737.
+

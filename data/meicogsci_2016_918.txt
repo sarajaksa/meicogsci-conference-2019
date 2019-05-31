@@ -1,0 +1,30 @@
+... title: Applicability of Role Detection Algorithms on Functional Brain Networks
+
+
+
+Abstract
+
+With increased attention in Social Network Research, role discovery in functional brain networks is emerging as a promising topic of research. While communities depict groups of highly connected nodes within the brain network, roles are groups of nodes that display similar topological structure in the graph, thus can be assigned to a common function in the network. We evaluate two different role detection algorithms on functional brain data in order to gain first insights about feasibility and applicability of role discovery in brain networks.
+
+!!Background
+
+Analyses of communities and roles of users within social networks have been conducted for many decades, but the advent of the Web 2.0 has clearly benefitted Social Network Analysis (SNA). Algorithms deriving from SNA have been and are still being succesfully applied in a multitude of practical applications such as countering money laundering and terrorism. While community detection has fully arrived in functional neuroimaging, the amount of research specifically paying attention to role discovery is still limited. A multitude of studies analyzed activation patterns in fMRI as well as PET scans and community structures were repeatedly found to be relevant to cognitive function. Regarding node roles these studies report that certain roles could be observed, but mainly rely on context-independent explanations, such as ones that connect between or within communities. As a result we suggest to investigate well-known role discovery algorithms in the context of functional brain networks networks.
+
+!!Methodology
+
+We use data from the Human Connectome Project and the preprocessing pipeline is based on Langs et al [1]. We plan to compare two different role detection algorithms. The first one relies on pre-determined communities and network metrics [2], while the latter is a supervised learning approach [3] enabling experts to constrain role discovery. 
+
+The results will be evaluated with variability signal-to-noise ratio (vSNR), as demonstrated in Langs et al [3], and repeatability of role-node associations in repeated scans of the same individual.
+
+!!Expected Results
+
+We will assign groups of nodes in functional networks to roles. We will evaluate the repeatability of this assignment in the same individual across repeated scans, and the specificity of the assignment across individuals.
+
+!!References
+
+[1] G. Langs, D. Wang, P. Golland, S. Mueller, R. Pan, M. R. Sabuncu, W. Sun, K. Li, and H. Liu, “Identifying Shared Brain Networks in Individuals by Decoupling Functional and Anatomical Variability.,” Cereb. Cortex, p. bhv189, 2015.
+
+[2] J. Scripps, P.-N. Tan, and A.-H. Esfahanian, “Node roles and community structure in networks,” Proc. 9th WebKDD 1st SNA-KDD 2007 Work. Web Min. Soc. Netw. Anal. - WebKDD/SNA-KDD ’07, pp. 26–35, 2007.
+
+[3] S. Gilpin, T. Eliassi-rad, and I. Davidson, “Guided Learning for Role Discovery ( GLRD ): Framework , Algorithms , and Applications,” pp. 1–9, 2013.
+

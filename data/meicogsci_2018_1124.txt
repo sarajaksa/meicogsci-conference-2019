@@ -1,0 +1,20 @@
+... title: Influence of Amphetamine Sensitisation on the Prediction Error Signal
+
+
+
+Abstract
+
+## Context
+Reinforcement learning is a process in which an individual develops a pattern of behaviour by receiving reinforcing feedback (be it positive or negative). The concept stems from behavioural psychology and has its roots in various types of conditioning. It describes the decision-making process as an attempt to maximise the potential rewards (stimuli that generate positive learning and induce approach behaviour) and at the same time minimise the punishments. It is possible to explore this phenomenon from a neurophysiological point of view by targeting the mesolimbic dopaminergic system, most noteworthy the ventral tegmental area along with the ventral striatum, and examining the reward prediction error (RPE) signal, which mediates said learning process. RPE encodes the difference between the expected reward and the received one. The phasic dopamine signal codes specifically the value of reward prediction. It displays an increased signal if the benefit is larger than anticipated, a steady baseline level in case of a fulfilled forecast and depressed activity upon receiving less gratification [1]. This project is a part of a bigger study, which explores the effects of amphetamine sensitisation on dopamine synthesis. Amphetamine, as a stimulant drug, increases the extracellular level of two catecholamine neurotransmitters – norepinephrine and dopamine. Its use in small, repetitive doses leads to an increased reaction to the substance. This sensitization process is applied in neurophysiology and psychiatry in order to closely examine its influence on the dopaminergic neurons [2]. Sensitization to amphetamine may be considered an experimental hyper-reactive state of dopaminergic neurotransmission.
+
+## Methods
+16 healthy participants (8 men and 8 women) will undergo two fMRI scans each - one before and one after sensitisation. Both times they will perform a probabilistic reward learning task (two-armed bandit task), which has been developed to model decision-making processes under uncertainty. The participant chooses between two ambiguous symbols based on positive or negative cues received after previous trials.
+
+## Expected results
+It has been suggested that amphetamine sensitisation may cause an increased dopamine synthesis and release capacity [3]. Based on this, I hypothesise that the RPE signal will also be influenced by the process. Specifically, I expect the participants to exhibit an increased activation in the described regions of interest after sensitisation.
+
+## References
+[1] W . Schultz, "Dopamine reward prediction error coding", Dialogues in Clinical Neuroscience, vol. 18, no. 1, 23–32, 2016.
+[2] A. Weidenauer, M. Bauer, U. Sauerzopf, et al., "Making Sense of: Sensitization in Schizophrenia", International Journal of Neuropsychopharmacology, vol. 20, no. 1, 1-10, 2017.
+[3] O. G. O’Daly, D. Joyce, D. K. Tracy, A. Azim, et al., "Amphetamine sensitization alters reward processing in the human striatum and amygdala", PloS one, vol. 9, no. 4, 2014.
+

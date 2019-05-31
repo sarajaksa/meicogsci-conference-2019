@@ -1,0 +1,18 @@
+... title: Are Truer Perceptions Really Better Perceptions? A Genetic Algorithm Study
+
+
+
+Abstract
+
+Cognitivism regards the cognitive system as an information-processing machine. Its purpose is to build an isomorphic representation of the outside world through the input and processed information from the environment, which is supposedly knowable to the cognitive system. Evolutionary scientists claim that, consequently, natural selection optimises perception in such a way that the internal representations mirror the outside world more and more accurately [1]. Enactivism, a contemporary non-cognitivist paradigm in cognitive science, rejects the notion that cognition's purpose is the mental reproduction of the outside world through perception. The objective reality is not knowable to the cognitive system according to the paradigm's constructivist presumption. Each organism co-creates its own world through its own perception or the process of knowing – as according to enactivism, perception is inextricable from knowing. This is the consequence of the organism's identity-production based on its own survival needs [2]. 
+
+In my work, I will research whether veridical or non-veridical perception bears more survival value for an organism. I will do this by testing different agents with a genetic algorithm (GA). The GA will be grounded in philosophical analysis of how different presumptions of different cognitive science paradigms influence research on epistemic questions of the process of knowing the outside world. My overall aims are threefold: 1) to deepen the understanding of how cognition, computation and construction are connected, which will be necessary to build the model, 2) to reveal the influence of presumptions on such research, and 3) to make research on theories of non-veridical perception more credible. According to the previous research by Hoffman et al. [3], whose work was based in cognitivism, I expect for my own computer model, which will be based in enactivism, to show similar results – that certain kinds of non-veridical perception offers more survival value to the modelled organism. Hoffman et al.’s model is presented as evidence in support of authors’ Interface Theory of Perception, which claims that perception is a user interface between an organism and the outside world, fitted to the organism’s fitness and not the objective truth. Hoffman et al.’s model will be reproduced and its presumptions analysed. Then, Hoffman et al.’s cognitivist model’s results will be compared with the results of my enactivist model.
+
+## References
+
+[1] J. Friedenberg and G. Silverman, Cognitive science: An introduction to the study of mind. Thousand Oaks: SAGE Publications, 2016.
+
+[2] E. Di Paolo, T. Buhrmann and X. E. Barandiaran, Sensorimotor life: an enactive proposal. Oxford: Oxford University Press, 2017.
+
+[3] D. D. Hoffman, M. Singh and C. Prakash, “The interface theory of perception,” Psychonomic Bulletin in Review, vol. 22, no. 6, 2015, pp. 1480–1506.
+

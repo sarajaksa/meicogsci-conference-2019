@@ -1,0 +1,17 @@
+... title: !!!! Cortical Inhibitory Processes in Focal Dystonia: A combined TMS-EEG study
+
+
+
+Abstract
+
+!!!! Cortical Inhibitory Processes in Focal Dystonia: A combined TMS-EEG study
+Recent research by Bonnard et al. [1] has found that inhibitory processes can be altered by the simple task of mentally resisting or assisting an externally triggered movement. They showed this by delivering a transcranial magnetic stimulation (TMS) pulse to the contralateral motor cortex and recording elicited wrist twitch movements by electromyography, after people were instructed to resist or assist the pulse. Motor evoked potentials (MEPs) were significantly smaller when subjects were instructed to resist the movement, compared to when they were asked to assist it. The “silent period” (SP) - a measure of cortical inhibition - was found to be shorter in the trials where people were asked to resist. Additionally Bonnard et al. measured several EEG potentials in response to the TMS evoked movement. Combined TMS-EEG gives the possibility to investigate how sensorimotor cortical networks are involved during the preparatory period and in the brain response to TMS. For evaluating the brain response, the N100 potential was used, which is commonly associated with inhibitory processes. Amplitude of N100 was significantly larger in the resist condition in several electrodes. Additionally the EEG data was analyzed for the contingent negative variation (CNV), which is known to reflect an anticipatory increase in cortical excitability. CNV amplitude was significantly decreased in the resist condition in three electrodes.
+Dystonia is a disease that affects the motor system on the level of the cortex, basal ganglia and brainstem. It is typically characterized by involuntary movements and muscle cramps that result in abnormal postures. This clinical presentation of the disease is due to loss of inhibitory processes in all levels of the motor system. [2]
+A particularity of Dystonia is the “sensory trick”. When people are touched in specific points (e.g. the chin) the spasms seize for a while before returning. There are also reports that the sensory trick can be triggered by mentally simulating the touch.  
+In our study we want to use the paradigm of Bonnard [1] and apply it to 15 patients with focal Dystonias and 15 age matched control subjects, to see whether the mental preparation task has a different influence on cortical excitability in the respective groups. Generally we hypothesis, that people with focal Dystonia will have a decreased ability to resist a subsequent TMS pulse as compared to controls. Also we think that we will observe a shorter SP in the patient group. N100 and CNV might also be reduced for patients.
+Since it has been reported that the sensory trick can also be performed by mentally, we will also see whether patients with sensory trick perform better, than those who do not have it.
+
+!! References
+[1] Bonnard, M., Spieser, L., Meziane, H. B., De Graaf, J. B., & Pailhous, J. (2009). Prior intention can locally tune inhibitory processes in the primary motor cortex: direct evidence from combined TMS-EEG. The European journal of neuroscience, 30(5), 913–23.
+[2] Hallet, M. (2011) Neurophysiology of dystonia: The role of inhibition. Neurobiology of Disease 42, 177–184.
+

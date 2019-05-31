@@ -1,0 +1,29 @@
+... title: Examining the Effects of Estradiol on Risky Decision Making Using the Columbia Card Task
+
+
+
+Abstract
+
+!! Introduction
+
+The steroid hormone estradiol is the primary female sex hormone. It is mainly responsible for the development of reproductive tissues and therefore women have higher estradiol concentrations compared to men. Although previous studies suggest, that testosterone, the primary sex hormone in males, affects decision making under risk [1], it could also be that the effects of testosterone can be explained through indirect effects of estradiol, which gets synthesized from testosterone through aromatase.
+
+!! Methods
+
+So far, the only studies examining the effects of female sex hormones on decision making under risk were done with women, who naturally have fluctuating hormone levels [2] which are hard to control for. In order to reduce variance associated with the menstrual cycle, our sample will consist of healthy young men with naturally low estradiol levels. While previous studies base their conclusions on correlations between estradiol serum concentrations and risk taking, we aim to conduct a placebo-controlled study by increasing estradiol levels via administration of estradiol gel. 
+
+!! Experimental Task
+
+Decision making under risk will be assessed using the Columbia Card Task (CCT). In the CCT, participants are facing a deck of 30 individual cards which have to be turned over one by one. The deck consists of "good" and "bad" cards. For each "good" card, the participant receives a certain amount of points. Once a "bad" card is turned over, they lose the whole amount of points accumulated during that trial. The more cards the participant is willing to turn over, the higher is the risk of losing all points on a particular trial. The CCT has a "hot version", where participants get feedback after each card is turned over and a "cold version", where there is no feedback provided and participants have to decide beforehand, how many cards they want to turn over. A huge advantage of the CCT is that it does not only assesses risk taking, but also how the complexity of information provided (amount of gain per card, amount of "bad" cards) influences risk taking.
+
+!! Acknowledgements
+
+Thanks to Dr. Christoph Eisenegger and Annabel Losecaat Vermeer, PhD for their support with this project.
+
+!! References
+
+[1] J. van Honk, D. J. Schutter, P. A. Bos, A. . Kruijt, E. G. Lentjes, and S. Baron-Cohen, "Testosterone administration impairs cognitive empathy in women depending on second-to-fourth digit ratio,"Proceedings of the National Academy of Sciences, vol. 108, no. 8, pp. 3448–3452, Feb. 2011.
+
+
+[2]B. Derntl, N. Pintzinger, I. Kryspin-Exner, and V. Schöpf, "The impact of sex hormone concentrations on decision-making in females and males," Frontiers in Neuroscience, Vol. 8, Nov. 2014. Available: http://journal.frontiersin.org/article/10.3389/fnins.2014.00352/full [01.06.2016]
+

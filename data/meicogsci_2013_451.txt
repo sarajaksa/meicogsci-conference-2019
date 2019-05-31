@@ -1,0 +1,26 @@
+... title: Investigations into the Multidimensionality of VAK Personalities: Reinforcing the Augmented VA[S]K (Learning Preferences and Psychological Model)
+
+
+
+Abstract
+
+!!!! Investigations into the Multidimensionality of VAK Personalities: Reinforcing the Augmented VA[S]K (Learning Preferences and Psychological Model)
+
+The augmented VA[S]K is conceived as a novel research tool for investigating the cognitive and psychological nature of Individuals. That is to say, it represents a means to model the learning preferences of an individual - based on its specific information-processing proclivities (visual, auditory, kinesthetic), as well as the pertinent personality traits that constitute this individual and are specific to the exhibited learning preferences. 
+
+What the initial research (Sutanovac 2012, in press) revealed is that a crude and exclusive categorisation of individuals into one of the three groups might not be an ideal approach to take. One of the reasons for this is the extremely low number of mono-sensory participants. Other, the fact that even those participants were not 100% mono-sensory.  
+
+Therefore, the underlying goal of this research project will be to revisit, revise and further advance the learning-preferences and psychological model (the augmented VA[S]K), formerly developed within the Models of Personalities and Emotions framework. Given the results of the initial research, main focus of this followup will be to probe further into the "multidimensionality" of the model itself, paying special attention to the multidimensionality of the VAK personalities. The secondary focus will be on revising and refining the former tools of investigation (VAK questionnaire and Big-Five-Personality-Test questionnaire) in order to increase their investigative validity and, consequently, their efficiency with respect to results. Furthermore, additional complementary analysis tools will be introduced (KMO Measure of Sampling Adequacy, Common/Principal Factor Analysis) for the purpose of allowing an even more rigorous empirical scrutiny. The particular significance of such complementary tools lies in the fact that they provide a sturdy foundation for extrapolating the pertinent variables and, consequently, for devising more up-to-the-point questionnaires. This will, in turn, not only increase the overall accuracy of the master questionnaires and, thus, yield significantly more valid overall empirical results, but, equally importantly, also increase the overall accuracy of the model itself. Finally, the tertiary focus will be on:
+
+A) devising one unified refined questionnaire - to be implemented in the form of a software;  and
+B) graphically simulating the reinforced learning preferences/psychological model.    
+
+!!The ultimate goal of the research in question is to provide valuable insights into and a stepping stone for the advancement of knowledge concerning individual higher-level cognitive faculties and mechanisms that lie at their foundations, their relationship to the individual-specific microcosm[s] - personality, and the related individual-specific usage of natural language.
+
+*In the context of VA[S]K, the term (higher-level) cognitive faculties is an umbrella term encompassing cognition per se, learning and communicative preferences   
+
+!!References
+[1] S. Penger, M. Tekavčič, V. Dimovski. 2008. "Meta-Analysis and Empirical Research of Learning Style Theories in Higher Education". Journal of College Teaching & Learning, Volume 5, Number 11. 
+[2] S. Cassidy, "Learning styles: an overview of theories, models and measures,"  Educational Psychology, Vol. 4, no. 24, 419-444, 2004.
+[3] C. Jackson. "Learning Styles and its measurement: An applied neuropsychological model of learning for business and education", Australia: Cymeon, 2006.
+

@@ -1,0 +1,23 @@
+... title: Language Aptitude: Evidence from Audio-vocal Speech Imitation and Grammar Sensitivity
+
+
+
+Abstract
+
+!!!! Language Aptitude: Evidence from Audio-vocal Speech Imitation and Grammar Sensitivity
+
+Language Aptitude is the ability to learn any language in a given amount of time under given conditions. It is considered to become stable when a person matures and only a minority maintains a high capacity to learn languages in the adulthood.
+Recently, a study from Reiterer [1] investigated 138 German speakers during the task of imitating foreign accents. The participants displayed various degree of mimicking capacity in completely unknown languages (Hindi and Tamil). The constant presence of lower fMRI BOLD activation in the subjects showing a higher ability in imitating Hindi raises the question whether language aptitude is due to specific activations of neural architecture and to which point other high-cognitive processes play a role in the resulting performance.
+The aim of this project is to throw further light on the language aptitude phenomenon. Specifically, this has been done paying attention to the relations between phonetic imitation and syntactic sensitivity, two features of human language that only recently have been considered to be related (in particular, when it comes to the neuro-linguistic effects of Age of onset of Acquisition). [2]
+
+!! Methods
+The project tried to falsify or validate the hypothesized correlation between phonetic imitation and syntactic sensitivity. Firstly, this has been done correlating the existing data from Reiterer’s study. Secondly, a new experiment has been performed.
+The experiment required a small sample of multilingual speakers with high proficiency in English and no previous exposure to Italian. To replicate Reiterer’s study, the subjects have been administered with Carroll John’s MLAT IV, a syntactic-oriented test focused on the retrieval of phrases’ functional role. The architecture of Reiterer’s audio-vocal speech imitation experiment has been re-proposed with Italian: each participant imitated 3 sentences containing distinctive Italian phonemes. Subsequently, native Italian speakers rated the sentences with an ordinal scale for the quality of native¬like imitation capacity.
+
+!! Main Results
+The analysis of Reiterer’s sample suggested a significant positive tendency. This has been confirmed by the trend of the replication experiment, with a positive Spearman’s rho correlation (0,393) between aptitude for accent imitation and grammar sensitivity. Multilingual speakers, whose syntactic sensitivity is high for second language, are more likely to be good in mimicking a completely foreign language, suggesting that innate talent for language is not confined to single language features.
+
+!! References
+[1] S. M. Reiterer et al., “Individual Differences in Audio-Vocal Speech Imitation Aptitude in Late Bilinguals: Functional Neuro-Imaging and Brain Morphology,” Front Psychol, vol. 2, Oct. 2011.
+[2] I. Wartenburger et al., “Early Setting of Grammatical Processing in the Bilingual Brain,” Neuron, vol. 37, no. 1, pp. 159–170, Jan. 2003.
+

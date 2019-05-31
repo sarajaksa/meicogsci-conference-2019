@@ -1,0 +1,21 @@
+... title: Preliminary Results of A Systematic Review of Papers Citing Libet's 1983 Study
+
+
+
+Abstract
+
+!!!!Preliminary Results of a Systematic Review of Papers Citing Libet's 1983 Study
+!! Agreement of Libet’s Conclusions in Science
+
+Libet et al. [1] showed that electrical activities in the brain, measured by EEG, precede conscious decisions, measured by the reported position of a time related moving visual stimuli. These results proposed the question whether consciousness is a product of brain activity or vice versa. A controversial debate about free will and mind-body problem was raised. Their results could be interpreted in a way that conscious will is an illusion, and that actions are initiated by neural processes not under conscious control. Many authors replicated the experiment, used  their results as a fact or their methodology in the researches. On the other hand, this experiment was criticized in many perspectives, from methodology to the interpretations of its results.
+
+My colleague and I are a part of the ongoing project which replicated the Libet’s [1] experiment. Our task was to find a general opinion in science on the conclusions of the original paper. We were provided the database with the papers citing Libet’s experiment [1]. Our search for papers was based on three main search engines: CMK library, PubMed and Google Scholar. We found around 90% of all the relevant papers (463 from 509). After that we read and assessed the most informative parts of all papers (abstract, parts of paper where Libet was cited, where keywords such as conscious, free will, readiness potential were mentioned and the paper’s conclusions). The assessment included the evaluation of the following attributes: journal type, paper type, relatedness (similarity of paper’s content to Libet et al.’s paper [1]: scale from 0 to 3) and agreement (expressed opinion of Libet’s conclusions: scale from -2 to 2) of each assessor. Final relatedness and agreement of each paper was the average evaluation of both assessors. If the absolute difference of both evaluations was greater than 2, the article was reassessed.
+
+Our preliminary results show that most of the citing papers (65%) agree (i.e. the average agreement is greater than 0) with Libet et al.’s [1] conclusions. The vast majority of articles paper’s conclusions from neuroscience & cognitive science which in 65,4% agree with Libet’s conclusions. Agreement of other disciplines are as followed: psychology 67,8%, other natural sciences 59,26%, philosophy 66,67%, medicine 71,43% and other social sciences 50%. However, agreement of papers is declining with their relatedness. Deeper analysis shows that replications (papers which average agreement is above 2.5) have only a 50% rate of agreement. This indicates a state of indifference in today’s science about Libet’s conclusions and as a consequence a still on-going free will debate.
+
+!! Acknowledgment
+We are grateful to Laboratory of Cognitive Neuroscience, Department of Neurology, University Medical Center Ljubljana, Slovenia, which provided the access to their database and financial help.
+
+!! References
+[1] B. Libet et al., “Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential)”, in Brain, vol. 106, 1983, pp.623-642
+

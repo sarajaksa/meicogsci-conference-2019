@@ -1,0 +1,35 @@
+... title: ===============      !!!!PRIMING OF VISUAL ATTENTION IN DYNAMIC VISUAL SCENES- AN EXPERIMENTAL STUDY USING EYE TRACKING
+
+
+
+Abstract
+
+Abstract
+!!BACKGROUND
+During visual search there is a cognitive effort to detect different stimuli features in visual environment among many distractors in dynamic scenes and find a target. One of the facilitators for this detection is a phenomenon called priming. Priming as a cognitive phenomenon was being studied widely and extensively but its role in visual search was neglected although priming plays a crucial role in visual search.
+
+Primed features associated with target are found more easily and faster than not primed features. One study found that if the target has same feature or same location as the previous trial, search was faster than if one of the features or location changed [1]. Moreover they found that searching time was slower when the target changed one of its features as color change, side change etc.
+Another study found that discrimination performance of different visual stimuli was better if the location of the saccade target and discrimination target was shown on the same side after the cuts. Besides side change effect, they found that if discrimination target shared same color with the saccade target it has improved the discrimination performance for the discrimination target to be reliably and faster detected [2].
+
+
+!! RESEARCH QUESTION
+This study aims to find out that attention is captured by features that are repeated from precut scene in dynamic visual scenes. 
+
+!! MATERIALS AND METHODS
+In our Eye Tracking study were recruited 36 participants from internal database. Participants watched manipulated features in different silent sport movies. Manipulated features were:
+*	Continuity change variable which was Continues, Discontinues and Full Continues.
+*	Color change variable which was Color to Color, BlackWhite to BlackWhite, BlackWhite to Color and Color to BlackWhite.
+*	Location change variable in which the target movie was shown randomly either on the right or on the left part of the monitor screen. 
+Participants were unaware of the experiment purpose. They’ve been instructed to attend one of the movies (target movie) and ignore the other movie (distractor movie). Movies switched randomly positions in some of the trials, so the participants had to switch their gaze to the new position. Moreover, participants were instructed to press a keyboard button whether the target movie continued on the same or different position, encouraging them to press a button as quickly as possible while maintaining a high accuracy.  
+
+
+!!CONCLUSION
+The data are in ongoing process of analysis &interpretation, therefore it is still too early to speculate about the final results, but we expect the fastest eye gaze saccades when the movies were observed in the same side, continues and color-color trials and the slowest eye gaze in trials with different side, discontinuous, color to blackwhite trials. Taken together, trials that saved the features and location from a precut scene are easily primed in a post cut scene and otherwise. 
+
+
+!!REFERENCES:
+[1]	A. Kristjánsson, D. Wang, and K. Nakayama, “The role of priming in conjunctive visual search.,” Cognition, vol. 85, no. 1, pp. 37–52, Aug. 2002.
+[2]	S. Born and D. Kerzel, “Feature-based effects in the coupling between attention and saccades,” vol. 12, pp. 1–17, 2012.
+
+===============
+

@@ -1,0 +1,19 @@
+... title: Cognitive Semantics, Categorical Perception and Brain Hemispheres
+
+
+
+Abstract
+
+As a part of cognitive semantics, categorical perception (CP) investigates how the concepts in the brain, innate and acquired, linguistic and non-linguistic, influence perception in a top-down manner (see [1,2] for an introduction to the topic). A general, language-restricted hypothesis is the *Sapir-Whorf* hypothesis which states that the structure of language affects cognitive processes and the ways in which its speakers conceptualize their world views. There is evidence supporting CP: stimuli from different linguistic categories (e.g. colors, faces etc.) are discriminated faster or more accurately than stimuli from the same linguistic category. For example, in Russian there is a commonly used word for  light blue with a slight, almost unrecognizable hue of green (RGB 85,170,255), but not in English. It has been shown [1] that Russian speakers are faster at disciminating blue from this light-blue than English speakers.
+
+It is well known that language processing is lateralized to the left hemisphere in most people. The question arises: are CP effects more prominent when the stimulus is presented in the right visual field (RVF) (and therefore first transmitted to the left hemisphere) than when it is presented in the left visual field (LVF)? There is a body of research suggesting that the answer is ``yes'', see e.g. [2].  However, there have also been failed attempts to replicate those studies and there is even evidence suggesting that the answer is ``no'' [3]. In the present research, an experiment was designed in order to highlight a simple reliable lateralized phenomenon related to categorical perception. In our experiment there is no discrimination between multiple targets, but instead participants are asked to recognize the color of a stimulus. The duration of one trial is 130 ms during which two stimuli are presented, the first is a prime and the participants are asked to judge the color of the second one. Half of the primes are colors and half are words expressing a name of a color. Half of the trials are with matching primes and rest with mismatching.  Half of the stimuli are presented in the RVF and half in the LVF. Our hypothesis is that the priming effect with word primes is stronger in the RVF. As a part of ongoing study, the data is still being collected; nased on the preliminary data and the aforementioned research, we predict that the verbal priming effect will be stronger in the RVF while there will be no lateral difference in the color primes.
+
+The understanding of the neurology of categorical perception has relevance to the field of cognitive semantics which investigates how concepts are formed, acquired and used, how do they correspond to reality and how stable this correspondence is. Thus, the current study is a building block in cognitive semantics as well. 
+
+[1] J. Winawer et al., "Russian blues reveal effects of language on color discrimination" in PNAS 2007 vol. 104 no. 19, pp. 7780-7785
+
+[2] G.V. Drivonikou, et al., "Further evidence that Whorfian effects are stronger in
+    the right visual field than the left". 2007 PNAS USA 104:1097–1102.
+
+[3] T. Suegami et al., "A delayed discrimination task yields categorical perception of color not only in the right but also in the left visual field" in Proc.35th ann. meeting of the Cog. Sci. Soc., Berlin, Germany 2013.
+

@@ -1,0 +1,20 @@
+... title: Optimizing a Multi-label Natural Language Classifier
+
+
+
+Abstract
+
+“Web of Needs” (WoN) is a developing infrastructure of the SAT studio that will allow consumers to describe and publish their needs and have them interact with offers in a semi-automatic process, reducing the need for manual search and enabling a wide range of unprecedented applications [1]. This requires a subroutine that categorizes e-mails by topic. My project is to create the prototype of a Machine Learning program to categorize pre-processed natural language inputs by content.
+
+Features of the classifier are labeled data as input, large-scale learning as context, and multi-label as output. The performance measure is mainly to assign every entry to the appropriate category, but a certain error rate is unavoidable. WoN is supposed to be efficient also when it comes to deal with very large datasets. Given the context in which the program will be applied, implementing sophisticated algorithms would render the categorization too slow for practical purposes. After a theoretical research, a Naïve-Bayes model resulted as a good candidate. It is simple and fast, and even if its results are not generally as good as some other algorithms it can be improved by adding more parameters (e.g. stop words, stemming). In precedent applications it has been implemented as a spam filter, performing efficiently.
+
+Two datasets are available to train and test the programs: one of 20000 mails to be divided into 20 categories, the other of 4000 mails to 180 categories. The two datasets will be used to double test the programs in order to compare the results with different mails-to-category ratios. The performance is evaluated with k-fold cross-validation (k = 10), confusion matrix, accuracy, precision, recall, and f1-score. The most successful setup experimented gave remarkable results, with precision above 90%. However the development is continuing and hopefully additional settings and trials will achieve even better performances.	
+
+A Machine Learning approach for e-mail categorization is promising, and could become part of the WoN infrastructure. A Naïve-Bayes algorithm, properly implemented, not only would be fast and simple, but can also be a very efficient tool for this sort of tasks. Natural language processing a field of growing importance in Artificial Intelligence. The scientific interest of this project is to test the processing efficacy of a Machine Learning algorithm performing natural language multi-label categorization on large datasets and how it can be optimized. Insights from this study can be useful not only for the field of AI, but to any scientific discipline looking for a functional model capable of simulating language and information processing on the order of humans.
+
+!!Acknowledgements
+Thanks to Florian Kleedorfer, Friedrich Heiko, and the SAT studio for supporting this project.
+
+!!References
+[1] F. Kleedorfer, “Building a Web of Needs”, presented at the 10th Int. Semantic Web Conf., Bonn, Ger., 2011.
+

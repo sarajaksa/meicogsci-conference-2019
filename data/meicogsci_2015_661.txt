@@ -1,0 +1,22 @@
+... title: The Role of Audience Presence and Argumentation in Committing the Sunk Cost Fallacy
+
+
+
+Abstract
+
+Committing a Sunk Cost Fallacy (SCF) consists in basing the decision whether to invest in a project or activity on past decisions rather than on benefits expected in the future. Why and when do people commit the SCF? Behavioural economists have attempted to answer these questions hypothesizing that people commit the fallacy because of loss aversion or concerns about wastefulness [1]. This study aims to contribute to the study of social factors and psychological mechanisms at the origin of the fallacy.
+
+An experiment is conducted to test whether the presence of an experimenter is sufficient to create an audience effect manifested by a greater occurrence of the SCF. The prediction is that the need to justify one’s choices to an audience will increase the SCF. The hypothesis is that people who feel a need for justification will fall prey of a confirmation bias because they have to find reasons for their choices. They will therefore put too much weight on the reasons for their initial decision and too little on the newly acquired information. Reasoning for an audience is not a cognitive process which favors processing of new information and updating of beliefs [2].
+
+In an adaptation of a scenario by Staw participants have to solve a financial decision case [3]. For the first decision participants in the role of managers have to assign 10 million dollars to one of two company divisions. For the second decision they receive updated financial information depicting negative consequences and have to decide how to divide 20 million dollars among the same two divisions. The SCF is measured by the propensity in the second round of decision-making to invest in the same department as in the first round. In a between-subject design participants either anonymously submit their decisions in a voting box (anonymous condition) or explain their decisions to the experimenter (audience condition). The prediction is that the SCF will be significantly higher in the audience condition than in the anonymous condition in which self-justification is unnecessary. 
+
+Results could provide insights into the psychological mechanisms and social contexts that lead to committing the SCF and therefore offer essential insights for decision-making strategies in management.
+
+!!Acknowledgments
+Special thanks to my supervisors, C. Heintz and C. Eisenegger, and the CEU for supporting this project.
+
+!!References
+[1] H. R. Arkes and C. Blumer, “The Psychology of Sunk Cost,” Organ. Behav. Hum. Decis. Process., vol. 35, pp. 124–140, 1985.
+[2] H. Mercier and D. Sperber, “Why Do Humans Reason? Arguments for an Argumentative Theory,” Behav. Brain Sci., vol. 34, no. 2, pp. 57–74, 2011.
+[3] B. M. Staw, “Knee-deep in the Big Muddy: a Study of Escalating Commitment to a Chosen Course of Action,” Organ. Behav. Hum. Perform., vol. 16, pp. 27–44, 1976.
+

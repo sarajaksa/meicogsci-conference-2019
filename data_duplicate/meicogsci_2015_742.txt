@@ -1,0 +1,31 @@
+... title: SPM for EEG Source Localisation
+
+
+
+Abstract
+
+!!Introduction
+
+Electroencephalography (EEG) is a popular technique used to record electrical activity of the brain along the scalp known to provide excellent temporal but poor spatial resolution. It is a direct measure of activity as opposed to indirect indicators such as changes in blood flow (fMRI) or metabolic activity (PET), which are also considerably more expensive.
+Source localisation is an umbrella term for a number of methods developed to address the poor spatial resolution by utilising mathematical models to project data from sensor space into three-dimensional brain space. The result is an approximation whose quality depends on a number of factors. 
+Multiple sparse priors (MSP) [1], the specific approach used in this work, is based on the assumption of multiple dipolar sources spread over the cortex, each with fixed position and orientation, and the objective to estimate the source amplitudes (also called the inverse problem).
+Statistical Parametric Mapping (SPM) [2] is a free open source software package featuring tools for the analysis of brain imaging data sequences including source reconstruction, allowing for fairly efficient workflow and additional inferences from EEG data.
+
+!!Methodology and Results
+
+The data from the 0° and 180° rotation tasks originated from a rotation-related negativity study provided by the author's supervisor [3] were imported and prepared using SPM. Source localisation was performed using the canonical template head model co-registered with the electrodes, normal cortical mesh, and MSP for inverse reconstruction. The process was documented for the purposes of this work and the resulting images were analysed qualitatively. Statistical analysis is still being performed at the time of submission of this abstract.
+
+!!Acknowledgements
+
+The author wishes to express his gratitude to Dr. Riečanský from the Institute of Normal and Pathological Physiology, Slovak Academy of Sciences, for providing him with the data, valuable guidance, and general goodwill regarding this work.
+
+The author assumes full responsibility for the outcomes.
+
+!!References
+
+[1] K. Friston, L. Harrison, J. Daunizeau, S. Kiebel, C. Phillips, N. Trujillo-Barreto, R. Henson, G. Flandin and J. Mattout, 'Multiple sparse priors for the M/EEG inverse problem', NeuroImage, vol. 39, no. 3, pp. 1104-1120, 2008.
+
+[2] V. Litvak, J. Mattout, S. Kiebel, C. Phillips, R. Henson, J. Kilner, G. Barnes, R. Oostenveld, J. Daunizeau, G. Flandin, W. Penny and K. Friston, 'EEG and MEG Data Analysis in SPM8', Computational Intelligence and Neuroscience, vol. 2011, pp. 1-32, 2011.
+
+[3] I. Riečanský, L. Tomova, S. Katina, H. Bauer, F. Fischmeister and C. Lamm, 'Visual image retention does not contribute to modulation of event-related potentials by mental rotation', Brain and Cognition, vol. 83, no. 2, pp. 163-170, 2013.
+

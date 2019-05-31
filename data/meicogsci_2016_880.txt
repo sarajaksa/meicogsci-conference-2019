@@ -1,0 +1,24 @@
+... title: Revising Response Types in Oddball Paradigm
+
+
+
+Abstract
+
+!!Introduction
+
+Response oddball is a paradigm that has been successfully used in many event-related potentials studies for a bit over 40 years, first at the University of San Diego by Nancy and Kenneth Squires and Steven Hillyard. [1] The oddball paradigm is a task which uses auditory or visual stimuli and where a standard stimulus is occasionally changed for a deviant stimulus/distractor and sometimes for a target stimulus which the subject should respond to. Noticing the targets triggers an event-related potential in the parieto-occipital area at around 300ms and its usually called P3 or P300. [2]
+
+In our current study we aim to explore the used methodology of the commonly used methods of response which are responding by pressing a button to the target stimulus and the counting of the target stimuli. We aim to test all the combinations of type of  stimuli and the type of response mechanisms and we also want to add a new type of response not usually being used – responding to all stimuli by a button. Here, one button would be used for standard and distractor stimuli and another button for targets. We then aim to compare the methods and the kind of results they produce taking into account their pros and cons.
+
+!!Methods
+
+We were working with the 64-channel actiCAP EEG device for measuring the participants' brainwaves. The task we had the participants undergo had 3 blocks of trials each for every combination of type of stimuli and type of response in a randomised order, but the blocks always come in pairs depending on the type of response. In the auditory version the standard stimulus was a tone, the target stimulus a tone of higher pitch and a distractor a white noise. In the visual the standard was a colourful blob, target pictures of people and distractors pictures of non-living objects.
+
+!!Acknowledgements
+
+I would like to thank my mentor Grega Repovš for this opportunity and all of his help and to everyone that helped with the gathering of the data in the lab.
+
+!!References
+[1] N. K. Squires, K. C. Squires, S. A. Hillyard, “Two varieties of long-latency positive waves evoked by unpredictable auditory stimuli in man.” in Electroencephalography and Clinical Neurophysiology, Amsterdam, 1975, 35, p. 387-401.
+[2] J. Polich, “Updating P300: an integrative theory of P3a and P3b.” in Clin Neurophysiology, 2008, 108, p. 2128-2148.
+

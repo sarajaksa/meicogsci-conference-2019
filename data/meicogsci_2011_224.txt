@@ -1,0 +1,52 @@
+... title: Motor resonance based on desynchronization of the EEG mu rhythm
+
+
+
+Abstract
+
+Understanding motor actions of other human beings and even some animal species 
+is one of the crucial cognitive skills that our brains possess. When we observe
+another individual’s actions, which are represented and understood in terms of 
+one’s own actions, it is possible to make predictions about the mental state of 
+the observed individual, leading to "theory of mind" capabilities [1].
+
+This understanding is often explained by activity of mirror neuron system and 
+motor resonance in our brains, which can be experimentally proved through 
+measurements and observations of EEG rhythm called mu rhythm. The mu rhythm is 
+an EEG oscillation that can be recorded over human sensorimotor cortex in the 
+absence of movement [1] physical and mental, too. Mu rhythms: (a) are more than 
+an idling state of sensorimotor cortex and instead reflect dynamic and 
+integrative sensory, motor, and mnemonic processes; (b) reflect activity in 
+sensori-, audio-, and visuomotor mirror neurons in frontal and parietal 
+networks; and (c) represent an important information processing function, which 
+is to link perception and action, or more specifically the transformation of 
+"seeing" and "hearing" into "doing" [1].
+
+According to this knowledge we have focused on mu rhythm as indicator of motor 
+resonance. The main purpose of this project was to prove the theory mentioned in 
+previous paragraph. We created simple EEG experiments that should demonstrate 
+previous findings. The experiment typically included these conditions: relaxed 
+state with closed eyes, imaginary motor movement (index finger) with closed 
+eyes, imaginary motor movement with opened eyes, observed motor movement (index 
+finger), self motor movement (index finger) and relaxed state with opened eyes. 
+
+In all EEG measurements International 10-20 system of electrode placement was 
+used. We recorded signals from nine passive electrodes in areas: F3, F4, Fz, C3, 
+C4, Cz, P3, P4, Pz. Ground electrode was placed in Fpz area and reference 
+electrode on left mastoid bone. Data evaluation was implemented in MatLab and 
+based on Fourier transformations. Analysis was made for each electrode 
+separately, mapping all experimental conditions. 
+
+We expected the highest mu strength within relaxed states and apparent suppression 
+within imaginary and self motor movement conditions. Several preliminary 
+measurements on sample of two left-handed and one right-handed participants were 
+made. The analysis of measured data matched our expectations in all conditions 
+except imaginary movement condition. In that condition we observed very little or
+almost none desynchronization and suppression. We should increase the number of 
+participants and eliminate disturbing elements in future experiments.
+
+References:
+
+[1] J. A. Pineda, The functional significance of mu rhythms: translating 
+"seeing" and "hearing" into "doing", Brain Research Reviews, 2005.
+

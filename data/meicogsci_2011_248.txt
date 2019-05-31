@@ -1,0 +1,50 @@
+... title: What is a brand? Developing a Neuroscientific Concept for Consumer Brands and Neurofunctional Imaging of Decision Making based on Brand Logos
+
+
+
+Abstract
+
+A fine glass of wine tastes better when you believe to know that it has been more expensive than another producer‘s wine. A certain soda is preferred stronger when served in a cup labeled with the brand logo. Even analgetics work better, when a famous brand name is printed on the packaging.
+Strong brands are strong cultural messages. They emotionalize clients and establish cultural identity. Accordingly, they affect a product‘s utility influencing consumers‘ buying decisions and accompanying feelings, apparently even healing processes.
+
+My thesis aims to investigate neural correlates in human brains involved in perceiving brand logos with respect to (1) what distinguishes a strong brand from a weak one, which is the experimental task, and (2) what a neuroscientific concept of a brand might look like, thus, a theoretical foundation.
+
+The thesis deals with what can be called consumer neuroscience, considered to be a subfield of neuroeconomics. While initially tasks in the brain in terms of neural correlates where tried to be localized in an exploratory manner, next step is to solve the puzzle to generate continuative understanding of basic principles of behavior. Relevant distinctions have been drawn between implicit and explicit, cognitive and affective, conscious and automatic computation (e. g. Loewenstein, Rick et al. 2008). Observable phenomena can be differentiated into intra- and interpersonal decision processes, to be divided into the scientific approaches of decision-making and game theory.
+Questionings of marketing and communication in the tradition of advertising effectiveness and impact research will be enhanced by these findings: fMRI studies could reveal that brand and cultural knowledge influence subjects’ preference when asked to make a choice in a product selection and that there are strong and weak brands exhibiting respective effects within and beyond certain sectors.
+Also, it has been suggested that cortical relief facilitates evaluation of strong brands and that even both unconscious perception of products and subconscious mechanisms of decision making influence preference. For specific categories of products, endogenous reward reactions could be found.
+
+The questions the thesis is about are (1) How does a strong brand influence a consumer‘s brain, and (2) what could a neuroscientific brand model be built upon.
+
+Experiment
+
+The method to use for the experiment is functional magnetic resonance imaging (fMRI), as findings shall be examined based on involved brain areas. Therefore, an event-related paradigm design containing brand logos as stimuli was applied using the BOLD-effect (blood oxygen level dependency) to measure activity in subjects‘ brains.
+Subjects were asked to watch brand logos of widely known brands (car manufacturers, newspapers, sodas). While watching, they had to press a button according to if they would recommend the shown brand to a friend or not.
+This design is expected to reveal effects a strong brand possesses compared to a weak brand and, hence, which networks in the brain are linked to the preference bias that shapes the decision to be made between two or more brands. 
+fMRI allows to observe consumers‘ brains during the decision process. There is evidence that reward processes are elicited, when a preferred brand is shown.
+Areas known to be linked with similar tasks are ventromedial and dorsolateral prefrontal cortex, and striatum.
+While ventromedial prefrontal cortex is involved in decision making based on sensory information, and essental for integrating emotions into decision making, dorsolateral prefrontal cortex is linked to working memory, planning and more reasoning-based decision making. When choosing between a personal first-choice brand and another one, inhibition could be measured in this area, suggesting that a favored decision is supported by relief in activation patterns (e. g. Deppe, 2006).
+However, taking into account preference biases shaped consciously and unconsciously, instantly or in the past, the complexity of such a decision becomes clear. It is expected to  
+
+Theory
+
+Thus, the preference for a certain brand can be regarded as a complex combination of personal memory and evaluation processes, including unconscious valuation, trust, and self-centered cognition. But still it has not been explained exhaustively, what a brand actually is. Particularly symbolic concepts lack of relevant factors that describe brand components in terms of mental processing.
+Thinking about similar processes known in neuroscience, there are three concepts a brand could be connected with (e. g. Moerman, 2002):
+Addiction: Addictive substances rise dopamine level and elicit the reward system. As stated already, this is what a brand might be capable of as well. Addiction-associated stimuli attract attention. That is called incentive salience, also a behavior of drug seeking can be observed. This is what marketing strives to reach in a certain way, too: A brand shall be installed in the relevant set of a consumer.
+Placebo: The positive effect of brand labels on a medicine packaging was mentioned already. Explaining the placebo effect as an implicit expectation or belief, a consumer would expect highest value and utility from a certain brand‘s product and therefore desire that one‘s condition improves with product.
+Meaning: As words and every other social action has an effect on somebody, brands definitely also have an effect. So, they could be referred to as general meaning in culture.
+While (1) provides explanation for buying behavior (especially at point-of-sale), (2) can be applied to actual products and (3) might be an approach to understand the relevance of brands in a specific cultural environment. 
+My thesis aims to follow those pathways and develop approaches for a model based on those or similar ideas.
+
+Application
+
+The thesis should reveal helpful findings to develop a model for brand effectiveness and better understanding of brand-related behaviour with all its underpinnings, cultural effects and involved functions of mentioned brain areas. 
+The challenge is to understand processes to run in the brain when perceiving a brand insofar as to be able to measure success of a brand and optimize development and advertising of a brand. Fields of application are, for instance, creation of better fitting advertising for consumers, target group relevant design of brands and policies regarding advertising, package design and governance of consumption.
+More generally, relationships between properties of information processing that are determined by brain architecture and human production of culture shall be constructed based on research in the field described.
+
+
+Deppe, M., W. Schwindt, et al. (2005). "Nonlinear Responses Within the Medial Prefrontal Cortex Reveal When Specific Implicit Information Influences Economic Decision Making." Journal of Neuroimaging 15(2): 171-182.
+
+Loewenstein, G., S. Rick, et al. (2008). "Neuroeconomics." Annual Review of Psychology 59: 647-672. 
+
+Moerman, D. E. and W. B. Jonas (2002). "Deconstructing the Placebo Effect and Finding the Meaning Response." Annals of Internal Medicine 136(6): 471-476.
+

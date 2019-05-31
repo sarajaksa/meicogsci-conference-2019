@@ -1,0 +1,21 @@
+... title: The Influence of Emotional Distraction on Spatial Working Memory
+
+
+
+Abstract
+
+!!!! The Influence of Emotional Distraction on Spatial Working Memory
+
+!! Introduction
+Working memory (WM) supports cognitive processing by storing and maintaining limited amounts of information while performing everyday tasks. It consists of separate stores for verbal, visual and spatial information. Spatial WM maintains information about the position of objects by directing spatial attention to their locations. Therefore, if subjects are prevented from keeping attentional focus at locations held in WM, memory accuracy should decline [1]. Since emotion-laden stimuli receive prioritized attention, task-irrelevant emotional stimuli presented during maintenance of information in WM should reduce accuracy of recall. This has already been demonstrated for visual WM using task-irrelevant negative pictures in a study by Dolcos et al. [2]. Comparing the effects of task-related versus task-unrelated emotional distracters they have also shown different patterns of brain activity, related to the nature of the distracter. We investigated whether a similar pattern of results can be found for spatial WM as well.
+
+!! Methods
+28 healthy (9 male), adult (19-42, average 24.5 years of age), right-handed volunteers performed a delayed-response WM task. Participants were instructed to remember the position of a round scrambled image on a computer screen. After a delay they indicated the remembered position on a blank screen by moving a grey circle with a joystick. There were 2 blocks of trials (16 trials each) not containing a distracter and 4 blocks of trials with three potential distraction types presented during the delay interval: (1) neutral image (32 trials); (2) negative image (32 trials); and (3) task-related scrambled image (32 trials). Scrambled images were emotionally neutral as content was impossible to discern. Positive images were not included due to their weaker effect on attention and time limitations. During task performance scalp electroencephalogram (EEG) and functional magnetic resonance imaging (fMRI) data were acquired. Data have been collected but not yet analysed.
+
+!! Expected results
+Spatial WM uses spatial attention to actively maintain positions; therefore we expect even greater influence of emotional distraction on memory performance compared to visual WM. Both task-related scrambled images and emotion-laden negative distracters should attract attention and cause accuracy to decline. However, the importance of task-related images emerges from current goals while negative images gain salience from their evolutionary relevance for survival so mechanisms and patterns of brain activity should differ. By using a joystick to record participants’ responses instead of a match-to-sample task we gathered precise measurements of memory accuracy for each specific trial, which will enable more detailed analysis of contributing brain regions. The study will thus further our understanding of the interactions between emotion, task relatedness and spatial WM and their underlying neural mechanisms.  
+
+!! References
+[1] E. Awh and J. Jonides, “Overlapping mechanisms of attention and spatial working memory,” Trends in Cognitive Sciences, vol. 5, no. 3, pp. 119-126, Mar. 2001.
+[2] F. Dolcos et al., “Opposing influences of emotional and non-emotional distracters upon sustained prefrontal cortex activity during a delayed-response working memory task”, Neuropsychologia, vol. 46, no. 1, pp. 326-335, Jan. 2008.
+

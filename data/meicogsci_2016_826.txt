@@ -1,0 +1,24 @@
+... title: Are Heterogeneous Expectations a Viable Alternative to Rational Expectations in Economics?
+
+
+
+Abstract
+
+Expectations play a crucial role in economic theories. Different ways of modelling and parameterising expectations change outcomes massively in (macro-)economic models. On a meta-theoretical level, some authors even go as far as to claim that: "Individual expectations about future aggregate outcomes are the key feature that distinguishes social sciences and economics from the natural sciences" [1].
+
+The prevailing expectation hypothesis used in economics is that of "rational expectations" (RE) [2]. Here, it is assumed that expectations are nothing more than the predictions of the relevant theory, i.e., they are defined to be model-consistent. Furthermore, it is assumed that people make no systematic mistakes. Finally, modellers typically introduce "representative agents" (e.g., “the average household”) equipped with RE to bridge the gap between micro- and macro-levels; all interacting units of the economy are therefore alike. Over time, it became more and more evident that certain real-world phenomena, like the global financial crisis, are very hard to fit in a uniform RE framework.
+
+Expectations modelling in economic theory thus is in need of theoretical innovation. New proposals ought to have a strong interdisciplinary foundation, reconciling valuable insights from several other disciplines, including sociology, psychology and anthropology. In particular, we take interdisciplinary thinking to be an effective remedy against the harmful tendency of a large part of economics to isolate specific aspects of human behaviour and then to treat these and only these as "purely" economic subject matter, as in the case of RE.
+
+The concept of "heterogeneous expectations" has been suggested as an alternative to RE, instantiated in so-called "agent-based models" [3]. Here, heterogeneous agents use different methods of expectation formation. The "wilderness" of this approach is fenced in e.g. by the use of genetic algorithms that describe agents' switching between heuristics according to a fitness criterion, e.g. accuracy of prediction.
+
+The goal of our project is to give a critical assessment of rewarding ends and eventual dead ends in the theoretical development of agent-based economic modelling with heterogeneous expectations. The outcome of this work should be a stepping stone towards a more outward-looking theory of dynamics in (financial) markets.
+
+!!Acknowledgments
+Special thanks to Paolo Petta and OFAI for supporting this project.
+
+!!References
+[1] C. Hommes, “The heterogeneous expectations hypothesis: Some evidence from the lab,” Journal of Economic Dynamics and Control, vol. 35, no. 1, 2011, pp.1.
+[2] J. F. Muth, “Rational Expectations and the Theory of Price Movements,” Econometrica, vol. 29, no. 3, pp. 315–335, 1961.
+[3] D. Delli Gatti, S. Desiderio, E. Gaffeo, P. Cirillo and M. Gallegati, Macroeconomics from the Bottom-up. Milan, Italy: Springer Italia, 2011.
+

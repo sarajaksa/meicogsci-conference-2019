@@ -1,0 +1,22 @@
+... title: Resting-State Brain Connectivity and Social Understanding in Aging
+
+
+
+Abstract
+
+## Theory of Mind, Empathy, and Intrinsic Social Brain Networks
+
+Understanding others is necessary for successful social interaction. Studies on both affective (studied under the term “empathy”) and cognitive (studied under the term “Theory of Mind” (ToM)) routes to understanding others have typically been conducted using participants performing either specific ToM tasks, empathy tasks or both in conjunction [2]. Importantly, there has been a lack of studies reporting possible intrinsic interactions of these empathy and ToM related brain regions, especially when it comes to age-related changes in intrinsic connectivity. Such research endeavours would be intriguing since the distinct neural networks for both ToM and empathy strongly overlap with the intrinsic (resting-state) Default-Mode Network (DMN) of the human brain [3]. For example, age-related studies suggest that the DMN goes through structural and functional changes throughout the lifespan, with functional connectivity of the DMN at rest significantly reduced in older compared with younger adults [1].
+
+## Method & Expected Results
+
+Participants will be separated into groups of adolescents (14-17), young adults (20-30) and older adults (60+). Each participant will undergo a behavioral session measuring Empathy (Using the Emotional Contagion Scales (EC), the German version of the Interpersonal Reactivity Index (IRI) and the Bermont and Vorst Alexithymia Questionnaire), ToM (Using a modified version of the classical Frith-Happé animation task) and a separate rs-fMRI scan. Both of the behavioral measures and the fMRI scans will be acquired for each participant individually. Rs-fMRI scans will enable us to assess intrinsic brain connectivity which is later to be compared with the task behavioral results. We expect there to be differences in intrinsic connectivity both between and within the main resting-state networks of interest that are not only correlated with the behavioral results but also with the age of the participants.
+
+## References
+
+[1] Andrews-Hanna, J., Snyder, A., Vincent, J., Lustig, C., Head, D., Raichle, M. and Buckner, R., “Disruption of Large-Scale Brain Systems in Advanced Aging,” in Neuron, 56(5), 2007, pp.924-935.
+
+[2] Reiter, A., Kanske, P., Eppinger, B. and Li, S., “The Aging of the Social Mind - Differential Effects on Components of Social Understanding,” in Scientific Reports, 2017, 7(1).
+
+[3] Wanqing, L., Mai, X. and Liu, C., “The default mode network and social understanding of others: what do brain connectivity studies tell us,” in Frontiers in Human Neuroscience, 2014, 8.
+

@@ -1,0 +1,36 @@
+... title: !!!! The Phonological-phonetic Interface in the Brain. Insights from Acquired Language Disorders
+
+
+
+Abstract
+
+!!!! The Phonological-phonetic Interface in the Brain. Insights from Acquired Language Disorders
+
+!! Introduction
+
+Major theories from the 20th century linguistics created abstract and purely symbolic units without any motor or acoustic substance to categorize speech sounds. This idea was also implemented in more recent computational models where words are constructed as linear strings of abstract segments, implying a clear boundary between amodal phonological units and motor mechanisms involved in phonetic encoding. Modern neurophonetic theories attempt to overcome this dualistic approach [1].
+Neurogenic speech disorders provide an opportunity to observe the neurolinguistic phonological-phonetic interface when learned speech motor patterns break down. Two syndromes are of particular interest: apraxia of speech (AOS) and conduction aphasia (CA). Both appear after strokes to the left anterior and middle artery including different cortical and subcortical regions. AOS is considered as a disorder of speech motor planning, while CA traditionally represents an impairment afflicting the long-term storage of phonological units. This study investigates different types of speech errors to reveal the mechanisms of phonetic-phonological encoding stage in spoken language [2].
+
+!! Methods
+
+Participants
+
+5 participants with purely AOS and 5 participants with CA are examined. Both groups are pre-tested with different clinical assessments to confirm their clinical diagnosis, to test for their primary cognitive locus of impairment and to exclude further conflicting neuropsychological handicaps. 5 healthy control speakers are also included.   
+
+Procedure
+
+All groups are confronted with two speech production tasks: (1) a verbal repetition task including the whole set of stimuli (n = 200 ~ 240) in normal speech rate with casual articulation and (2) a confrontation naming task with a concentrated set of stimuli (n = 50 ~100) in reduced speech rate with careful articulation. The stimuli consist of disyllabic, initial stressed (i.e. trochee) words with different phonetic properties which elicit a natural elision of the /ə/ sound – the most used vowel in German. All stimuli are recorded by trained radio speakers (1m, 1f) and presented in a controlled setting. The answers are recorded digitally, transcribed phonetically and analyzed spectrographically [3]. 
+
+!! Expected Results & Discussion
+
+Expected results center around the qualitative and quantitative properties of errors between the groups. Traditional accounts postulate categorical (whole) phoneme errors for CA and continuous (phonetic) errors for AOS. Interaction effects are expected for the different phonetic stimuli environments, the tasks, the speech rate and the gender-specific imitation. 
+The results imply insights into (1) the phonological-phonetic encoding stage, (2) the mapping process from auditive perception to speech production, (3) the nature of phonological errors and (4) the similarities and differences in the error patterns of both groups.
+
+!! References
+
+[1] A.I. Gafos and S. Benus, “Dynamics of Phonological Cognition,” Cognitive Science vol. 30, no. 5, pp. 905–943, 2006.
+
+[2] W. Ziegler, “Modelling the architecture of phonetic plans: Evidence from apraxia of speech,” Language and Cognitive Processes, vol. 24, no. 5, pp. 631–661, 2009.
+
+[3] L. Davidson, “Schwa Elision in Fast Speech: Segmental Deletion or Gestural Overlap?” Phonetica, vol. 63, no. 2-3, pp. 79–112, 2009.
+

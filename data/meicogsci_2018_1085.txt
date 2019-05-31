@@ -1,0 +1,22 @@
+... title: The Influence of Hyperglycaemia on the Capacity of Visuo-Spatial Short Term Working Memory
+
+
+
+Abstract
+
+## Introduction
+Diabetes mellitus is a chronic disease where the body is unable to produce enough insulin or cannot properly respond to the produced insulin. When present in children, it can compromise their optimal intellectual development. Cognitive abilities, such as verbal and nonverbal intelligence, information processing, visuospatial ability, attention and learning and memory abilities were studied by many researchers whose results suggested, that the diabetic children’s test scores are lower by cause of chronic hyperglycaemia, severe hypoglycaemia or other diabetes-related organic factors [1]. This study focused on hyperglycaemia’s effects on children with diabetes type 1. Compared to healthy individuals; do diabetic children have any cognitive limitations because of the elevated glucose level – hyperglycaemia? [2] In search for answers the participants were tested for differences in processes of planning, visuospatial memory and working memory, while being scanned in MRI. Due to the complexity of the study, I only analysed the results measuring the capacity of visuo-spatial short term working memory.
+
+## Method
+Participants, aged from ten to nineteen, were divided into groups of diabetics and controls. They were all tested in two fMRI sessions of Corsi block-tapping test, which had two versions; with load of two and load of four items. The diabetic group entered the first session with a regulated glucose level, took a half hour break and afterwards, just before the second session, their glucose level was intentionally elevated via glucose infusion. For the control group both sessions were the same. 
+
+## Results
+Obtained data showed that on average the working memory capacity of the diabetic group is lower than the capacity of controls. Also, comparing the first and second session, the capacity of the hyperglycaemic group dropped in both tasks, while the capacity of working memory in controls increased. The range of both; drop and increase, from first to second session was bigger in the four unit test. 
+
+## Conclusion
+In general, the hyperglycaemic group showed a lower capacity of visuo-spatial short term working memory than the control, healthy group. The strong influence of elevated glucose level was showed in the second session, whereby the capacity of hyperglycaemic group dropped significantly. Results imply that diabetes all together influences the development of this specific cognitive ability and show how the working memory gets limited when the glucose level is extremely high. 
+
+## References
+[1] S.C. Ferguson, A. Blane, J. Wardlaw, B. M. Frier, P. Perros, R.J. McCrimmon, & I.J. Deary. Influence of an early-onset age of type 1 diabetes on cerebral structure and cognitive function. Diabetes care, vol. 28, 2005, pp.1431-1437, Jun 2005.
+[2] C.M. Ryan, M.I. Freed, J.A. Rood, A.R. Cobitz, B.R. Waterhouse, & M.W. Strachan. Improving metabolic control leads to better working memory in adults with type 2 diabetes. Diabetes care, vol. 29, 345-351, Feb 2006.
+

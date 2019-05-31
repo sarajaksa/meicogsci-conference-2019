@@ -1,0 +1,21 @@
+... title: The Feathered Politician and Evolution of Intelligence
+
+
+
+Abstract
+
+Common ravens (Corvus corax) are a large bird species found all over the Northern Hemisphere. From a cognitive perspective, this species is remarkably similar to humans, not only in its ability for abstract reasoning and tool use, but also in its complex and nuanced social life. Ravens live in groups with well-structured hierarchies. To rise in ranks, outcompete their conspecifics, and reach their goals, they essentially engage in politics, just like we do: they build coalitions, maintain valuable friendships, hold grudges, exchange favors, understand and sabotage others’ relationships, and practice the art of deception [1]. 
+
+Such behavior, that requires complex cognitive skills, has been observed in many non-human species, most notably non-human primates and corvids (a family of birds which includes crows and ravens). These species seem to have many cognitive features in common, among others: episodic memory, abstract reasoning, planning, perspective taking, and the ability of flexible decision making. However, the environmental pressures leading to the convergent evolution of such features are yet to be established and remain an open research question.
+
+One of the possible answers to this question is The Social Intelligence Hypothesis (SIH), which proposes that evolution of the brain is primarily driven by a species’ complex social life, and not the ecological factors of its environment [2]. Though the consensus on a rigorous definition of what exactly constitutes a ‘complex social life’ still hasn’t been reached, most definitions have one feature in common: competition with other members of the same species. Two major predictions are made by the SIH about more socially competent (‘intelligent’) individuals: that they have more reproductive success and that they perform better at cognitive tasks. Additionally, SIH predicts that a species’ brain size should be positively correlated with its social complexity. These predictions match what is known about different species and their cognitive capacities quite well.
+
+Our research is firmly grounded in the framework of the SIH: we are hoping to determine animals' cognitive abilities, and the origins of such abilities, by studying their social life. For the most part, a species' social life and its properties cannot be observed directly, we can only deduce them through observations of that species' social interactions. We are therefore conducting various studies on groups of common ravens, both observational (to understand their social structures) as well as experimental (to understand their cognitive abilities, especially in the social domain). Our current work, its theoretical foundations, and some of our recent findings will be presented, along with various research methods.
+
+!!Acknowledgements
+I would like to express my sincere thanks to prof. Thomas Bugnyar of the Cognitive Biology department at the University of Vienna for his help and his mentorship.
+
+!!References
+[1] T. Bugnyar, “Social Cognition in Ravens”, Comparative Cognition and Behavior Reviews, vol. 8, pp. 1-12, 2013.
+[2] A. Whiten and R. W. Byrne, Machiavellian Intelligence. Oxford: Oxford Science, 1988.
+

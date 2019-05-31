@@ -1,0 +1,34 @@
+... title: Modeling Negative Transfer of Learning: Framework and Application
+
+
+
+Abstract
+
+Introduction:
+
+With AI and ML applications for transfer learning flourishing (2), few research focuses on negative aspects that certain knowledge domains might have on target domains. Since the major goal of AI is to maximize efficiency, this lack of research is very reasonable. However, a formal description of negative aspects of learning remains an important inquiry, since it seems to be a common feature of cognitive processes.
+
+Negative Transfer of Learning denotes a well-observed, yet widely discussed phenomenon in Psychology: the knowledge of one type of domain may hinder or prevent the learning success of a new domain. In the classic AB-AC list paradigm, previously acquired associative knowledge maps the output to a different target, hence decreasing efficiency. Once the source domain is identified as faulty, the source domain gets forgotten with each computation.
+
+Niche competition:
+
+Inspired by the competitive exclusion principle, the author models the two task domains as competing niches, the overlap of which constitutes a space where learning is impaired. The author aims to develop a model of negative transfer in a heterogeneous feature space environment using reinforcement learning techniques. Once the algorithm performs at a steady low level, the author tries to validate the above mentioned theory by adding a power function into the computations, which approximates the 'forgetting' rate of the source domain. As an expected result, the target domain will be learned at a faster rate, even though source and target share a substantial amount of features (usually considered to aid learning).
+
+The computational experiments section of the study will use a transfer source data set likely consisting of pictures and a transfer target data set consisting of elements sharing several structural features with the source (data was not selected yet at time of submission). We predict that for the given data sets, results will not just project a negative learning outcome, but will moreover allow predictions to negative transfer effects in real-life situations.
+
+Behavioral Experiment:
+
+If time and effort capacities allow, a small behavioral sensorimotor experiment is planned where knowledge (source) and prospected learning outcome (target) are calibrated in a relation similar to the data sets used. The method will consist of action-planning based on similar knowledge compared to the desired outcome of the task  (for example, learning an accuracy-demanding task which, after a high success rate is reached, then has to be performed inversely). Data will be recorded with a trigger that allows the participant to perform the tasks on a screen. If the niche competition approach remains a valid assumption, similar distributions of negative-then-positive learning courves can be predicted.
+
+Prospective Conclusions:
+
+This would contribute strong evidence for a probabilistic approach to cognition, rather than being representational, computationally-oriented, since learning success would not be stored as elements that will be recalled by a certain set of functions when needed. Rather, the mind applies previously learned theories of the world that are controlled for outcome while being executed.
+
+Literature:
+
+(1)  Hardin, G. (1960). The Competitive Exclusion Principle. Science 131, 1292-1297. 
+
+(2)  Pan, S. J., and Yang, Q. 2010. A survey on transfer learning. TKDE.
+
+(3)  Huayan Wang and Qiang Yang: Transfer Learning by Structural Analogy, The Twenty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2011)
+

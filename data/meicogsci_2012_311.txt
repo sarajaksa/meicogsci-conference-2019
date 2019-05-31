@@ -1,0 +1,20 @@
+... title: EVENT NETWORK ADVANCEMENT. GRAPHICAL NOTE TAKING AS COGNITIVE TOOL.
+
+
+
+Abstract
+
+The importance of information visualization is indisputable for everyday life as well as in the scientific context. Prepared visual concepts, presentation sheets and flyers which are provided at and prepared long before a targeted event (mostly from professionals) are up to standard. But an interesting, upcoming dimension lies in the current trend of spontaneous visualizations, graphical notes, any kind of visual documentation and their integration into knowledge processes, for reasons such as reducing cognitive load [1].
+
+As a sub-topic embedded into the project Event Network Advancement (ENA) this Into Research II project focuses on the potential of graphical note-taking in bridging the critical intersections within the usually rather segregated event phases and objectives according to ENA, as well as accounting for motivational aspects and enhancing cognitive capabilities during and after knowledge intense events.
+
+ENA has the two main objectives to support the interaction of event participants with a combination of concepts to a whole new multimodal visualization tool, as well as the optimal adaption of architectural, technical and social aspects in sense of the Enabling Spaces concept [2]. It is realized from a consortium including the Danube University Krems, the University of Vienna, as well as the two business partners Innovation Service Network and Skill3D. The three project main structures consist of the »Pre-event-phase«,  »Event-phase« and »Post-event-phase« that will be fused into an overall conceptualization during the three-year project, with the objective to optimize knowledge intense experiences and event spaces that usually lack cognitive and social quality due to their characteristic of permitting only limited short-term-networks.
+
+Proposed findings are centered on the cutting area of individual & public communication as well as the documentation as parts of both the »Event-Phase« and »Post-Event-Phase«, where people organize newly collected data and knowledge from the event and may document it as graphical notes and visualizations. This can happen for purposes of taking notes for private use, a later public access and viewing or even for a further collaborative respect (where people can develop and adjust the content of notes taken). The aspect of »sustainability« is to be strongly questioned, as of its characteristic of having a more short-term impact established during events and conferences, where visualizations may help to provide a captured frame (indeed from a certain, subjective angle) that allows revisions of ideas, point in the plane aspect of aesthetics or even serve as a trigger on accessing own memories and experiences via a subtle approach of visual impressions.  
+
+Through an extensive literature research, state of the art analysis through qualitative interviews and ethnography's of national conferences, as well as evaluations of currently provided mobile applications, this project aims on a concrete conceptualization for a mobile visualization tool or module optimized for embedment in the ENA Virtual Event Explorer. There is a need to find an appropriate approach in engaging people to see graphical note taking as the enriching cognitive tool that it is.
+
+
+[1] Moos, Daniel C. (2009): Note-taking while learning hypermedia - Cognitive and motivational considerations. Computers in Human Behavior, 2009, Vol.25(5), pp.1120-1128
+[2] Peschl, Markus, & Fundneider, Thomas (2010): Innovation durch Enabling Spaces. net culture lab. Verlag Neue Arbeit.
+

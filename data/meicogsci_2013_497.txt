@@ -1,0 +1,56 @@
+... title: Cognitive Aspects Of Video Games
+
+
+
+Abstract
+
+Abstract
+
+!!!Cognitive Aspects Of Video Games
+
+This project consists of two parts. Firstly the theoretical part where  we study the general motivation to play video games across all genres. We also look on specific motivation in certain types of games such as action, adventure, role-playing, simulation, strategy, arcade, and trivia. Secondly the practical experimental part is devoted to increase the user retention and motivation to finish and update the game in trivia mobile game Quiz House.
+
+The theoretical part focuses on scientific and game design approach. We use the scientific Yee’s motivational model where the analysis revealed 10 motivation subcomponents that grouped into 3 overarching components:
+
+* Achievement: advancement, mechanics and competition
+* Social: socializing, relationship and teamwork
+* Immersion: discovery, role-playing, customization and    escapism [3]
+
+From the game design point view we chose following matching components to the Yee’s model.
+
+!!Right amount of frustration
+
+The player needs incentives in form of reward such as expansion of abilities, weapons and defenses to learn new skills and get better and better. At the beginning the player easily achieves quick successes, but as he progresses further the reward comes less frequently. Usually there is a thin border between good and bad frustration or good and too hard challenge to achieve. 
+Practicing a needed skill may result In too repetitive game play which can end up in bore down because the game mechanics get stereotyped. [2, page 381]
+
+!!Simple and formal game mechanics
+
+The games which fail to exercise our brain get quickly boring E.G. Tetris. It is very limited exercise and challenge. When the player learns and masters all the patterns more innovation is required to keep the player motivated to immerse deeper. The more formally constructed your game is that more it is going to be restricted. If the game should be long lasting then more unpredictable variables needs to be included such as physics, human psychology and behavior… [1, page 37] [2, page 19]
+
+!!Practical part
+
+We developed trivia casual mobile game Quiz House. The game contains famous people, car models, places and monuments in the world. Player goes through levels and has to guess unless 5 out of 9 pictures to unlock next level.  User has virtual coins which he gets after correct guess or he can buy them in the store. Various hints are offered for the player.
+The goal is to find the most important motivational and engagement elements and increase the user’s motivation and engagement in the Quiz House which would lead to bigger user retention .
+
+The hypothesized reasons of dropping the game are:
+
+*	Don’t understand the language or GUI, what to press in what situation. = links to mechanics
+*	When they get stuck they don’t understand how to use hints. = links to mechanics and customization
+*	Not having coins. = links to mechanics, advancement and customization
+*	The pictures are too easy or too hard to guess and they have no suitable challenge = links to game advancement, progress,  escapism
+
+!!Method
+
+We track and capture the user’s action in the game background such as button press, successful and incorrect guesses. What hints in which situation are used. All collected data are stored in the database on the server and we can determine and improve weak parts of the game. The player doesn’t know about it and acts naturally.
+
+!!Results
+
+We found out that our user retention is in average 20% who finish the game to the end and updates the game after new content and features release.
+From the 80% players who download the game and don’t progress till the end is 30% who drop it within the first and second level. 50% left of the users leave the game when they get stuck such they are not able to guess correctly other pictures and they don’t have more coins to use hints. And they are not willing to spend real money to buy the virtual coins. The goal is to find out why 80% of users don’t finish the game and improve the weak parts of Quiz House. We want to maximize the user retention so any thing more than 20% will be considered as success.
+
+!!Bibliography
+
+[1]	Emily S. Orr, Craig Ross, R. Robert Orr, Trait and symptom differences between factions in online gaming: The vulnerable side of evil, Computers in Human Behavior, Volume 28, Issue 2, March 2012, Pages 739-743.
+[2]	A Koster, Raph. A Theory of Fun for Game Design. Scottsdale, AZ: Paraglyph, 2005. Print. 
+[3]	Yee, Nick. "Motivations for Play in Online Games." CyberPsychology & Behavior 9.6(2006): 772-75.
+

@@ -1,0 +1,26 @@
+... title: How Does Interoception Shape Our Experience of Art?
+
+
+
+Abstract
+
+!!Introduction
+Emotions are considered essential components of aesthetic experience [1].  Despite that, there are only a few studies that investigated how individual differences in emotional processing influence aesthetic evaluations. 
+It has been shown that interoception, the sense of the physiological condition of the body [2], is associated with the intensity of the emotional experience as well as the central processing of emotional stimuli. Specifically, people with higher interoceptive accuracy, an objective measure of detecting and tracking internal bodily sensations, tend to experience more intense emotional reactions than people with lower interoceptive accuracy [3].
+
+!!Aim
+The aim of the current study is to explore whether these differences in emotion processing also mediate aesthetic experience. We hypothesize that interoception and emotion are important for the engagement with the artwork and the assessment of its aesthetic value. 
+
+!!Methods 
+The studies that demonstrated the relationship between interoceptive accuracy and emotional experience mainly used videos or images taken from the IAPS as stimuli (Dunn et al., 2010). Such correlations have not been examined in the study of visual art yet. First, we assess interoceptive accuracy through the heartbeat detection task, in order to obtain an objective measure of the process of detecting internal bodily signals. We then present subjects with artworks (with either low or high emotional intensity) while measuring neural and physiological activity: EEG, ECG, and EDA.  
+
+!!Conclusion
+We will report how these measures correlate with the subjective ratings of the aesthetic experience and the evaluation of the artworks and we will evaluate whether there is a difference between people with high and low interoceptive accuracy.
+
+!!References
+[1] Prinz, J., 'Emotion and Aesthetic Value'. Paper presented at the American Philosophical Association Pacific Division Meeting, San Francisco, CA, April, (2007).
+
+[2] Craig, Arthur D. "How do you feel? Interoception: the sense of the physiological condition of the body." Nature reviews neuroscience 3.8 (2002): 655-666.
+
+[3] Dunn, Barnaby D., et al. "Listening to your heart how interoception shapes emotion experience and intuitive decision making." Psychological science (2010).
+

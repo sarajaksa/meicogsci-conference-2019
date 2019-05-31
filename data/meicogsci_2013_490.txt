@@ -1,0 +1,42 @@
+... title: When Does Prosocial Behavior Lead to More Prosocial Behavior
+
+
+
+Abstract
+
+!!!! When Does Prosocial Behavior Lead to More Prosocial Behavior
+
+According to [3], making a prosocial act, beneficial for society, might lead a person to subsequently less altruistic, or even harmful behavior in the near future. This effect is called licensing 
+
+effect.
+According to [1], licensing effect only takes place, if the initial prosocial act was costless, i.e. does not impose any cost on the agent. If the initial prosocial behavior, in contrast, does 
+
+imply any cost to the agent, i.e. agent has to spend his money or time to engage in this prosocial behavior, agent tends to behave prosocially in the near future.
+Hence, by the example granted by the authors of [1], if you oblige yourself to answer some questions in a survey in future, which does not imply you any cost at the moment, you tend to behave less 
+
+prosocially the next time, you are faced with similar choice. Yet, when you actually answer a few questions in a survey, which costs you some time, you tend to behave more prosocially in the 
+
+future.
+
+I believe a more continual understanding of this phenomenon would be beneficial, rather than binary division into costly and costless. 
+
+In my experiment, I am about to approach random people on the street and ask them, if they have a few minutes to participate in an experiment. When a person agrees to participating, I label this 
+
+willingness to participate as a prosocial act. Then I will assign each participant into random class by paying him. This payment will be executed right after he agrees to participate in the 
+
+experiment. Payment classes, depending on what participants get for participating:
+*nothing - this should make their participation in the experiment a costly prosocial act 
+*fair monetary compensation - this should make their participation a costless prosocial act, or behavior very close to a costless prosocial act, since they are going to be compensated for their effort. 
+*less than fair price
+*material gift, like a box of chocolates 
+*affective gift, such as written thank you note from a faculty representative
+
+Afterwards, I need to determine for each participant, if he is subsequently going to behave in prosocial manner. For this purpose, I will use a dictator game from [2].
+
+After assessing, how prosocially did each of the classes behave in subsequent test a more continual scale of costliness of prosocial behavior is expected to arise.
+
+!! References
+[1] A. Gneezy, A. Imas, A. Brown, L. D. Nelson, M. I Norton "Paying to Be Nice: Consistency and Costly Prosocial Behavior." Management Science, vol. 58, pp. 179-187, Jan. 2012.
+[2] K. Gray, A. F. Ward, M. I. Norton, "Paying it forward: generalized reciprocity and the limits of generosity." Journal of Experimental Psychology: General  Dec. 17 2012. 
+[3] N. Mazar, C. B. Zhong, "Do green products make us better people." Psychological science, vol. 21, pp. 494-498, 2010.
+

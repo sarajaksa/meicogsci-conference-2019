@@ -1,0 +1,27 @@
+... title: Emergence of Visual Consciousness in ADHD Children
+
+
+
+Abstract
+
+## Introduction
+Consciousness has puzzled humanity since the beginning of time. Still today, there are many questions about our conscious experience. How did consciousness evolve? How can our physical brain cause mental events? In our project we are interested in visual consiousness.
+Francis Crick [1] greatly contributed to the field, suggesting that the thalamic reticular nucleus plays a key role as an internal attentional searchlight, first suggested by Treisman et al. (c.f. [1]), and phrased it as “heating up the warmer parts of the thalamus and cooling down the cooler parts” [2] (p. 4587).
+
+## Problem
+We posit a critical point in time when visual consciousness (recognition of an image as a whole or non-whole) emerges and that this time is delayed with certain developmental or neurologicalpsychological disorders, namely ADHD.
+
+## Goal
+Our hypothesis is that a consistent amount of information is needed to put together image fragments with confidence. Hence, the decision point to reach a certain level of confidence for a given image is consistent across healthy subjects. This point can be standardized for a set of pictures and the test can be validated. We wish to find out whether our test is appropriate for detection of disorders implicated in consciousness, attention, mental focus and visual integration processes such as those compromised in ADHD.
+
+## Method
+Participants sit down in front of a screen on which 4 very similar images appear, divided by black frames, and decide whether the images together form a complete picture. They report their decision by pressing one of three keys (whole image, not whole image, indecision) on the keyboard. Every keystroke decreases the thickness of frames until the entire image is revealed and it becomes clear whether the image segments form a whole image.
+So far 17 children (10 female), aged 8-9 years, have taken part. Participants were primary school children that took participated voluntarily with parental or legal guardian consent. We are in the phase of testing the control group and will continue by testing an age-matched group of participants with ADHD.
+
+## Expected Results
+There is an “aha” experience when subjects suddenly see the picture fragments merging. We define this moment as the emergence of visual consciousness. The moment when subjects reach this level of visual consciousness depends on how effectively they process and analyze image fragments. Children diagnosed with ADHD may not be able to integrate the fragments of visual information as effectively as children with normal cognitive control. Hence, with this task we aim to quantify the performance of visual consciousness.
+
+## References
+[1] F. Crick, “Function of the thalamic reticular complex: the searchlight hypothesis,” Proceedings of the National Academy of Sciences, 81(14), 4586-4590, 1984.
+[2] F. Crick, C. Koch, “Towards a neurobiological theory of consciousness,” Seminar in the Neurosciences, 2: 263-275, 1990.
+

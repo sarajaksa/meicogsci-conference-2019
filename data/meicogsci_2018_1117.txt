@@ -1,0 +1,28 @@
+... title: The role of awareness in the intercultural development
+
+
+
+Abstract
+
+## Context
+Most of the approaches to intercultural development consider that reflection is at the basis of the ability to interact with others, especially in intercultural environments, that is, those where folks from different cultures or nationalities interact. However, there is no agreement regarding the nature of reflection, i.e., there is more than one concept of reflection in the literature, or its definition is simply taken for granted. As a result, these approaches fail to explain how exactly it supports interaction. The aim of this research is to explore the role of reflection in the context of the development of intercultural competences, i.e., the ability to communicate effectively and appropriately in intercultural situations based on one’s intercultural knowledge [2] since they are crucial in the interconnected world. 
+
+## Purpose
+This research proposes that the capacity to reflect about intercultural experiences depends upon the capacity to describe those experiences. Because of that, even if reflective-functioning [1] could be at the basis of intercultural competences, it is necessary to complement it with phenomenological & elicitation approaches to experiences, i.e., those who claim that reflection should be preceded by an intuitive access to experience (awareness). Because of this, the main contribution of this research is methodological: it is proposed that a specific form of reflection in an interview that has been designed to assess descriptive & reflective capacities, could not only help to avoid rational reconstructions experiences but also to describe and put them in perspective [3].
+
+## Method
+Students are interviewed using a semi-structured interview that contains descriptive and reflective questions. Each student is interviewed twice, pre & post, in order to examine their intercultural development in the period of the semester abroad. The demand (reflective) questions are rated in consonance with Reflective-Function manual [1], while permit (descriptive) questions with a rating system based on elicitation & phenomenological approaches. Both are rated from -1 to 9. The results from the descriptive and reflective questions will be correlated. 
+
+
+## Results
+As reflective distancing is what allows us to relate critically to our mental states and put them into question [3], it is expected that better descriptions of the intercultural experiences will lead to better reflections of them, that is, to look at them with fewer prejudices and to become aware of the difficulties of interaction in intercultural environments. Thus, it is expected to find a positive correlation between the two variables.
+
+## Implications
+Cognitive science can provide a better understanding of reflection in the context of intercultural development. It is expected to contribute to the debate of how to qualitatively assess intercultural experiences. 
+
+
+## References
+[1] P. Fonagy, M. Target, H. Steele, and M. Steele, Reflective-Functioning Manual, version 5. London: University College London, 1998.
+[2] D. Deardorff (ed.), The SAGE Handbook of Intercultural Competence. California: SAGE Publications, 2009.
+[3] S. Høffding, and K. Martiny, “Framing a phenomenological interview: what, why and how,” Phenomenology and the Cognitive Sciences, vol. 15, pp. 539–564, 2016.
+

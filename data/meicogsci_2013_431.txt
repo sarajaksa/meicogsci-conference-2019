@@ -1,0 +1,25 @@
+... title: Friend or Foe – Cooperation and Relationship Quality in Ravens
+
+
+
+Abstract
+
+!!!! Friend or Foe – Cooperation and Relationship Quality in Ravens
+
+!! Introduction
+Cooperation in behavioral biology spans from sharing of intracellular products in viruses to coalition formations during fights in primates. Here, we focus on forms of cooperation in which individuals are flexible whether or not to cooperate [1]. Melis et al. suggest a correlation between relationship quality and the ability to solve cooperative tasks in dyads of chimpanzees [2]. Ravens are also capable of cooperating flexibly e.g. during gang formation at food bonanzas [3]. Therefore, we investigated a possible correlation between successful cooperation and the relationship quality of the cooperating individuals. We hypothesized that dyads with high relationship quality will be more successful in a cooperation task than dyads with low relationship quality.
+
+!! Methods
+In order to investigate our hypothesis, we tested eight ravens (five male and three female; age: 1yr.), living in an outdoor aviary. Each of the 28 possible dyads were semi-randomly assigned to seven sessions such that each bird participated once per session. Sessions were held on different days over the course of three weeks. 
+For the cooperative task, we used a transparent box with a drawer containing an 8 kg metal weight (rendering it too heavy for one raven alone) as well as two trays, each of which was baited with several food items as rewards.  Per trial we separated the appropriate dyad in a separate testing compartment. Each trial started with the experimenter explicitly placing the reward on the trays and closing the drawer. In case of successful cooperation (= subjects opened drawer and removed reward) the trays were refilled. Each trial lasted for ten minutes. We measured the number of instances of successful cooperation, the elapsed time between such instances, the amount of lone attempts, the amount of cooperation attempts (= unsuccessful cooperation), and the frequency of aggressive behavior.
+To measure relationship quality and rank differences (a possible confound), we measured allopreening, contact sitting, and displacements in additional focal observations and monopolization experiments respectively.
+
+Presently, we do not have sufficient data to draw conclusions. Nevertheless, the dyad that came closest to a successful cooperation (so far we have recorded only lone attempts) was the dyad with the best relationship quality in the group. Consequently, this might be an indication of a trend that supports our hypothesis.
+
+!! References
+[1] T. Bugnyar, "Animal Cognition: Rooks team up to solve a problem", in Current Biology, 2008, 18 (12), R 530-532.
+
+[2] A. P. Melis, B. Hare & M. Tomasello, “Engineering coopreation in chimpanzees: tolerance constraints on cooperation”, in Anim. Behav.  2006, 72, 275-286.
+
+[3] B. Heinrich, “Conflict, Cooperation, and Cognition in the Common Raven”, in Advances in the study of behaviour. 2011, 43, 189-237.
+

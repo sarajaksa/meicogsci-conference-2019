@@ -1,0 +1,18 @@
+... title: Connectionist Model of Bilingualism
+
+
+
+Abstract
+
+!!!! Connectionist Model of Bilingualism
+
+One of the main question regarding bilingualism is about the way languages are stored in the brains. There are two most discussed hypothesis. According to the first one, languages in the bilingual brain use a single system of memory representation and processing for all of them. Second theory claims that there are two separated language systems, one for each of the languages [1]. Effective solution for simulating bilingual features is creating models of this phenomenon. Most of the bilingual models, whether localist or distributed, cope with deficiencies of language tags, artificial and often unrealistic languages. This project was inspired by the SOMBIP model, which does not use the language tags, neither the artificial language. It was created by Li and Farkaš. SOMBIP model is a self-organizing model of bilingual processing that has learning characteristics. It provides support to the first hypothesis described above, about single distributed lexicon in bilingual brain [2]. It was tested on Chinese and English pair of languages, which are very distinctive if considering phonological, syntactic or lexical structures. Combination of these two languages showed little integration of language representations in SOMBIP model. Comprehension was modeled as the activity map from phonology to semantics, opposite from production. Authors assumed that more similar pair of languages will provide output with more integrated phonological and semantic representations of the bilingual lexicon. Finding answer to this question was main goal of this project. Results point out whether similarity of language pair influenced integration of their representations. New bilingual corpus, of similar kind of languages, have been used. Meaning representations of the lexicon were generated from transcribed spoken language through a word co-occurrence detector, similar as with the original language pair. Next, this input data were processed by the neural network. Architecture of the model stayed original, so that we could compare results of this two simulations. Two self organized neural networks interconnected via associative pathways, trained by Hebbian learning have been used. Model has been created using DISLEX [3] - artificial neural network model of the mental lexicon.
+
+!! References
+[1] J. F. Kroll, N. Tokowicz, "Models of Bilingual Representation and Processing, Looking Back and to the Future" in Handbook of Bilingualism, 1st ed., New York, Oxford University Press, 2005 , pp. 531 - 548.
+
+[2] P. Li, I. Farkaš "A Self-Organizing Connectionist Model of Bilingual Processing " in Bilingual Sentence Processing, 1st ed., R. R. Heredia, J. Altarriba,  Ed. Amsterdam, The Netherlands, Elsevier, 2002, pp. 59 - 85
+
+[3] R. Miikkulainen , "Dyslexic and Category-Specificc Aphasic Impairments
+in a Self-Organizing Feature Map Model of the Lexicon". Brain and Language,vol. 59, pp. 334-366, 1997.
+

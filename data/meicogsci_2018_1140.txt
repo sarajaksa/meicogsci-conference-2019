@@ -1,0 +1,26 @@
+... title: Investigating brain functional connectivity with simultaneous EEG and fMRI recordings
+
+
+
+Abstract
+
+##Introduction
+
+Cognitive processes are based on brain systems which involve activation of spatially disperse regions. The execution of cognitive functions requires integration of brain activity and functional connectivity between different brain areas. A functional network is a set of brain areas that show synchronous activity while an individual is facing a specific task or just resting. 
+
+With studies using only fMRI methods, which are primarily used for their high spatial resolution, we already have a vague picture of how these organised brain systems relate to cognitive functions. But the main obstacle of using the fMRI method in investigations of functional connectivity is its low temporal resolution. At this point the EEG method might come of beneficial use. EEG complements the fMRI method with its high temporal resolution, which would enable us to better investigate fast changes in neural activity.
+
+The aim of the project is to investigate patterns of brain functional connectivity using simultaneous EEG and fMRI measurements. We also aim to study individual differences in patterns of functional connectivity and how these relate to an individual’s cognition or neuropathology. 
+
+##Goals
+
+The goal of the project is to acquire comprehensive data regarding spatiotemporal characteristics of brain networks, during resting state and task related activity by combining EEG and fMRI measurements and to reveal longitudinal variability of these brain network characteristics. Another important goal is to understand and describe how intra- and inter-individual differences relate to the stability of functional networks, which could be used to recognise specific patterns that reveal individual characteristics or neuropathology.
+
+##Methods
+
+The research is conducted on two groups of participants, 30-40 young individuals and 60-70 adults from general population, both balanced for gender and age. Exclusion criteria include psychiatric or neurological disorders, the use of psychoactive substances and any contraindications for EEG and fMRI. Each participant will firstly attend a behavioral testing, where we will perform psychological and cognitive testing using standard tests. Following, participants will be asked to attend several simultaneous EEG and fMRI sessions, where we will record brain activity during rest or while performing cognitive tasks using EEG and fMRI. Data analysis will include preprocessing to remove different artefacts in the EEG and fMRI signals. Preprocessed data will be used to calculate functional connectivity between brain areas. Functional connectivity calculations will be related to the psychological and cognitive behavioral measurements.
+
+##References
+
+[1] J. S. Damoiseaux, S. A. R. B. Rombouts, F. Barkhof, P. Scheltens, C.J. Stam, S.M. Smith and C.F. Beckmann “Consistent resting-state networks across healthy subjects” *Proceedings of the national academy of sciences*, vol. 103, no. 37, pp. 13848-13853, 2006.
+

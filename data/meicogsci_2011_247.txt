@@ -1,0 +1,39 @@
+... title: To kill or not to kill: the role of empathy and personal distress in moral decision making
+
+
+
+Abstract
+
+Elisabeth Engl[1], Jasminka Majdandžić[2], Claus Lamm[2]
+
+[1] Department of Philosophy (Cognitive Science), University of Vienna, Dr.-Karl-Lueger-Ring 1, 1010 Vienna
+[2] Department of Clinical, Biological and Differential Psychology, University of Vienna
+
+!Background
+
+
+Moral dilemmas are characterised by the absence of a unique, optimal solution. Therefore, they are ideal for experimental designs measuring emotional conflict in moral behaviour. In experimental psychology, dilemmas usually feature a potential victim whose life can either be saved at the expense of several people’s lives, or sacrificed so that the others can live. Surprisingly, dilemmas are not always decided on by following utilitarianism, i.e. the notion that the majority should be saved at the expense of the minority. Some dilemmas are typically solved in a utilitarian way by 80% of participants, others only by 25%. Previous research attempted to explain this difference by evaluating the directness of the physical confrontation with or spatial proximity to the potential victim (Greene et al., 2001). Majdandžić et al. (in prep.) sought to unify these factors with the concept of ‘humanisation‘, i.e. how strongly a potential victim is perceived as a human being with thoughts and feelings. Humanisation was induced by the stimulation of a participant to take the potential victim’s perspective by referring to his or her state of mind in a short story. In a mixture of behavioural and fMRI experiments, Majdandžić et al. found that humanised potential victims were sacrificed less often than neutral ones. Additionally, decisions involving humanised potential victims elicited higher activations in brain regions associated with emotional conflict as well as empathy (among others, the dorsal anterior cingulate cortex and the anterior insula).
+
+In accordance with previous research (e.g. Greene et al., 2001), Majdandžić et al. were able to demonstrate that emotions, not only reason as proposed by utilitarianism, play a role in moral decision making. The strongest candidates were self-related feelings of personal distress and other-related empathic concern. Empathy (or understanding what another person feels and what that feels like) could have been induced by perspective taking in the case of humanised potential victims. However, humanisation could also have led to increased awareness that a human being was about to be ‘killed’, which would have resulted in heightened feelings of personal distress. The extent of the involvement of personal distress and empathy in moral decision making could not be determined, however, as both categories of emotions utilise overlapping neural structures. 
+
+!Research questions
+
+This behavioural study seeks to close that gap and intents to evaluate to what extent other-related empathic concern and self-related personal distress are involved during the process of making a moral decision. In the course of this study, Majdandžić et al.’s result that humanised potential victims are sacrificed less often than neutral ones should also be replicated.
+
+!Experimental design
+
+54 male participants were tested (gender differences in moral decision making have been documented, thus any results might not be applicable to males and females). As in Majdandžić et al.’s study, participants were first primed with humanising or neutral stories about individuals. These potential victims later featured in four moral dilemmas that were presented to participants as a text. After the participants had decided on the dilemmas, they were asked about their empathic (e.g. ‘How strongly did you imagine the thoughts and feelings of person X?’) and self-related aversive (e.g. ‘How stressed did you feel?’) emotions in 2x3 randomized questions. Participants rated their perceived emotions with a slider that translated to values from 0 to 100. The differentiation between personal distress and empathy and the terms associated with those concepts had first been described by Batson (1987) and were further developed in an explorative pilot study that let participants talk freely about the emotions they felt while making a moral decision. Furthermore, potential victims were rated on five scales such as ‘alive’, ‘tangible’, or ‘abstract’ in order to assess whether humanisation had been constructed successfully.
+In order to explore the influence of other and possibly more directly emotion-inducing modes of dilemma presentation, a graphical dilemma inspired by Ekman’s ‘basic emotions’ (in this case fear) was included at the end of the experiment. This dilemma, presented as a single picture with accompanying text in order to avoid ambiguousness, featured schematic drawings of humans including faces, as opposed to a control dilemma that featured only scenery and text.
+
+!Results
+
+Our main result is that moral judgements on humanised as opposed to neutral potential victims seem to enhance mainly feelings of personal distress, and to a lesser extent empathic concern. This could mean that the motivation behind moral behaviour is not purely altruistic, but includes an element of self-related stress relief. More generally, variations in utilitarian response patterns could largely be due to differences in elicited self-related aversive emotions.
+Humanisation was found to be induced successfully, but we could not confirm Majdandžić et al.’s result that humanised potential victims were more often left unharmed. This could be due to the fact that 24 dilemmas were used in Majdandžić et al.’s study, whereas we could only use a few items in order to allow participants to remember their emotional involvement as accurately as possible. On a methodological level, self-reporting scales should be questioned as the sole measure of emotional arousal, as artefacts such as limits to introspection and the possibly different social desirability of answer choices cannot be controlled for entirely. Such scales should at least be subject to further testing and enhanced by biophysical methods of assessing emotional arousal.
+In the graphical dilemma, personal distress ratings were significantly higher in the human-graphical than in the control condition, suggesting that other modes of presentation could influence participants’ emotional involvement in experimental settings.
+
+!References:
+
+[1] Batson, C.D. et al. (1997). Perspective taking: Imagining how another feels versus imaging how you would feel. Personality and social psychology bulletin, 23(7), p.751-758.
+[2] Greene, J.D. et al. (2001). An fMRI investigation of emotional engagement in moral judgement. Science, 293(5537), p.2105-2108.
+[3] Majdandžić, J. et al., Humanized perception of potential victims during moral decision making recruits empathy-related brain areas (in prep.).
+

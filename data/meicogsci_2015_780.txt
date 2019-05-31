@@ -1,0 +1,17 @@
+... title: Game-Induced Emotions Influence Face Processing in a Modified Posner Task: An ERP Study
+
+
+
+Abstract
+
+Human social environment requires an ability to display and detect intentions and other mental states in others. Nonverbal communication covers a number of elements, among which eyes are of a great importance. However, they can carry an ambiguous social meaning, entailing a need of further indications, e.g. emotional expression [1]. Surprisingly, the relations between them remain almost neglected, usually reduced to their co-occurrence and not their mutual influences on perception processes. Most of the studies reporting existence of these influences use designs in which emotional expression is presented in the observed face [2], however, no research inducing emotions in participants and exploring its influence on the utilisation of gaze direction cues has been conducted so far. In this research we designed a two-stage study investigating this problem for the first time.
+
+The first stage consists of a modified Trust Ultimatum game. The goal is to gather the greatest amount of money from all of the players, which requires a cooperation between them. The participants interact with, as they believe, three other players. In reality they face three algorithms designed to induce positive, negative and neutral affect towards the presented faces of the „players”. To achieve the neutral affect, the participants were informed that the third „player” was not able to connect to the game and so no interactions were possible between them. After the game they are asked to evaluate their feelings towards all of the players and their own emotional state.
+
+In the second stage participants perform a modified Posner task with EEG recordings. Posner [3] has shown that the subjects’ knowledge about where the target will occur helps in shifting the attention to the direction of the target and aids its detection. We present congruent, incongruent and neutral trials, in which the eyes of the game co-players’ eyes are used as symbolic cues, aiding, undermining or not influencing the detection of the target. Our analyses cover two dimensions: based on behavioural measures, where we compared reaction times for all conditions (congruency of the cue x emotional affect) and based on event related potentials analysis, where we looked for differences in processing the cues for emotional vs. neutral conditions. We predict that 1) the effect of attentional shifting will be replicated and 2) induced emotion will influence the participants’ reaction times.
+
+!!References
+[1] R. B. Adams & R. E. Kleck, „Perceived Gaze direction and the processing of facial displays of emotion” in Psychological Science, 2003, 14(6).
+[2] A. Frischen, A.P. Bayliss & S.P.Tipper, „Gaze cueing of attention: visual attention, social cognition, and individual differences” in Psychological bulletin, 2007, 133(4), pp.694–724.
+[3] M. I. Posner, C. R. Snyder & B. J. Davidson, „Attention and the detection of signals” in Journal of Experimental Psychology: General, 1980, 109(2), 160–174.
+

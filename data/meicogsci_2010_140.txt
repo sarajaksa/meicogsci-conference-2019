@@ -1,0 +1,34 @@
+... title: Models of ethical decision making in health care
+
+
+
+Abstract
+
+Robots have been used in laboratories and factories for many years now but the use of these machines is changing. They are already playing important roles in our every day's life. In 2008 there were 5.5 million personal service robots in use and this number is predicted to be doubled by 2011. Of course most of these robots are rather "simple" machines like autonomous lawn mowers or vacuum cleaners but there is also a rise in the use of robots in more sophisticated areas like modern warfare and the care for elderly or disabled people. Most research is going on in the former field but in this project I will exclusively concentrate on how an autonomous artificial agent could be designed to make morally relevant decisions in the health care sector.
+Therefore I choose models based on two dominant ethical theories, namely utilitarianism and deontology. Furthermore I rooted both approaches on two bioethical standards which are extremely important in health care. These two standards are autonomy and non-maleficence. The first is about respecting the patient's wishes and the second is about preventing as much harm from the patient as possible. It is obvious that there are situation where these two standards will conflict. Take for example the case where a patient refuses to get his heavily infected leg amputated. Respecting the autonomy of the patient would actually mean letting him die from the infection (which would heavily conflict with the standard of non-maleficence). The ethical theories are needed to guide the decision making process in the right direction. The most important part was to carefully think about descriptions which allow assigning numbers to relevant aspects of each dilemma. This provides the possibility to actually specify how a system based on the given ethical theory would decide in each of the dilemmas.  
+In addition to this theoretical description I designed a questionnaire which asks people from different position in health care (physicians, nurses, etc.) to make decisions in situation of moral relevance. I came up with several situations that seemed to be very appropriate for my work (out of more than 100 I analyzed). After the pre-test phase which has recently ended I will further refine the questions before actually testing a high number of health care workers.   
+
+There are different insights one could gain from this project. The first is whether there is any ethical system that can be compared with decisions of health care professionals. The second is whether there are significant differences in decision making within the different positions and if there are, whether these groups would fit to different ethical systems.
+
+I'm very well aware that there can't be any ethical system that takes into account the full complexity of human decision making. But this project could give a better understanding of the problems that have to be solved in future research on machine ethics and artificial morality. Furthermore I hope that the information gained from this rather theoretical project can be useful for building actual models of moral decision making with the help of different machine learning techniques in follow up projects.
+
+
+
+
+
+
+
+
+
+
+References:
+
+[1]	Allen, C., Varner, G., & Zinser, J. (July 2000). Prolegomena to any artificial moral agent. Journal of Experimental & Theoretical Artificial Intelligence , S. 251-261.
+[2]	Anderson, M., & Anderson, S. L. (Winter 2007). Machine Ethics: Creating an Ethical Intelligent Agent. AI Magazine , S. 15-25.
+[3]	Anderson, M., Anderson, S. L., & Armen, C. (2006). An Approach to Computing Ethics. IEEE Intelligent Systems , S. 56-63.
+[4]	Danielson, P. (1992). Artificial Morality: Viruous robots for virtual games. New York: Routledge.
+[5]	Husten, J. H., & L., H. G. (2008). Ethical Decision Making in Nursing and Health Care (4th ed.). New York: Springer Publishing Company, LLC.
+[6]	Wallach, W. (Winter 2008). Impementing moral decision making faculties in computers and robots. AI & Society , S. 463-475.
+[7]	Wallach, W., & Allan, C. (2009). Moral Machines: Teaching Robots Right from Wrong. New York: Oxford University Press.
+[8]	Wallach, W., Allen, C., & Smit, I. (Winter 2008). Machine morality: bottom-up and top-down approaches for modelling human moral faculties. AI & Society , S. 565-582.
+

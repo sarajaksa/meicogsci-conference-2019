@@ -1,0 +1,23 @@
+... title: Modelling of a Motivated Agent
+
+
+
+Abstract
+
+!!!! Modelling of a Motivated Agent
+
+!! Introduction
+Our research aims to model and implement an autonomous agent that represents an infant exploring the environment and performing actions to satisfy its needs and to keep itself in the best condition possible. It is embodied in the environment, the agent is changing the environment and the environment has impact on agent’s state. We have based our model on work of D. Kadlecek [1]
+
+!! Methods
+Our implementation is divided into 3 modules – world, body and agent itself. World represents the space in which agent operates, the objects which the agent interacts with and it handles the movements of the agent. Body is responsible for carrying out the effects of actions on agent’s needs. We have also implemented a virtual “mother” as a fall-back option if the agent is helpless and needs to be taken care of; i.e. it is hurt and needs to be treated or it is hungry and needs to be fed. The mother is activated by crying, which is energetically inefficient, thus not rewarding.
+The first part of the agent is a physiological needs space. It is a 6-dimensional space which stands for 6 basic needs of the agent – 3 extrinsic (nutritional energy, physical energy and physical integrity) and 3 intrinsic (curiosity, competence and playfulness). The second part of the agent is a reward function which returns a positive value if the movement in the needs space is towards 0. Third part of the agent is a reinforcement learning module which stores the mappings between actions in certain states (internal and external) and rewards obtained from them. The last module is the action-selection block which uses learning module to evaluate the actions and to select the best fitting one.
+The agent utilises exploitation to select the best learned reward but the curiosity introduces the exploration into decision. If the level of curiosity is higher the agent is more likely to select a random action or the best action with different parameters.
+
+!! Expected Results
+Our agent as it is currently implemented is only able to learn how to satisfy the needs separately (when only one of them is active). Our next step is to implement a version of the agent that will be possible to learn to explore and satisfy its needs in a balanced way.
+
+!! References
+
+[1] 	D. Kadlecek and P. Nahodil, “Adopting animal concepts in hierarchical reinforcement learning and control of intelligent agents,” in 2nd IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics, 2008. BioRob 2008, Scottsdale, AZ, USA, 2008.
+

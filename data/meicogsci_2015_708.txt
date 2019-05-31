@@ -1,0 +1,22 @@
+... title: Computational Micro-modeling of Appraisal Processes as Behavioral Modulators
+
+
+
+Abstract
+
+Contemporary approaches to integrating affect into computational models of cognition typically map reified theoretical concepts to specific affective “states” or “procedures” exerting distinctive influences on behavior and cognitive faculties. In contrast, our goal is to more specifically micro-model interactions between affective and cognitive processes. Akin to Robert Marinier’s work within the SOAR framework [1], we aim to integrate insights from the affective sciences into a well-known operationalization of practical reasoning [2].
+
+We plan to utilize the component process model (CPM) of Klaus Scherer’s [3] cognitive appraisal theory of emotion: Through sequential stimulus evaluation checks (SECs), appraisal processes exert systemic effects on, for instance, a person’s physiology and action tendencies, which in turn influence cognitive capabilities including attention, memory, and reasoning. Closing the circle, these capabilities provide inputs for appraisal processes. Thus, Scherer’s theory can be viewed as a complex systems model of the dynamic unfolding of processes bringing about affective phenomena.
+
+We aim to derive and integrate a micro-model of affective processes into an artificial virtual agent within the BDI (beliefs-desires-intentions) framework. Abstracting away from many details of cognitive processes and focusing on practical reasoning should allow for well-defined micro-level process interactions and predictions of behavioral effects. Even if of limited scope (of verified justifiability), the results of this first proof-of-concept could warrant deeper follow-up research on integrating affective and cognitive processes in more complex agent-control architectures.
+
+Possible merits of such a model include providing agents with a principled “natural” arbitrating of needs ultimately grounded in affective values of desires and equipping agents with more pervasive and fine-grained behavioral-adaptive capabilities. Uses could then go well beyond purely synthetic research settings, contributing to improving human-computer-interactions of virtual tutors/teachers and (not only) non-functional user-interface qualities.
+
+!!References
+[1] R.P Marinier, J.E Laird and R.L Lewis, “A computational unification of cognitive behavior and emotion”, Cognitive Systems Research, vol. 10, no. 1, pp. 48-69, 2009. 
+[2] A.S Rao and M.P Georgeff, “BDI Agents: From Theory to Practice”, in Proceedings of the First International Conference on Multiagent Systems (ICMAS-95), V.R Lesser and L. Gasser, Eds. Menlo Park, CA: AAAI Press, 1995, pp. 312-319.
+[3] K.R Scherer, “The component process model: Architecture for a comprehensive model of emergent emotion”, in Blueprint for Affective Computing: A Sourcebook, 1st ed., K.R. Scherer et al., Eds. Oxford, UK: Oxford University Press, 2010, pp. 47-160.
+
+!!Acknowledgments
+Sincere thanks to Paolo Petta at OFAI for supporting this project.
+

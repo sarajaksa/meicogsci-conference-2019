@@ -1,0 +1,19 @@
+... title: Towards a novel dynamic faces stimulus for investigating affective networks with fMRI
+
+
+
+Abstract
+
+A common task employed in fMRI for recruiting emotion-processing networks is the emotion discrimination task (EDT) introduced by Hariri et al. [1]. Each stimulus consists of a triplet of faces, a target face in the upper center and two faces below that have to be matched with the target face. As control task simple object discrimination is used, in which two different objects have to be matched to a target object. The EDT robustly activates the amygdala and other emotion- and face-processing areas, however little is known about how dynamic facial expressions can be employed for studying these networks.
+
+We therefore created a new paradigm, which makes use of dynamic faces (i.e. involving face motion) and dynamic objects as target stimuli to test whether it will recruit the same brain areas as the static stimulus. The single frames of the animated faces were computed using a neutral expression as start, morphing into one of seven different emotional expressions (angry, contemptuous, disgusted, fearful, happy, sad and surprised). As control task we employed polygons superimposing whirled faces in which the target object shape was a circle slowly being transformed to one of the matching polygons.
+
+To explore the efficacy of the newly developed dynamic faces task we conducted a fMRI pilot study including 15 healthy participants. The single task items included randomized target emotions and were presented consecutively in randomized order together with the control task. Each item was presented until one button was pressed but not exceeding 5 seconds. The subjects were instructed to press a button as soon as they found the right choice for the target expressions or objects. A new set of faces or objects was presented after the button press. The study was conducted on a 7T Siemens scanner and the analysis was performed in SPM12.
+
+In the time between the onset of the presentation of the dynamic face and the button press we found significant activation in the amygdalae, the fusiform gyri and pSTS and provide evidence that our dynamic faces stimulus based on a computer-based morphing method can recruit networks involved in face processing. These findings are consistent with the literature, whereby these brain regions play a significant role in processing emotional content of faces [2]. Nonetheless, to examine the full potential of the dynamic faces task more complex fMRI paradigms are desirable in the future.
+
+!!References
+[1] A. Hariri, A. Tessitore, V. Mattay, F. Fera and D. Weinberger, "The Amygdala Response to Emotional Stimuli: A Comparison of Faces and Scenes", NeuroImage, vol. 17, no. 1, pp. 317-323, 2002.
+
+[2] L. Pessoa and R. Adolphs, "Emotion processing and the amygdala: From a ‘low road’ to ‘many roads’ of evaluating biological significance", Nature Reviews Neuroscience, vol. 11, no. 11, pp. 773–783, Nov. 2010.
+

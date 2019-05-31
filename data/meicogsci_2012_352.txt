@@ -1,0 +1,27 @@
+... title: How does the (dis-)belief in free will affect satisfaction in life and cooperative behaviour?
+
+
+
+Abstract
+
+ABSTRACT
+
+
+Recent studies provide evidence that whether we believe in free will or not has great impact on how we behave and how we feel about ourselves. It could be showed recently that people tend to cheat more when believing that their own behaviour is determined [1], but are more willing to help if they believe in free will [2]. A probable explanation is that people tend to feel less responsible for their own behaviour if they believe to have no influence on it. 
+
+The aim of our study is concerned with two different correlations. 
+The first research question is concerned with the correlation between the belief in free will and the overall satisfaction with life: How do our beliefs affect our emotional conditions? 
+Our hypothesis was that people who believe in free will feel more as the agent of their decisions and behavior and are therefore more satisfied with life than those who don't. Of course other explanations and results are possible as well e.g. one possibility could be the other way around: people who don’t feel responsible for their behaviour are more satisfied as they don’t feel so responsible for their actions. 
+To measure the satisfaction with life and the beliefs we handed out questionnaires to a heterogeneous group. The mood in the last twelve months was measured with the “Positive And Negative Affective Scale” (PANAS). To quantify the Satisfaction with Life we used the “Satisfaction with Life Scale” (SWLS) and for the belief in free will or determinism we used the “Free Will And Determinism Plus Scale” (FAD+), which consists of statements like e.g. “People’s biological makeup determines their talents and personality” or “People can overcome any obstacles if they truly want to”.
+For all the three Scales we calculated the Median to assign the subjects into groups. 
+Against our prior expectations we could not find a correlation between the belief in free will/determinism and the overall affective state. A reason for that could be that the small amount of people we found so far tending to determinism (only 10 subjects), is not enough yet. Eighty persons have been tested and we plan on getting up to 200 participants. 
+Data, however, still suggests that these few people who belief in determinism tend to have a rather negative overall affective state than those who believe in free will. Almost one third of all subjects (3 of 10) who belief in determinism have a negative affective state, which is a high amount compared to those who belief in free will (5 of 70). (See uploaded Graph) 
+
+The second research question measures the effect of the (dis-)belief in free will on cooperative behavior. 
+For determining the influence of decreased belief on free will we are using a computer game called “bob68k”. Karl Grammer from the department of Anthropology of the University of Vienna originally designed the game. In this game the willingness of people to cooperate can be measured, based on a simulation of “tragedy of the commons”, a game-theoretical dilemma in which participants can choose between more cooperative or more defective strategies. 
+Our hypothesis of our ongoing research is that people who were primed to a deterministic view are less cooperative than people who were not primed (and therefore mostly have a natural belief in their own free will and agency). 
+
+References:
+[1] Vohs, K. D., & Schooler, J. W. (2008). The value of believing in free will: encouraging a belief in determinism increases cheating. Psychological science, 19(1), 49-54. doi:10.1111/j.1467-9280.2008.02045.x
+[2] Baumeister, R. F., Masicampo, E. J., & Dewall, C. N. (2009). Prosocial benefits of feeling free: disbelief in free will increases aggression and reduces helpfulness. Personality & social psychology bulletin, 35(2), 260-8. doi:10.1177/0146167208327217
+

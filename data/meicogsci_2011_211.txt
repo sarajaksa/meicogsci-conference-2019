@@ -1,0 +1,21 @@
+... title: Can I lend You a Hand? Rubber Hand Illusion for Sensory Feedback in Amputees
+
+
+
+Abstract
+
+- Introduction -
+Sensory perception is not only used to identify the world surrounding us but also to detect and adapt to own bodily sentiment. Perceptual information in this context is used for the organization of actions without the necessity of complex cognitive processes. For amputees, the main point is to increase the subtle awareness of their artificial limb as incorporated into their own body schemata. To prevent the subjects from dismissing the use of their artificial limb, the cognitive workload while perceiving sensory feedback should be as less as possible, to reach a comfortable level of automation, leading to intuitive adaptation and raising their acceptance as well as their handling of the device itself. Thus the subject of investigation is to find out, which one among the proposed artificial methods in the experiments is best suited to induce an illusion of ownership, always having in mind the application for prosthetic devices. 
+
+- Experimental Design -
+In this regard, the starting point for evaluating body incorporation was to test the standard rubber hand illusion (RHI), which inspired many researches (Botvinick, Cohen 1998). After completion, another experiment was run, using vibration as feedback method to induce illusion. The last experiment will be set in a virtual reality, where participants behold various shapes of virtual hands. All experiments will be conducted in healthy participants and in amputees. For the vibration setting, similar to the RHI, all of the participants had a rubber hand made out of fake skin for prostheses placed in front of them, parted from their real left hand by a screen. In addition there were five small motors placed on each finger, the palm, or the back of the hand. The rubber hand and the real hand were being tapped and stroked, either in synchronized or asynchronous condition for control, while the sensory feedback on the subject's hand was vibration. As an indicator for induced illusion, the proprioceptive drift and questionnaires were used. 
+
+- Results -
+Results suggest, that for the RHI visual feedback was most important and illusion was strongest in the synchronous condition. Comparison between illusion and control condition has shown, that participant's proprioceptive drift occurred according to an induced illusion, and not by chance. And comparison between illusion and control items in the questionnaire has shown that the visuo-tactile stimulation is responsible for the illusion. Corresponding to previous experiments, subjects with stronger illusion have shown a stronger proprioceptive drift  (Usselstein, de Kort and Haans 2005).
+
+- Discussion -
+This experiment displays the requirements for inducing an illusion, asynchronous and synchronous being the boundary values. Following experiments should evaluate other means of inducing an illusion. The experimental set up was similar to the RHI. However now using multisensory stimulation and transfer of stimulation, as the perceived application of the stimulus does not necessarily correspond to the actual sensation on the real hand. If final comparisons show significant results within the vibration condition, this will have influence on feedback application of currently build arm prostheses. 
+
+[1] Matthew, Botvinick, Jonathan Cohen. Rubber hands 'feel' touch that eyes see. Nature 391, 756, 1998.
+[2] Usselstein, W., Haans A. and Y. de Kort. Is this my Hand I see before me? Presence, 41-47, 2005.
+

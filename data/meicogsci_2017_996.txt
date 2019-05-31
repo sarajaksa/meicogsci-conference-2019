@@ -1,0 +1,23 @@
+... title: The Influence of Emotional Stimuli on P3 in an »Oddball« Paradigm
+
+
+
+Abstract
+
+In this study the electrophysiological correlates of processing stimuli with different content (human, non-human) and affective valence (negative, neutral) will be investigated with oddball paradigm. In this paradigm participants are exposed to three kinds of stimuli: infrequent targets and distractors and frequent standard stimuli. The task of participant is to respond to the targets but not to distractors or standard. An event-related potential (ERP) associated with this response is called P3, which has a positive parietoccipital peak with average latency of about 300 ms and is mainly associated with attention.
+
+Previous research has shown that the affective valence of the targets alters P3 [1]. It was also shown that the ERPs elicited by emotional stimuli differ when participants have to make an appraisal of the stimuli over an affective or nonaffective dimension [2]. 
+
+The aim of our study is to investigate how P3 is affected by the type of event (target, distractor), affective valence of the stimulus (negative, neutral) and content (human, non-human). We will also explore the correlation between amplitude of P3 and aspects of personality and mindfulness.
+
+30 participants will take part in the study in which EEG signal will be recorded with 64 channel actiCAP system. During the task they will have to press one button when target occurs and another button for any other stimuli. Targets and distractors will be pictures from affective picture databases, which differ in two dimensions: content (human, non-human) and emotional valence (negative, neutral). Their scrambled versions will be used for standard stimuli. In each of the four conditions the target stimuli will be different: negative, neutral, human or non-human, while the distractor will be from the opposite pole of the dimension. Participants will also fill out three questionnaires: the Zuckerman-Kuhlman Personality Questionnaire (ZKPQ), the Reinforcement sensitivity theory of personality questionnaire (RST-PQ), which both measure affective and motivational aspects of personality, and the Kentucky Inventory of Mindfulness skills (KIMS) which measures different dimensions of mindfulness. 
+
+Based on previous research [1] we expect differences in P3 due to the type of stimuli and its affective valence. We also expect differences in the P3 due to the requested appraisal from the participants (affective or nonaffective) [2].
+
+A suggestion for the future research is to include patients with mood disorders, e.g. depression, to investigate the mechanisms of altered emotional processing in clinical populations. 
+
+!!References
+
+[1]   J. K. Olofsson, S. Nordin, H. Sequiera and J. Polich, “Affective Picture Processing: An Integrative Review of ERP Findings”, Biol. Psychol., vol. 77, no. 3, pp. 247–265, Mar. 2008.
+[2]   G. Hajcak, J. S. Moser and R. F. Simons, “Attending to Affect: Appraisal Strategies Modulate the Electrocortical Response to Arousing Pictures”, Emotion, vol. 6, no. 3, pp. 517–522, Aug. 2006.
+

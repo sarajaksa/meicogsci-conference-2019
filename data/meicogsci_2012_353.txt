@@ -1,0 +1,24 @@
+... title: Retrocausal Habituation: A Study on Time-Reversal Effects in the Human Information Processing
+
+
+
+Abstract
+
+In recent years, a number of reports have been published about unusual timing phenomena in human information processing. These effects have been termed time-reversed interferences (Klintman 1983; 1984), or, more generally, time-reversal effects (Savva, Child, Smith 2004). The basic finding of this research field is that under some circumstances, human subjects appear to display psychologically or physiologically meaningful reactions to future stimuli about whose occurrence they have no direct or indirect knowledge. 
+
+Reports of such findings were scattered in the research literature and gained little general attention for a while; this, however, changed in 2011, when social psychologist Daryl Bem published a highly controversial paper, in which he summarizes research work of his retrocausality research lab at Cornell University and presents what appears to be replicable evidence suggestive of a relatively reliable retrocausal cognition effect. In sum, Bem reports nine retrocausal cognition effects; in each case, the protocol consists of reversing the sequence of a well-established psychological effect (such as affective habituation, mere exposure, evaluative priming, boredom and aversion induction, etc.) in order to look for predictable influences of future stimulus exposure on present likability ratings and/or choice behaviour. In this study, the so-called retrocausal habituation effect was chosen for replication, since this is the effect of this paradigm which has been replicated most often (about 9 published studies). Furthermore, it is intended that the results of this study will be sent to Wiseman and Watt’s database at Edinburgh University for their planned meta-analysis.
+
+The retrocausal habituation effect refers to the well-known finding that repeated exposure to emotionally arousing stimuli leads to an increasing habituation. The conventional finding behind Bem’s protocol, affective habituation theory, holds that repeated exposure to an affectively arousing stimulus produces a progressively smaller arousal response. For example, in a study by Dijksterhuis and Smith (2002) subjects who were subliminally exposed to emotionally arousing words (e.g., ‘happiness’, ‘summer’, ‘free’, ‘hell’, ‘bomb’, ‘fear’) subsequently perceived these stimuli to be significantly less arousing than novel emotional words. 
+
+Bem’s precognitive version of the affective habituation protocol consists of a forced choice affective habituation study, the only distinguishing feature being that the experiments are run backwards. Subjects are asked to first choose, according to their spontaneous preference (‘gut feeling’), one of two pictures of equal emotional valence and arousal potential, one of which they will be subsequently repeatedly exposed to. 
+
+In this replication study, these effects will be tested with 50 subjects. Furthermore, given that earlier studies report that individual differences which are known to moderate conventional (i.e. forward) habituation (such as emotional reactivity, boredom proneness, and sensation seeking, also moderate the backwards variant of the effect (Bem 2012), additional tests for the impact of these factors on the putative retrocausal stimulus exposure effect will be studied. Interestingly, preliminary results appear to suggest that the retrocausal habituation effect is indeed replicable with our sample. 
+
+Dijksterhuis, A., & Smith, P. K. (2002). Affective habituation: Subliminal exposure to extreme stimuli decreases their extremity. Emotion, 2, 203-214
+
+Bem, D. J. (2003). Precognitive habituation: Replicable Evidence for a Process of Anomalous Cognition. Proceedings of Presented Papers: The Parapsychological Association 46th Annual Convention, 6-20.
+
+Bem D. J. (2010), Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect. Journal of Personality and Social Psychology, in press.
+
+Savva, L., Child, R., Smith, M. (2004), The precognitive habituation effect, an adaptation using spider stimuli, Parapsychological Association Congress
+

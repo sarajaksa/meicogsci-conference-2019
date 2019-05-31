@@ -1,0 +1,22 @@
+... title: Breathing through pursed lips aids in reducing stress anxiety
+
+
+
+Abstract
+
+INTRODUCTION
+Breathing is a physiological function that can be either voluntary or involuntary. A wide known fact supported by various research shows that breathing is affected by our mental, cognitive, and emotional states and that breathing dysregulation plays an important role in anxiety disorders (Wilhelm, Gevirtz, & Roth, 2001). There are many empirical studies covering the application of breathing retraining on anxiety and beyond anxiety management, i.e. hypertension, chronic obstructive pulmonary disease, cardiac rehabilitation (Gilbert, 2003). In this abstract we present the effect of breathing retraining based on breathing through pursed lips on subjects with anxiety disorders.
+
+
+METHODS
+45 subjects with anxiety disorder were asked to participate in a 10-minute task in which a computer program would randomly select one graphic image from a wide variety of images representing accidents, phobias, tragedies and stressful situations. The subjects were asked to observe the  image on the computer screen and exhale through pursed lips as they would see the image fade away in accordance to their blowing. During inhalation the image was replaced by another one. The subject was instructed to play this game using the computer program for 10 minutes each day for 30 days. The subjects anxiety was assessed used the Hamilton anxiety scale three times during the experiment (Hamilton 1959); before the first breathing session, after 14 days and after 30 days. 
+
+EXPECTED RESULTS AND DISCUSSION
+
+We predict a reconditioning of the stress response to an exhaling breathing pattern which increases parasympathetic activity and decreases heart rate. Thus we expect a progressive decrease on the Hamilton anxiety scale as well as a change in breathing patterns in stress inducing situations. We might have some difficulty determining the level of anxiety induced by the images. The set up, being simple as it is, could be a valuable self help tool in breathing regulation for patients with anxiety disorders.
+
+References: 
+Gilbert, C. (2003). Clinical Applications of Breathing Regulation Beyond Anxiety Management . Behavior Modification .
+Hamilton. (1959). The assessment of anxiety states by rating. British Journal of Medical 32 , 50-55.
+Wilhelm, F. H., Gevirtz, R., & Roth, W. T. (2001). Respiratory dysregulation in anxiety, functional cardiac, and pain disorders: Assessment, phenomenology, and treatment. BehaviorModification, 25 , 513-545.
+

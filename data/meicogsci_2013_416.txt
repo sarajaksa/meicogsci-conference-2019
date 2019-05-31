@@ -1,0 +1,23 @@
+... title: Modeling of social learning in ravens
+
+
+
+Abstract
+
+!!!Modeling of social learning in ravens 
+
+Research in social learning is vital in the forever ongoing debate whether animals could be said to possess culture or not. Are animals able to acquire behavioral traits by learning from each other or are acquired traits more a consequence of ecological and genetic factors? It is therefore crucial to develop ways to first distinguish social from asocial learning, and further on to consider what are psychological mechanisms behind social learning [3]. Why are the individuals learning from each other and what exactly is it that they are learning?
+
+In recent years the methods available for social learning research have expanded considerably. The classical method of comparing diffusion curves has an alternative in quantitative methods. Network based diffusion analysis, first developed by Franz and Nunn [2], analyses the spread of traits by taking social networks into account via fitting models of social and asocial learning to observational data using maximum likelihood estimation. The model was expanded by Hoppitt [1] to include which individual characteristics might influence the rate of social transmission thus making it possible to infer to the psychological mechanisms underlying the social learning process.
+
+Social learning in general refers to learning by observing and interacting with conspecifics. We have focused on the aspect of social learning that results in social transmission: a spread of a behavioral trait through a group of captive subadult ravens (N = 12). By measuring the order and the times of the spread of the behavioral trait we can test various hypotheses regarding the social relations that underline the social transmission taking various individual characteristics (e.g. dominance rank, kinship, sex) into consideration. The main hypothesis is that the spread of social information depends on the dynamics of the group and is influenced by the frequency and duration of time that individuals spend in proximity to each other. By considering various social networks which are made from careful observations of the group considered, we can asses which social traits seem to be more important in the spread of the trait.
+
+The model used on the preliminary results is programmed in R and uses certain features of Hoppitt’s NBDA model [1]. The analysis at the current stage focuses on assessing if the spread of the trait follows a certain social network, without taking individual characteristics into consideration. The results indicate a positive social learning rate, meaning that the trait seems to spread socially among the ravens. Detail analysis with individual traits included is due.
+
+!!Refrences
+
+[1] Hoppitt W, Laland KN (2011) Detecting social learning using networks: a users guide.
+American Journal of Primatology 72: 1-11.
+ [2] Franz, M., Nunn, C.L. (2009). Network-based diffusion analysis: a new method for detecting social learning. Proc. R. Soc. B-Biol. Sci. 276, 1829–1836, doi:10.1098/ rspb.2008.1824
+ [3] Laland KN (2004) Social learning strategies. Learning & Behavior 32: 4-14.
+

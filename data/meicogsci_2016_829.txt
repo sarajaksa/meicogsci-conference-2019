@@ -1,0 +1,17 @@
+... title: Implicit Attitudes in Native vs. Foreign Language: Critical Assessment of Implicit Association Test
+
+
+
+Abstract
+
+Throughout history, research on human decision making has often been plagued with conscious skewing by questioned subjects. Questionnaires or first person reports can be manipulated easily when people are confronted with discomforting questions or are not trusting towards the experimenter. Hence, efforts were made to devise experimental methods, by which this issue can evaded. One of these is Implicit Association Test (IAT) [1]. Participants are presented with a series of written or heard words which are to be classified according to two predefined categories as fast as possible. Given the reaction times and error rate in classification, it is possible to see the implicit preference or bias of an individual. Researchers claim that IAT is out of the danger of manipulation simply because there is no time for conscious elaboration [1]. IAT has been used widely in research on cultural contrasts, stereotypes or consumer behaviour, where people usually show bias towards one or another category also in real-world problems. It has been hypothesised that these effects are driven by mere statistical learning and stronger associations are reinforced by basic Hebbian processes.
+
+With the advent of social networks a lot of psychological tests used in research have been popularised and came to wide multicultural audience. Since language is not a mere vehicle of content but also takes part in active construction of thoughts, possible data distortion can arise in language‐based tests. Even simple tests like IAT are prone to this when taken in foreign language and we consider necessary exploring the boundaries of its validity. One possible explanation is, that different languages entail different associations in their usage [2].
+
+This project has two goals: 1. replicate original findings by Ogunnaike et al. [2] in population of Slovaks speaking English as their foreign language and additionally assess whether and to what extent the proficiency in foreign language and other factors (e.g. age of first contact with language, length of exposure) correlate with bias in IAT. 2. devise an experiment where exact mechanisms might be elucidated. Here we will extract and alter defining features of spoken words and present them either using an auditory version of IAT or as symbolic representations similar to [3]. We might manipulate resulting bias e.g. by modification of pitch, stress or speech rate.
+
+!!References
+[1] B. A. Nosek, C. B. Hawkins, and R. S. Frazier, “Implicit social cognition: From measures to mechanisms,” Trends Cogn. Sci., vol. 15, no. 4, pp. 152–159, 2011.
+[2] O. Ogunnaike, Y. Dunham, and M. R. Banaji, “The language of implicit preferences,” J. Exp. Soc. Psychol., vol. 46, no. 6, pp. 999–1003, 2010.
+[3] C. V. Parise and C. Spence, “Audiovisual crossmodal correspondences and sound symbolism: A study using the implicit association test,” Exp. Brain Res., vol. 220, no. 3–4, pp. 319–333, 2012.
+

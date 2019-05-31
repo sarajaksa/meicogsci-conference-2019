@@ -1,0 +1,20 @@
+... title: Using Folk Literature in Designing Serious Games for Psychotherapy
+
+
+
+Abstract
+
+!!!! Using Folk Literature in Designing Serious Games for Psychotherapy 
+
+Serious games have become an interesting research field and they are used in various application areas. Virtual games have already become part in individual’s life, and this has enabled them to become part of culture. Serious games are used in military, government, education, corporate business, healthcare [1]. Nowadays, they are also applied in psychotherapy.  Although games that could support psychotherapy have already been developed [2][3], this is still a new field of research and the aim of this study is to present some new ideas – especially from the cultural point of view – that could help improve games for psychotherapy. 
+
+I propose a new idea of using folk literature in designing serious games for psychotherapy. I will discuss beliefs underlying folk literature, as well as different uses of this type of literature, especially fairy tales, in psychotherapy and approaches that are dealing with them. It will be presented possible differences between folk stories, as well as their use in multicultural and non-Western environments. I will present different approaches to cultural influences in psychotherapy, the use of folk literature, metaphors and process of imagination. These approaches should lead to more effective designing of serious games for psychotherapy and emphasize the significance of not overlooking cultural impacts. 
+
+It is suggested that using fairy tale characters could facilitate process of identification in patients and help them successfully cope with problems. It is recommended in deep research of patients' cultural background, and when selecting a relevant fairy tale character from their tradition. One of the aims of my work is to raise awareness about the importance of culture in designing serious games for psychotherapy.
+
+!! References
+
+[1] T. Susi, M. Johannesson and P. Backlund, “Serious Games – An Overview”, Technical Report HS-IKI-TR-07-001, University of Skövde, 2007.
+[2] A. Cerangolu, “Video Games in Psychotherapy”, Review of General Psychology, vol. 14, no. 2, 2010, pp. 141-146.
+[3] V.Brezinka and L. Hovestadt, “Serious games can support psychotherapy”, in HCI and Usability for Medicine and Health Care, LNCS, vol. 4799, Springer, 2007, pp. 357 – 364.
+

@@ -1,0 +1,23 @@
+... title: Introspection in Problem Solving
+
+
+
+Abstract
+
+!!! Introspection in Problem Solving
+
+Problem solving research has encountered an impasse. In the early days of cognitive science the seminal work of Newell und Simon [2] paved the way for the investigation of the mechanics of well-defined search problems. But contrary to the high hopes no general problem solving theory emerged and researchers do not seem to have made much theoretical progress ever since [1, 3]. While we can formalize the representations and steps subjects take in a search problem, we do not have an accepted formal theory yet that can describe how representations and strategies are attained and adapted.
+In this opinion paper we argue that one factor that is holding back the field is the widespread rejection of introspection among cognitive scientists. We argue that cognitive scientists have good reasons to be skeptical about introspection as a research method but self-imposed experimental rigor can get in the way of exploratory research. A systematic introspective study is a good way to get experience with a new experimental paradigm and explore possible problem solving strategies that subjects might be using in the task. However, we document that cognitive science textbooks dismiss introspection and argue that as a consequence introspective methods are not used in problem solving research, even when it would be appropriate. By discussing examples of successful exploratory research that used questionable introspective methods, we aim to show that systematic introspective studies can help develop new hypotheses and ultimately, perhaps, help overcome the impasse the field is facing. 
+More importantly, in problem solving research the rejection of introspection is particularly harmful because introspection – as a form of metacognition – is an essential part of problem solving processes. When dealing with new or hard problems that cannot be solved by standard methods, good problem solvers introspect while they engage with their task: they examine their strategies and representations, they evaluate their progress, they realize that they are stuck or that they have had an insight. We review evidence that introspection improves problem solving performance, sometimes dramatically. Several studies suggest that self-observation, self-monitoring, and self-reflection play a key role in developing problem solving strategies. We thus argue that studying these introspective processes will require researchers to systematically ask subjects to introspect
+We conclude that research on problem solving could benefit from being more open-minded about introspection, both as a method and as a cognitive phenomenon.
+
+!! Acknowledgements
+
+The presented work was conducted in cooperation with Prof. Frank Jäkel (Institute of Cognitive Science, University of Osnabrück).
+
+!! References
+
+[1] Batchelder, William H. and Alexander, Gregory E. (2012) "Insight Problem Solving: A Critical Examination of the Possibility of Formal Theory," The Journal of Problem Solving: Vol. 5: Iss. 1, Article 6. 
+[2] Newell, A. and Simon, H. A., Human Problem Solving. Englewood Cliffs, NJ: Prentice-Hall, 1972.
+[3] Ohlsson, Stellan (2012) "The Problems with Problem Solving: Reflections on the Rise, Current Status, and Possible Future of a Cognitive Research Paradigm," The Journal of Problem Solving: Vol. 5: Iss. 1, Article 7.
+

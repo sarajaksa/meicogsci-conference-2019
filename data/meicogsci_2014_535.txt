@@ -1,0 +1,26 @@
+... title: Which Animal Chases the Dog? Neural Correlates of Language Transfer in German-English Late Bilinguals
+
+
+
+Abstract
+
+!!!! Which Animal Chases the Dog? Neural Correlates of Language Transfer in German-English Late Bilinguals
+
+In a globalized society where mastering foreign languages is becoming ever more important, the study of acquisition and neural processing of second language deserves necessary attention. How much native language influences our understanding of a second language?
+
+!! Competing Grammars and Language Transfer
+
+Aim of the research is to find neural evidence in support of a comprehension phenomenon occurring to highly proficient second language speakers of English whose native language is German. In a behavioral study conducted by Rankin [1], it has been seen that an interpretational mismatch between the answers given by native speakers and learners of English occurs in presence of ambiguous subject/object WH questions similar to the one mentioned in the title. In particular, advanced German learners of English significantly showed an object interpretation of subject WH questions, while object WH questions had target-like interpretations. How is this possible?
+Such a phenomenon has been explained in terms of the different parsing systems used by English and German grammar: while English grammar strictly relies on word order for interpretation, German grammar uses verbal agreement features on nominal constituents to extract semantic meaning from interrogative questions. Following the Variational Learning hypothesis [2], when the surface structure of a second language does resemble the one of first language, as in case of subject WH questions, English structures may still be parsed by proficient German learners of English with a German parser, leading to non-target interpretations.
+
+!! The Experiment: Procedure and Expectations
+
+In order to find neural evidence in support of this hypothesis, the project has been divided in two steps. Initially, a pilot test consisting of a visual animal interpretation task preceded by grammatical or ungrammatical subject/object WH questions has been administered to 30 German and 15 control English speakers. Secondly, 15 German speakers selected on the basis of their grammar sensitivity (measured with MLAT IV Test for Grammar Aptitude) participate as subjects to an EEG session in which event related potentials are recorded during the previous task.
+Main psycholinguistic hypothesis is that highly proficient German speakers should generally process grammar violations in a way similar to native speakers, presenting a similar P600 waveform, i.e. the ERPs component interpreted as index of neural processes connected with reanalysis and repair of syntactic violations. [3] Nevertheless, in case German speakers process grammar violations of English structures using their native language parsing system, as in the case of subject WH questions, P600 component should be weak or even absent.
+
+!! References
+
+[1] T. Rankin, “Competing Grammars in the Comprehension of Questions and Relative Clauses in L1 German-L2 English,” in Proceedings of the 12th Generative Approaches to Second Language Acquisition Conference, Somerville, MA: Cascadilla Proceedings Project, ed. Jennifer Cabrelli Amaro et al., 2013, pp. 170-179.
+[2] C.D. Yang, “Knowledge and Learning in Natural Language,” Oxford, Oxford  University Press, 2002.
+[3] L. Osterhout, P. J. Holcomb, “Event related potentials and language comprehension.” in Electrophysiology of mind: Event-related brain potentials and cognition. 12, New York, NY, US: Oxford University Press, 1995, pp. 171-215.
+

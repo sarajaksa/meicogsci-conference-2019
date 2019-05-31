@@ -1,0 +1,29 @@
+... title: Intelligent semantic matcher for Obziva.sk
+
+
+
+Abstract
+
+!!About Obziva.sk
+Each and every person is talented. Someone is good in math, informatics or physics. Other people are more handy in car repairs, fixing plumbing, or even doing usual home chores. It does not matter what it is, as long as we love our work. As people in Slovakia discovered potential of entrepreneurship, the Obziva.sk was created. The place were demands and offers of services meet.
+
+!!Motivation
+It is over a year now we deployed first version of our portal and we faced many issues ever since. The biggest challenge was the problem of demands, when people instead of going through the categories on our portal decided to write on our Facebook wall instead, in hope that someone will see it. The solution had to be as simple as writing a post, hence we created our Intelligent semantic matcher, where users can write their demand in the same form as on Facebook, returning them the correct search results (matches).
+
+!!Methods
+The first feature of our matcher is semantics[1], the study of meaning by studying the official rules of Slovak grammar and creating our own stemmer. The stemmer is an algorithm for analyzes of the document and extraction of the words' roots by removing suffixes and prefixes, which we used to stem all the offers and any query from users. 
+
+The second step was to evaluate each word’s importance, because simply counting all the same words' occurrences in offer and demand would not be sufficient. We decided to use TF-IDF[2] statistical method for evaluation of the words' importance by applying term-frequency and inverse document frequency.
+
+What makes out matcher even more intelligent, is the implementation of supervised learning method. Since the users know best what they are looking for, we decided to give them control over the matching results, by evaluating each match whether it is correct or incorrect. The inputs were used to create relationships between words from the offer and the demand. Each relationship is represented as part of the graph, where the nodes are the words and the links are the relationships between the words.
+
+Based on these three methods we created an algorithm for evaluation of potential matching offers for users request. 
+
+!!Results
+For testing purposes we used demands gathered by questionnaire, and evaluated each match as correct or incorrect. To teach the matcher, we iterated all the evaluations 50 times, creating more than 7000 relationships. After the matcher was learned, we tested its accuracy and the results showed that  success rate of our Intelligent semantic matcher is 47%.
+
+!!References
+[1] Dean Allemang, James Hendler, Semantic Web for the Working Ontologist, 2008
+http://workingontologist.org/
+[2] C. Ramasubramanian,R. Ramya,Effective Pre-Processing Activities in Text Mining using Improved Porter’s Stemming Algorithm, International Journal of Advanced Research in Computer and Communication Engineering Vol.2, Issue 12, December 2013
+

@@ -1,0 +1,25 @@
+... title: Parallel and Serial Models in Visual Search
+
+
+
+Abstract
+
+Task-relevant visual events become consciously accessible when the impact they have on visual search arouses attentional processes. This selection mostly depends on their importance towards awareness (such as senses or criteria) but also on their sequential occurrence [1]. 
+
+Selective attention is redirected to those new visual salient stimuli which specify the goal of the search process: either early filtered for further processing (Broadbent's Filter Model) or as a result of less intensive stimuli discrimination (Treisman's Attenuation Theory). The question is now whether spatial attention can be independently divided  to different locations for multiple focuses of attention occurring simultaneously. Whereas Serial Models of attention suggest an unitary attentional focus that is directed to one object at a time and rapidly moves between the others, Parallel Models assume that attention can be simultaneously allocated to several visual objects, but the distribution of attention cannot change rapidly when new objects arrive [2].
+
+An ERP component called ‘N2pc’ composed of two distinct neural responses (an early parietal source and a later occipito-temporal source), reflects the focusing of attention onto potential target items in the search array. Its contralateral onset latencies appear to respect their objective temporal separation to stimuli which are presented in a very short time to each other [2] but what yet remains unclear is its behaviour regarding tasks that include more than one attentional target at the same time. 
+
+We conducted a combined EEG and Eye Tracking experiment in order to implement those two systems described above and so investigate the visual attentional scene on N2pc’s activity across different tasks: we compared Single Target Systems (STS), where participants have to determine whether a single target element is or is not present amongst a display of distractors with Multiple Target Systems (MTS), through which subjects have to decide where to guide the focus of attention because the appearance of multiple targets causes a limitation of visual capacity for processing several objects at a time [3]. Our pursuit is to examine whether N2pc effects are similar during the saccadic programming of eye movements between targets’ positions on STS compared to MTS [2] and if these eye movements’ allocations might be relevant for the attentional preparation of MTS.
+
+Our expectations address a cancelation of N2pc effects as a result of the response for opposite visual fields in MTS compared to STS and so conclude that attention would function in parallel for such processes. We also want to analyse whether significant N2pc effects can be found when eye movements (saccades) are involved in visual search for one target (STS) and/or two targets (MTS) presented.
+
+
+References:
+
+[1] Eimer M, Grubert A.,"A dissociation between selective attention and conscious awareness in the representation of temporal order information," Consciousness and Cognition, January 2015.
+
+[2] Eimer M, Grubert A.,"Spatial Attention Can Be Allocated Rapidly and in Parallel to New Visual Objects," Current Biology vol. 24, January 2014, pp. 193–198.
+
+[3] Findlay J.M., "Saccade Target Selection During Visual Search, " Vision Research, vol. 37, March 1997, pp. 617–631.
+

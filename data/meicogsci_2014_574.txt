@@ -1,0 +1,21 @@
+... title: What Is Design?
+
+
+
+Abstract
+
+!!!!What is Design?
+
+The aim of this paper is to present a view on design. The world is full of man-made things, and design has a central role in envisioning them. People often need to be reminded that design is not restricted to the surface of things, that design is not something best used at the end, when everything was already made. On the contrary, design decisions are essential throughout the development process, juggling between different interests, solving aesthetic and technical problems, turning concepts into something viable. Design "takes over where natural evolution leaves off" [1] improving all things one is surrounded within an environment.
+
+In the last 50 years, there were lots of different definitions written in order to explain what design is and to provide an understanding. Theories somehow varied from those that were very scientific and strict as Simon's [2] to those that preferred the creative part of it as Glanville's [3]. Some of them were more general, other more specific, but they all somehow failed to introduce a single definition. A description that would survive the test of time, and that would be widely accepted by scholars. Partly, they failed because each definition had its own focus, emphasizing the importance of some aspects of design and neglecting others. However, mainly they failed because the meaning of design was (and still is) constantly developing. The concept is growing, getting bigger and wider, and it is driven by the need to meet the requirements of a complex world, where nothing is truly isolated, where everything is interrelated.
+
+Nevertheless, the absence of a single and clear definition is not a problem by itself; no one expects a final answer. Far more significant, especially for design practice, is the inability to recognize and capture the development of the concept through time. Practice needs a global overview of design, they depend on it in order to be able to identify and minimize designs unwanted results in a constantly changing world. One can't identify or detect an unwanted result, when the problem is outside one's scope of looking and understanding.
+
+Let's conclude with a suggestion for a definition. Design is as a creative, open-end process that initiates changes and envisions the outcome to satisfy needs. The outcome of design is a balance between initiator's intentions and users' needs and perception.
+
+!!References
+[1] J. C. Jones, Design Methods: Seeds of Human Futures, London, John Wiley & Sons, 1970, p. 15.
+[2] H. A. Simon, The Science of the Artificial, 3th ed. Cambridge, MA: MIT Press, 1996.
+[3] R. Glanville, “Try again. Fail again. Fail better: the cybernetics in design and the design in cybernetics,” Kybernetes, vol. 36, no. 9/10, pp. 1173–1206, 2007.
+

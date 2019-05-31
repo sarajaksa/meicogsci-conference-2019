@@ -1,0 +1,18 @@
+... title: Prosody of Motherese
+
+
+
+Abstract
+
+In everyday life it’s not difficult to notice that parents and caretakers alter their speech when talking to toddlers and infants. This type of speech is called Motherese or better yet infant-directed speech, because it can be observed in more situations than only in mother-infant speech. Motherese was first described and named in 1964 by Ferguson, but only spectrographic analysis allowed studying prosodic features of Infant-Directed Speech (IDS) in more detail. These studies captured certain linguistic and prosodic features that were different from adult directed speech and characteristic for IDS (Remick, 1976; Garnica, 1977). 
+
+Studies describing Motherese were conducted in many languages and after a few cross-linguistic studies a hypothesis arose that there may exist a Universal Motherese – a set of features that are similar in infant-directed speech in multiple cultures. Similar features of infant-directed speech were identified in many non-tonal and even tonal languages (Grieser, Kuhl, 1988).  However, this hypothesis has also been disputed mainly in some cultures where the infant-directed is scarce, but the existence of so called non-Motherese societies was based only on one single informant research by Heath in 1983 and it was suggested that this may be a misleading approach (Haggan, 2002).
+The goal of this work is to propose the experiment that would go forward with the support of the theory of Universal Motherese by studying infant-directed speech in Slovak language, identifying the features different from adult-directed speech and to compare it with other studies in this area to perhaps confirm the similarity and universality with other collected infant-directed speech data.
+The proposed experiment will involve 8-10 children to ten months of age and their mothers in home setting. 10 to 15 minutes of recordings of infant-directed speech as well as adult-directed speech of mothers with other adult person to compare is deemed to be sufficient to extract all the features necessary in follow up computer analysis. 
+The results will be compared with other studies which talk primarily about several prosodic features that can be measured by sound and computer analysis. The fundamental frequency or pitch, frequency range per sample and phrase, duration of pause and phrase, number of syllables and phrases per sample and various others. In according with the theory of universal motherese the fundamental frequency should be significantly higher, pauses longer and utterances shorter with fewer phrases and syllables as opposed to adult-directed speech. This experiment will be realized as a diploma thesis of the author in the following year.
+
+References:
+Snow, Catherine E. (1977) : Talking to children: language input and acquisition ; papers from a Conference sponsored by the Committee on Sociolinguistics of the Social Science Research Council(USA). Cambridge Univ. Press.
+Grieser, DiAnne L.; Kuhl, Patricia K. (1988): Maternal Speech to Infants in a Tonal Language:Support for Universal Prosodic Features in Motherese. Developmental Psychology, v24 n1. p14-20 Jan 1988
+Haggan M. (2002): Self-reports and self-delusion regarding the use of Motherese: Implications from Kuwaiti adults Language Sciences, 24 (1), pp. 17-28
+

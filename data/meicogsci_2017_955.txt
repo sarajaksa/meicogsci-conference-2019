@@ -1,0 +1,22 @@
+... title: A Universal Game Controller Interface (UGCI) for Neurofeedback ADHD Treatment
+
+
+
+Abstract
+
+According to DSM-5 Attention-deficit / hyperactivity disorder (ADHD) is the most common of psychiatric disorders in children with an assessed prevalence of about 5% in school-aged children. Despite the fact that medical therapy is very efficacious, due to its adverse effects, the focus has been pointed to the development of an alternative treatment for the disorder.  One of the most common non-pharmacological treatment of ADHD is behavioral training using neurofeedback in conjunction with video games where measured EEG characteristics modulate the game dynamics. [1]. In that way patterns of optimal brain function are fostered over sessions, leading to the alleviation of the symptoms [1].
+However, one of the drawbacks of the therapy is that the selection of the games for ADHD Neurotherapy is very limited. The developed purpose specific video games cannot follow today's high standards. Due to poorer game selection, after a couple of sessions subject's (children's) interests shifts and conceivably making the therapy less effective. Development of new advance games are very resource demanding and require broad market to be profitable. 
+
+To overcome the obstacle, I propose an innovative design of a Universal Game Control Interface (UGCI), a physical device that will serve as a modulator of the game commands based on EEG detection of the subject's attention states. In other words, UGCI will be used as a “proxy” between a game controller (e.g. gamepad) and play console or computer. In that means UGCI can provide a haptic feedback (using the controller’s vibration systems). The assumption is that gamepad vibration system will cause subject attention subject recovery and provide supplementary feedback in the neurofeedback loop. A prototype of the UGCI will be realized as standalone device on Arduino board that will be communicating with the Neurosky Mindwave dry EEG cap [3] and modulate game controller commands based on the its input. The EEG cap itself provide on-chip algorithm for real-time attention state estimation [3] that will be used in the realisation of UGCI. 
+
+!!Expected results
+The study will cover a preliminary research which will serve as a proof-of-concept study and go towards of validation of hypothesis that UGCI, therefore also haptic feedback, can be used fo ADHD Neurotherapy and achieve comparable results as specially designed games for that purpose.
+
+!!Acknowledgments 
+Special thanks to prof. Piero Paolo Battaglini and B.R.A.I.N. Center for Neuroscience in Trieste for supporting this project.
+
+!!References 
+[1]	E. Sonuga-Barke et al., “Nonpharmacological interventions for ADHD: Systematic review and meta-analyses of randomized controlled trials of dietary and psychological treatments,” American Journal of Psychiatry, vol. 170, no. 3. pp. 275–289, 2013.
+[2]	A. Bluschke, et al., “The neuronal mechanisms underlying improvement of impulsivity in ADHD by theta/beta neurofeedback.,” Sci. Rep., vol. 6, 2016.
+[3]	Neurosky, Available at: [http://www.neurosky.com/], Accessed at: 10/05/2017
+

@@ -1,0 +1,50 @@
+... title: !!!! Debiasing the Framing Effect in Medical Decision Making: A Comparison of Methods
+
+
+
+Abstract
+
+!!!! Debiasing the framing effect in medical decision making: A comparison of methods
+
+!! Introduction
+The framing effect occurs when different frames -- the way information is presented -- for logically
+equivalent statements elicit different decisions. This study compares two debiasing methods: an
+already proven successful procedure designed for decisions that are based on hypothetical medical
+decision-making vignettes (i.e., specific debiasing by listing advantages versus disadvantages of
+possible treatments) versus a general introduction to heuristics and biases, which has proven
+unsuccessful in previous studies. These two methods have never been tested in the same sample.
+Thus, this is the first study to compare all three approaches to the framing effect (i.e., no debiasing,
+general information, and specific debiasing) within one sample. Compared to Almashat et al.’s
+study [1], upon which we build, this study has a wider range regarding participants’ age and
+nationality, thereby strengthening our results due to the de-correlation of possible influential factors.
+We focus on medical decision making for maintaining the ecological validity by applying a realworld
+problem and increasing people’s involvement due to personal relation to the topic.
+
+!! Methods
+Three experiments were established. The first measures the effect of a general introduction to
+cognitive biases and heuristics (the debiasing technique) versus general information about the
+causes of lung cancer (the control condition). The second assesses the effect of listing advantages
+and disadvantages of possible treatments against lung cancer (the debiasing technique) versus
+general information about the causes of lung cancer. The third evaluates the effect of listing the
+treatments’ advantages and disadvantages (the debiasing technique) versus a general introduction to
+cognitive biases and heuristics. The test construction ensures that all conditions require the same
+cognitive effort and test duration. The bases for decisions are three vignettes that contain
+information about treatments for lung cancer in three hypothetical hospitals. The scenarios present
+information about the outcomes of radiation and surgery after the diagnosis of lung cancer and are
+either framed as a survival or mortality probability. All three treatment outcomes are presented in a
+cumulative probability format (CP), an interval probability format (IP), and a life expectancy format
+(LE). 84 participants were randomly assigned to one of the six groups.
+!! Results
+The chi-square analyses for the control group (mortality and survival frames) and the different
+formats (CP, IP, LE) yielded non-significant results (p>.05). Therefore, no framing effects were
+found and a further analysis to examine the debiasing procedure is not relevant as the debiasing
+effect can only be tested when the framing effect can be proven with a significant Frame x
+Condition Chi-Square value. Based on this result, a follow–up logistic regression would be
+performed to assess whether the expected debiasing effect can be shown.
+These results contradict the findings by Almashat et al. [1] and cast doubt on the possibility to show
+the framing effect under the given circumstances.
+
+!! Reference
+[1] S. Almashat et al., “Framing effect debiasing in medical decision making,” Patient Education
+and Counseling, vol. 71, no. 1, pp. 102–107, Apr. 2008.
+

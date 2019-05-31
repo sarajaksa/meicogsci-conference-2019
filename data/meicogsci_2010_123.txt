@@ -1,0 +1,20 @@
+... title: Processing of music: an fMRI study
+
+
+
+Abstract
+
+This pilot study was designed to investigate perception and processing of music using functional magnetic resonance imaging. Functional measurements of a professional piano player (female, 27 yrs old, 14 yrs of training, average training 6 hrs/week) were performed on on a Magnetom 7T scanner (Siemens Medical, Germany). Stimuli were presented via MR-compatible headphones.
+The experiment consisted of four runs in block design, involving five baseline and four stimulus conditions (each 30 s): two stimulus sessions involved listening to music (complex and simple), in the two following sessions the subject had to imagine the respective music parts. During one scanning session 270 images were acquired (20 slices, TE=26, TR=1000). Both stimuli were taken from the repertoire of the subject and she was well familiar with them (complex: Rondo alla turca, Mozart; simple: Prelude No. 15, Chopin).
+Image preprocessing for all four runs was performed with SPM5 (/http://www.fil.ion.ucl.ac.uk/spm/software/spm5/) including slice-timing and motion correction, normalization to an MNI template and spatial smoothing using a Gaussian kernel (FWHM = 9 mm). In addition, realignment parameters were added as nuisance regressors to model for residual motion effects. Statistical analysis was performed at the individual and group level using SPM5. Single subject data analysis included calculation of statistical parametric maps using the general linear model with regressors corresponding to the four different conditions (listening simple; listening complex; imagery simple; imagery complex). Labeling of anatomical regions was performed using the SPM Anatomy Toolbox by Eickhoff et al. (2005)[1].
+As the literature suggested [2,3], we expected activation in the areas related to motor processing and preparation for the listening as well as for the imagery condition to differ only slightly. In the imagery condition, no activity in the auditory cortex was expected due to the lack of auditory input.
+In both listening conditions, strongest activity was revealed in areas known to be involved in memory retrieval and executive functions. In the complex listening condition, we were able to obtain activity within the cerebellum bilaterally (involved in movement control), which was also reported in a study by Langheim et al. (2002)[2], but explained as an insufficient suppression of the imagination of playing the piece.
+Further investigation is needed to clarify this issue, as motor processing areas seem to have taken over the role of the semantic processing areas that were active in the simple condition. The imagery network comprises again most of these areas, apart from the primary auditory areas. For the complex imagery task, activation was more intense and widespread than in the simple imagery condition; bigger parts of the association cortex were involved.
+Results are in line with studies by Meister et al. (2004)[3] and Langheim et al. (2002)[2]. Effects of the complexity of the stimulus will be investigated further in a study with four string players, which will additionally take into consideration differences in the processing of old and modern music. This investigation is of interest, as the processing of old and modern music is supposed to involve similar networks, although individual perception can be very diverse.
+
+References:
+
+[1] Eickhoff, S. B., Stephan, K. E., et al. (2005), A new SPM toolbox for combining probabilistic cytoarchitectonic maps and functional imaging data, Neuroimage, 25, 1325-1335.
+[2] Langheim, F.J.P., Callicott, J.H. et. al. (2002), Cortical systems associated with covert musical rehearsal, Neuroimage, 16, 901-908.
+[3] Meister, I.G., Krings, T. et al. (2004), Playing piano in the mind--an fMRI study on music imagery and performance in pianists, Cognit Brain Res, 19, 219-228.
+

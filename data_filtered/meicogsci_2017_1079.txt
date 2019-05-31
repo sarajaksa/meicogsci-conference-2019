@@ -1,0 +1,8 @@
+... title: The Bases of Mathematical Understanding
+
+
+
+Abstract
+
+Analogue Number System (ANS) is believed to be the base of number understanding. It is an evolutionary ancient system, without which people wouldn't understand numbers. Its precision is related to school math performance, and improving this base system improves math task performance. The ANS is believed to be one of the most important component of mathematical abilities. Instead of this widespread model, we propose an alternative model to explain symbolic number processing related phenomena. According to our Discrete Semantic System (DSS) model, numbers are partly stored in a conceptual network. In this talk I present several studies contrasting the two accounts, in which we have repeatedly found phenomena the ANS model cannot explain. I'll also discuss why former pieces of evidence were seemingly supporting the ANS account, even when that interpretation was wrong.
+

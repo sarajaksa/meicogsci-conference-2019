@@ -1,0 +1,16 @@
+... title: PSYCHOLOGICAL, NEUROLOGICAL AND SOCIAL MECHANISMS OF IMAGINING THE FUTURE
+
+
+
+Abstract
+
+Humans have a future oriented psychology – we spend up to a quarter of our waking lives engaged in mental activity that is decoupled from the present and devoted to constructing future scenarios [1]. This offers humans unique evolutionary advantages: first, prediction, which allows us to prepare for possible outcomes and thus adapt us to future as well as present settings. Second, creation, which goes beyond adaptation by recombining experience so that humans not merely adapt to their environment as it is, but also actively change their environment to suit their needs. Schacter and Addis thus propose a reconceptualisation of the brain as a fundamentally prospective organ [2]. However, there is still no comprehensive model of how individuals and societies envision the future that would integrate the neurological, psychological, social, and cultural processes involved in the complex and multifaceted, yet extremely common activity of imagining the future.
+
+We will present a model of future thought that will begin at its psychological core, examining the well-researched notion that episodic memory is the key underlying mechanism. Constructive episodic simulation [3] will serve as the cognitive foundation that will be supplemented in each following section as we move along the axis from psychological to social processes. The clear distinction between the two will be blurred in the second section, which will consider mental time travel as a temporal form of perspective taking. Third section will investigate how one’s sociocultural milieu contributes to the process, both enabling and constraining the imagining of the future. The final section will detach from the perspective of an individual time traveller to probe how the future is imagined collectively. The model will thus present a multi-level integration of neurocognitive and sociocultural mechanisms involved in prospective cognition. 
+
+Key words: future, imagining, prospective brain, episodic memory, autonoetic consciousness
+
+[1]	B. Baird, J. Smallwood, and J. W. Schooler, ‘Back to the future: Autobiographical planning and the functionality of mind-wandering’, Conscious. Cogn., vol. 20, no. 4, pp. 1604–1611, Dec. 2011.
+[2]	D. L. Schacter and D. R. Addis, ‘The cognitive neuroscience of constructive memory: remembering the past and imagining the future’, Philos. Trans. R. Soc. Lond. B Biol. Sci., vol. 362, no. 1481, pp. 773–786, May 2007.
+[3]	D. R. Addis and D. Schacter, ‘The hippocampus and imagining the future: where do we stand?’, Front. Hum. Neurosci., vol. 5, p. 173, 2012.
+

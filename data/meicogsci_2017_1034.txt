@@ -1,0 +1,22 @@
+... title: Supervised Learning of Basis Function Coefficients for Computer-generated Speech
+
+
+
+Abstract
+
+Speech synthesis is the problem of automatically generating an acoustic speech signal for arbitrary textual input. Several approaches to this problem have been developed, such as statistical parametric methods, where representative features are extracted from human speech (e.g. spectral parameters, fundamental frequency, duration parameters) and used for training a statistical machine learning model.
+
+Hidden Markov Models (HMMs) are commonly used for speech synthesis [1]. HMMs are used for generating parameters for the re-synthesis of speech. This produces a speech signal that is rather intelligible, but in terms of “naturalness” it is still distinguishable from human speech. Naturalness is the main challenge in current HMM based speech synthesiser [2]. The presented work shows a different approach to generate these parameters for the re-synthesis of speech by using weighted sums of basis functions.
+
+The literature describes HMM-based approaches or non-parametric approaches like concatenative speech synthesis. Basis function representations have not been investigated for parametric speech synthesis before. A single phone can be elegantly represented as a function of the parameters over time. This representation can be extended to the level of whole sentences. In this work speech synthesis will be done by training a machine-learning model on extracted parameters of speech which are represented as weighted sums of basis functions. The model is then used for generating new speech parameter representations, which are used to produce the final speech signal.
+
+The goal of this work is to implement a speech synthesiser using basis functions and evaluate its performance in terms of intelligibility and naturalness. The evaluation will be done both visually by studying the resulting plots of the Mel Generalized Cepstral (MGC) coefficients, and acoustically by listening to the resulting generated speech to study the effect of the parameters.
+
+If promising, this work could lay the foundation for a new approach to computer-generated speech.
+
+!!References
+
+[1] D. Schabus, “Interpolation of Austrian German and Viennese Dialect/Sociolect in HMM-based Speech Synthesis,” Master’s thesis, Technische Universität Wien, 2009. [Online]. Available: http://schabus.xyz/download/masters-thesis/
+
+[2] R. Dall, J. Yamagishi, and S. King, “Rating naturalness in speech synthesis: The effect of style and expectation,” Proceedings Speech Prosody, Dublin, Ireland, 2014.
+

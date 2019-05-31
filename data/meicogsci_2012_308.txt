@@ -1,0 +1,30 @@
+... title: Tracking Eyes Tracking Photographs Tracking Brains? Investigating Photographic Composition Using a Low-Budget Eye Tracking System and Interviews
+
+
+
+Abstract
+
+! Introduction
+Based on their observations, artists like Paul Klee or Wassily Kandinsky analyzed and proposed means of composition. Authors, such as Harald Mante, a professional photographer and art scholar, adopted those ideas and defined composition principles which became famous and ubiquitous in photographic theory.
+Basically, these principles are in line with the traditional work of Gestalt psychology and are still object of investigation in newer fields of psychology (e.g. aesthetics). According to the Gestalt approach, we have a natural disposition to perceive patterns in stimuli based on norms which are claimed to be general and universal. Furthermore, biologists claim that humans have an innate sense of composition based on our ability to recognize organic forms which is crucial in the course of evolution. [1]
+However, research in the field of art theory has shown that such photographic principles are hardly based on experimental data. Thus, this project focuses on the empirical validation of such composition principles by testing the theory of Harald Mante using a low-budget eye tracking system which provides data on how we perceive pictures composed in a specific predefined way. In addition, participants are asked to describe their personal experience during the trial in order to derive knowledge going beyond the observation of their gaze movements.
+
+! Research Question and Focus
+Harald Mante is an important contributor to photographic theory. By adopting ideas of the Bauhaus tradition to photographic composition, he proposed a theory on how we perceive specifically composed photographs. In his textbook “Bildaufbau – Gestaltung in der Fotografie”, he explains how we are supposed to perceive example pictures presented, thus, how our eyes move. In addition, he illustrated those explanations by sketching edges on his photos marking eye movements and significant components. To put it simple, I am going to compare those sketches (hypothesis) with the eye tracking results and enrich the variety of data by interviewing participants additionally. 
+The three research questions are: 
+* Can we find evidence for Harald Mante's photographic composition theory by experimental eye tracking testing? 
+* Is the subjective perception (data acquired through interviews) consistent with the eye tracking data? 
+* Can we derive additional knowledge about subjective perception from the interviews?
+
+! Methods
+A promising experimental method to examine perceptual processes in humans is eye tracking. As I have no access to professional equipment, a large part of this project is to search for alternatives and, finally, to design, construct and set up an eye tracking equipment consisting of low-budget hardware (ordinary IR webcam on a head-mounted device) and freely available open source software [2, 3]. Such a system enables me to compare eye movements (fixations and saccades) to how people are supposed to look at photographs in theory.
+
+However, acquiring data only from this observing position does not embrace the whole process of visual perception including the content memorized and diverse experiences gained.
+Therefore, I investigate the subjective experience of the participants by conducting qualitative interviews. Thereby, I acquire two sets of data of different qualities which I merge and analyze for consistences and contradictions. Furthermore, I evaluate the interviews for factors influencing the perception going beyond the theory tested.
+
+[1] Stebbing, P. D., A Universal Grammar for Visual Composition?, LEONARDO, 37(1), pp. 63-70, 2004
+
+[2] San Agustin, J., Skovsgaard, H., Mollenbach, E., Barret, M., Tall, M., Hansen, D. W., & Hansen, J. P., Evaluation of a low-cost open-source gaze tracker, In Proceedings of the 2010 Symposium on Eye Tracking Research & Applications (Austin, Texas, March 22 - 24, 2010), ETRA '10, ACM, New York, NY, pp. 77-80, 2010
+
+[3] Voßkühler, A., Nordmeier, V., Kuchinke, L., & Jacobs, A.M., OGAMA - OpenGazeAndMouseAnalyzer: Open source software designed to analyze eye and mouse movements in slideshow study designs, Behavior Research Methods, 40(4), pp. 1150-1162, 2008
+

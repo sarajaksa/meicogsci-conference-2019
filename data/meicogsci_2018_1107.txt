@@ -1,0 +1,24 @@
+... title: Simulating the Emergence of Social Complexity Using Agent-Based Modelling
+
+
+
+Abstract
+
+Human societies can be usefully viewed as complex systems and studied with the tools and frameworks of complexity science. As one of these tools, agent-based modelling (ABM) has proven successful in simulating complex systems [1]. This project is a replication study of a social simulation that tests the *Circumscription Theory* using ABM [2]. According to this theory, the emergence of states (autonomous political units of higher social complexity) is a predictable response to environmental circumscription (EC), which is supposed to entail warfare of social groups over available land resources [3]. Our research goals are: I. Testing ABM for its practical value for social anthropologists with little prior training in computational methods; II. Acquiring the necessary knowledge and skills to implement the replication study.
+
+After the study of introductions to social simulations and ABM, we use NetLogo as development environment for our replication, the same that was used in [2]. Its strengths include learnability and being accessible enough for novices to quickly produce useful and meaningful models [1]. Such ease of use may be especially helpful for social anthropologists looking to validate theories that are not testable outside of simulations, such as [3].
+
+The primary hypothesis of [2] states that an increase of habitable land in the modelled artificial landscape also increases the time required for one social group to subjugate all other groups in the simulation through warfare and for social complexity to emerge. However, its results do not support this hypothesis, indicating that EC by itself is not a sufficient condition for social complexity to emerge. We expect to corroborate these results in our project, contributing to the validation of the implemented model and the critical assessment of its interpretation.
+
+With little prior training in computational methods before the start of this replication study, our new insights into ABM lead us to conclude that it is indeed accessible enough to quickly allow the specification and meaningful analysis of simulations. Reaching our goals may be a first indication that NetLogo can be an easily learnable tool also for other social anthropologists to conduct simulation-based research.
+
+## Acknowledgements
+
+We thank Paolo Petta for supervising this project and Steve Scott for his support.
+
+## References
+
+[1] U. Wilensky and W. Rand, *An Introduction to Agent-Based Modeling: Modeling Natural, Social, and Engineered Complex Systems with NetLogo*, Cambridge, MA: The MIT Press, 2015. 
+[2] S. Scott, “Environmental Circumscription and the Emergence of Social Complexity”, in *Computational Social Science Society of America (CSSSA) Annual Conference, Santa Fe, NM, October 12, 2011*, Washington, DC: Computational Social Science Society of America, 2011.
+[3] R. L. Carneiro, “A Theory of the Origin of the State,” *Science, New Series*, vol. 169, pp. 733-738, 1970.
+

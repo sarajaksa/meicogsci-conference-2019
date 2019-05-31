@@ -1,0 +1,13 @@
+... title: Neuroethics
+
+
+
+Abstract
+
+!!!!Neuroethics
+
+We will explore the new interdisciplinary field of neuroethics. The workshop will consist of two parts, corresponding to how Adina Roskies [1] distinguishes two branches of neuroethics:  the ethics of neuroscience and the neuroscience of ethics. In the first part, the ethics of neuroscience, we will examine questions that require ethical reflection on  neuroscience: its practice, the technologies used and ethical implications of neuroscience. For example, the questions of neurocognitive enhancement, the question of authenticity, the question of brain imaging and privacy, etc. In the second part, the neuroscience of ethics, we will explore what the sciences of the mind, and in particular neuroscience,  can tell us about the nature of morality and morally relevant topics in philosophy. Traditionally,  ethical theories have been centered on philosophical notions such as free-will, self-control,  personal identity, and intention. Some scientists think that understanding how brains cause behavior will radically change our understanding of the mind and moral responsibility and thus challenge the “humanistic image” [2]. We will look at some studies that have potential impact on our understanding of moral responsibility and on moral judgment.
+
+[1] A. Roskies, “Neuroethics for the new millenium”. Neuron, 2002, 35: 21–23.
+[2] O. Flanagan, "The Problem of the Soul: Two Visions of the Mind and How to Reconcile Them." New York: Basic Books, 2002.
+

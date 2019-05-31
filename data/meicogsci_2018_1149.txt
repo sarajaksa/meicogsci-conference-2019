@@ -1,0 +1,17 @@
+... title: The Role of Linguistic Markers, Expertise and Domain Specificity in Uncertainty Communication
+
+
+
+Abstract
+
+Uncertainty communication and judgment and decision-making form everyday part of our lives. Empirical findings show the influence of linguistic marker of uncertainty source and speaker´s level of expertise on hearer´s judgments towards speaker and message as well as on decisions about hearer´s future actions. 
+
+Based on the effort to maximize effectiveness of uncertainty communication and to improve judgement and decision-making processes, we realised research aimed to experimentally prove, if within two different domains (health, finances) and two different levels of uncertainty (higher, lower) linguistic marker (internal, external) and speaker´s expertise (expert, novice) influence the judgment and decision-making of the recipient. Our work was an extended replica of M. Juanchich et al. experiment 4 [1] with 2x2x2x2 mixed factor design. Independent variables linguistic marker and level of expertise were manipulated between-subject and variables domain and level of uncertainty within-subject. We investigated their influence on judgment of knowledge, wrongness, blame, support and encouragement of speaker, reliability and intuitiveness of their statements and tendency to act of hearers. 
+
+Originate in our original study, we assumed that the expert will be rated higher in dependent variables when using internal linguistic marker and novice vice versa, when using external linguistic marker. The findings of our work confirmed the impact of the linguistic marker, the level of expertise and even the level of uncertainty on the judgment and decision-making of the hearer, but they did not replicate the findings of the original study. Moreover, differences in effects of independent variables by domain were observed. 
+
+As our research was the pilot one, based on its expanded design and focus and the fact that the results are not consistent through the whole field, we are not allowing us to generalized recommendations for practice so far. But we recommend continuing in this research by its replications and extensions for the subsequent possible use of findings in setting up the communication standards for experts in the domains working with risk.
+
+## References
+[1] M. Juanchich, A., Gourdon-Kanhukamwe, M., Sirota, ""I am uncertain" vs. "It is uncertain". How linguistic markers of the uncertainty source affect uncertainty communication," *Judgment and Decision Making*, vol. 12, no. 5, pp. 445–465, 2017.
+

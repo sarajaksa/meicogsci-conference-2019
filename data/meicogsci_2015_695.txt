@@ -1,0 +1,26 @@
+... title: Relationship Between Performance on the Iowa Gambling Task and Personality Characteristics
+
+
+
+Abstract
+
+!!INTRODUCTION
+
+The Iowa Gambling Task is a valid neuropsychological decision-making task which was designed to predict decision deficits in patients by their altered response patterns across individual blocks of trials and their final cumulative scores. The aforementioned response pattern is characterized by altered adaptive decision-making and a different sensitivity to expecated value differences between risky choice options for either achieving gains or avoiding losses. Performance on the IGT has also been associated with certain personality traits. There are statistically significant correlations between IGT performance, SSS-V, and the Anxiety factor of the BIS/BAS scale [1]. Furthermore, Neuroticism, assessed by EPQ-J, negatively predicts IGT performance [2]. Moreover, there seems to be a difference in IGT performance between the sexes [3]. The aim of our study was to replicate the previously mentioned findings and include additional personality measures to expand the body of knowledge in this field.
+
+!!METHOD
+
+Healthy, young adults (N = 29, 15f; Mage = 22.57 years, SDage = 1.74) were asked to fill out four personality questionnaires. These included The Big Five Inventory (BFI), Zuckerman’s Sensation Seeking Scale (SSS - V), the BIS/BAS scale, and Barratt’s Impulsiveness Scale (BIS). Additionally, the subjects completed the Iowa Gambling Task (IGT). Both the questionnaires and the IGT were completed in a single individual session.
+
+!!RESULTS
+
+Different measures of risk taking gathered with the IGT will be correlated to the measured personality traits to determine if there is an association between personality and patterns of risky or impulsive behaviour, and what the nature of this relationship is. 
+
+!!REFERENCES
+
+[1] B. Penolazzi, L. Leone, P. M. Russo, "Individual Differences and Decision Making: When the Lure Effect of Gain Is a Matter of Size", PLoS ONE, vol. 8: e58946, 2013 
+
+[2] C. J. Hooper, M. Luciana, D. Wahlstrom, H. M. Conklin & R. S. Yarger, (2008). "Personality correlates of Iowa Gambling Task performance in healthy adolescents", Pers. Ind. Diff, vol. 44, pp. 598-609., 2008
+
+[3] K. I. Bolla, D.A. Eldreth, J. A. Matochik & J. L. Cadet, "Sex-related Differences in a Gambling Task and Its Neurological Correlates", Cer. Cor, vol. 14, pp. 1226-1232, 2004
+

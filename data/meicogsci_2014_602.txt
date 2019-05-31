@@ -1,0 +1,24 @@
+... title: Dropping items from visual working memory: Initial behavioral investigation
+
+
+
+Abstract
+
+!!!! Dropping items from visual working memory: Initial behavioral investigation
+
+!!Introduction
+Research has shown that at any given moment, we can only maintain three to four objects in our visual working memory (VWM) [1,2]. Studies using lateralized Change Detection Task (lCDT) and employing concurrent EEG measurement, have further shown that subjects' VWM capacity can depend on the ability to filter irrelevant items, presented either concurrently with target items or subsequently during maintenance period [1].
+The aim of this study was to investigate the ability of subjects to not only filter and selectively add objects to VWM but also drop them from VWM if they are irrelevant for the performance of the task. To investigate that possibility we developed a variant of lCDT in which the cue indicating the task relevant hemifield was presented only after the target items to be maintained, requiring the subjects to first encode items from both visual hemifields and then drop the items from the irrelevant hemifield. Here we present the initial behavioral part of the study, exploring the number of items subject can maintain when they are initially required to pay attention and encode items from both hemifields.
+
+!!Methods
+Ten healthy young adults participated in the study. In all of the conditions, the participants were first shown a cue, indicating which side of the screen they have to attend to. There were three possible conditions: attend to left, right or both sides. Afterwards one, two or three black rectangles of varied rotations were shown on each side of the screen. After a short delay a second cue appeared, indicating either left or right side of the screen, telling the subjects which side they have to keep maintaining in memory. After another short delay, the probe items were shown on both side of the screen and the participant had to indicate, whether there was any change in the orientation of the rectangles on the relevant side of the screen from the initial presentation, ignoring a possible change on the other side of the screen. To perform the task efficiently in the initial ‘remember both sides’ condition, the subjects had to drop the information from one side of the hemifield. Reaction times and accuracy of the responses were recorded. 
+
+!!Results
+Statistical analysis of the data obtained in the behavioral study returned the average K value (= average capacity for a subject) of 2.2875 for 3-load (keep-3) condition and 2.925 for 6-load (drop-3) condition. The results show that the subjects were able to encode and maintain six objects in their VWM simultaneously, when they were presented three to each hemifield. These findings indicate an intriguing possibility of separable left and right hemisphere VWM stores, and open possibilities for further study of the VWM dynamics using EEG.
+
+
+
+[1] E.K.Vogel, A.W.McCollough, and M.G.Machizawa, “Neural measures reveal individual differences in controlling access to working memory,” Nature, vol. 438, no. 7067, pp. 500–503, Nov. 2005.
+
+[2] E.K.Vogel and M.G.Machizawa, “Neural activity predicts individual differences in visual working memory capacity,” Nature, vol. 428, no. 6984, pp. 748–751, Apr. 2004.
+

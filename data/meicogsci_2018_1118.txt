@@ -1,0 +1,28 @@
+... title: Why Does My Workout Take Forever? The Influence of Interoception on Subjective Time Dilation During Muscular Activity
+
+
+
+Abstract
+
+## Introduction
+
+Interoception, defined as the sense of the body’s physiological condition, gained major attention after the introduction of Craig’s theoretical model suggesting that the anterior insula cortex is significantly involved in human awareness [1]. Its integration of interoceptive and emotionally salient stimuli plays a crucial role in the formation of a mental meta-representation of the body’s state, which he calls “global emotional moment”. Rapid occurrences of salient moments might lead to a higher number of global emotional moments in a given time interval, causing subjective dilation of time perception. Empirical support was found in a study where participants performed isometric contraction of their forearm while their upper arm’s blood vessels were occluded [2]. The neural response to the consequent accumulation of metabolites in the forearm might have increased the amount of global emotional moments, resulting in dilated time perception in comparison to the control condition without occlusion. Nevertheless, there were limitations such as ceiling effects of the time estimation task and no control for the effect of occlusion or muscular activity alone or individually different hand-grip-strengths.
+
+## Aim
+
+Our aim was to refine Benko’s experiment [2] by introducing an experimental design accounting for the above-mentioned constraints, enabling more accurate results and visibility of smaller effects. The main hypothesis in line with Craig’s model was that time will be perceived as passing more slowly during isometric contraction and occlusion of the upper arm’s blood vessels, especially in participants having high interoceptive sensitivity.
+
+## Methods
+
+First, interoceptive sensitivity was identified using people’s ability to count their heartbeat. To investigate their performance in time estimation during isometric contraction, participants were then assigned to one of three conditions: They either had to squeeze a hand grip strengthening device while having their upper arm’s blood vessels occluded by an inflatable cuff, squeeze a hand gripper without occlusion, or having their blood vessels occluded without using a gripper. As a control, the time estimation task was performed in a baseline condition without using a hand gripper or having their blood vessels occluded.
+
+## Results
+
+Preliminary results suggest that participants estimate time intervals as longer during isometric contraction with occluded blood vessels compared to the other conditions. Shortest estimations are expected to occur in the baseline condition. Moreover, correlation of interoceptive sensitivity with time dilation magnitude is presumed.
+
+## References
+
+[1] A.D. Craig, “How do you feel — now? The anterior insula and human awareness,” *Nature Reviews Neuroscience*, vol. 10, no. 1, pp. 59-70, 2009.
+
+[2] J. Benko, “Vplyv interocepcie na subjektívne vnímanie času počas izometrickej kontrakcie,” Diploma thesis, Comenius University in Bratislava, Slovakia, 2017.
+

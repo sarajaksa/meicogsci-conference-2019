@@ -1,0 +1,20 @@
+... title: Adults Pretence and Executive Functions - Acting and Live Action Role-Playing
+
+
+
+Abstract
+
+!!!! Adults Pretence and Executive Functions - Acting and Live Action Role-Playing
+
+!! Pretending and Executive Functions
+How does play influence our cognition? The present study examines a subgroup of play behaviour, namely adults pretence. Adults pretences is characterised as transparent, when the pretender has no intent to deceive [1]. Pretending is transparent when evidence is available for other people to clarify role-playing as role-playing. For example, theatre audience knows that actors and actresses are pretending, due the convention of the theatre. Participants of a live action role-playing event also know that everybody is role-playing. We are going to look at both pretence groups. The difference that actors perform in front of an audience whereas live action role-players perform for themselves might be seen within the acquired data.
+During pretence, a pretender has to hold the reality and the pretence-layer in mind, and also has to be aware of this distinction. A set of specific cognitive abilities, called executive functions, which are including three distinct interrelated functions: mental set shifting, updating and monitoring working memory and inhibition of prepotent responses [2], resembles these tasks for a pretender. They are likely also boosted during pretence.
+!! Method
+Three adult groups participate in the present study: (a) actors, (b) live action role-players, and (c) control group. All participants are being tested with three computerised executive functions tasks: (1) Dimensional Change Chard Sorting Test (DCCS) to measure cognitive flexibility;(2) Flankers test to measure inhibition; and (3) n-back test to measure working memory. Using self reports about their amount of participation in pretend scenarios participants in groups (a) and (b) are are categorised as beginners or experts. Expert pretenders are compared to beginners as well as the control group. 
+!! Results
+It is hypothesised that expert pretenders have a higher score on the DCCS and Flankers test compared to beginners and the control group. Furthermore, we are testing if expert actors and actresses outperform the other groups on the working memory task, because previous research has shown positive effects of action on long term memory [3]. Preliminary results will be presented.
+References
+[1]	L. Mercolli, So tun, als ob: Analyse und Systematik eines ungewöhnlichen Begriffs mit einer Anwendung auf Theorien der Fiktionalität. Paderborn: Mentis, 2012.
+[2]	A. Miyake, et al., “The Unity and Diversity of Executive Functions and Their Contributions to Complex ‘Frontal Lobe’ Tasks: A Latent Variable Analysis,” Cognit. Psychol., vol. 41, no. 1, 2000, pp. 49–100.
+[3]	H. Noice and T. Noice, “What Studies of Actors and Acting Can Tell Us About Memory and Cognitive Functioning,” Curr. Dir. Psychol. Sci., vol. 15, no. 1, 2006, pp. 14–18.
+

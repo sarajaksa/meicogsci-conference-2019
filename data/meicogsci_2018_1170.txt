@@ -1,0 +1,24 @@
+... title: Organizational Failure and Decision Making
+
+
+
+Abstract
+
+## Introduction
+Current research on organizational failure is developing at a high pace, still, no consensus has been reached on what constitutes it and how it can be mediated. More importantly, research in this field is mostly focused on rectifying the negative effects, whereas *learning* from failure has largely been neglected despite the potential benefits of such a shift in focus [1].
+What is more, the rebound rate of organizations following such setbacks depends on integrating the lessons from failure and achieving a high level of cooperation [2]. 
+## Purpose
+The main objective of the study is thus to investigate the effects of positive and negative failure framing on decision making and cooperation in the workplace. 
+## Methods
+To manipulate perceptions of failure, I will design and test three conditions. In the first condition, failure will be framed positively; in the second negatively, and in the third neutrally. The manipulation will be instantiated as a role-play describing a commonplace situation characterized by an adverse event, followed by a verbal account on the part of the experimenter who will either highlight the positive or negative effects of such a scenario. The subjects will then be asked to provide own ideas of how such a situation could be remedied. To ensure ecological validity, the experiment will be carried out in the subjects' actual workplace.
+Decision making and cooperation dynamics will be investigated using a modified version of a public goods game, where subjects will repeatedly have to decide whether and how much to contribute to the public good, which will further serve as a measure of prosociality. 
+Various questionnaires assessing self-efficacy, positive and negative affect as well as social values will be administered following the manipulation to determine whether individual differences moderate decision-making behavior and cooperation. 
+## Predictions
+I predict that positive failure framing will increase group cooperation, as such a frame will serve as a prosocial cue. In contrast, a negative frame will highlight the need to perform and act in a self-serving fashion, which will be reflected in the lower contributions to the public good. Similarly, the positive framing of failure will lead to a lessened negative affect and higher self-efficacy, evidenced in the post-task questionnaires.
+## Implications
+The study offers a systematic way of studying the impact of failure handling on real-world cooperation.
+
+## References
+[1] Mellahi, K., & Wilkinson, A. (2010). Managing and coping with organizational failure: Introduction to the special issue. Group & Organization Management, 35(5), 531-541. 
+[2] Wieland, J. (2014). Governance Ethics: Global value creation, economic organization and normativity. Springer.
+

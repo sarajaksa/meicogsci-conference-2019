@@ -1,0 +1,26 @@
+... title: Typology of phenomenology and physiological response to the increase of difficulty in solving mathematical problems
+
+
+
+Abstract
+
+!!Introduction
+Individual differences play a significant role in our response to mathematical problems. There are indices that people respond differently to the same problem. The difference is not only in their experience of the problem but also in the way their nervous system responds to that problem.  Sympathetic branch of ANS (autonomic nervous system) is activated in stress response. Nervous system response can be measured with electrodermal activity(EDA)[1]. 
+We outlined our research in neurophenomenological manner. In this research we will parallely observe physiological response(with EDA) and experience(with phenomenological interview). 
+Our study suggests is that there is a correlation between experience and physiological response.
+
+!!Research design
+
+We will obtain our data from 12 preselected participants. Abbreviated Math Anxiety Scale (AMAS)[2] was used to select participants that belong in three different response groups; positive, negative and non-response group. According to the methodological requirements of phenomenological interview we had another requirement, participants had to express clear will to do self-inquiry.
+Experiment will be conducted twice for each participant. For recordings of skin conductance(EDA) and heart rate, Biopac MP150 system will be used.  We will use their non-dominant hand to attach two electrodes for skin conductance to the palm surface of the distal phalanx of the middle and index finger.
+Participants will have to solve 4 sets of 5 mathematical problems. They will have 60s for each problem in the first and second set and 30s for each problem in the third and fourth set.   After every set, they will have to estimate their mood (relaxed – tensed, content - discontent, present – mind-wandering). At the beginning, in the middle and in the end of the experiment, phenomenological interview will be made to estimate their subjective experience. We conducted our experiment in two phases, clock(third and fourth set) and non-clock phase(first and second set). This was added after pilot testing, where we found out that visual presence to countdown may have essential impact on experience. 
+At the end, quantitative analyse will be conducted with emphasis to the hypothesis. We expect that this experiment will show whether correlation between physiological response and experience exist and if there are different response groups.
+
+!!Acknowledgements
+Special thanks to dr. Urban Kordeš, izr. prof, assistant Toma Strle and dr. Gregor Geršak izr. prof. for opportunity to work on this project.
+
+
+[1] Boucsein, W. (2012) Electrodermal Activity. Second Edition, Springer Science and Business Media, 369-392
+
+[2] D.R, Hopko, R. Mahadevan, R.L. Bare, M.K. Hunt, “The Abbreviated Math Anxiety Scale (AMAS): construction, validity, and reliability“, Assessment, vol. 10, no. 2, pp. 178-82, Jun. 2003.
+

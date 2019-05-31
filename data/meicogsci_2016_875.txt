@@ -1,0 +1,20 @@
+... title: Electrophysiological Evidence of Changes in Cognitive Performance during Dual-task Test after Hypnosis
+
+
+
+Abstract
+
+!!Introduction
+Increasing number of studies which employ hypnotic means to discover neural mechanisms sub-serving cognitive processes displays a possible trend for future research in certain fields of cognitive and clinical neuroscience [1]. Experimental dual-task (DT) paradigm is used to examine possible effects of hypnosis (H) on cognitive performance in a visual three stimuli oddball task (O) as the primary and a simple working memory test (WMT) as the secondary task. Implementation of effort justification paradigm (EJ) grants additional validity of the results in performance oriented experiments. Research aims to extend comprehension of H [2] and examine appropriate changes in P3 waves that are relevant to explore any possible effects on some basic cognitive processes (attention, discrimination, working memory). Interestingly, there has never been any H research which would use O and EJ paradigms published yet.
+
+!!Method
+Research design utilizes a non-invasive electroencephalograph (EEG) to record electrical activity of the brain and event-related potentials (ERPs) during three repeated measures of DT performance. Experiment starts with first DT test as control (OC) and continues with crossover sequence of the two treatments (H, EJ), so second and third tests are preceded by either receiving basic medicinal H treatment (OH) or watching non-specific relaxation videos as a form of EJ (OEJ). Task performance efficiency is determined by participant responses to target (accuracy (ACC), reaction time (RT), false alarms (FA)) and reported figure of memorized displayed distractor stimuli (MD) along with statistically significant differences between ERPs during OH in comparison to ERPs during OEJ or OC.
+
+!!Preliminary results
+Behavioural results in OH compared to OC and OEJ did not show any statistical significance for ACC, RT and FA. Although the test was designed as a cognitively demanding task for our participants, eight of them achieved excellent results in all WMTs and everyone retained or improved their score after H treatment. Preliminary analysis of ERP data showed statistically significant changes in P3 waves during OH but further analysis, that will include ten more participants, is needed to elucidate relevancy of diminished or potentially beneficial soothing effects of H on cognitive performance in DT tests.
+
+!!Reference
+[1] P. W. Halligan and D. A. Oakley, “Hypnosis and cognitive neuroscience: Bridging the gap”, Cortex, vol. 49, no. 2, pp. 359–364, 2013.
+
+[2] G. R. Elkins, A. F. Barabasz, J. R. Council and D. Spiegel, “Advancing research and practice: The revised APA division 30 definition of hypnosis”, International Journal of Clinical and Experimental Hypnosis, vol. 63, no. 1, pp. 1–9, 2015.
+

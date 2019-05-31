@@ -1,0 +1,20 @@
+... title: The Simulation off Affective Retrieval using the Self-Organising Map with Temporal Context
+
+
+
+Abstract
+
+!!Introduction
+Current work aims to implement additional component to existing connectionist model of semantic working memory [1]. The main assumption of this model is that the events are experienced through structured sensorimotor routines, which allows to propose them as events with their participant composed of agent, patient and action. However, such settings may lack some properties of current episode like affective component. Therefore we decided to implement additional architecture to capture such component. 
+Presented model of semantic working memory has in the Current situation component recurrent architecture: it takes as an input the current episode and its own internal representation of past episodes [2]. It is implemented as Merge Self-Organising Map (MSOM) [3]. Its properties offer to reconstruct the situation by top-down propagation from the weights back to the WM episode medium.
+!!Experiment
+Our main goal of this project was to create and test architecture of current episode enriched by affective component in a manner: agent / patient / action / + affect. This affective component is represented as two dimensional vector:  . The positive and negative affect is represented as randomly assigned number from uniform distribution from interval <0,1>. Therefore larger value can express more positive or more negative affect of current situation (i.e. similar values represent ambivalent emotion). The initialization of the input episodes should be biased with some sort of affect. E.g. some actions may be threatened as more positive or more negative, i.e.  I|eat|cream is probably more emotionally positive than Dog|bites|me. Furthermore, when we train our network in such conditions the future presentation of similar episodes will evolve similar emotion like in the past. In addition, when we present to the trained MSOM architecture episode with hidden affective component, the network can abstract affective component from the learned connections with past episodes.
+!!Results and Conclusions
+We trained MSOM network successfully. Furthermore, we are able to approximate affective component of the testing episodes without explicit presentation of emotional part. Such property can be used in retrieval from long term storage, i.e. episodes with higher emotional valence can be retrieved easier. We are currently aiming to perform more experiments before we try to add up into the presented model [1], [2].
+!!Acknowledgement
+My special thanks belong to Martin Takac for valuable guidance and discussion.
+!!References 
+[1] M. Takac and A. Knott, "A Neural Network Model of Episode Representations in Working Memory," Cogn Comput, vol. 7, no. 5, pp.509-525, 2015
+[2] M. Takac and A. Knott, "A simulationist model of episode representations in working memory: Technical appendix," 2015
+[3] M. Strickert and B. Hammer, "Merge SOM for temporal data," Neurocomputing, vol. 64, pp. 39-71, 2005
+

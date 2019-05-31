@@ -1,0 +1,25 @@
+... title: Nonverbal Cues During Staredowns Predict Outcome of Mixed-Martial-Arts Fights
+
+
+
+Abstract
+
+!!!! Nonverbal Cues During Staredowns Predict Outcome of Mixed-Martial-Arts Fights
+
+Nonverbal behavior provides a crucial means of human communication that expresses, even more emphatically than the verbal channel, internal states, personality traits, interaction motives, and social relations [1]. Staredown events in the UFC (Ultimate Fighting Championship) are rife with nonverbal cues, which may reflect opponents’ self-confidence or their abilities to win the fight on the next day. Winning fighters, for example, display less smile intensity during staredowns than their losing rivals [2].
+
+In our study, we looked at the gazing behavior and head movements of UFC fighters in video clips of staredown events. We wanted to investigate whether victories could be predicted by our two variables: breaking eye contact and turning away first.
+
+We defined the breaking of eye contact, ordered by priority, as (a) moving one’s eyes away from the target’s eyes, (b) closing one’s eyes for longer than 5 video frames (i.e. not mere blinking), or (c) turning one’s head away from the target. Simple video software was used to identify and assess in our video material the frames in which the breaking of the gaze took place. These observational judgments were performed by four independent raters.
+
+To identify who turned away first, we used a computer program to code the same video clips by placing three dots on each fighter (tip of the nose, middle of the ear, and shoulder) and using optical flow for frame-by-frame encoding. As soon as at least two of the dots on one fighter could not be encoded anymore due to occultation of the respective body parts, this determined the fighter who turned away first.
+
+Pearson’s chi-squared test indicated that there is a significant systematic relationship between the fighter who turned away first and the winner of the subsequent fight (N = 87, χ² = 5.070, p = .024, φ = .241). Victory and breaking eye contact were significantly related as well (N = 87, χ² = 4.316, p = .038, φ = .223). The overlap between turning away first and breaking eye contact was 69%.
+
+Being the first to break eye contact is usually seen as a sign of submission [3]. However, the ritualistic setup of staredowns might explain why this thin slice of behavior predicts the winner: by breaking eye contact first, the fighter unofficially ends the staredown sequence and thereby dominates the situation in which staring is the common baseline anyway.
+
+!! References
+[1] N. Ambady, F. J. Bernieri, and J. A. Richeson, “Toward a Histology of Social Behavior: Judgmental Accuracy from Thin Slices of the Behavioral Stream”, Advances in Experimental Social Psychology, vol. 32, pp. 201-271, 2000.
+[2] M. W. Kraus and T. W. Chen, “A Winning Smile? Smile Intensity, Physical Dominance, and Fighter Performance”, Emotion, vol. 13, no. 2, pp. 270-279, April 2013.
+[3] G. E. Weisfeld and J. M. Beresford, “Erectness of Posture as an Indicator of Dominance and Success in Humans”, Motivation and Emotion, vol. 6, no. 2, pp. 113-131, 1982.
+

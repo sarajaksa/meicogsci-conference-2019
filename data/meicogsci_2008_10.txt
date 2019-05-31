@@ -1,0 +1,25 @@
+... title: Connectionist modelling of irregular verb flection in Williams Syndrome using two different learning algorithms
+
+
+
+Abstract
+
+1. Introduction:
+Williams Syndrome (WS) is a rare genetic disorder that is characterized by a number of dissociations especially in language. For example language development in WS is slower during the first years of their language acquisition but by school age they catch up on it. 
+A crucial issue in WS research explores, whether the inflectional system is affected by a selective deficit as claimed by Clahsen and Almazan [1] for English WS.
+The aim of the work is to model the syntactical features of verb flexion in WS in a neural network based on a model of Plunkett and Marchman [2]. The novel aspect is that the training algorithm used is a standard back-propagation (Rummelhart, Hinton, & Williams, 1986) and a version of the ART training algorithm. [3]
+2. Materials and Methods:
+According to Thomas et al. [4] a recurrent feed-forward three layer network reflects best the syntactical properties of language. The input layer of the network is represented by the phonological representations of the stems. The amount of hidden units was varied at values of 10, 20, 50, 100 and 150 units, with 150 units representing the normal condition. Weight changes were calculated using a back-propagation and the ART learning algorithm, whereas latter is based on the adaptive resonance theory.[5] 
+The ART algorithm is implemented in a version that induces a slow learning rate resulting in continuous values as the weights do not have enough time to get asymptote.
+The network performance on training was tested at 5, 10, 20, 25, 50, 100, 150, 200, 250, 500, 1000, 2000 and 5000 epochs. Apart from that, testing was performed by using the nearest neighbourhood classification.
+3. Results:
+(1) Normal model (NM): When testing lexical representations this resulted in irregularization of novel irregular words in accordance to Plunkett's and Marchman's original model. The network showed an initially rising, then declining level of over-generalization errors. The pattern found didn't match the characteristic U-shaped profile that occurs in younger children.  There are different results depending on the training algorithm used. In the normal model the back-propagation training algorithm induced a slower learning at the beginning, whereas the ART training algorithm was learning faster at the beginning.
+(2) Williams Syndrome model (WSM): The result of the WSM showed that phonological representations are less redundant and similar in comparison to the normal model. Thus, there is a delay for regular and irregular verbs produced reflecting the target pattern in WS.  
+For the WSM there was used the back-propagation learning algorithm and the ART training algorithm. Latter was implemented in a version, where learning was slower than in back-propagation. 
+References:
+[1]	Clahsen, H. & Almazan, M. (1998). “Syntax and morphology in Williams syndrome” Cognition, 68, 167-198.
+[2]	Plunkett, K. and Marchman V. (1996). Learning from a connectionist model of English past tense. Cognition, 61, 299-308.
+[3]	Grossberg, S. (1976). Adaptive pattern classification and universal recording – I. Parallel development and coding of neural feature detectors, Biological Cybernetics 23
+[4]	Thomas. M.S.C, Grant, J. Barham, Z. Gsödl, M. Laing, E. Lakutsa, L. et al. (2001) Past tense formation in Williams syndrome. Language and Cognitive Processes, 16, 143-176.
+[5]	Carpenter, G.A. & Grossberg, S. (2003), Adaptive Resonance Theory, In M.A. Arbib (Ed.), The Handbook of Brain Theory and Neural Networks, Second Edition (pp. 87-90). Cambridge, MA: MIT
+

@@ -1,0 +1,34 @@
+... title: Implementing Cryptocurrencies in a Decentralized Market Place
+
+
+
+Abstract
+
+## Introduction
+
+The following project is concerned with the “Web of Needs” [1] that was established in 2012 in the Smart Agent Technology-Lab within the Research Studios Austria.
+
+The foundation of the WoN (=Web of Needs) is the paradigm of the market principle. Although it is economically a non-answered question, whether our current economic system is driven by supply or demand, it is observable that a fundamental asymmetry in the agorical setting arises. A demand must be met by finding an offer. But offer and need differ massively in their ontological status. Where an offer is articulated easily in form of a good or a service, a need is always a matter of abstract thinking.
+
+The WoN aims to interfere with the market principle by giving a user the opportunity to describe his/her need. This need is then matched by an algorithm or/and a human to an offer. Each of them can propose a good that could fit for the person, who articulated the need. The asymmetry gets compensated. The claim is to create a global market place that empowers the person of demand. The expectancy is finding more fitting supplies, lower prices and a community driven spirit of matching needs and offers.
+
+## Project
+
+My project is concerned with the connection between economic theory and digital concepts. The most difficult matter concerning the WoN is user traffic. As the WoN profits from positive network effects, incentives must be found to make its actual usage attractive to users of all kinds. Moreover, a reward for using the WoN could be a great advantage for the sustainability of the network. I.e. for the person who found a fitting match for another person.  As I see the possibility of this task to be accomplished by a cryptocurrency or a Blockchain-Application I settled for the following research question:
+
+“Which Cryptocurrency can be used to enable incentives for users and support general usage of the ‘Web of Needs’?”
+
+## Method
+
+The main exercise in this project consists of finding connections between the WoN and cryptocurrencies. 
+
+Firstly, understanding the theoretical economic implications of the WoN are fundamental. Moreover, the technical implications, especially the consensus process between operating parties. This will be accomplished by reading the published papers made by the acting developers and researchers of the project and through conduction of expert interviews using the qualitative method.
+
+Secondly, parameters for the cryptocurrencies will be defined. I.e. usability, anonymity, security, professionality, popularity. On this basis, three candidates of cryptocurrencies will be chosen.
+
+Lastly, an elaborated analysis of the chosen candidates will lead to a final recommendation of a single cryptocurrency, which shall fulfil as much necessities implied by the research question as possible.
+
+## References
+
+[1] F. Kleedorfer, *Building a Web of Needs – An Infrastructure for Mediating Resource Transfer.* Vienna, Austria: Research Studios Austria, Studio Smart Agent Technologies, 2011
+

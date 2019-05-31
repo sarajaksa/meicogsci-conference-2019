@@ -1,0 +1,26 @@
+... title: Uptake Mechanisms of Pathologic Tau Protein
+
+
+
+Abstract
+
+!!Introduction
+Tau is a microtubule-associated protein encoded by a single gene (MAPT) on chromosome 17q21. Alternative splicing generates six isoforms, which are present in the adult human brain [1]. Tau aggregation occurs in neurodegenerative diseases, including Alzheimer's disease and many other disorders, collectively termed tauopathies [2]. Deposition of phatologic tau protein in distinct brain areas and in distinct cellular populations is reflected by the diversity of clinical phenotypes of this tauopathies. However, tau pathology converges in the hippocampus in all of them. In addition, prion-like spreading mechanism is proposed for meny of tauopathies [1]. Unfortunately, exact mechanisms of cellular tau uptake and ways of spreading are still not known. Thus, our aim is to investigate the possible mechanisms of tau uptake in the cell culture. We started our study by investigating the colocalization of tau protein and Rab5. RAB5A localizes to early endosomes, where it is involved in the recruitment of RAB7A and the maturation of these compartments to late endosomes [3]. The results gave us first indicators for possible mechanisms of tau protein aggregate propagation, in this case via the early endosomes.
+
+!!Methods
+Firstly, we employed basic biochemical techniques and protocols for isolation of different pathological forms of  tau protein from human brain tissue. Next, we prepared primary rat hippocampal cell cultures. The primary cell cultures, which had been grown on a special glass cover slips were then incubated with previously isolated tau proteins. Next, we labeled  tau protein and Rab5  with methods of imunnofluorescent staining. The last step was detection of eventual colocalization of tau protein and Rab5 with confocal microscopy.
+
+!!Results
+With analysis of preliminary results of pictures taken with confocl microscopy, we showed that none of the pathological forms of tau protein colocalized with Rab5.
+
+!!Conslusions
+From our results, we infer that tau protein is not involved in the internalization pathway via the early endosomes. In the next steps, we will first try to determine the possible candidate marker proteins for other internalization pathways, and then  study colocalization of that markers with pathological forms of tau protein.
+
+!!Acknowledgements
+Special thanks to Dr. Ivan Milenković, for giving me the opportunity to join his team and project.
+
+!!References
+[1] G.G. Kovacs. “Protein coding of neurodegenerative dementias: the neuropathological basis of biomarker diagnostics”. Acta Neuropathologica, vol. 119, pp. 389-408, Mar. 2010.
+[2] K.Yanamandra, et al. “Anti-tau antibodies that block tau aggregate seeding in vitro markedly decrease pathology and improve cognition in vivo”. Neuron, vol. 80(2), pp. 402-414, Oct. 2013.
+[3] J.Huotari and A. Helenius. “Endosome maturation”. The EMBO Journal,  vol. 30(17), pp. 3481–3500, Aug. 2011.
+

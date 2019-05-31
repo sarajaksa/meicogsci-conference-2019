@@ -1,0 +1,26 @@
+... title: Can People Drop Objects from Their Visual Working Memory
+
+
+
+Abstract
+
+!!!! Can People Drop Objects from Their Visual Working Memory
+
+Recent studies show that an average healthy young human adult can successfully keep 3-4 objects in their visual working memory (VWM). Ikkai, McCollough and Vogel [1] have further shown that in a lateralized change detection VWM task, it is possible to observe a negative deflection in EEG over parietal cortex, which is stronger on the side contralateral to the hemifield in which items to be remembered were shown. The difference between the amplitude measured over ipsilateral and contralateral hemisphere—termed Contralateral Delay Activity (CDA)—is assumed to reflect the current working memory load. Further experiments have shown that the magnitude of CDA is closely related to individual's VWM capacity; i.e. the CDA amplitude increases when the number of objects remembered increase and reaches its limit when the working memory capacity reaches its limit [2]. As it tracks VWM load, it has been successfully used to study the ability to filter unrelated information from VWM, leading to results that show people who have low VWM capacity also have poor performance on filtering unrelated information from their VWM [3]. Analogue to observing active filtering of items from VWM, the current study aims to investigate, whether people can drop (forget) objects from VWM during the maintenance period. 
+
+25 healthy young adults participated in the study. Each participant performed 288 trials of a change detection task. Participants were instructed to memorize 2 or 4 objects and later either keep all of the objects in their VWM or drop half of them. Event-related potentials (ERP) from 32 channel locations were recorded during the performance of the task.
+
+Similar to the earlier studies, we expected to find a positive relationship between VWM capacity and the ability to drop objects from working memory. Behavioral data confirmed the hypothesis at the load of 4, but not at the load of 2 items, possibly reflecting the ease of performing the task at the VMW load of 2 items. 
+
+ERP analysis will provide further information about the progression of the task performance. We are specifically interested in whether CDA decreases once the subjects are instructed to drop the irrelevant items, or does it stay the same throughout the trial.
+
+!! Acknowledgments
+We would like to thank Martina Starc, Tisa Frelih, Kristijan Armeni and Richard Dinga for their contribution to this study.
+
+!! References
+[1] A. Ikkai, A. W. McCollough, and E. K. Vogel, “Contralateral delay activity provides a neural measure of the number of representations in visual working memory,” Journal of Neurophysiology, vol. 103, no. 4, pp. 1963–1968, Apr. 2010.
+
+[2] E. K. Vogel and M. G. Machizawa, “Neural activity predicts individual differences in visual working memory capacity,” Nature, vol. 428, no. 6984, pp. 748–751, Apr. 2004.
+
+[3] E. K. Vogel, A. W. McCollough, and M. G. Machizawa, “Neural measures reveal individual differences in controlling access to working memory,” Nature, vol. 438, no. 7067, pp. 500–503, Nov. 2005.
+

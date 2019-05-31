@@ -1,0 +1,20 @@
+... title: Decoding Spatial Position of an Object in Working Memory - fMRI Study
+
+
+
+Abstract
+
+!!!! Decoding Spatial Position of an Object in Working Memory - fMRI Study
+
+Traditionally, univariate analysis of fMRI data is done by comparing average activities of relatively big brain regions obtained by spatial smoothing of the data. Although this increases signal-to-noise ratio, fine-grained information about pattern of activity is lost. On the other hand, multivariate pattern analysis (MVPA) uses machine learning techniques to analyze fMRI data; and functional brain activity is the input to machine learning classifier with a goal to train a classifier to recognize different pattern of activities in regard to different classes of stimuli. This is not possible by using univariate methods [1]. 
+
+The goal of this study is to decode content of working memory from functional activity of the brain. I will try to predict position of the presented object using MVPA methods.  Subsequent goals are to localize parts of the brain from which this information can be obtained and gain information on the nature of spatial representation in the brain.
+The dataset that is used was collected at Neurology Clinic in Ljubljana for another study. Functional activity was recorded by 3,5T Phillips MRI scanner. 144 stimuli were presented in 8 blocks. Every block consisted of one response condition with 4 different response conditions. Subjects responded by moving the probe stimulus with the help of a joystick. Stimuli consisted of grey circle that appeared in pseudo-random position, within the periphery of the subject’s visual field. Subject was instructed to remember the position of the object; and after a delay period, respond by moving joystick as indicated to them. For the analysis, I used PyMVPA toolbox [2].
+
+Using fMRI data for machine learning is a challenging task mainly due to small signal-to-noise ratio, mixed signals of no interest and curse of dimensionality – high number of features compared to usually low number of trials. In addition to the problems mentioned, I also expect to encounter some more because the study from which the dataset is acquired wasn’t designed for MVPA analysis, and the difference in representations of different spatial positions is thought not to be as distinguishable as the difference in representations of different objects, as it was done in previous studies [3]. Despite the stated problems, I expect to obtain higher than chance classification performance for at least some subsets of positions. 
+
+!!References
+[1]	K. a Norman, S. M. Polyn, G. J. Detre, and J. V Haxby, “Beyond mind-reading: multi-voxel pattern analysis of fMRI data.,” Trends in cognitive sciences, vol. 10, no. 9, pp. 424–30, Sep. 2006.
+[2]	M. Hanke, Y. O. Halchenko, P. B. Sederberg, S. J. Hanson, J. V Haxby, and S. Pollmann, “PyMVPA: A python toolbox for multivariate pattern analysis of fMRI data.,” Neuroinformatics, vol. 7, no. 1, pp. 37–53, Jan. 2009.
+ [3]	D. Hassabis, C. Chu, G. Rees, N. Weiskopf, P. D. Molyneux, and E. a Maguire, “Decoding neuronal ensembles in the human hippocampus.,” Current biology : CB, vol. 19, no. 7, pp. 546–54, Apr. 2009.
+

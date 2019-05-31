@@ -1,0 +1,28 @@
+... title: Can We Learn to Read Others Minds? An Exploratory Study on Change in Mentalizing Skills as an Effect of Psychotherapy Training
+
+
+
+Abstract
+
+Responding to a strong need for longitudinal studies of psychotherapy training, the Society for Psychotherapy Research Interest Section on Therapist Training and Development (SPRISTAD) initiated a multi-site longitudinal study of development in psychotherapy trainees. This study aims at tracking progressive change over time in trainees as therapists, to identify factors that facilitate or impede trainee development by gathering quantitative and qualitative data from a wide range of training programs.
+An essential component of any therapeutic treatment is the relationship between therapist and client. One concept that has become prominent in order to promote a secure attachment climate within psychotherapy is mentalization. Mentalizing describes the human ability to comprehend mental states of one’s own and others [1]. It is seen as one of the core competences of psychotherapists since the ability to understand the mental state of others is crucial to intervene. Therefore, alike clients, therapists themselves have to have/develop them [2].
+
+!!Research Question (RQ) and Hypothesis (H)
+As a contribution to the SPRISTAD study in Austria, this master thesis will compare the mentalizing skills of psychotherapy trainees in an early stage with experienced psychotherapists and assess the differences.
+The following RQ can be derived: Do mentalizing skills in early stage psychotherapy trainees and experienced instructional therapists differ? 
+H: We expect to find a lower level of mentalizing skills in early stage therapy trainees compared to experienced professionals. 
+
+!!Method
+Since psychotherapy training in Austria is diverse, we will cluster the training institutions according to their methods (analytical, humanistic, systemic, and behavioural). We will recruit 5 students per cluster. Accordingly, we will recruit 20 training therapists as experts. The qualitative method to assess the mentalizing skills will be the Brief Reflective Functioning Interview (BRFI), which will be rated using the Reflective Functioning Scale (RFS).
+
+!!Objective
+Since mentalization combines many theories related to cognitive science (empathy, metacognition, theory of mind), the theoretical part of this thesis should critically discuss this approach and outline strengths and weaknesses.
+As a whole, we expect to find supporting results to draw the conclusion that psychotherapy training has an effect on the development of mentalizing skills   acting as a starting point for further research in this field.
+
+!!Acknowledgment
+I especially thank Henriette Löffler-Stastka for enabling and most helpfully supervising this master thesis, and the participants for bringing the theory to life.
+
+!!References
+[1] U. Schultz-Venrath, “Lehrbuch Mentalisieren. Psychotherapien wirksam gestalten“, Stuttgart, Germany: Klett-Cotta, 2013.
+[2] J.G. Allen, “Mentalizing in practice”, in Handbook of mentalization-based treatment, Chichester, UK: Wiley & Sons, Ltd, ch. 1, pp. 3 – 30, 2006.
+

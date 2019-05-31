@@ -1,0 +1,28 @@
+... title: Dual Tasking and Posture Control in Healthy Young Adults
+
+
+
+Abstract
+
+!!!!Dual Tasking and Posture Control in Healthy Young Adults
+
+!!Introduction:
+
+Motor functions of the human brain have traditionally not been considered to be dependent on cognitive functions. However, recent research in the field of dual tasking has succeeded in proving a connection between the cognitive and motor functions of our brain [1], [2]. Interference between these brain functions are in a setting of a disease such as multiple sclerosis or Parkinson's disease associated with increased risk of falling and other difficulties with walking. Considering inconclusive results from the previous studies we decided to investigate the effect of cognitive tasks that use different domains of working memory (visuo-spatial and verbal working memory)in order to determine which of its domains interferes with motor functions in greater extent.  
+
+!!Methods:
+Twelve healthy volunteers were included in the study. We performed posturography alone and while performing two working memory cognitive tasks; 2-back and Brooks' spatial memory task. Subjects stood with legs together and eyes closed on a force plate. Signal from 4 pressure sensitive sensor under the force plates was sampled at 100Hz. From these data CoP (Center of Pressure) was calculated by algorithms developed in Matlab. We analysed body sway of the CoP in ML (medial - lateral) and AP (anterior - posterior) directions. To determine the effect of cognitive tasks on balance one-way ANOVA model was used with further post hoc analysis to determine comparisons between conditions.
+
+!!Results:
+ML sway amplitude was higher (F(2,10) = 12.94, p = .002)while performing concurrent cognitive tasks compared to posturography alone. Additionally AP sway amplitude was also higher (F(2,10) = 4.82, p = .034). Post hoc analyses showed significant effect of 2-back task on ML as well as AP sway amplitude.
+
+!!Conclusion: 
+2-back memory task significantly affected balance control in our cohort of healthy young subjects. This indicates greater interference from phonological domain than spatial domain of working memory. A drawback of our study is a small number of participants and lack of evaluation of performance on cognitive tasks. Future research should include greater number of subjects to ensure more representative data. The results of cognitive performance should also be evaluated. We also suggest more demanding memory tasks to be  used to ensure greater effect on motor performance.
+
+!!References:
+
+[1] M. Woollacott and A. Shumway-Cook. “Attention and the control of posture and gait: a review of an emerging area of research.” Gait and Posture, vol. 16, pp. 1–14, Aug. 2002.
+
+[2] E. Al-Yahya et al. “Cognitive motor interference while walking: A systematic review and
+meta-analysis.” Neuroscience and Biobehavioral Reviews, vol. 35, pp. 715–728, Jan. 2011.
+

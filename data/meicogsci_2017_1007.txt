@@ -1,0 +1,22 @@
+... title: Communicating Emergent Novelty – Proposing a Theoretical Communicative Framework to Support Novelty Creation in Organizations
+
+
+
+Abstract
+
+In order to be successful in this complex, dynamic market, organizations have to focus on innovation approaches that are oriented towards shaping a rapidly changing environment by creating novelty [1]. For this, they must be able to (1) identify and (2) cultivate - as [3] put it -“emerging opportunities before they become manifest in the marketplace” and to successfully (3) diffuse them.
+
+There is consensus that communication plays and important role in innovation processes [2]. However, the focus currently seems to be on the distribution of innovations after their creation [2], leaving out the key role communication plays before and during the innovation process. Its facilitating role is underestimated, probably resulting of a failure to understand that novelty creation is a dynamic, social, emergent process that cannot be managed, but only enabled [1]. Hence, communication strategies that focus on enabling novelty creation are currently missing [2].
+
+The aim of this work is to provide a theoretical communication framework for the enabling approach to innovation. It is inspired by two important theories in the field of innovation: C.O. Scharmer’s Theory U provides a pointer on how to deal with change and uncertainty in organizations [3]. M.F. Peschl’s Emergent Innovation process [1] is destined at creating game-changing innovations that at the same time fit into the existing environment.
+
+The aim of this work is to highlight the enabling role of communication in processes of novelty creation in organizations and to develop a framework for communication strategies that can be employed by organizations. It is assumed this will successfully contribute to organizations’ innovation activities in three ways: first, by preparing and guiding innovators through the innovation process; second, by identifying and facilitating organizational changes; third, by strategically engaging (future) users and thereby shaping the future market - as it emerges. 
+
+Results will be implemented in actual innovation communication strategies within organizations from different industries, providing a “reality check” for its applicability. However, this is not part of the master’s thesis. 
+
+!! References
+
+[1] M.F. Peschl and T. Fundneider, “Uncertainty and Opportunity as Drivers for Re-Thinking Management: Future-oriented organizations by Going Beyond a Mechanistic Culture in Organizations,” in ReThinking Management, 1st ed. Wiesbaden, Germany: Springer Fachmedien, 2017, pp. 79-96.
+[2] N. Pfefferman, N., “Communication Model Design Innovation – Authentic Open Innovation-Culture,” in Strategy and Communication for Innovation, 3rd ed. Cham, Germany: Springer International Publishing, 2017, pp.113-130.
+[3] C.O. Scharmer, “Self-transcending knowledge: sensing and organizing around emerging opportunities,” J. Of Knowledge Manage, vol. 5, no. 2, 2001, pp. 137-151.
+

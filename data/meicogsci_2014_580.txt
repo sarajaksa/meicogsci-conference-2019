@@ -1,0 +1,17 @@
+... title: Effect of Art Expertise on Aesthetic Experience over Time
+
+
+
+Abstract
+
+!!!! Effect of Art Expertise on Aesthetic Experience over Time
+
+Based on the model of aesthetic experience by Leder, Belke, Oeberst, and Augustin(2004) [1], we assume that aesthetic experiences(AE) involve cognitive and affective processes that unfold over time. While psychological research on art perception mainly focused on early stages of information processing, this project examines prolonged AE, analysing viewing times of up to several minutes. We propose that three dimensions of expertise, complexity, and context influence the time course of the AE. However, the aspect of expertise is mainly discussed in this abstract because the project during April-June 2014 was performed from this perspective of view. 
+
+Art expertise is considered to be an important moderating factor. Given that AE is composed of several phases such as perceptual analyses, implicit memory integration, and evaluation, expertise in arts affects several phases such as explicit classification of artwork and cognitive mastering during the AE process interacting with other phases reciprocally [1]. We expect that AE show faster onsets and more enduring time courses for art experts than for non-experts. 
+
+We show two groups of expert and non-expert participants artwork stimuli for fixed minutes while measuring increase or decrease of AE over time. The main method is video-based remote and mobile eye-trackers. Points of gaze and visual scan paths are measured while participants view artworks for extended times on a computer screen. Additionally, facial muscle activity (fEMG) and skin conductance level (SCL) are measured to examine the affective components of AE and their dynamic changes over time. The combination of eye-movements and fEMG enables us to correlate specific fixation patterns and scan paths with changes in the affective state of AE. This project is still on the progress under the supervision of Laura Commare et al. and the results are anticipated to be come out on September 2014.
+
+!! References
+[1] H.Leder at al., “A model of aesthetic appreciation and aesthetic judgments” in British journal of Psychology, London, England : the British psychological society, 2004, pp. 489-508
+

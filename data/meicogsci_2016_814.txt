@@ -1,0 +1,22 @@
+... title: Press Start for Change – Exploring the Subversive Potential of Digital Game Design for Challenging Normative Attitudes
+
+
+
+Abstract
+
+Social injustice often manifests in an internalized attitude of resentment against individuals that are perceived to deviate from culturally established norms with regards to gender, race or sexual orientation, among others. Considering the normative function of entertainment media in general, both their inherently interactive aspect as well as their rising popularity indicate that digital games bear an especially promising potential to not only reinforce, but also transform these norms and attitudes [1].
+
+The advance of gamified information systems for educational or advertising purposes suggests the promotional strength of play-based content delivery to circumvent a users refusal or lack of intrinsic interest to engage with a topic. Given the resistance often encountered when explicitly addressing particularly sensitive matters, social intervention games should profit from a persuasive strategy that is in line with the hedonic principle of gameplay – i.e., not conveying a message overtly, but by virtue of their design [2, 3].
+
+For instance, immersive character and narrative design could conscientize players for aspects of inequality that don't lie within their usual experience realm. Further, contrasting current norms with virtual alternatives could implicitly reveal their contingency and thus foster critical thinking. While the (predicted) success of these games has been linked to similar cognitive and affective responses [1], research on how to systematically aim for such transformative impact is still in its early stages: the “Embedded Design” model [3] offers broad strategies, but has so far only been applied to non-digital, multi-player games.
+
+!!How to Sneak a Message Into a Game
+
+The present study explores the possibility to specify and refine these guidelines for designing small-scaled and low-threshold digital games that account for the restrictions in temporal and material resources commonly faced by an adult target audience. Based on additional literature, a set of contemplable guidelines will be worked out, implemented and tested within a simple example game, whereas methodology and validation criteria employed by [3] will be adapted so as to suit this work's scope. As the main challenge of ensuring both subtlety and efficiency is not only imposed on the design, but also the evaluation of such games, we hope to gain insights for further investigation on both of these levels.
+
+!!References
+
+[1] C. Klimmt, „Serious Games and Social Change. Why They (Should) Work,“ in Serious Games: Effects and Mechanisms, U. Ritterfeld et al., Eds. New York: Routledge, 2009, pp. 247-270.
+[2] H. Hlavacs, Serious Games must look like Casual Games, Entertainment in Serious Games and Entertaining Serious Purposes Workshop at ICEC2014, 30 Sept 2014, Sydney, Australia.
+[3] G. Kaufman and M. Flanagan, “A psychologically 'embedded' approach to designing games for prosocial causes,” Cyberpsychology: Journal of Psychosocial Research on Cyberspace, vol. 9, no. 3, Oct 2015.
+

@@ -1,0 +1,11 @@
+... title: Exploring language processing with ERP
+
+
+
+Abstract
+
+The workshop will introduce students to the ERP technique and its use in studying language processing. It will comprise of four major topics: the nature of EEG/ERP signal and how to measure it,
+analysis of the EEG signal- averaging, frequency analysis; components; and experimental paradigms used for language comprehension studies.  
+
+The nature of the EEG/ERP signal is an introductory topic; the students will be acquainted with the main theoretical and practical issues of measuring EEG/ERP signal using the hands-on approach. The off-line analysis of the signal will be discussed, as well with the obtained ERP waveform as the goal of the analysis. The components are the building blocks of any ERP research; however, there is no definition of a component that everybody would agree upon. Two main approaches will be discussed, the psychological and the physiological approaches. Finally, violation paradigm as the most important experimental paradigm in language comprehension studies with the ERP will be discussed as well as some other paradigms most frequently used in the literature (e.g. the oddball paradigm).
+

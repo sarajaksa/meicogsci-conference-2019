@@ -1,0 +1,22 @@
+... title: The Aesthetic Reset – Mechanism and Function of the Aesthetic Experience in the Predictive Mind
+
+
+
+Abstract
+
+!!!!The Aesthetic Reset – Mechanism and Function of the Aesthetic Experience in the Predictive Mind
+
+!!Introduction
+The theory of the aesthetic reset aims to provide a predictive coding account of aesthetic experience (AE). This is attempted through a theoretical analysis on possible connections between the phenomenology of AE, as for example described by Martin Seel [1] and the predictive coding framework (PCF) [2]. This should deepen our understanding of AE and eventually provide us with testable predictions for empirical aesthetics. Martin Seel describes the AE as a particular mode of perception. This mode is: not restricted to art, different from everyday perception, closer to raw sense data, less structured and not guided by interest. The PCF rests upon the idea that the brain is a hypotheses-testing machine, which spans multiple hierarchically structured levels. Prediction error minimization lies at the heart of the PCF. Our brains constantly try to minimize the prediction error between our top-down predictions about the world and the bottom-up, incoming sense data, on all levels of the hierarchy. This happens either through a revision of our predictions or by changing sense data through action.
+
+!!Mechanism
+The theory of the aesthetic reset proposes a simple mechanism behind AE: A suspension of top-down predictions without a loss in prediction error gain that entails implications for the organism that could cause the phenomenology of an AE. Two of these implications are: 1) Pure and mostly unstructured sense data: If the predictions are suspended, and the upward prediction errors are nevertheless compared to them, the residuals suddenly become much larger. These large prediction errors cascade upwards through the hierarchy unfiltered and unstructured by downward predictions. This signal resembles raw sense data substantially more than the residuals usually held at the most minimal level. 2) Exceptional nature of AE: The suspension of predictions is clearly far from the everyday status of the system, since large prediction errors are exactly what the system usually tries to avoid. 
+
+!!Function
+Prior beliefs about the world are continuously formed and used to generate better and better predictions. During this process the organism might get stuck in local minima, where the generated prediction seems to be the most accurate, when in fact it is inferior to a prediction at the global minimum. To overcome local minima it is crucial to allow for a temporary increase in prediction error to investigate whether a minimum on the other side of the slope is actually lower. In order to achieve this, it could be functional to equip the organism with a tendency to occasionally suspend all predictions and allow itself to be flooded by incoming data, exactly as described in the previous paragraph, leading to a resetting of models at various levels of the hierarchy. This resetting could help the organism to develop more accurate and precise predictions over time resulting in overall lower prediction errors and might be what happens during an AE, hence the aesthetic reset.
+
+
+!!References
+[1] M. Seel, Aesthetics of Appearing. Stanford University Press, 2005.
+[2] A. Clark, “Whatever next? Predictive brains, situated agents, and the future of cognitive science.”, in The Behavioral and Brain Sciences, 2013, 36, p.1-73.
+

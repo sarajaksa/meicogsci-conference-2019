@@ -1,0 +1,15 @@
+... title: Conceptualization of cognitive science and cognitive scientist through metaphor analysis
+
+
+
+Abstract
+
+A metaphor allows us to think about an abstract concept in terms of concrete concepts. For example, time is money is a metaphor that shows our understanding of the value aspect of time, an abstract concept compared to money, in this case used as a concrete concept. Metaphors are not merely linguistic ornament, but an expression of the structure of the thought [3]. There is renewed interest in phenomenon of metaphors in disciplines of cognitive science, such as cognitive psychology, cognitive linguistics, computer science, anthropology, and some others. Study of metaphors is useful as the analysis of them can reveal the underlying conception of a phenomenon [2]. Thus, the basic idea of this study is that by analyzing a metaphor we discover how a person thinks about a particular topic.
+The study investigated metaphors that individual participants formulated in order to describe concepts of cognitive science and cognitive scientist, respectively. Two samples of participants, experienced researchers in cognitive science and students of the Mei:CogSci program in Ljubljana, were asked to complete an online survey. The first part of the survey was used to obtain some relevant demographic information about participants' characteraistics related to the field of cognitive science. Metaphor analysis technique was applied in the second part to examine the perception of cognitive science and cognitive scientist's role. Participants were prompted to complete two sentences of the form: The X is like … because … .", using one metaphor in each case to indicate their conceptualization of each term. Association between the metaphor topic (X: cognitive science, cognitive scientist) and the required response (metaphor vehicle) was emphasized through the use of the word 'like'. The association was expected to be clarified through the use of the word 'because'. The qualitative data analysis used the methodology of inductive thematic analysis, which consists of labeling, sorting, unit of analysis, categorization and estimation of inter-rater reliability rate. Obtained data allow also for quantitative analysis.
+The final results have not been obtained as yet, as the study is still in progress. Obtained major conceptual categories attributed to various metaphors will reveal how participants think about cognitive science and their professional identity. The findings of this study could influence deliberations about cognitive science and possibly be used within the instructional process of this discipline.
+
+References
+[1] M.L. Schnitzer, M.A. Pedreira, "A neuropsychological theory of metaphor", Language Sciences, vol. 27, pp. 31-49, 2005.
+ [2] M.A. Martinez, N. Sauleda, G.L. Huber, "Metaphors as blueprints of thinking about teaching and learning", Teaching and Teacher Education, vol. 17, pp. 965-977, 2001.
+[3] G. Lakoff, M. Johnson, "Metaphors we live by (2nd ed.)", Chicago: The Chicago University Press, 2003.
+

@@ -1,0 +1,15 @@
+... title: Some “Internal” Problems of Normative Theories of Thinking and Reasoning
+
+
+
+Abstract
+
+Generally speaking, the basic difference between normative and descriptive theories of thinking and reasoning ﻿is the approach used to describe these two processes. Normative theories try to determine how people ought to think or how reasoning should be carried out. On the other hand, the goal of descriptive theories of thinking and reasoning is to investigate a real nature of these processes - what they really are and how they are actually carried out. While the former approach ﻿is most commonly associated with process of reasoning being modeled directly within certain formal system (e.g., logical calculus, probability theory or rational choice theory), the latter utilizes the aparatus of natural sciences - one builds a model, which is then subjected to the test of empirical research.
+
+Taking into account a sufficiently broad perspective one can claim that normative theories of thinking and reasoning have been developed for centuries. Moreover, such theories were a starting point for research on thinking and reasoning carried out within contemporary cognitive science. They provided the theoretical framework allowing to conceptualize or even operationalize the notions of thinking and reasoning. They have also been treated as a source of research hypotheses about the nature of these two processes. Nowadays, the normative approach is not a popular one. For example, in Oxford Handbook of Thinking and Reasoning published in 2013 only one [1] out of forty chapters is devoted to normative theories. In the contemporary literature they serve rather as a “strawman” or at least as a counterexample or suitable background for presenting theories of different kind (descriptive ones).
+
+In my presentation I would like to indicate some problems in which normative approach to modeling thinking and reasoning is involved. In the title of this work I called them ''internal'', because they stem from the very properties of formal systems. Remarks I would like to present concern problems of idealization (the price for the accuracy of formal languages is the loss of the enormous realm of content included in our mental states), adequacy (the variety of logics is very great to the extend that it rises the problem of adequacy of utilizing tools), inconsistent yet non-trivial logics (normative theories require our beliefs not to be contradictory - paraconsistent logic weakens such criterion), logical omniscience (the claim that the set of beliefs is closed under the operation of logical consequence is too strong requirement for cognitive systems, at least for the human mind) etc. ﻿Despite the above criticisms I argue that normative theories of thinking and reasoning are still relevant for the cognitive science.
+
+!!References
+[1] N. Chater and M. Oaksford. “Normative systems: Logic, probability and rational choice,” in The oxford handbook of thinking and reasoning, K.J. Holyoak and R.G. Morrison, Eds. New York: Oxford University Press, 2012, pp. 11-21.
+

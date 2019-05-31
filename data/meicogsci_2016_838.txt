@@ -1,0 +1,19 @@
+... title: Investigating Speakers' Accent and Phonetic Ability in their Native Language
+
+
+
+Abstract
+
+Studies about speaker’s phonetic ability in a second language abound: less has been done about speaker’s accentedness in their native language. But many questions arise as to which features of language production make a pronunciation sound native-like: for example, a native listener exposed to the speech of a stammering native speaker will not necessarily judge this speaker as being non-native. The question of which features of pronunciation will influence the native listener’s perception of accentedness of a native speaker is legitimate. Accentedness is defined as the degree to which a pronunciation deviates from the phonetic norm of a language.
+
+The project’s aim is to establish a list of the phonetic criteria that affect native listeners’ perception of native speakers’ accentedness. Precisely, we want to evaluate the relative influence of segmental and suprasegmental phonetic features on the perception of the phonetic ability of native speakers. Inter-individual variability at the segmental level corresponds to differences in the pronunciation of vowels or consonants; inter-individual variability at the suprasegmental level can be manifested by different intonational patterns. 
+Previous investigations of the relative influence of segmental and suprasegmental features on the accentedness of  non-native speakers have led to contradicting results. A prosody transplantation study [1] showed that segments had a bigger effect on the speaker’s perceived accentedness; however, Jilka [2] showed that low-pass filtered stimuli, in which stimuli contain prosodic information only, were enough for listeners to identify non-native speakers, e.g. speakers that deviated the most from the language’s phonetic norm. 
+
+Native speakers’ phonetic ability in their L1 will be investigated by measuring their capacity to imitate native speakers’ speech through native listeners’ judgments of speech samples. Listeners will be asked to rate on a scale the extent to which a native speaker’s imitation deviates from a model speaker by specifically paying attention to either the segmental or the suprasegmental level of the imitated version of the sentence. 
+
+We expect speakers to deviate from the model pronunciation mostly at the suprasegmental level and segmental differences to go unnoticed by the listeners. We thus expect the influence of prosody to overcome the influence of segments on listener’s perception of native speaker’s accentedness. If so, further investigation will allow us to establish on which specific aspects of prosody speakers differed the most.
+
+!!References
+[1] J. Sereno, L. Lammers and A. Jongman, "The relative contribution of segments and intonation to the perception of foreign-accented speech", Applied Psycholinguistics, vol. 37, no. 02, pp. 303-322, 2015.
+[2] M. Jilka, “Testing the contribution of prosody to the perception of foreign accent” in Proc. New Sounds (4th International Symposium on the Acquisition of Second Language Speech), Amsterdam, 2000, pp.199-207
+

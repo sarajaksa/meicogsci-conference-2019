@@ -1,0 +1,14 @@
+... title: Striatal ROI Delineation in PET D-Amphetamine Sensitization Studies
+
+
+
+Abstract
+
+Sensitization to d-amphetamine (AMPH) manifests as a progressive increase of physiological and psychological drug effects upon constant dose administration. On a neurochemical level, AMPH sensitization has been shown to elicit increased AMPH stimulated dopamine (DA) release. Due to increased drug effects and exacerbated positive symptoms following ingestion of small doses of AMPH, schizophrenia is sometimes conceptualized as a state of endogenous sensitization [1]. Sensitization studies can, therefore, provide better insight into the mechanisms of schizophrenia, as well as early stages of addiction which are in many cases accompanied by sensitization phenomena. 
+AMPH induced DA release can be measured by dopaminergic radioligand displacement with positron emission tomography (PET). Region of interest (ROI) approach in analyzing PET imaging data, based on averaging time activity curves (TACs) within each of the relevant predefined regions, is generally considered a very robust method for PET image analysis. However, the results obtained by ROI analysis as well as their interpretation are highly dependent on the way ROIs are defined. 
+This project will compare two automated ROI delineation methods for quantifying D2/3 receptor specific agonist radioligand [11C]-(+)-PHNO binding in the striatum (in the course of AMPH sensitisation). It will be realized using the data from an ongoing study evaluating the binding of [11C]-(+)-PHNO and AMPH stimulated DA release in a healthy cohort prospectively sensitized to AMPH as well as a cohort of medication naïve patients with schizophrenia. Two sets of ROIs will be used for data analysis; one based on the anatomy of the striatum comprising ROIs for the caudate, the putamen and the ventral striatum and the other based on functional subdivisions of the striatum comprising ROIs for the associative-, the limbic- and the sensorimotor subdivision of the striatum [2]. The results will then be evaluated with the goal of determining which ROI set is better able to identify AMPH and sensitization effects on radioligand binding. 
+
+!!References
+[1] Laruelle, M. (2000). "The role of endogenous sensitization in the pathophysiology of schizophrenia: implications from recent brain imaging studies." Brain Res Brain Res Rev 31(2-3): 371-384.
+[2] Martinez, D., Slifstein, M., et al. (2003). “Imaging Human Mesolimbic Dopamine Transmission with Positron Emission Tomography. Part II: Amphetamine-Induced Dopamine Release in the Functional Subdivisions of the Striatum.” Journal of Cerebral Blood Flow & Metabolism 23: 285-300.
+

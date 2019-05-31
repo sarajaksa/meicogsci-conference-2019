@@ -1,0 +1,51 @@
+... title: Approaching User Experience: Moving between Modelling and In-Depth
+
+
+
+Abstract
+
+!!!! Approaching User Experience: Moving between Modelling and In-Depth
+
+!! Introduction
+User experience (UX) research in the field of Human-Computer Interaction tries
+to understand how humans experience the interaction with technological artefacts
+(e.g. mobile phones). This field of research is quite young and there is significant debate
+about what the concept is and how to research it. Two movements are competing against
+each other: Hassenzahl’s model of UX [1] and McCarthy & Wright’s framework of experience
+centred design [2]. Hassenzahl stays grounded in cognitive psychology and focuses on
+uncovering the objective in the subjective, on the precise and the formal. McCarthy & Wright
+take a humanist approach, stress the ambiguous and suggest to live with the subjectivity that
+is inherent in the concept of UX. Only few studies try to integrate both views. This
+situation in UX is not unique. A discussion between first person and third person
+approaches also happens in other disciplines (e.g. cognitive science) and there are
+efforts to integrate both perspectives with each other.
+
+!! Method
+I am trying to compare both approaches by using them in the user evaluation of a website with
+two user groups, one for each method. Despite comparing results (type of data, what has been
+discovered and missed out & why) I also reflect on conducting both approaches.
+This includes looking at required knowledge & skill, training, preparations, difficulty of
+recruiting participants and time exposure of conduction & analysis. A focus group with
+the clients of the evaluation also tries to incorporate their view and answer the question
+what type of data & which results are most helpful for them.
+
+!! Results
+Results suggest that Hassenzahl's model is easy to employ, gives a broad overview and results
+are easy to visualise. But its results have to be classified into practical relevant categories
+and detailed explanations are missing. On the other hand, the method based on
+McCarthy & Wright's framework provides detailed and informative insights, but its results
+do not generalise easily. It is at least twice as costly to employ than the model and requires
+a skilled researcher.
+
+!! Conclusion
+Regarding methods, Hassenzahl's model misses context information and the here used Descriptive
+Experience Sampling should be easier to employ. Generally, a methodological stance should
+not be emphasised too much and an integrated view from different perspectives seems to
+be more valuable than a unified view. In UX research there should be a more pragmatic use
+of methodologies. They should be viewed as tools with strengths and weaknesses that are
+able to advance knowledge when used appropriately.
+
+!! References
+[1] M. Hassenzahl, "Experience design: technology for all the right reasons" in Synthesis Lectures on Human-Centered Informatics, vol. 3, pp. 1-95, 2010.
+[2] P. Wright and J. McCarthy, "Experience-Centered Design: Designers, Users, and Communities in Dialogue" in Synthesis Lectures on Human-Centered Informatics, vol. 3, pp. 1-123, 2010.
+

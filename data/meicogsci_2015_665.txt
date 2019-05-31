@@ -1,0 +1,16 @@
+... title: Adaptation Duration Dissociates Category- and Image-specific Processes for Faces
+
+
+
+Abstract
+
+In the last decades several studies have demonstrated that the way we perceive faces can be biased by the prior presentation of another face, a phenomenon commonly referred to as face-related after-effect (FAE). This effect was linked to a neural signal-reduction at the occipito-temporal areas. This stimulus-specific signal reduction has been referred to as adaptation (ADA), repetition suppression, or neural priming [1]. In case of faces, ADA can be observed in the amplitude modulation of the early event-related potential (ERP) components, such as the P100, N170, and P2. Recent studies suggest that manipulating the duration of the first face presentation provides an opportunity to selectively adapt neural processes at different stages of visual processing [2]. Although rapid (<1000 ms adaptation duration) ADA paradigms have found conflicting ERP results, these findings indicate the adaptation of early, short-latency responses, while for longer ADA durations a strong category-specific modulation of the N170 was observed. To date, only few studies [3] have investigated the effects of varying adaptor durations. Therefore the goal of this study was to uncover the effects of systematically varying adaptor durations on the behavioural and neuronal responses. To this end, in a 2AFC familiarity decision paradigm, we used five adaptor durations: 200, 1200, 2000, 3500, 5000 ms, and three face adaptor categories: Different Identity (Diff ID), different images of the Same Identity (Same ID), identical images of the same person - Repetition Suppression (RS). A Fourier phase-randomized adaptor image served as control (No). A strong priming effect was observed both in the accuracy and in RT, mainly in case of RS condition. A clear adaptation effect was found for all adapted conditions on the P1 and N170. In case of the longest (5000 ms) duration but not for the shorter ones (<3500 ms), there was a dissociation between image- and category-specific information reflected on the N170. In terms of P2, there was a step-by-step differentiation among No, Diff ID, Same ID and RS in an ascending manner for the right hemisphere. Our findings imply that by manipulating adaptation duration one can dissociate image-specific (comparisons with RS), identity-specific (Diff ID) and category-specific (No) processes for faces.
+
+!!Acknowledgements
+Special thanks to my supervisors, Gyula Kovács and Márta Zimmer for their invaluable help and guidance.
+
+!!References
+[1] K. Grill-Spector et al., “Repetition and the brain: neural models of stimulus-specific effects”, TRENDS Cogn Sci, vol. 10, pp. 14-23, 2006.
+[2] G. Kovács et al., “Adaptation duration affects the spatial selectivity of facial aftereffects”, Vision Res, vol. 47, pp. 3141-3149, 2007.
+[3] D. Feurriegel et al., “Is the neural adaptation of the N170 category-specific? Effects of adaptor stimulus duration and interstimulus interval”, Int J Psychophysiol, vol. 96, pp. 8-15, 2015.
+

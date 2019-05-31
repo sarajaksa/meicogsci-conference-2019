@@ -1,0 +1,27 @@
+... title: Can a Change-Raising Scam Be Adapted to Measure a Cognitive Ability?
+
+
+
+Abstract
+
+!!! Can a Change-Raising Scam Be Adapted to Measure a Cognitive Ability?
+
+I explore the possibility of recreating real-world situation as test in decision making tasks in can be a promising avenue for the future research and application. I adapted a change-raising scam, which is often used by con artists, for laboratory conditions and developed a test situation (the Monopoly task) that elicits a specific error in subjects’ judgment.
+
+In the Monopoly task, the experimenter plays a trading board game with the participant. The experimenter asks the participant to handle the bank. During the game, the experimenter attempts to get a change from the bank. The experimenter then begins buying an item from the bank before finishing the first transaction by confusing the participant. In the end of the joint transaction, the experimenter asks the participant how much money he owes the bank.
+
+During the pilot phase of my research (N1=10) I manipulated with various aspects of the situation. When confronted with the described scenario, 2 of 4 participants responded with the amount of money lower by exactly how much they had given the experimenter in the first part of the transaction (erroneous answer). 
+
+In the second phase (N2=11), I examined the Monopoly task to determine if it can be reproduced and will result in a behavior comparable between subjects. I explored the relation between the performance in the Monopoly task and two established tests of possibly related personality dimensions. I measured the tendency to reflect on the first answers that come to one’s mind with the Cognitive Reflection Test (CRT)[1]. I used the Vienna Test System to administrate an objective personality test that measures Impulsiveness vs. Reflexivity.
+
+Five of 11 Monopoly tasks administrations were unsuccessful. From the remaining 6 participants, only 1 answered correctly and 5 gave the erroneous answer. Along with the observations and interviews that were conducted with the participants, the results provide a starting point for developing a test situation suited for experimental manipulation, that will allow investigations into cognitive processes involved in this error. I intend to create a game, where transactions studied in the Monopoly task will be occurring more frequently. I expect the new task to increase the robustness of the test and to shorten the administration time significantly. 
+
+The improved Monopoly task might find use in research, but could also inspire a creation of a new measure to assess the Resistance to Miserly Information Processing; a dimension of rationality proposed by Stanovich [2].
+
+!!  Acknowledgments
+I wish to acknowledge the help provided by Schuhfried GmbH and Faculty of Social and Economic Sciences, Comenius University in Bratislava. I am also grateful for advice provided by Lenka Kostovicova and Katarina Dudekova.
+
+!! References
+[1] S. Frederick, “Cognitive Reflection and Decision Making,” The J. of Econ.Perspectives, vol. 19, no. 4, pp. 25-42, 2005.
+[2]  K. E. Stanovich et al., “Intelligence and Rationality,” in The Cambridge Handbook of Intelligence, R. J. Sternberg and S. B. Kaufman, Eds. New York: Cambridge University Press, 2011, pp. 827-842.
+

@@ -1,0 +1,38 @@
+... title: The Morphology of Creativity: Structural Correlates in the Human Brain.
+
+
+
+Abstract
+
+Individual creativity is one of the key human cognitive faculties underlying personal and societal success. In the past decade, several anatomical imaging studies have tried to identify _in vivo_ the brain regions associated with creativity [1].
+
+## Research Question
+
+Despite the general finding that some brain structures, in particular the prefrontal cortex (PFC), show correlations with measures of individual creativity, no consistent picture of the regions of interest has emerged in the literature so far.
+
+## Rationale
+
+In this study, we aim to address this problem by investigating the relationship between brain structure (measured as gray matter volume, GMV, and gray matter density, GMD) and various aspects of creativity using several psychometrical measures, including the Creative Achievements Questionnaire, Runco Ideational Behavior Scale, self-reported creativity in everyday life and the remote associates task. All analyses will be controlled for differences in general intelligence (Raven Advanced Progressive Matrices), verbal fluency (word generation test), mindset (Dweck’s mindset questionnaire), affect (Positive and Negative Affect Scale) and personality (Ten Item Personality Inventory).
+
+## Methods
+
+For the first time, this comparison will be made with brain data acquired at ultra-high-field (7 Tesla) allowing for high-resolution structural images which were sampled during a related fMRI experiment about creativity [2]. Using Statistical Parametric Mapping for voxel-based morphometry, our goal is to:
+
+- segment the scans of 50 healthy volunteers (25 female, 22-38 years of age, mean age 26.34) in gray matter, white matter and cerebrospinal fluid,
+- derive GMV and GMD and
+- compute a voxel-wise regression to the behavioral creativity parameters.
+
+## Predictions
+
+We expect to find a significant relationship between GMV or GMD and creativity measures, especially in the PFC, as the previous literature suggests.
+
+## Implication
+
+This research will help to resolve the ongoing debate about the neural anatomical correlates of human creativity and showcase how a crucial, yet very complex, cognitive capacity imprints structurally onto the human brain.
+
+## References
+
+[1] H. Takeuchi, Y. Taki, Y. Sassa, H. Hashizume, A. Sekiguchi, A. Fukushima, and R. Kawashima, "Regional Gray Matter Volume of Dopaminergic System Associate with Creativity: Evidence from Voxel-based Morphometry," _NeuroImage_, vol. 51, no. 2, June, 2010. [Online serial]. Available: https://doi.org/10.1016/j.neuroimage.2010.02.078. [Accessed May 30, 2018].
+
+[2] M. Tik, R. Sladky, C. Luft, D. Willinger, A. Hoffmann, M. Banissy, J. Bhattacharya, and C. Windischberger, "Ultra-high-field fMRI insights on insight: Neural correlates of the Aha!-moment," _Human Brain Mapping_, in press, April, 2018. [Online serial]. Available: https://doi.org/10.1002/hbm.24073. [Accessed May 30, 2018].
+

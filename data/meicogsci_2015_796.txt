@@ -1,0 +1,21 @@
+... title: Music Emotions as Conceptual Acts?
+
+
+
+Abstract
+
+Music can express, regulate and arouse emotions in human listeners and producers. But despite hundreds of studies over several decades it remains unclear what kinds of affects and emotions are elicited by music and how. A recent review of 251 „music and emotion“ studies [1] found inconsistency between competing notions of emotions, data and results. 70% of the studies employed variants of the discrete or dimensional emotion models. A reluctance to commit to the underlying theories of emotions was observed.
+
+A key question is wether music emotions are special and processed by dedicated mechanisms and neural substrates. Juslin [2] has proposed a framework of processes through which sounds are imbued with meaning that shall explain ‚everyday’ as well as ‚aesthetic’ emotion by eight psychological mechanisms: Brain Stem Reflex, Rhythmic Entrainment, Evaluative Conditioning, Contagion, Visual imagery, Episodic Memory, Musical Expectancy and Aesthetic Judgement (BRECVEMA). According to this view, music emotions are a special kind.
+
+Distinctions that oppose aesthetic to practical experiences and emotions find little support in a broader historic and geographic context. Rather, the human ability for music is theorized to be based on functions that have been shaped by evolution in a complex interplay of adaptations, exaptations and spandrels of functions for Auditory Scene Analysis. Thus music emotions should be seen not as a special kind but in in the wider context of human auditory and general cognition. 
+
+Psychological constructivist models of emotion appear to be good candidates to account for the different experiences of musical and everyday emotions. Specifically, I intend to theoretically assess the Conceptual Act Model of emotions recently proposed by Lisa Feldman Barrett [3] for its explanatory power for music emotions and the elicitation of emotions by sound. According to this model emotions are not natural kinds but modulations of core affect through learned concepts that are adapted for each specific situation. The assumption is that emotion experiences rely on domain-general psychological mechanisms that give meaning to situations and context based on prior experience of inner states and the perception of external objects and events.
+
+The method of this study will be systematic interdisciplinary semiotic triangulations of philosophical, psychological and neuroscientific models and data along the graphical model of the matrix of semiosis developed by Martin Krampen.
+
+!!References
+[1] T. Eerola and J. K. Vuoskoski, “A Review of Music and Emotion Studies: Approaches, Emotion Models, and Stimuli”, Music Perception, 30, 307-340, 2013
+[2] P. N. Juslin, “From everyday emotions to aesthetic emotions: Towards a unified theory of musical emotions”, Physics of Life Review, 10, 235-266, 2013
+[3] L. Feldman Barrett, “The conceptual act theory: a précis”, Emotion Review, 6, no. 4, 292-297, 2014
+

@@ -1,0 +1,22 @@
+... title: The Effect of Binaural Beats on Sustained Attention
+
+
+
+Abstract
+
+Neural entrainment is the capability of the brain to synchronize its
+brainwave oscillation frequencies with a frequency of an external stimuli. This
+ability allows us to artificially induce desired type of brainwaves that
+match a particular neural activity corresponding to an intended brain-state.
+The inducing external stimuli can be either visual, tactile, or auditory. Sound stimuli in my study uses binaural beats, perceptual phenomenon induced by two tones of different frequency listened to by each ear separately. The resultant tone caused by the disparity affects the frequency of brainwaves and creates neural entrainment. Our aim was to evoke Beta brainwaves, which has been proven to have a positive effect on long-term and visuospatial working memory [1, 2], and measure its effect on sustained attention, which has not been examined yet.
+
+30 participants with no attentional malfunctions were split into two groups of 15. At first, each group underwent a control sustained attention task without any sound stimuli. Subsequently the participants listened to either binaural beats or pink noise and underwent the same test again. For the experiment a track was created composing of Beta binaural beats of 16 Hz and overlaid with musical tune that makes the listening more pleasant. The control group listened to pink noise, an audio spectrum with an acoustic energy distributed evenly by octave.
+Since none of the reviewed studies using binaural beats for less than 5 minutes showed any significant effects, the track was played for 10 minutes before the cognitive task began to ensure there was enough time for the brain to adjust. Subsequently, the level of sustained attention was tested while the sound stimuli persisted. 
+Sustained attention to response task (SART), a go/no-go test measuring sustained attention was used. The test evaluates the scores of reaction time, the number of omissions and the number of false calls.
+
+The results display significant improvement of sustained attention while listening to the binaural beats in comparison to pink noise and introduce the 16 Hz track as an effective tool in inducing sustained attention in healthy subjects. Further examination detects that the main difference occurred in the reduced number of errors. The reaction time didn’t change significantly. These findings are substantial in a discussions regarding its possible use in real-life tasks. Following studies should focus on defining the most optimal frequencies and time limitations as well as long-term use effect.
+
+## References
+[1] 	M. Garcia-Argibay, M. A. Santed, and J. M. Reales, “Binaural auditory beats affect long-term memory,” Psychological Research, Aug. 2017.
+[2]	C. Beauchene, N. Abaid, R. Moran, R. A. Diana, and A. Leonessa, “The Effect of Binaural Beats on Visuospatial Working Memory and Cortical Connectivity,” Plos One, vol. 11, no. 11, 2016.
+

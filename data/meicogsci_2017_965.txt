@@ -1,0 +1,23 @@
+... title: Psychophysiology of groove: the effects of rhythm and bass on cardiac and respiratory activity
+
+
+
+Abstract
+
+Humans can hardly help but tap, sway, and bob our heads in response to rhythmic sound. In no other species is this auditory-motor connection so widely expressed and flexibly realized.
+
+When investigating the effects of rhythm and bass on humans we built upon the premises that:
+
+1. Rhythm perception in humans involves a coupling of sensory and motor processes [1]
+
+2. Certain musical characteristics have known emotional and psychophysiological effects on the listener. [2]
+
+To investigate how the human body reacts to rhythm we conducted two experiments in which participants listened to musical stimuli presented on a high-fidelity sound system while we recorded electrocardiographic and respiratory activity. In experiment 1, the stimuli consisted of simple drum loops designed to test the effects of syncopation and bass frequencies. In experiment 2, the stimuli consisted of real music samples (from the Janata groove library[1] )selected to test the effects of groove) and bass frequencies. Analyses focus on heart rate, heart rate variability, respiration rate, and respiratory variability, but also examine whether any temporal coordination exists between physiological cycles and musical beats. The results describe cardiac and respiratory responses to key temporal and spectral dynamics of rhythmic music, providing insight into how music engages us.
+
+!!Acknowledgements
+I would like to thank Dr. Daniel Bowling and the Department of Cognitive Biology for giving me the opportunity to participate in the project.
+
+!!References
+[1] P. Janata, S. T. Tomic, and J. M. Haberman, “Sensorimotor coupling in music and the psychology of the groove.,” Journal of Experimental Psychology: General, vol. 141, no. 1, pp. 54–75, 2012.
+[2] M. D. V. D. Zwaag, J. H. D. M. Westerink, and E. L. V. D. Broek, “Emotional and Psychophysiological Responses to Tempo, Mode, and Percussiveness,” Musicae Scientiae, vol. 15, no. 2, pp. 250–269, 2011.
+

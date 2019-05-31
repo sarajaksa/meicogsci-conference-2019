@@ -1,0 +1,15 @@
+... title: COGNITIVE CONTROL IN PATIENTS WITH DEPRESSION
+
+
+
+Abstract
+
+Cognitive control is a term describing processes that jointly enable goal-directed behaviour and thoughts. It is responsible for action planning on several stages, maintenance, and execution. Cognitive control has a limited capacity, meaning that we can only process a certain number of stimuli simultaneously. In complex environments, cognitive control system plays a critical role with its ability of flexible switching between various stimuli and processes. Components that form cognitive control communicate in several stages in subcortical and cortical structures in the brain. Basal ganglia are thought to control cognitive switching by regulating top-down projections from prefrontal cortex to posterior sensory areas. They inhibit cognitive processes that are not task-relevant, enabling the prefrontal cortex to act in accordance with the appropriate behaviour [2]. In many psychiatric and neurodegenerative disorders cognitive control system is impaired. The impairment can be divided into primary and secondary. Primary control disorders are characterised by a neural dysfunction of the control system itself, such as in schizophrenia or bipolar disorder. On the other hand, the secondary cognitive control impairments are exacerbated by the low control system capacity, however their underlying neural dysfunction does not directly affect the cognitive control system. An example of such disorder would be depression [1]. Our research is focused on testing cognitive control in depression and comparing clinical population’s profile with healthy subjects. According to our goals we hypothesise that patients with depression will have several issues with inhibition and integration of the stimuli, their cognitive processes will be less flexible, which will worsen their ability of switching between various task trials. Therefore, there will be a significant difference in cognitive control abilities between the sample of patients with depression and their healthy controls. In our research, a flexible switching task will be developed and used that demands coordinated activity of various cognitive processes and effective cognitive control. Subjects will participate in a detailed psychological testing, and information about their current stage of depression will be obtained. Results are not yet available but we expect that they are going to significantly contribute to our knowledge about cognitive control in depression, which could help develop better treatment and understanding of the depression disorder in general.
+
+
+!!References:
+
+[1] W. M. Cole et al., »The Frontoparietal Control System. A Central Role in Mental Health,« The Neuroscientist, vol. 20, no. 6, pp. 652-664, March 2014.
+
+[2] M. van Schouwenburg et al., »Dopaminergic Modulation of Cognitive Control. Distinct Roles for the Prefrontal Cortex and the Basal Ganglia,« Current Pharmaceutical Design, vol. 16, pp. 2026-2032, March 2010.
+

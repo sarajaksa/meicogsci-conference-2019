@@ -1,0 +1,19 @@
+... title: Integrating Gesture into Automated Reference Resolution
+
+
+
+Abstract
+
+One of the major issues in cognitive science is the complexity of human language and its relation to other cognitive abilities. It is possible to study aspects of linguistic behavior by reconstructing parts of it in artificial systems, for example, in one line of research aspects of situated language use are reconstructed as interactions of artificial agents, so-called language games [1]. Work in computational modeling such as this, as well as empirical and theoretical work, always inform each other, and developments in each line of work can be used to benefit the others.
+
+With that in mind, the present project contributes to this research by performing a literature review concerned with the place of gesture in communication. The importance of gesture for situated language use has been appreciated for a long time, but it remains difficult to study for a number of reasons. The main issue with gestures lies in the fact that their use is not always fully conventionalized, which makes it difficult to describe them formally. Empirically, it is difficult to create corpora concerned with the use of gesture, since it is difficult to record data on all relevant aspects of interaction in an environment. For these reasons, it is currently only possible to provide partial solutions applying to specific uses of gesture.
+
+Reference resolution is the activity of determining what an expression used by another speaker refers to. This ability is of interest since it can occur in the absence of gesture, but also with support of gesture at different level of conventionalization, such as by commonly used hand gestures, or less conventionalized head and body movements. 
+
+The result of this project is a set or proposals for integrating these different lines of research. Previous designs of language games, which already include verbal references to objects [1] or locations [2] can be extended to incorporate gesture, for example, by introducing a multi-modal reference resolution algorithm as proposed in [3]. However, the implementation of these designs goes beyond the scope of this project and is left to future work.
+
+!!References
+[1] L. Steels, The Talking Heads experiment: Origins of words and meanings. Language Science Press, 2015.
+[2] M. Spranger, "The co-evolution of basic spatial terms and categories", in Experiments in Cultural Language Evolution, L. Steels, Ed. Amsterdam: John Benjamins, 2012, pp. 111–147.
+[3] T. Williams, S. Acharya, M. Scheutz and S. Schreitter, "Towards Situated Open World Reference Resolution", in AAAI Fall Symposium on AI and HRI, Arlington, VA, 2015, pp. 142-149.
+

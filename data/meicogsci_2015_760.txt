@@ -1,0 +1,22 @@
+... title: Implementing a Reinforcement Learning Algorithm for Analyzing Probabilistic Reward Processing Tasks
+
+
+
+Abstract
+
+Almost all living organisms follow the same general principle of maximizing rewards and minimizing losses. This can be achieved by repeating behaviours that were rewarded in the past and avoiding behaviours that were punished. During decision making, the brain utilizes a common currency for value which is associated with the predicted outcome of a certain decision and is represented by the mesolimbic dopamine system. This system forms stimulus-outcome associations in order to optimize the likelihood of obtaining future rewards which is called reinforcement learning. The mechanism behind reinforcement learning is based on the reward prediction error, the difference between the expected and actually received reward. The neurochemical correlate of this reward prediction error is represented by the neurotransmitter dopamine in the midbrain [1]. 
+
+To investigate the causal role of dopamine in human decision making, one can use challenge agents to systematically block dopamine receptors and then observe its effects in a probabilistic reward processing task [2]. In this task subjects have to learn to discriminate between stimuli which are associated with gain or loss of money by trial-and-error and subsequent positive or negative feedback. This learning behaviour can be characterized and modelled by using the Q-Learning-Algorithm, which estimates two parameters: alpha, the learning rate, which describes how feedback (gain 1€ vs. lose 1€) influences the subjective value of a stimulus and beta, the temperature, which describes the randomness of choice and reveals the nature of the underlying choice behaviour [3]. 
+
+My final task consists of implementing the Q-Learning technique in the MATLAB® programming environment, which then will be used to analyse further behavioural paradigms of similar nature [1] developed by the Neuropsychopharmacology and Biopsychology Unit at the University of Vienna and also will serve as my first attempt of computational modelling in the domain of decision neuroscience.
+
+!!Acknowledgements
+I would like to thank Dr. Christoph Eisenegger and Dr. Michael Naef for supporting this project
+
+!!References
+[1] C. Eisenegger et al., "Role of Dopamine D2 Receptors in Human Reinforcement Learning", Neuropsychopharmacology, vol. 39, no. 10, pp. 2366-2375, 2014.
+
+[2] M. Frank, "By Carrot or by Stick: Cognitive Reinforcement Learning in Parkinsonism", Science, vol. 306, no. 5703, pp. 1940-1943, 2004.
+
+[3] R. Sutton and A. Barto, "Reinforcement learning". Cambridge, Mass.: MIT Press, 1998.
+

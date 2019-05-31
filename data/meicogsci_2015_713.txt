@@ -1,0 +1,22 @@
+... title: A RAT Paradigm to Find Neural Correlates of the Aha!-effect
+
+
+
+Abstract
+
+Insight is a specific process in the brain, which sometimes is involved in creative problem solving by linking established knowledge in an original manner. Former EEG and fMRI studies revealed cortical activation patterns of insightful problem solving. [1,3] However, none of the studies assessed the effective processing of hints during the tasks. The aim of this fMRI study is to find the neural substrates involved in integrating new information for problem solving. 
+
+A common paradigm to test insightful problem solving is the remote associates test (RAT) [2]. For this study a compound RAT was chosen, in which the task is to find a word that makes three compound words with three stimulus words. Since the original and validated RAT is only available in English, we developed a German version as all the participants are German native speakers. Moreover, after translating the task we conducted a preliminary study using the translated RAT to show the adequacy of the words used in the task with 5 subjects, which yielded similar results as the original test. Another outcome of our work is an online version of the German RAT, an easy applicable and publicly accessible test. 
+
+In the fMRI study 24 subjects were tested using the German RAT. Every trial consisted of a randomly selected item of a set of 135 quadruples. They were instructed to press a button as soon as they had found a solution to the given task and subsequently were asked to provide the last letter of their solution word. After every run they had to rate their level of self-perceived insight and impasse. Their performance was measured on a 7T Siemens scanner; the analysis was performed in SPM12.
+
+At the event of finding a solution with insight the activations showed significant increase in the language areas, right anterior temporal regions, medial areas (i.e. ACC) and subcortical structures. Nucleus accumbens showed stronger activation when a task was solved with insight than without and showed no significant change when no solution was found. During the task period the activation of DLPFC and ACC was linked to the successful use of the hint given after 20 seconds. 
+
+These results not only endorse the former findings [1,3], but reveal for the first time activations in subcortical areas that are associated to insight, which have not been found in previous studies.
+
+!!References
+
+[1]M. Jung-Beeman et al., 'Neural Activity When People Solve Verbal Problems with Insight', Plos Biol, vol. 2, no. 4, p. e97, 2004.
+[2]S. Mednick, 'The associative basis of the creative process.', Psychological Review, vol. 69, no. 3, pp. 220-232, 1962.
+[3]K. Subramaniam, et al., 'A Brain Mechanism for Facilitation of Insight by Positive Affect', Journal of Cognitive Neuroscience, vol. 21, no. 3, pp. 415-432, 2009.
+

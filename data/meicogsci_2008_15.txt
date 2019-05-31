@@ -1,0 +1,32 @@
+... title: Mastering Architecture – Effects of explicit style related information and knowledge on appreciation of contemporary architecture
+
+
+
+Abstract
+
+The cognitive processing model of aesthetic experiences was recently described by Leder, Belke, Oeberst and Augustin (2004) in five processing stages: Perceptual Analyses, Implicit Memory Integration, Explicit Classification, Cognitive Mastering and Evaluation. Following this model, the earliest stages of information processing of architecture are concerned with perceptual analyses. At this stage variables of interest include for example complexity, contrast and grouping. In the stage of implicit processing the results of the perceptual analyses are set in relation to analyses that result directly from previous experience thus prototypicality and familiarity is most important at this stage. The processing stage called explicit classification provides explicit representations of either depictive content or explicit style information of the architecture. 
+As a result two aspects become relevant: a) the amount of the beholder’s expertise in architecture and b) the nature of the architecture. For architecture-experienced viewers a type of style- related processing seems to be representative while for architecture naïve persons a content- related processing is rather typical. Central to the model is the assumption that subjective “success” in processing architecture during the five processing-stages, is thought to be self-rewarding, raises aesthetic pleasure and might also increase aesthetic evaluation. 
+
+In the present study I focus on effects on style-related explicit information on ratings of appreciation of contemporary architecture. The need of individualization in the twentieth century results on a huge competition of artistic styles and concepts. The alternating of styles and trends is getting faster and the development in contemporary architecture is no more comprehensible for laities. Consequently, contemporary architecture requires a particular need for interpretation. Architects provide material, which needs interpretation in terms of style, which comprises structural, formal and technical features of visual appearance. According to Leder, style can be understood as an art-specific representation of visual information that distinguishes amongst different architects. 
+
+To summarize the key assumptions and empirical hypothesis: 
+In the study I want to measure how rating of appreciation for architecture change selectively when explicit style information is instructed. Providing the viewer with explicit information should enhance style-related processing and allow for self-rewarding experiences of successfully mastering the architecture. As a result, aesthetic appreciation should increase selectively for the architecture with additional information.
+
+A premise of the Master Thesis is that architecture as a phenomenon of culture is beside the fulfillment of functionality a fact of communication. Due to the assumption that the mastering of architecture is related with the state of expertise of the observer, an exchange of information between experts and non-experts or an interdisciplinary discourse is rather difficult. 
+
+Method
+Within the fields of experimental psychology I am using an empirical study investigating if and how appreciation of subjects is affected by information. 
+
+40 Participants in 2 groups, 50:50 experts and non-experts due to a personal data sheet and acquired at the Austrian chamber of architects, will see a ppt-presentation of 3 sets of 18 different architectural models from an invited international architectural competition for the site of the former Stern Brewery at Rainberg, Salzburg. Each of these sets contains the same pictures (3 of each model) but have a different degree of information content. 1st set: no additional information beside the pictures, 2nd set: information in context with the location, the criteria of the investor, and the assignment. 3rd set: additional information about the intentions of the architects, stylistic features, used material, etc. Two control groups (again 50:50 experts and non-experts) will only see three repetitions of set 1 without any additional information.  
+
+During each session the participants have to judge the architectural models spontaneous (every model is presented 45 seconds) with a seven-point-scale which comprise cognitive as well as affective aspects of aesthetic processing (a) understanding will be measured by a scale whether the participant believed to have understood the architect’s intention; (b) Meaning by whether they found a personal meaning in the architects work; (c) Liking by whether they liked the architecture; (d) Interest by whether the architecture evoked their interest; (e) Emotions by whether the architecture affected them emotionally; and (f) Thoughts by whether the architecture evoked thoughts in them. All ratings will be given on a on a seven-point scale from 1 (fully agree) to 7 (fully disagree). 
+
+Expected results
+Changes in rating of architecture appreciation due to two different ways of information will be of most interest. I will further analyse influences of style-related information as related to the participants’ level of architecture expertise. I am expecting that novels in architecture are willing to increase their appreciation towards contemporary architecture, instead experts hold on their first ratings. 
+
+Further use
+In this experiment I am going to show under which conditions processing of explicit information can change appreciation of contemporary architecture. I suggest that aiming to understand aesthetic appreciation of architecture should consider a larger number of variables such as expertise of the beholder, in order to understand the complexity of processes in architecture appreciation. This, together with the strategy to combine cognitive and affective aspects might be a good strategy to understand the fascination of architecture despite the differences between perceivers.
+
+Reference
+ Leder, H., Belke B., Oeberst, A., Augustin D., (2004) A model of aesthetic appreciation and aesthetic judgements, British Journal of Psychology, 95, 489-508.
+

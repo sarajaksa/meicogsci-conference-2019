@@ -1,0 +1,20 @@
+... title: Neural Correlates of Cross-linguistic Laryngeal Contrasts
+
+
+
+Abstract
+
+The aim of this research is to further our understanding of how the brain processes sound structures of speech through testing the phonological theory of underspecification (UT). This involves examination of the event-related potentials of a minimally contrastive pair of phonemes across a sample of native German and Croatian speakers in an oddball paradigm.
+
+A speaker’s phonology discriminates contrastive and varied speech sounds from the acoustic signal of our environment. A sound segment can be categorised by features such as manner and place of articulation, as well as the laryngeal specification generally referred to as voicing. UT claims that the brain doesn’t process all features available in the acoustic signal, rather only specifying those relevant to that language’s phonology [1]. 
+
+Categorical discrimination of phonemes along a temporal dimension called voice onset time (VOT) is the one factor distinguishing words such as ‘tart’ from ‘dart’. VOT is defined as the time difference between the articulatory release of a consonant in the mouth and the activation of vocal fold vibration in the larynx. In Germanic languages VOT is very long, which has led researchers to claim [spread glottis] as the feature specifying aspiration [2]. For short VOT language families such as Slavic, however, [voice] is the feature that is specified. 
+
+In order to test the theoretical assumptions of UT for laryngeal contrasts, I am designing an oddball experiment in search of mismatch negativity (MMN, [3]). Deviant stimuli differ minimally from the standards along the dimension of VOT. This difference is in turn responsible for categorical differentiation of [d] and [t] sounds. If the predictions of UT are correct, then we should expect to find asymmetries between the MMN between short VOT [d] and long VOT [t] stimuli within each language. Further, if the predictions of [2] are also correct, and Germanic differs from Slavic phonologies in their processing of feature contrasts, then we should find exactly the opposite distribution of MMN between speakers of the two languages.  
+
+!!References
+
+[1]	D.Archangeli, “Aspects of Underspecification Theory”, Phonology, vol. 5, no. 2, pp. 183-207, 1988.	
+[2]	G. K. Iverson and J. C. Salmons, “Aspiration and Laryngeal Representation in Germanic”, Phonology, vol. 12, no. 3, pp. 369–396, 1995.
+[3]	R. Näätänen, A. W. Gaillard, and S. Mäntysalo, "Early selective-attention effect on evoked potential reinterpreted". Acta Psychologica, vol. 42, no. 4, pp. 313–29, 1978.
+

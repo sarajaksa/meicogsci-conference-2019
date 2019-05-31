@@ -1,0 +1,20 @@
+... title: !!Spectral analysis: case study of EEG in young adults
+
+
+
+Abstract
+
+!!Spectral analysis: case study of EEG in young adults
+!!Introduction: The purpose of the study was to process spectral analysis of EEG of ten age-matched healthy subjects that were later compared with spectral analysis of EEG of HIE patients who were part of a broader topic research. The latter learning disorder was observed in mild to moderate hypoxic-ischemic encephalopathy (HIE) patients in the absence of other neurological consequences. Spectral analysis was used to find specific frequency characteristics in alpha rhythm. The spectrum was expected to show coherency of learning success and local maximum of alpha oscillation. 
+Hypoxic-ischemic encephalopathy (HIE) is a condition after oxygen deprivation in the brain. Usually the term refers to injury sustained by newborns after injury or complications during birth but in general it refers to condition in which the brain does not receive enough oxygen. Other causes: respiratory failure, drug overdose, choking, extremely low blood pressure, drowning, blocked or ruptured blood vessel and others. The disease can cause long-term damage, including intellectual disability, delayed development, seizures, and cerebral palsy. It can also be fatal.
+
+!!Methods: We studied ten healthy students: 5 females (50.0%) and 5 males (50.0%), mean age 23.2±1.1 years. Participants were examined and interviewed, follow-up with the EEG after sleep deprivation. They were also asked not to consume any alcohol, drugs and/or caffeine because of its possible impact on the alpha rhythm. EEG was made with 30 electrodes and recorded at 256Hz sampling rate. Electroencephalographic signals' features present wide frequency range and for that reason we used spectral analysis to decompose the signal into brain rhythms. When processing data we observed local maximum of alpha rhythm in relation to learning success of individuals who were declared not to have any learning problems in the past. 
+
+!!Results: In our group of healthy students 10 (100 %) had local maximum at mean 7 ± 1 Hz. Median value of spectrum rebounds was 57%, with distribution of values ranging from 18% (25th percentile) to 162% (75th percentile). These were successful students with no learning problems.
+
+!!Conclusions: Local maximum in the alpha spectrum is observed in young healthy people with no learning disorder, while it is absent in patients with mild to moderate HIE showing learning disorder problems. With results of spectral analysis we can observe correlation of ones neurological features and learning success. For now we cannot talk about statistically relevant data, however, a follow-up research which will include more participants is planned in the near future.
+
+!!References:
+D.A. Kaiser, “Basic principles of quantitative EEG,” in Journal of Adult Development, Vol. 12, Nos. 2/3, August 2005.
+A. Belič, M. Cukić, D. Neubauer, T. Bregant, “Identification of the Long-Term Effects of Mild to Moderate Neonatal Ceregral Hypoxia Based on EEG Signals Analysis,” presented in 7th Vienna Conference on Mathematical Modelling, Vienna, Austria,2012.
+

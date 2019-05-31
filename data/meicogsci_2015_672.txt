@@ -1,0 +1,21 @@
+... title: "Effects of Pursed Lip Breathing exercises on blood pressure and heart rate"
+
+
+
+Abstract
+
+!!Introduction
+It is known that breathing affects heart rate, which is viewed as heart rate variability (HRV) and explained as respiratory sinus arrhythmia (RSA). RSA occurs during a breathing cycle via vagus nerve.[1] Additionally slow, relaxed breathing has been used to temporarily reduce blood pressure.[2] Pursed lip breathing (PLB) is a widely known breathing technique that requires subjects to exhale through pursed lips in order to make exhalation longer.[3] Present research represent a good base for further research on the effects short breathing has on our body.
+!!Objective
+In the present study we observed ability to reduce blood pressure and heart rate with 5 minutes PLB exercise in healthy adults.
+!!Methods
+Eighteen healthy adults (ten female; eight male; mean age 34.3 years; range 23­-62 years) were recruited for this research. We measured their baseline (blood pressure, heart rate) three times in a row with the rest of 1 minute in between each measurement. After doing baseline measurement, participants were asked to perform the intervention, which consisted of performing PLB according to Cleveland Clinic’s guidelines for approximately 5 minutes. After intervention we measured heart rate and blood pressure again with the same procedure.
+!!Results
+Mean percentage of systolic blood pressure change was ­0.02 ±0.1. Mean percentage of diastolic blood pressure change was ­0.05 ±0.15. Heart rate increased in almost all participants by 0.01 ±0.08. Mean value of mean blood pressure change was ­0.04 ±0.12. The correlation of mean arterial pressure change and mean arterial pressure before was -­0.2. 
+!!Discussion
+The values in the data set are farther away from the mean, on average, which may have been caused by distractions from the environment that resulted in variable blood pressure change in various subjects as well as it reflects a large amount of variation in the group that is being studied. The correlation of mean arterial pressure change and mean arterial pressure points out that higher blood pressure leads to greater blood pressure reduction with PLB, meaning all the subjects with mean blood pressure above a certain limit (above normal blood pressure 120/80) at the beginning of the research showed decreased mean blood pressure after intervention.
+!!References
+¹Hirsch, Judith Ann and Beverly Bishop, "Respiratory sinus arrhythmia in humans: how breathing pattern modulates heart rate," American Journal of Physiology-Heart and Circulatory Physiology, vol. 10, no. 4, pp. 241.4, Oct. 1981
+²Joseph, Chacko N et al., "Slow breathing improves arterial baroreflex sensitivity and decreases blood pressure in essential hypertension," Hypertension, vol. 46, no. 4, pp. 714-718, Oct.2005
+³Nield, Margaret A et al., "Efficacy of pursed-lips breathing: a breathing pattern retraining dyspnea reduction," Journal of cardiopulmonary rehabilitation and prevention, vol. 27, no.4, pp. 237-244, Jul-Aug. 2007
+

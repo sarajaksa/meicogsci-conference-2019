@@ -1,0 +1,17 @@
+... title: Neural Entrainment to Musical Rhythms in Dyslexia
+
+
+
+Abstract
+
+Across languages, dyslectic individuals show difficulties in representation and/or processing of speech sounds . Recently proposed “temporal sampling framework” (TSF) suggests that this phonological deficit may arise from reduced sensitivity to speech prosody and syllable structure [1]. State of the art neural models of speech perception suggest that auditory system “samples” continuous speech by entraining (phase-locking) endogenous neural oscillations to its spectro-temporal modulation patterns at different timescales. TSF proposes that dyslectics may exhibit atypical entrainment at slow frequencies (<10 Hz), corresponding to syllable and prosodic structure of speech. This would explain observed difficulties in perceiving speech rhythm and its acoustic correlates. 
+Low-frequency neural entrainment to the stimulus temporal structure has been similarily proposed in musical rhythm perception [2] and thus TSF predicts deficits also in tasks involving processing of musical rhythm. Dyslectics indeed show difficulties in behavioral tasks requiring rhythm perception, sensorimotor synchronization, and also impaired neural entrainment to simple isochronous stimuli. 
+When listening to musical rhythm, humans are able to perceive steady pulse (beat) to which they synchronize body movements (e.g. foot tapping). Listeners usually perceive multiple hierarchically nested levels of periodicities (integer ratios of the beat frequency) in the same rhythm, called meter. In syncopated rhythms, the beat is not predominant in the acoustic structure and top-down processes are required in order to establish the beat perception. Neural entrainment to meter can be captured by frequency tagging approach measuring steady-state evoked potentials (SSEP) in scalp EEG [2]. 
+As no study up to date investigated neural correlates of meter perception in dyslexia, the current study aimed to examine neural entrainment to musical meter in adult dyslectic (D) and control (C) participants. While EEG was recorded, subjects listened to either syncopated or non-syncopated rhythm. It was hypothesized that overall magnitude of SSEPs at meter related frequencies will be lower in dyslectics. This effect was expected to be more pronounced in the syncopated rhythm condition, as it places higher demands on the brain network that is supposed to process temporal structure of sound. 
+Preliminary results (N = 7 D and 11 C) did not support either hypothesis.
+However, unexpected differences were found in very low frequencies, what might be explained by differences in perceived meter between groups. Higher number of participants is needed to confirm this effect.
+
+!!References
+[1]	U. Goswami, “A temporal sampling framework for developmental dyslexia,” Trends Cogn. Sci., vol. 15, no. 1, pp. 3–10, Jan. 2011.
+[2]	S. Nozaradan, “Exploring how musical rhythm entrains brain activity with electroencephalogram frequency-tagging,” Philos. Trans. R. Soc. B Biol. Sci., vol. 369, no. 1658, pp. 20130393–20130393, Nov. 2014.
+

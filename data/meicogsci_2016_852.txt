@@ -1,0 +1,17 @@
+... title: Innovating Interpreting: User Profiles for Programmers
+
+
+
+Abstract
+
+An innovation needs to be (radically) new, but at the same time fitting into the market, thus leading to sustainable and thriving dynamics in its interaction with e.g. the user [1]. In a three-semester-project, Carina Trapl and I are employing an innovation process based on emergent innovation [1], with one goal being the development of an app for note-taking. The app should serve as an aid for consecutive interpreters and thus I see this project as relevant for cognitive science, because it is dealing with the question of how to develop technology to best aid people in cognitively demanding tasks.
+In the current semester, I am doing research on usability because I consider it as a good way to ensure staying as close as possible to users and their needs in order to ensure that the app can connect to the market and though that help the people that might need it.
+My research question is: What challenges do interpreters face during the process of consecutive interpreting? 
+My goal is to represent these challenges via user stories. These are fictional stories from a user’s point of view, created typically by a person who is not involved in the programming process itself. These stories can be used all along the programming process to not lose touch with possible future users and check if one is still on the right track. As far as I know there are no user stories for consecutive interpreters so far. 
+For creating such user stories, literature research and semi-structured qualitative interviews with professional interpreters and students were conducted. The analysis of these suggests, that many different expectations, fears, strategies and personal styles of note taking need to be taken into account during programming. Additionally, research has shown that there are cultural differences in perception and thinking which can have a great impact on evaluating usability [2]. This leads me to the conclusion that these cultural differences might not only play a role in evaluation but also in user experience itself and thus need to be already taken into account while designing and programming the app in order that users all over the world can use it, which could be done by providing different layouts of the same app for different cultural target groups.
+For creating user stories I conform to the 14 quality criteria by Lucassen et al [3].
+!!References:
+[1] M.F. Peschl, T. Fundneider & A. Kulick, “On the limitations of classical approaches to innovation. From predicting the future to enabling ‘thinking from the future as it emerges’,” in Designing the Future: Economic, Societal and Politcal Dimensions of Innovation, Wien, Austria: Echomedia, 2015, pp. 454-475.
+[2] T. Clemmensen et al. “Cultural cognition in usability evaluation,” in Interacting with Computers, 2009, pp. 212-220.
+[3] G. Lucassen et al. “Forging High-Quality User Stories: Towards a Discipline for Agile Requirements,” in 2015 IEEE 23rd International Requirements Engineering Conference (RE), Ottawa, Canada: IEEE, 2015, pp. 126-135.
+

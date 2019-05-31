@@ -1,0 +1,17 @@
+... title: The Co-Creation of Meaning: A Qualitative Investigation
+
+
+
+Abstract
+
+When humans “understand” something, they think of this understanding as the something’s “meaning”. Yet, “meaning” is used variedly in linguistics, philosophy and psychology. It remains open what part “meaning” plays in cultural systems, what social role it serves and what epistemic (and hence cognitive) function it fulfills.
+When investigating the interdependence of social dynamics and cognitive processes, the question of meaning often is not of primary interest. Sperber/Wilson [1], however, present the “principle of relevance” to explain communicative understanding (i.e. meaning in linguistic interaction) by a general cognitive principle of maximizing relevant information. Further investigation seems pertinent, whether this conversational account scales up to collective sense-making, i.e. “co-creation of meaning”.
+Groups negotiate meaning by communicating about their member’s experiences. Settings of knowledge creation could serve as case studies of highly acculturated environments, in which groups engage in meaning-creation. An empirical investigation addresses the following research question: What notions of meaning do individuals in a knowledge creation setting adopt and what role does subjective relevance play? The qualitative, exploratory approach employed allows open, in-depth examination of this salient phenomena, reducing the risk of imposing external theories onto the observations.
+Data was gathered during a seminar on knowledge creation and innovation by the University of Vienna and Vienna University of Technology from March to June 2015. The didactic design followed the “Theory U” process by C. Otto Scharmer [2]. In teams of 4-7, students worked on a self-chosen project towards realizing a prototype. Data was taken from student’s (N=17) personal journal entries, reporting on their learning and group process at seven points during the term.
+The material is currently analyzed with Grounded Theory Methodology (GTM). According to Charmaz [3], GTM aims to build a theory by “constant comparative methods”, i.e. comparing data with data, towards theoretical saturation. GTM is suitable for analyzing latent patterns in elicited texts, such as diary entries [3]. 
+Based on this abductively generated theory, conceptual and empirical scrutiny should be applied in future projects. Findings of this project could shed new light on collective sense-making and yield ways to strengthen educational or professional settings through social learning.
+!!References
+[1] D. Sperber and D. Wilson, “Précis of Relevance: Communication and Cognition,” Behav. and Brain Sci., vol. 10, no. 4, pp. 697–754, 1987.
+[2] C. O. Scharmer, Theory U. Leading from the Future as it Emerges. The Social Technology of Presencing. Society for Organizational Learning, Cambridge, 2007.
+[3] K. Charmaz, Constructing Grounded Theory. A Practical Guide through Qualitative Analysis. SAGE Publications Ltd, 2006.
+

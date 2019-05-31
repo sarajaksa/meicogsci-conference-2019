@@ -1,0 +1,19 @@
+... title: Mechanisms of Integration of Neural Activity for Efficient Cognitive Control
+
+
+
+Abstract
+
+Cognitive control is an umbrella term that covers a number of  top-down processes that guide thought and behavior in accordance with current goals, especially when bottom-up stimuli and automatic, habitual responses either do not specify a direction or must be overridden because they conflict with those goals [1]. The ability of dynamically responding to changing circumstances and demands of the environment is one of the fundamental faculties allowing us successful and efficient goal-oriented behavior. 
+The key element of cognitive control are so-called task sets. They are shaped and retained as mental representation of a number of processes needed for task completion that may be reused when faced with a similar context. When we find ourselves in new situations, however, these task sets are not adequate, and we are forced to alter our automated behavioral patterns, or at least overcome them and establish a new configuration. Quick shifts between the usage and adaptation of previously learned task sets, and the creation of new ones allow us efficient and flexible behavior in dynamic every-day environments. 
+On the level of neural functioning in goal-oriented behavior, a concert action of separate brain regions and systems, each performing specific functions, is required. From the point of view of neural circuits, the key role in enabling cognitive control is performed by the prefrontal cortex, the parietal sections of the brain, and subcortical structures (especially the basal ganglia) [2].
+Over the course of the current research, we seek to determine which are the mechanisms that enable us to flexibly shift between different activities, which brain systems are involved in efficient integration of neural functioning, and how they relate to individual's general cognitive capabilities. 
+Subjects participate in the research over the course of two sessions. At the first session subjects are asked to perform a series of behavioral tests of cognition. During the second session the subjects perform a computer-guided test of cognitive control. They are asked to react to various simultanius stimuli presented via headphones and screen and required to judge as quickly as possible whether the presented stimuli correspond to various combinations of rules. During the performance of the task we monitor their brain activity using functional magnetic resonance imaging (fMRI).
+Research work is currently in the phase of gathering data, therefore results are not yet known.
+References:
+
+1.	C. Lustig & H. Eichenbaum. “Editorial overview: Cognitive control: Diversity of domains, parallels in mechanism” in Current Opinion in Behavioral Sciences, 1, 2015, pp. 4-7
+
+
+2.	V.A. Politakis. (2006). Kognitivni nadzor: od vsakdanjega življenja do bolezni [Online].  Available FTP: www.sinapsa.org Available: http://www.sinapsa.org/eSinapsa/clanki/204/kognitivni_nadzor_od_vsakdanjega_zivljenja_do_bolezni#fnref:10
+

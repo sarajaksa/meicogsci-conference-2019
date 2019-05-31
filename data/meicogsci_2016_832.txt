@@ -1,0 +1,19 @@
+... title: Deep Reinforcement Learning for Computer Games
+
+
+
+Abstract
+
+!!Motivation
+Designing an artificial agent that can autonomously perform actions and learn with minimal amount of supervision is one of the biggest challenges in the field of artificial intelligence. One of the approaches to this challenge is reinforcement learning (RL), which is a subfield of machine learning concerned with the question of how should a system (an agent) select actions in some environment so as to maximize the cumulative value known as reward. An agent has to infer the optimal action from a reward that is determined by the environment and from observations of the state of the environment. Although there are many algorithms for learning optimal action selection function or policy, only the recent advancements in the field of deep learning made it possible to learn policies from the high-dimensional representations of complex environments. Our primary focus is on the Deep Q Learning algorithm [1], which uses deep neural networks to learn optimal policies based on the high-dimensional representation of the environment [1]. So far, Deep Q Learning was used for learning policies in various domains such as arcade games, robotic control tasks or board games. We think that deep reinforcement learning algorithms like Deep Q Learning could be used as a basis of a controller in more complex tasks, for example in autonomous car control.
+
+!!Method
+There are three main goals that we want to achieve in this work. First, we  examine the theoretical basis of RL algorithms including the biological significance of this concept. Secondly, we examine discrete and continuous versions of the Deep Q Learning algorithm. We also consider potential extensions of the Deep Q Learning algorithm based on the current development in the field of deep learning. More specifically, we  consider the possibility of endowing Deep Q Learning agent with the core cognitive competences or “ingredients” of the human intelligence that are necessary for artificial agents in order to act as competent agents in an environment. Among these competences is developmental start-up software, learning by rapid building of the models of environment and fast thinking [2]. Thirdly, we attempt to replicate and improve upon some of the results from [1] in the realm of arcade computer games. For this purpose, we use our own Python based implementation of Deep Q Learning algorithm. 
+
+!!Acknowledgements
+I would like to thank my supervisor prof. Ing. Igor Farkaš, Dr. for his support and advice. 
+
+!!References
+[1] V. Mnih, K. Kavukcuoglu, D.  Silver, et al.,"Human-level control through deep reinforcement learning", Nature, vol. 518, no. 7540, 2015, pp. 529-533.
+[2] B.  Lake, T.  Ullman, J.  Tenenbaum and S.  Gershman, "Building Machines That Learn and Think Like People", Arxiv.org, 2016. [Online]. Available: https://arxiv.org/abs/1604.00289.
+

@@ -1,0 +1,19 @@
+... title: Mortality in American novels (1900-1999). A quantitative analysis.
+
+
+
+Abstract
+
+The purpose of this study is to investigate the cognitive attractivity of death, especially violent mortality in the 20th century American literature. The most important assumption behind the project is that fiction exaggerates the odds of dying from an agentive death [1]. It is assumed that fiction can be considered to be a kind of threat simulator [2], meant to simulate a very specific kind of threats: ordeals. Ordeals differ from threats because we cannot take precautions in order to prevent them from occurring, nor can we prepare ourselves for these ordeals, except by simulating them in our heads [3]. 
+
+The study has been conducted in a form of quantitative analysis of a corpus of 744 novels, including general, violent, science fiction, and fantasy. These novels had to be written by an American citizen in English between the years 1900-1999. There is only one book per author, no co-authored books, no unfinished books or short stories compilations, no children or young adult novels. All novels with a Wikipedia summary and satisfying these conditions were included. The corpus has been manually coded. 
+
+The aim of the study is to compare the odds of dying in fiction with the odds of dying in real life. Specifically, we investigate the absolute mortality rates in fiction assuming that overall mortality would be much higher in fiction than in real life. We looked at three types of deaths- agentive, accidental, and natural. This prediction was tested against two baselines- a generous and a conservative one. Results show that homicides are least likely to occur in real life, but are massively over-represented in fiction. Accidents are over-represented and natural deaths are slightly over-represented in fiction than in real life. It is important to state that this concerns also mainstream, non-genre fiction. It is not an effect due to crime or horror novels. 
+
+We also investigated the proportion of accidental deaths due to predation since predation was a common ordeal in our evolutionary past and should be over-represented. The results show that the average frequency of predator attacks is significantly above our baseline 0,0001% and predation was found in all investigated genres. It is interesting that even realistic fiction features predation, sometimes at risk of stretching the limits of realism. However, analysis and interpretation of the data is still in progress. 
+
+!!References
+[1] O. Morin, A. Acerbi & K. Havlíčková, “Mortality in American novels (1900-1999): A quantitative analysis,“ unpublished.
+[2] A. Revonsuo, “The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming,“ Behavioral and Brain Sciences, 2000, 23:793-1121. 
+[3] P. Boyer & P. Liénard, “Why ritualized behavior? Precaution Systems and action parsing in developmental, pathological and cultural rituals,“ Behavioral and Brain Sciences, 2006, 29, 1-56.
+

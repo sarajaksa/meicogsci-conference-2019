@@ -1,0 +1,24 @@
+... title: Mu rhythm modulation as a result of hand-movement observation
+
+
+
+Abstract
+
+!!!! Mu rhythm modulation as a result of hand-movement observation
+!! Intro
+
+Motor resonance, as demonstrated by mu rhythm attenuation around motor cortex, has been linked to the activity of mirror neurone system in humans. The basic idea - the activation of neurones in human brain normally detected when subject executes motor action is also present when subject observes particular action being executed by someone else. [1]
+!! Pilot experiment
+In this pilot experiment, participants (healthy males and females aged between 20 and 30 years) observed various movements of a hand from the profile. Four conditions in total (flat hand without movement, object-oriented grasp, grasp without the object and social grasp) were presented on a screen, separated by the baseline condition. 
+!! Hypotheses
+Hypothesis stipulates that mu rhythm should be desynchronised while observing hand movement, and also that flat hand should exhibit the least amount of rhythm modulation, followed by the pantomime condition (missing object grasp). [2]
+Social condition should also result in statistically significant desynchronisation, although the amplitude with respect to the other conditions is questionable, given the more complex nature of this particular stimuli. [3]
+Preliminary results from the pilot (N=9) are well in line with hypothesis (p<.001) and currently the data is being analysed with a different approach (3 conditions with respect to the flat hand - no hand movement condition).
+The pilot gave rise to another interesting aspect of the study - contralaterality - which has been addressed in previous research. This led to adding of two new conditions - where the subjects observed horizontally inverted videos of the same hand movements. Updated list of hypotheses then includes the contralaterality hypothesis - given that all the subjects were right handed, significant difference should be observed in lateral electrodes C3 and C4 between the same movement (e.g. object oriented movement), but different conditions (right to left hand movement vs. left to right).
+The data acquired during the actual research experiment is being analysed and will be presented at the conference.
+!! References
+
+ [1] G. Rizzolatti et al., “Premotor cortex and the recognition of motor actions,” Cognitive Brain Research, vol. 3, no. 2, pp. 131-141, 1996.
+ [2] S. D. Muthukumaraswamy et al., “Mu rhythm modulation during observation of an object-directed grasp,” Cognitive Brain Research, vol. 19, no. 2, pp. 195-201, 2004.
+ [3] Streltsova, A., Berchio, C., Gallese, V., & Umilta, M. A. (2010). Time course and specificity of sensory-motor alpha modulation during the observation of hand motor acts and gestures: a high density EEG study. Experimental brain research, 205(3), 363-373.
+

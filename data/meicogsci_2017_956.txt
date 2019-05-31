@@ -1,0 +1,19 @@
+... title: Midsession Reversal Learning in Dogs (Canis familiaris)
+
+
+
+Abstract
+
+In their natural environment, animals are required to adapt to constant changes, the ability which reflects their fitness. This calls for a certain amount of behavioural flexibility, which has traditionally been used to identify differences in the general level of intelligence of animals. A commonly used task for studying behavioural flexibility is the reversal learning task, dealing with the ability to respond to changes in contingency and the un-learning of a previously learned stimulus [1]. Reversal learning studies suggest a correlation between the differences in learning abilities of different animal species and their ordering along an evolutionary scale, with phylogenetically related species performing similarly well [2]. 
+
+The type of reversal learning task used here is referred to as the mid-session reversal task [3]. In this procedure each session involves a simple simultaneous discrimination, beginning with one stimulus (S1) as the correct one and a different stimulus (S2) as the incorrect one (i.e., S1+, S2–). Halfway through the session the discrimination reverses (S2+, S1-). The optimal strategy for solving this task is to rely on local feedback, basing one’s choice on the outcome of the last trial and shifting to the alternative option when the reversal happens, thus employing the so called win–stay/lose–shift response strategy. 
+
+Tests on rats show, that they follow the optimal strategy, whereas pigeons consistently make anticipation errors before and perseverative errors after the reversal, suggesting that the number of trials serves as a cue for reversal [3]. However, it has also been noted that pigeons outperform dogs on the mid-session reversal task [2]. These results are inconsistent with the suggestion that dogs perform similarly to a species with a closer phylogenetic relationship (the rats). 
+
+The present study’s aim is to verify previous results [2] and to learn more about the dogs’ strategy to maximize reinforcement on a midsession reversal task. This will be done by testing 20 dogs, using a visual or visual-spatial discrimination task, on a touch-screen computer. Each session will consist of 40 trials of discriminating between two different geometrical shapes, until 60 sessions are reached. The results will be used for further comparative studies to study the influence of phylogenetic relatedness on reversal learning abilities.
+
+!!References
+[1] M.E. Bitterman, “Phyletic differences in learning,” American Psychologist, vol. 20, no. 6, pp. 396-410, 1965.
+[2] J.R. Laude et al., “Who are the real bird brains? Qualitative differences in behavioral flexibility between dogs (Canis familiaris) and pigeons (Columba livia),” Animal cognition, vol. 19, no. 1, pp. 163-169, 2016.
+[3] R.M. Rayburn-Reeves et al., “Simultaneous discrimination reversal learning in pigeons and humans: Anticipatory and perseverative errors,” Learning & Behavior, vol. 39, no. 2, pp. 125-137, 2011.
+

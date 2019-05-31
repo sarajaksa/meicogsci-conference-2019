@@ -1,0 +1,23 @@
+... title: Recurrent Neural Network Model of Phonological Development Using Distributed Representations
+
+
+
+Abstract
+
+## Context
+
+The goal of present thesis is to build a psycholinguistically plausible computational model of phonological development, inspired by the existing models by Takac et al.[1] and Dell et al. [2]. Takac’s [1] current model of phonological development is considering localistic representations of phonemes and word-meanings (one-hot vectors, more technically). Moreover, according to their study, even the localistic neural activations provide an explanation for several patterns shown by infants during phonological development. 
+Merely all the neurobiological or even neuro-imaging studies claim, that neural activations are distributed within the brain; Moreover, when such an area, where an activation pattern is exceeding during a given treatment, cannot be considered as the brain area responsible for that phenomenon. Suggesting, that every brain area respond to different treatments to different extent. Our thesis aims to reproduce this phenomenon within the hidden layer of our network.
+
+## Method
+
+Thus, in the experimental part of our work, we developed a Simple Recurrent Neural Network (SRN) model, trained under circumstances of the source study [1]. However, in our study, phoneme and even the meaning representations are modified in a neurobiologically more plausible way. The model is tested for performance during the training, analogically to children learning their first 300 words, approximately in their first two years. Nevertheless, even the methodology of analyzing infant’s data will be maintained, accounting for phonological Neighborhood density and related phenomena.
+
+
+## Results
+
+Our results suggest, that the phonological Neighborhood Density effect is not necessarily related to localness of representations. In line with our novel findings, we provide an alternative explanation of the present phenomenon. Furthermore, speech error analysis is presented, in order to better understand and to support our hypotheses based on the Parallel Distributed Processing Paradigm [2]
+
+[1] Takac, M. and Knott, A. and Stokes, S.: What can Neighbourhood Density effects tell us about word learning? Insights from a connectionist model of vocabulary development. Journal of Child Language 44(2). 346-379. 2017
+[2] Dell, G., Juliano, C. & Govindjee, A. (1993). Structure and content in language production: a theory of frame constraints in phonological speech errors. Cognitive Science 17(2), 149–195.
+

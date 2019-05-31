@@ -1,0 +1,34 @@
+... title: Bewextra Implement: A Method to Prioritize Needs to Facilitate Organizational Learning Processes
+
+
+
+Abstract
+
+A need can be defined as a necessity for a purpose (e.g. flourishing). Humans are usually unaware of their needs [1] but explicit knowledge about needs can facilitate organizational learning processes (OLPs). The dichotomy between needs and their satisfaction is characterized by a one-to-many relation (many possible satisfiers for a need). Explicit need-knowledge helps to escape binary decisions on a satisfier level. 
+
+Bewextra [2] is a method to assess implicit need-knowledge for OLPs and covers three steps. In Bewextra-Collect, we acquire data by asking system members to report their dreams and wishes in a workshop setting. In Bewextra-Analytic, we generate hypothesis about needs using abductive reasoning. In Bewextra-Validate, we ask system members to validate the need hypotheses. Bewextra results in a catalogue of explicated and validated but no prioritization can be derived. However, experience during several projects shows that a prioritization would be helpful for implementation.
+
+!!Research Question
+The following research question was derived: How could we prioritize needs to inform need-based-decision making? 
+
+!!Results
+We propose Bewextra-Implement to assess the importance of needs along three dimensions. 
+
+*) We assess the perspective of system members on needs (I), by asking them to rate the importance of their needs: the rate of approval of the need hypotheses (I1), the perceived importance of a need by a ranking (I2) and the current level of members need satisfaction. 
+
+*) We assess an external view on needs (E). Researchers facilitating the OLP rank them (E1) and employ a sophisticated measure of clusters created in Bewextra-Analytic (E2).
+
+*) We assess a systemic view using a cross-impact-matrix [3] (S) which reflects the leverage potential of needs in a network. This indicates whether a need has a high influence on other needs (active) or gets more influenced by other needs (passive) (S1). Furthermore, a need can be much involved in the system (critical) or not so much involved (buffering) (S2).
+
+All resulting values are rescaled on a scale from 1 -10 and connected to a weight (α - ζ) which allows decision makers to develop different scenarios. Every need assessed results in a M-value. A higher value indicates a relative priority.
+
+The following measure results:
+M(Need 1…n) = α * I1 + β * I2 + γ * E1 + δ * E2 + ε * S1 + ζ * S2.
+
+This interdisciplinary research as part of cognitive science (focus on human needs & decision making) helps to uncover which necessity generates the highest potential to fulfill an organizations purpose. 
+
+!!References
+[1] S. K. McLeod, “Knowledge of need", International Journal of Philosophical Studies, vol. 19, no. 2, pp. 211 - 230, 2011.
+[2] A. Kaiser, B. Fordinal, and F. Kragulj, “Creation of need knowledge in organizations: An abductive framework" in 47th Hawaii International Conference in System Sciences, Kauai, HI, 2014, pp. 3499 - 3508.
+[3] F. Vester, „Die Kunst vernetzt zu denken“, München, Germany, DTV, 1999.
+

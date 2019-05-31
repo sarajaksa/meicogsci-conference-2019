@@ -1,0 +1,17 @@
+... title: Effects of Mortality Salience on Schadenfreude Induction
+
+
+
+Abstract
+
+According to the Terror Management Theory (TMT), people defend themselves from the awareness of inevitable death through the values offered by cultural world views, promising literal or symbolic immortality [1]. In this theory, self-esteem is defined as a sense of personal value obtained by believing that one fulfills the cultural world view standards one finds to be valid. Studies have shown that, when reminded of death, people are more likely to strive for self-esteem, i.e. be increasingly motivated to meet valid cultural standards [2].
+Pleasure from others’ misfortune, or schadenfreude, has been shown to appear in reaction to both self-evaluation threat and perceived deservingness of outcome of anothers' action [3]. A series of studies done by Feather and his associates showed that people tend to feel increased pleasure about deserved failures of high achievers. Furthermore, van Dijk and his associates showed that schadenfreude could be a co-product of downward social comparison based on dimensions relevant for self-evaluation.  
+The aim of this study is to show the effect of mortality salience (MS), on experiencing pleasure from others’ misfortune. In the pilot phase, dimensions relevant for self-esteem are obtained from the sample. In the main study, the MS group is presented with a death reminder, and then subjected to four stories. These stories represent 2x2 combination of factors: high achiever vs. average achiever on relevant dimensions and deserved failure vs. undeserved failure, also having consequences in regard to relevant dimensions.  After each story, subjects fill in a short affect scale used for measuring schadenfreude in previous studies. The control group is reminded of pain instead of death, but otherwise has the same treatment.
+Taking previous TMT and schadenfreude studies into account, schadenfreude can be expected to satisfy the MS-induced self-esteem striving. Higher average score on schadenfreude scale is expected in the MS group compared to the control group. Also, the factors that were previously shown to induce schadenfreude are expected to be more effective in the MS group, compared to the control group, meaning that high opposed to average achievement and deserved opposed to undeserved failure would result in a relatively larger increase of schadenfreude for MS group. 
+!!Acknowledgements
+Many thanks to Alexander Batthyany for supervising this project.
+!!References
+[1] S. Solomon, J. Greenberg, T. Pyszczynski. “Tales from the crypt: On the role of death in life”. Zygon, vol. 33(1), pp. 9-43, Mar. 1998.
+[2] T. Pyszczynski, J. Greenberg, S. Solomon, J. Arndt, J. Schimel. “Why do people need self-esteem? A theoretical and empirical review”. Psychological bulletin, vol. 130(3), pp. 435-468, May 2004.
+[3] W. W. van Dijk, J. W. Ouwerkerk. Schadenfreude: Understanding pleasure at the misfortune of others. Cambridge: Cambridge University Press, 2014, pp. 29-58, 131-149.
+

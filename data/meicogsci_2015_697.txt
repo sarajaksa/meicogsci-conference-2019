@@ -1,0 +1,20 @@
+... title: How does Cleanliness Effect on Preening Behaviour in the Common Raven (Corvus Corax)
+
+
+
+Abstract
+
+Social touching is an important factor affecting the social dynamics and the networking of a society. Allogrooming or allopreening refers to cleaning another individual's fur or feathers using hands or mouth. Removing ectoparasites from the body parts of an animal, especially parts in which the animal is not able to reach by itself, not only helps the animal’s wellness, it also promotes social relationships. There are two distinctive benefits of allopreening; the first is hygiene, and second is strengthening the social bonds. Biological Market Theory [1] suggest that allopreening is critical in the social market for an individual who needs to keep tracking on who is grooming whom and maintain the social networking.
+
+There are a number of observational studies on preening and its effects on social life, but few experimental studies have been conducted. In experimental manipulations, Hemelrijk found grooming related to agonistic support [2], and Madden and Clutton-Brock found a correlation between allogrooming and ectoparasite level [3]. Although preening effect on feather maintenance has been studied before, few studies have focused on bathing. Birds use water for bathing to clean their feathers and remove parasites. The aim of the study is to investigate changes in preening activity after manipulating the hygiene level of ravens by controlling the cleanliness of their bathing water.
+
+Nine hand-raised ravens at the Haidlhof Forschungsstelle, Austria were observed four times a week for three months. During the experiment, bathing water was taken out for two days. In the first phase of the experiment, clean water was introduced after the bathing water had been removed for two days. In the second phase, muddy water was reintroduced. The behaviour after bathing starts with shaking movements and continues with preening behaviour. The ravens refused to bathe in the muddy water condition. Therefore, changes on preening activity level in clean and muddy water condition is an expected result for this experiment. A connection of preening and its influence on the social structure can be an interesting point of view for an interdisciplinary perspective. 
+
+!!Acknowledgements
+Special thanks to Prof. Thomas Bugnyar and Cognitive Biology Department for supporting this project. 
+
+!!References
+[1] R. Noë and P. Hammerstein, "Biological markets: Supply and demand determine the effect of partner choice in cooperation, mutualism and mating," Behavioral Ecology and Sociobiology, Vol. 35, No. 1, pp. 1-11. 1994.
+[2] C. Hemelrijk, "Support for being groomed in long-tailed macaques," Animal Behaviour, 48, 479-481. 1994.
+[3] J. R. Madden and T. Clutton-Brock, "Manipulating grooming by decreasing ectoparasite load causes unpredicted changes in antagonism," Proceedings of Royal Society B, 276, 1263–1268.
+

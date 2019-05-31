@@ -1,0 +1,28 @@
+... title: Training neural networks by using swarm intelligence
+
+
+
+Abstract
+
+Training neural networks by using swarm intelligence
+
+	There are numerous algorithms available for training neural network models; most of them can be viewed as a straightforward application of optimization theory and statistical estimation. Recent developments in this field use particle swarm optimization and other swarm intelligence techniques. ﻿Swarm intelligence is the collective behavior of decentralized, self-organized systems.
+	Most of these algorithms is inspired by natural phenomenons, for example by behavior of bee or ant colony or behavior of flowing water. They can be used for continuous or discrete optimization of functions, similar to for example genetic algorithms and simulated annealing, but their greatest advantage is bigger robustness. 
+
+	﻿Ant colony optimization (ACO) is a class of optimization algorithms modeled on the actions of an ant colony. ACO methods are useful in problems that need to find paths to goals [3]. Artificial ants locate optimal solutions by moving through a parameter space representing all possible solutions. Real ants lay down pheromones directing each other to resources while exploring their environment. The simulated ants similarly record their positions and the quality of their solutions, so that in later simulation iterations more ants locate better solutions.
+
+	﻿Artificial Bee Colony (ABC) is one of the most recently defined algorithms by Dervis Karaboga in 2005, motivated by the intelligent behavior of honey bees [2]. ABC as an optimization tool, provides a population-based search procedure in which individuals called foods positions are modified by the artificial bees with time and the bee’s aim is to discover the places of food sources with high nectar amount and finally the one with the highest nectar. ABC system combines local search methods, carried out by employed and onlooker bees, with global search methods, managed by onlookers and scouts, attempting to balance exploration and exploitation process.
+
+	In my work I want to try these algorithms to compare and confront them with classical neural methods. As topology of neural network can be represented by graph, ACO could be used for its optimization, while ABC can provide search in weights space [3]. This method should be more effective than traditional approaches, as less iterations should be needed.
+
+References:
+
+1:
+Conforth M., Meng Y.: Reinforcement Learning for Neural Networks using Swarm Intelligence. 2008, IEEE Swarm Intelligence Symposium
+
+2:
+Karaboga, D., Ozturk, C.: Neural Networks Training by Artificial Bee Colony Algorithm on Pattern Classification. 2009, Neural Network World
+
+3:
+Dorigo M., Maniezzo V., Colorni A.: Ant system: optimization by a colony of cooperating agents. 1996, IEEE Transactions on Systems, Man, and Cybernetics
+

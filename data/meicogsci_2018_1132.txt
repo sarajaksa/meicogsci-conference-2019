@@ -1,0 +1,18 @@
+... title: Grounding Meaning in Sensorimotor Cognition Using UBAL Algorithm
+
+
+
+Abstract
+
+One of the perennial problems of cognitive science is the process of understanding language. There are multiple theories proposing different ways to process language. Many of those are subject to the symbol grounding problem. This problem focuses on the connection between symbolic representation(word) and meaning. However, one of the theories states that all meaning is grounded in sensorimotor cognition avoiding the symbol grounding problem.[1]
+Children have a period of time during which they explore the environment around them via their sensorimotor systems, commonly linked with linguistic input from their parents. This provides an opportunity to learn associations between sensorimotor perception, interaction and linguistic input. Linguistics provides evidence that most languages use verbs and nouns. Nouns are linked to objects in the environment, whereas verbs are linked to the actions in the environment. This is the basis of linguistic repertoire and enables to express meaningful information via language. This was well demonstrated by Marocco et. al.[1], who used a fully connected recurrent neural network trained via standard Backpropagation-through-time learning algorithm to demonstrate how simple a cognitive system can be to learn these associations effectively. Input of the network was linguistic input, proprioceptive information, tactile information and preprocessed visual information.  
+
+Our model is based on a learning algorithm called UBAL - universal Bidirectional Activation-based Neural Network Learning Algorithm that is an extension of BAL algorithm proposed by Farkaš & Malinovská.[2] This algorithm is able to train a neural network with similar properties as a network trained by backpropagation, using a model that has higher biological relevance. Depending on setup, this type of neural network can perform association tasks. Linking perceptual inputs, proprioception or motor properties and associating them with linguistic labels gives us a model that grounds meaning of language in sensorimotor cognition. This is tested on a canonical 4-2-4 encoder task used by O’Reilly[3], that auto-associates 4 different bit patterns through 2 hidden neurons. We also tried heteroassociative tasks with satisfying results. This demonstrates that our model can associate inputs from different domains. Whether this is a sufficient model for demonstrating neurologically plausible model of learning language needs further testing.
+
+## References
+[1]	D. Marocco, A. Cangelosi, K. Fischer, & T. Belpaeme. (2010). Grounding action words in the sensorimotor interaction with the world: experiments with a simulated iCub humanoid robot. Frontiers in neurorobotics, 4, 7.
+
+[2] I. Farkaš, & K. Rebrová. (2013, September). Bidirectional activation-based neural network learning algorithm. In International Conference on Artificial Neural Networks (pp. 154-161). Springer, Berlin, Heidelberg.
+
+[3] R. C. O'Reilly, "Biologically Plausible Error-Driven Learning Using Local Activation Differences: The Generalized Recirculation Algorithm," in Neural Computation, vol. 8, no. 5, pp. 895-938, July 1996.
+

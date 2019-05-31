@@ -1,0 +1,31 @@
+... title: !!!!Assessment and correlation of hand function in children with unilateral hemiparesis after perinatal ischaemic brain injury with functional and diffusion weighted imaging
+
+
+
+Abstract
+
+!!!!Assessment and correlation of hand function in children with unilateral hemiparesis after perinatal ischaemic brain injury with functional and diffusion weighted imaging 
+
+Key words: upper limb activity, corticospinal tract, assisting hand assessment (AHA)
+
+!!BACKGROUND: 
+In hypoxic ischaemic encephalopathy (HIE), the corticospinal pathways, which are involved in voluntary skilled movements, may be damaged. The consequences can be recognized as various motor impairments, such as one-sided hemiparesis.
+
+!!AIM: 
+The aim of this study is to describe the evidence of corticospinal pathway reorganization following neonatal stroke, using functional magnetic resonance imaging (fMRI) and diffusion tensor imaging (DTI) techniques, as
+well as to evaluate and correlate success of work therapy with the Assisting
+Hand Assessment (AHA) and imaging results.
+
+!!PATIENTS AND METHODS: 
+AHA is a hand function evaluation instrument which offers a new perspective to the validation of hand functions. It measures how effectively the affected hand and arm are used in bimanual performance and gives the opportunity to explore correlations with corticospinal pathway integrity. Comparing AHA and imaging results may offer insight into reorganization of the corticospinal tract and influence the goals and limitations/success of work therapy. DTI with tractography is a unique tool for visualizing and segmenting a white matter pathway in three dimensions and evaluating the segmented tract quantitatively and qualitatively. In the study, we include
+children with perinatal HIE, who have clinical evidence of perinatal hypoxia defined by Sarnat and Sarnat (year!) criteria, and who had a follow up at age of 2  which showed evidence of one sided hemiparesis, GMFCS 1-2. We also
+include children who completed work therapy and AHA at the University Rehabilitation Centre Soča, Ljubljana. In children who are able to follow commands included in the motor paradigm and lay still for thirty minutes, we are performing fMRI and DTI, thus concluding our study.
+
+!!RESULTS AND DISCUSSION: 
+We want to show that perinatal HIE, which involves the corticospinal tract, is associated with maintenance and reorganization of corticospinal pathways and is sufficient to maintain some degree of hand function in the affected hemisphere.
+
+!!REFERENCES:
+T. Bregant, M., Derganc, Neubauer, Uporaba magnetnoresonančnega slikanja z difuzijskimi tenzorji v pediatriji; Diffusion-tensor magnetic resonance imaging in pediatrics. Zdrav Vestn, 2012, pp.533-42.
+T. Bregant, M. Derganc, D. Neubauer, Kakovost življenja mladostnikov,ki so v obdobju novorojenčka utrpeli hipoksičnoishemično encefalopatijo; Quality of life in adolescents followed after neonatal hypoxic-ishaemic encephalopathy. Zdrav Vestn 2012, pp. 383–92. 
+A. Gordon, A. Wood, JD Tournier, RW. Hunt. Corticospinal tract integrity and motor function following neonatal stroke: a case study. BMC Neurol. 2012 Jul 9, 12:53. doi: 10.1186/1471-2377-12-53.
+

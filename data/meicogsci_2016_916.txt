@@ -1,0 +1,26 @@
+... title: I Know You Think of Me – Experimenting with Telepathy
+
+
+
+Abstract
+
+Telepathy is considered to be a paranormal phenomenon that has been discussed for decades. Less people know that this phenomenon has been also studied for decades. Many experiments were conducted in the last 40 years and some scientists claim they prove telepathy [1]. Other scientists are more deliberate in their statements; however, they still admit that there is something interesting going on. At least, no one was able to explain abnormally positive results in certain replicated experiments. Although effects have been rather small, researchers who support the existence of telepathy say that they are still important and should not be neglected [2].
+
+On the other hand, there is the implacable voice of critics and skeptics towards experiments on telepathy. Experimental designs and statistical analyses of results have been doubted. Skeptics also complain that results from replicated experiments are inconsistent and many flaws in processes have been detected [3]. However, Storm, Tressoldi, and Di Risio [2] argue that these arguments are obsolete because conditions under which telepathic experiments were conducted have improved significantly. Moreover, they also claim that results from the recent studies are consistent indeed.
+
+Our experiment replicates mainly the “telephone experiment” conducted by Rupert Sheldrake. We plan to perform at least 10 sessions. In one session, we use 5 participants out of which one will be a receiver and the other four participants will be potential callers. One session also includes 10 trials during which callers will call in a random order to the receiver, who sits in a different room. When the phone starts to ring, the receiver has to guess who of the four callers is calling. Though, a chance to guess the right person is 25 per cent. Sheldrake mentions the hit rate of 42 per cent (p = 1x10 -26 ) in his experiment [4]. We expect that successful replication of the “telephone experiment” should be in accordance with the results of Sheldrake and show positive results above the 25 per cent statistical chance.
+
+!!ACKNOWLEDGEMENTS
+
+I would like to thank to Michal Teplan, Barbora Cimrova, my great classmates and teachers for passionate and inspirational debates about this controversial topic. I also appreciate endeavor of our participants to help and participate in this kind of experiment.
+
+!!REFERENCES
+
+[1] M. Beauregard, Brain wars. New York: HarperOne, 2012.
+
+[2] L. Storm, P. Tressoldi and L. Di Risio, "Meta-analysis of free-response studies, 1992–2008: Assessing the noise reduction model in parapsychology", Psychological Bulletin, vol. 136, no. 4, pp. 471-485, 2010.
+
+[3] R. Hyman, "Meta-analysis that conceals more than it reveals: Comment on Storm et al. (2010)", Psychological Bulletin, vol. 136, no. 4, pp. 486-490, 2010.
+
+[4] R. Sheldrake, The sense of being stared at. New York: Crown Publishers, 2003.
+

@@ -1,0 +1,16 @@
+... title: !!!! Rationality Enhancement as Political Ideology
+
+
+
+Abstract
+
+!!!! Rationality Enhancement as Political Ideology
+
+In this thesis the following argument is made: a) there have been schemes to improve the human condition [1], b) the current movement in rationality research to enhance human rationality [2] is such a scheme, c) this perspective opens new fertile grounds for exploration.
+Firstly the field of Judgement and Decision-Making is reviewed [3], with special emphasis on rationality and the cognitive science of rationality. Then, “schemes to improve the human condition” are explored, in historical and conceptual forms. Evidence is presented leading to the conclusion that Rationality enhancement is being treated as a scheme to improve human condition. The importance and fertility of this approach is made explicit by demonstrating a) potential failures of the rationality enhancement scheme, b) how to prevent these failures, and c) future directions for research into rationality enhancement. These are interdisciplinary application both in cognitive science and public policy. 
+
+!! References
+[1] J. C. Scott, Seeing like a state: How certain schemes to improve the human condition have failed. Yale University Press, 1998.
+[2] K. E. Stanovich, What intelligence tests miss: The psychology of rational thought. Yale University Press, 2009
+[3] J. Baron, Thinking and deciding. Cambridge University Press, 2000.
+

@@ -1,0 +1,19 @@
+... title: Time Makes the Difference! Uncovering the Nature of Aesthetic Experience
+
+
+
+Abstract
+
+!!!! Time Makes the Difference! Uncovering the Nature of Aesthetic Experience
+
+The project I am assisting in, and that I am going to present further, is ran by a group of scientists of Psychology and Art History departments. This study combines psychological and aesthetical knowledge together and aims to capture the relation between an art expertise and aesthetic experience. Our hypothesis states that the dynamics of cognitive and affective processes are influenced by the viewer’s level of knowledge of the artwork he is perceiving.
+
+The theoretical background proposes that aesthetic experience is an active process in which the metacognitive structures (involving knowledge and cognition) of a viewer is modified by the perception of a work of art [1]. Little research is being done under this topic, therefore, we aim to provide more evidence concerning this phenomenon. We hold the idea that the perception of an artwork is particularly affected by the expertise and knowledge of the perceiver, as it emerges from both:  cognitive and emotional processes. In this way, aesthetic experience is affective, or even emotional, so it could be captured by measuring psychophysiological responses to an artwork. In order to collect this data in our study, we introduced several measurement techniques to the participants. Psychophysiological responses, such as eye-movements, skin conductance level (SCL) and facial EMG (fEMG) are captured simultaneously during the experiment while a participant is observing paintings. Facial EMG and SCL is expected to provide us with valuable information about the emotional excitability, while eye movements (or to be more specific, fixations of it, captured by the eye tracker device) can show us how the viewer is analysing the painting. 
+
+The Experiment consists of three stages that each participant has to complete. In the first one, a subject is introduced with various artworks of Kandinsky and Picasso, after which few questions about the liking and complexity of the painting are provided. The second stage of the experiment is called the “training session”. Here participants are split into few subgroups that are introduced with some more explicit knowledge either about Kandinsky or Picasso. In this stage participants are expected to learn more about the particular artist. Finally, the third stage of the experiment mirrors the first one: subjects are asked to evaluate the artworks that they are perceiving, giving them some questions to answer. During the first and the third stages of an experiment, psychophysiological responses and eye movements are measured. Data is still being collected, but the expected results are that subjects will show a bigger affective arousal to the artworks of the painters that they have learned about after the training than before it. 
+
+
+!! References
+
+[1] Eiserman J., “Tell Us What You Know: Exploring the Nature of Knowledge About Aesthetic Experience”, Interchange, vol. 31, no. 4, pp. 403 – 418, 2000.
+

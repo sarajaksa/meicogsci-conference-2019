@@ -1,0 +1,16 @@
+... title: Insights into the Skillscape of Yoga: Explicating Coordinative Synergies and Meta-regulation Skills
+
+
+
+Abstract
+
+This project explores embodied Yoga skills in micro-genetic detail. Mindfulness and alignment are key to Yoga philosophy, understood as continuous attention towards the body and its organization that particular poses (asanas) presuppose. Not only the more adventurous asanas, but very basic, seemingly simple ones – like the basic standing pose tadasana – constitute sensorimotor tasks of high complexity, when done right. As such – as dynamic systems approaches to motor skill highlight (e.g. [1]) – they depend on the situated interplay of multiple elements, i.e. coordinative structures or synergies.
+From a seasoned practitioner’s viewpoint, it is fairly clear what an asana’s form should look like, yet it poses a challenge to reflexivize (and in pedagogic settings to explicate) the minute details of, especially inner execution, a typically tacit dimension of embodied skill.
+Our aim is to describe and inventorize synergies underlying the coordination of Yoga postures by addressing the following questions: (1) What is the task’s overall structure? This delineates the (possibly diversely achievable) outcome-defining macro-performance parameters: like, in tadasana, a centred, balanced upright stand. (2) Which elements are involved and how do they cohere? This question reveals the task’s numerous (central, and peripheral or even optional) micro-parameters and their functional roles: like, in tadasana, a lifted sternum, the tailbone drawing down, relaxed knees, and more. (3) How do elements create a functional ensemble together – what larger structures do they establish? What trade-offs kick in when local changes occur – how does the rest of the system compensate, e.g. buffer glitches, or help tone down overactivations, overcome rigidity or a general bad training state? (4) How are synergistic patterns built up over micro-time – do some central aspects come first, is there sequentiality?
+To elicit selected Yoga coordination patterns we draw on think-alouds with experienced Yoga practitioners, and developments of Explication-Interviewing techniques (e.g. [2]). We may also encourage variation or consciously perturb patterns (quasi-experimentation). These methods help us enable experts to tap into their experience during performance and become aware of the manifold details of the ongoing processes.
+The rationale of this qualitative, micro-phenomenological approach to embodied skill understood as synergy-building can enrich motor control theory by addressing frequently eclipsed complex action patterns and experts’ rich knowledge of them. In addition, a better understanding of competencies and strategies underlying Yoga practice can be of pedagogic use for trainers in the domain.
+
+!!References
+[1] M. T. Turvey, “Action and perception at the level of synergies”, Human Movement Science, 2007, 26:657–697.
+[2] C. Petitmengin, “Describing one’s subjective experience in the second person: An interview method for the science of consciousness”, Phenom Cogn Sci, 2006, 5:229–269.
+

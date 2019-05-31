@@ -1,0 +1,24 @@
+... title: Biologically inspired navigation on a mobile robot
+
+
+
+Abstract
+
+It is one of the big challenges in cognitive science to make use of a theory or model in simulations or other synthetic approaches. The field of robotics deals with these issues directly, by building robots which interact with the world. This project in particular shows how a model from theoretical biology can be used on a mobile robot.
+
+In this work we implement a navigation algorithm for a mobile robot in order to control its movement. The algorithm should enable the robot to be able to navigate between two points in an environment without landmarks. The method for navigating will be path integration[1], which is used by a wide variety of animals in order to navigate in environments such as deserts. Path integration takes information about current speed and orientation to maintain a home vector. The home vector represents the direction and distance to the agents starting position. Our robot uses a compass to find out its current orientation, while animals such as the Sahara Desert ant (Cataglyphis b.) use the polarization of sunlight as a compass and count theirs steps to remember direction and distance to the nest. Path integration works in environments where little navigational information such as landmarks is present, and where animals know only a few important locations they want to reach.
+
+There are many different possibilities to implement path integration, and it is currently subject to research to find out which are biologically the most plausible. For this project, a model derived by evolving a CTRNN (Continuous Time Recurrent Neural Network) will be implemented [2]. CTRNNs are artificial neural networks which contain feedback connections and therefore allow for dynamic temporal behaviour. It will be shown if this model can be successfully used to navigate a robot between two or more marked locations. Furthermore, agents implementing this model of path integration are prone to certain systemic errors which should also be reproduced using the robot.
+
+The platform used for this project is the recently developed Corvid [3], a robot capable of traversing rough terrain, high resolution vision and manipulation of objects via arm and grasper. In addition to its camera, the robot is capable of avoiding obstacles through eight distance sensors. In order to implement path integration, the robot uses a compass sensor. To facilitate quicker development and testing of the implementation, a virtual 3D model of the robot and its environment was created using the simulation platform Player/Gazebo. This also helped to ensure basic functioning of the algorithm before making experiments on the real device.
+
+During our experiment, the robot has to explore its environment from a random starting point. When the goal location has been reached, the robot has to turn around and find its way back to the starting location. It is expected that path integration implemented by the evolved neural network can be used by the mobile robot to successfully navigate back even if a direct way is not possible or the dynamic environment has changed.
+
+
+
+References:
+
+[1] Author, (2005) Title
+[2] Author, (2007) Title
+[3] Author, (2010) Title
+

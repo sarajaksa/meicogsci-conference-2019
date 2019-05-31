@@ -1,0 +1,25 @@
+... title: Towards Different Prediction Mechanisms in Words and Chords
+
+
+
+Abstract
+
+!!!! Towards Different Prediction Mechanisms in Words and Chords
+
+!! Introduction
+In natural language comprehension, the next unit of speech is often predicted based mainly on statistical regularities and context. Analogous mechanisms were previously observed in music, at the level of whole melodies [1]. This study tried to find out if there is possibility of such a mechanism at the level of single broken chords.
+
+!! Methods
+The main hypothesis was that when the critical tone for major/minor scale decision is presented earlier in the sequence of tones, the participants will decide faster than when this tone is presented later. This would suggest a predictive mechanism is in operation. To test this, broken chords consisting of three tones were used in two conditions – in the first condition the critical tone was on the second place and in the second condition, it was on the third place. For instance, for D major/minor, where the critical tone is F#/F, the sequences were D, F#/F, A for the first, and D, A, F#/F for the second condition. The whole sequence lasted 1 second. To assure that every next tone is of higher pitch than the previous one, they had to be spread through two octaves. Thus, they didn’t technically fall under the exact definition of a common chord, although based on number of error trials, it seems that their affective value was unchanged. Chords (simultaneously played) served as a control condition. Additionally, every chord was preceded by a presentation of an emotional photography, to introduce affective priming. Photographs were selected based on their valence ranking from the IAPS database. The participants were instructed to decide as fast and as precise as possible and were allowed to answer also during the presentation of the chords. Participants lacking knowledge of musical terms were instructed to base their decisions on the affective value of the chord and the whole session was preceded by a short training phase. Data from seven participants from sample of eight graduate university students were used. Analysis was based on 435 successful trials.
+
+!! Results
+Analysis of variance showed no significant difference between the experimental conditions (F = 0.02, p = 0.88). Mean reaction times for both were almost identical (1.518 s, SD = 0.45 for first and 1.524 s, SD = 0.33 for second condition). The control condition significantly differed from the experimental conditions (RT = 1.27 s, SD = 0.35; F = 19.27, p < 0.001). Effect of affective priming was observed, but was not significant.
+
+!! Conclusion
+The results did not confirm the hypothesis. Possible explanation heads towards more holistic processing of broken chords. Therefore, it seems that humans, at least in the matter of assessing the affective value of broken chords rely on complete information. Results could be influenced by small sample size and therefore cannot be regarded as conclusive.
+
+!! References
+[1] J. J. Bharucha, and K. Stoeckig, “Reaction Time and Musical Expectancy: Priming of Chords” in Journal of Experimental Psychology: Human Perception and Performance, vol. 12, pp. 403-410, 1986.
+[2] H. Arao, and J. Gyoba, “Priming effects on musical chord identification: Facilitation or disruption?” in Japanese Psychological Research, vol. 43, pp. 43-49, 2001.
+[3] B. Sollberger, R. Reber and D. Eckstein, “Musical Chords as Affective Priming Context in a Word-Evaluation Task” in Music Perception, vol. 20, pp. 263-282, 2003.
+

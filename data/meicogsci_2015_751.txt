@@ -1,0 +1,32 @@
+... title: Analysis of Biological, Behavioral and Cognitive Aspects  in children with autism spectrum disorder
+
+
+
+Abstract
+
+!!Introduction
+Autism spectrum disorders (ASD) are a set of heterogeneous neurodevelopmental conditions, characterized by early-onset difficulties in social communication and unusually restricted, repetitive behavior and interests. Moreover children with ASD often present high rate of behavioral and emotional problems that might have significant impact on their lives, families and society [1] .The etiology of behavioral/emotional problems in humans is likely complex and includes both biological and behavioral causes. Some studies suggest that testosterone can play a role in the complex etiology of various behavioral/emotional problems, especially aggressive behavior [2]. From cognitive aspects, increased levels of frustration might be one of the factors associated with behavioral/emotional problems in humans [3].
+
+!!Aims
+Purpose of our study was to investigate relationship between plasmatic testosterone levels and behavioral/emotional problems in boys with ASD. Further, association between frustration and various behavioral/emotional problems was tested in the sample. 
+
+!!Methods
+The study sample consisted of 40 pre-pubertal boys (ages 2-10) with ASD. In all children, parents completed Nisonger Child Behavior Rating Form (NCBRF) consisted from specific subscales: conduct problems, anxiety, hyperactivity, self-injury/stereotypic behavior, self-isolated/ritualistic and overly sensitive. Frustration levels were assessed using single item from NCBRF. Total plasmatic testosterone levels were determined in venous blood samples.
+
+!!Results
+It was found no correlation between plasmatic testosterone levels and any of the subscales of NCBRF. Testing second hypothesis, we found out that boys with higher frustration were significantly more hyperactive (t(38)=-3.132, p=0,003), overlysensitive (t(38)=-6.049, p=0,0003) and had more conduct problems (t(16.74)= -4.274, p=0,001) in comparison to boys with low frustration. 
+
+!!Conclusions
+Although we did not find significant correlation between plasmatic testosterone and behavioral/emotional problems, research has shown that androgen effect of testosterone is not only influenced by actual testosterone levels. Further investigation of complex androgen activity [1] might bring more clarification to the role of increased androgenicity in behavioral and emotional problems in ASD. Moreover, frustration appears to be important cognitive phenomenon contributing to complex etiopathogenesis of behavioral/emotional problems in pre-pubertal boys with ASD, which is in line with previous findings [3]. 
+
+!!Acknowledgements 
+I would like to thank my supervisor Dr. Anna Pivovarčiová for the time and effort she devoted to the project. 
+
+!!References
+[1]Pivovarciova, A., Hnilicova, S., Ostatnikova, D., & Mace, F. C. (2014). Testosterone 	and explosive aggression in autism spectrum disorders. Neuroendocrinology Letters, 	35(7), 553-559.
+
+[2]Anderson, C. A., & Bushman, B. J. (2002). 
+Human aggression. Psychology, 53(1), 27.
+
+[3]Dollard, J., Miller, N. E., Doob, L. W., Mowrer, O. H., & Sears, R. R. (1939). 	Frustration and aggression.
+

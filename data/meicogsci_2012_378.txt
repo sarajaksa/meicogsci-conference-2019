@@ -1,0 +1,59 @@
+... title: LANGUAGE AND PERCEPTION: The impact of conges-tion language modality for differentiating relational categories
+
+
+
+Abstract
+
+Introduction
+
+Language has a very essential role in human cognition. Numerous studies refer to its necessity for certain types of cognitive tasks. These tasks can be various – combining information of different types (Hermer-Vazquez, Spelke, & Katsnelson, 1999), sorting objects by one specific property (Lupyan, 2009) or thinking about minds of others (Newton & de Villiers, 2007).
+
+We are interested in the role of language in categorization of visual stimuli. Although many organisms are capable of categorizing input on the perceptual or associative basis without any use of language, higher order relational and analogical categorization may require encoding into other modality – association with verbal label (Zentall et al., 2008). 
+
+Previous studies
+
+Young & Wasserman (1997) studied relational category formation in pigeons. They showed them arrays of 16 icons that were either “same” or “different”. The task of pigeons was to make a distinction between these two states. Pigeons achieved high level of discrimination and generalization. However, when presented with mixed or reduced input, pigeons answered according to perceptual variability of the input array (e.g. there were just 2 different icons in the array and pigeons repeatedly chose option “same”). On the other hand, human intuitive answer would be to treat the arrays categorically based on theory:  They are either “same” or “different”. In order to do this, the animal has to be able to judge the relations between the icons.
+
+This phenomenon can be explained by the Shannon’s Information theory (Shannon, 1948). This theory understands the diversity of categorical variable - the entropy - as a number of information bits that are necessary to identify each item. It means that 16 identical items have entropy of 0.0 bits, because there is no variability and 16 different items have entropy of 4.0 bits because there are 16 different categories. The entropy decreases in mixed or reduced arrays. These are arrays with mixed icons (e.g. 4 same icons and 12 different icons) or arrays  with less than 16 icons. E.g., just two different items in one array have entropy 1.0, which is closer to entropy 0.0 than 4.0. In this case, pigeons discriminate two different icons as “same”. 
+
+Young & Wasserman (2001) later ran a similar study on human subjects. They found out that there were two distinctive clusters of subjects in their behavior. 
+•	80% of subjects treated the arrays categorically (as either “same” or “different”) while 
+•	20% of the subjects behaved similarly to the perceptually based answers of pigeons.
+ One of the proposed explanations is that “the categorical discrimination may have been mediated by the use of previously learned linguistic labels for the displays” (Young & Wasserman, 2001).
+
+Our study
+
+We were inspired by Young & Wasserman‘s experiment and created a  similar experiment by using a web application. We  focused on several research questions and splitted our project to two parts:
+
+1. In first part, we replicated the original experiment of Young & Wasserman (2001) with human subjects. We expected 20% subjects will not treat the arrays categorically, but according to perceptual variability.
+
+2. In second part, we tested the hypothesis that verbal labels might facilitated categorical discrimination by replicating the experiment using verbal shadowing (used in studies such as Hermer-Vazquez et.al, 1999) as a secondary task to impair immediate performance of phonological loop. 
+
+We expected that overloading the verbal modality could shift the distribution of clusters towards perceptually based discrimination. 
+
+Procedure
+
+Both parts use the same web application. The application consists from two parts: training  and  testing.
+The training period comprised  50 trials and  participants learned to determinate „same“ or „different“ 16 icons arrays.
+After the 50 training trials, the testing period began. The session continued withou noticeable change, but testing arrays (reduced and mixture) were randomly interspersed among the training arrays at a relatively low rate.  
+
+In part two of our experiment (part with verbal shadowing) subject will have to listen to some text, repeat it word by word while performing the original task.
+
+Results
+
+In our research successfully participated 119 respondents  with the average age of 24 years. In first part of experiment (without verbal shadowing) were 73 subjects and 46 subjects were in part with verbal shadowing. 
+
+In first part we successfully replicated original experiment, but we obtained different results (by comparison with original experiment). 
+In second part our results show that verbal repetition has no significant impact on respondents capability of distinctive categorization, but has a direct effect on the reaction time needed for decision making. 
+Our hypothesis has not been proven, but our study has some cognitive benefits.
+However, experiment should be repeated to confirm our claim.
+
+
+References
+
+1. Young, M. E., & Wasserman, E. A. (1997). Entropy detection by pigeons: Response to mixed visual displays after same–different discrimination training. Journal of Experimental Psychology: Animal Behaviour Processes, 23(2), 157. American Psychological Association.
+
+2. Young, M. E., & Wasserman, E. A. (2001). Entropy and variability discrimination. Journal of Experimental Psychology: Learning, Memory, and Cognition, 27(1), 278. American Psychological Association.
+
+3. C. Shannon, “A mathematical theory of communication,” ACM SIGMOBILE Mobile Computing and Communications Review, vol. 5, 2001, p. 3–55.
+

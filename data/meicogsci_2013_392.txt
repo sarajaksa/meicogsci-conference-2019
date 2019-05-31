@@ -1,0 +1,32 @@
+... title: Refinement of the Learning Centre of BMA1
+
+
+
+Abstract
+
+!!!! Refinement of the Learning Centre of BMA1
+
+!! Introduction
+Cognitive architectures have the goal of modelling human cognition. These models may be implemented to simulate different aspects of cognition like learning or behaviour-generation. To achieve the modelling goal it has been proposed to analyse how children learn to perceive and behave. The so-found principles should to the creation of machines, which may develop cognitive characteristics of adult humans after a course of education and parenting. Last year a new cognitive architecture for this so-called baby machine approach has been proposed: BMA1 [1]. The description lacked details in the most important section, the learning centre. The following presentation is aimed at adding some recent findings to the architecture.
+
+!! Motivation
+A working architecture of the human mind will allow for example simulating learning under different conditions. The so-gained knowledge will influence teaching methods and make new kinds of tutoring systems available [2]. BMA1 is assumed one of the possible candidates for further development, because it's designed to integrate the mechanics of other established architectures and neurological findings. The centre of this presentation, the learning area of BMA1, is important for making sense of the world.
+
+!! Methods
+Since the publishing of [1] the research has been continued purely theoretical, based on literature research & review. Many more (recent) architectures have been taken into consideration through their formal descriptions. Further influences have been drawn from learning theory courses taught at University of Leipzig, focused on Piaget, Vygotsky, and more current theories. For this abstract even a brief description of BMA1 would exceed the word count. But in the presentation the architecutre will be introduced and the novel findings will incorporated into the model.
+
+!! Results
+For the presentation several new aspects of the learning mechanism will be discussed:
+* In respect to Kahneman’s version of the dual process theory [3], it appears helpful to introduce the two systems into the architecture.
+* Recent infant experiments have shed light on the recognizable patterns shortly after birth. Those patterns and the possibilities of their introduction into the architecture are of central interest.
+* Recognized patterns stay activated for a certain amount of time to allow persistence of input and the possibility for multiple active realities/contexts.
+* There need to be reinforcing and inhibiting signals among patterns to allow expectations and violations of them.
+
+!! Conclusion
+Creating a cognitive architecture is a highly iterative process. These findings hopefully contribute new evaluation and modelling criteria so that a first implementation could be realized in the near future.
+
+!! References
+[1] F. Golemo. “Künstliche Intelligenz auf Basis von ‘Baby Machines’: Geschichte und Architektur BMA1”, in SKIL 2012 – Dritte Studentenkonferenz Informatik Leipzig 2012, Leipziger Beiträge zur Informatik Band XXXIV. Leipzig: Schmidt, Riechert & Auer, 2012, pp.113-124.
+[2] M. Minsky, P. Singh, A. Sloman, “The St. Thomas Common Sense Symposium: Designing Architectures for Human-Level Intelligence”, in AI Magazine, 2004, vol. 25 (2), pp.113–124.
+[3] D. Kahneman, “Thinking, fast and slow”, London: Penguin Books, 2011.
+

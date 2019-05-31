@@ -1,0 +1,20 @@
+... title: Gamification: Play and Solve
+
+
+
+Abstract
+
+!!Research background
+“Gamification” is a term which became widespread around year 2010 and describes the use of video game elements in non-gaming systems to improve user engagement and user experience [1]. There are many online gamification platforms, where researches are trying to engage people in not so commonly popular subjects. In this talk we will explore how Gamification relates to problem solving. Problem solving refers to a state of desire for reaching an end ‘goal’ from a present state with steps that may or may not progress toward the goal [2]. Problems can be divided into many categories, but we will mainly focus on the differences between creative and non-creative ones [3]. Creative problems require approaching the solution in a new way. Here is an example of problem which requires creative problem solving: “There are eight eggs in the basket. Eight people each take one of the eggs. How can it be that one egg is left in the basket?”. On the other hand analytical problems, such as solving integrals, require more methodological and logical approach. Some problems can be solved with either creative or analytical approach. One such example is solving a maze where a person can start solving it from the beginning (analytical) or from the end (creative).
+
+!!Talk summary
+In this talk, we will review the basic concepts of gamification and continue with our attention set on the question which gamification problems people enjoy the most. We will discuss problems from both the analytical and creative category and present plans of our future experiment. Our approach to the research from will take an interdisciplinary point of view, involving mathematical analysis, psychology and development of software with game design. This type of research is important for improving the learning experience in schools and engaging more people in the problem solving. Gamification offers an opportunity for people to start enjoying the subjects which they would normally avoid, and our research results should help to decide which approach is the best for a particular problem.
+
+!!Acknowledgments
+We would like to thank dr. Janez Demšar for the idea of two types of problems.
+
+!!References
+[1] S. Deterding et al., “From game design elements to gamefulness: defining gamification.” in Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments., ACM, 2011.
+[2] S. I. Robertson, “What is a problem?” in Problem solving, Psychology Press, 2001.
+[3] M. Chiu, “Approaches to the teaching of creative and non-creative mathematical problems.” in International Journal of Science and mathematics education 7.1, 2009, pp. 55-79.
+

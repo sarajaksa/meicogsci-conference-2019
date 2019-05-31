@@ -1,0 +1,12 @@
+... title: Workshop: Raiders of the Lost Work
+
+
+
+Abstract
+
+The natural habitat of knowledge is the public and that’s exactly the place where we want to release scholarly works.
+
+In this workshop we will liberate forgotten seminar papers and theses that are gathering dust on hard drives and make them openly accessible. For this purpose we will give a brief introduction to Open Science and Copyright law. The practical part will consist of converting the papers into an open format, choosing and applying an open license and finally uploading them to an open repository for MEi:CogSci (https://zenodo.org/collection/user-meicogsci).
+
+Sharing students' fruit of labor is not only a way of giving a stage to them and other early career researchers, but also represents science as an inclusive community that embraces openness and its role in society.
+

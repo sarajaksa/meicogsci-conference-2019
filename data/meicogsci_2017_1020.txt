@@ -1,0 +1,19 @@
+... title: Investigating the structuring role of multimodality in adult verbal discourse
+
+
+
+Abstract
+
+Embodiment and situational context are critical factors in verbal discourse. Indeed,  this is best understood as a multi-modal process. Meanwhile, models of artificial language learning machines are being developed to operate on the basis of the same multi-modal grounding.
+Among the necessary research is the development of artificial learning machines that take into account the roles of the embodied and situational features of the multisensory experience of verbal discourse. The scaffolding and structuring role of overt behaviour throughout evolving discourse is of particular interest.
+Thus far, the focus in the literature has been on the level of individual utterances - with notable exceptions (see [2]). Concurrently, the temporally extended nature of verbal discourse has been associated with better learning during language acquisition. Indeed, discourse episodes likely constitute a more meaningful level of analysis given the dynamics of human speech.
+The present work addresses these omissions by investigating multi-modality in exactly such discourse episodes. These may consist of multiple utterances and reflect the high inter-connectivity between the individual utterances that constitute the episode. In this sense, our approach emulates [2]. We extend their work by refocussing on adult human interactions, thereby moving beyond the developmental context of language acquisition. This illuminates the persistent role of multi-modality once linguistic skills have matured.
+Based on data from an exisiting multimodal corpus [1], we investigated the role of two primary features of verbal discourse: gaze and object holding, with the latter representative for physical interaction with objects. Among other things, both factors contribute to directing attention during verbal discourse. In the paradigm, one participant takes on the role "instructor" for the purpose of explaining a simple assembly task to a second, the "learner". The analysis considers the instructor only. Annotations are visualised in timeseries plots in order to reveal the temporal dynamics of verbal discourse across the various modalities.
+The present qualitative analysis improves understanding how language is shaped by other modalities, with a view towards implementing the insights in language learning machines. We expect our results to converge with [2] in stressing the significance of multi-modal features of verbal discourse. Our approach offers a contrast to the classical, utterance-based literature and extends discourse-level analysis to adults.
+!! Acknowledgements: The author would like to thank Dr. Brigitte Krenn and Dr. Stephanie Gross for their help and guidance.
+!! REFERENCES
+[1] S. Gross and B. Krenn, The OFAI Multimodal Task Description Corpus. Proceedings of LREC 2016, Portoroz, Slovenia, 23.-28. May, 2016, pp.
+1408 – 1414.
+[2] S. H. Suanda et al, The multisensory nature of verbal discourse in parent-toddler interactions. Developmental
+Neuropsychology, 41, 5-8, 2017; 324 – 341.
+

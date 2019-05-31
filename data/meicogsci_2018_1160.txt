@@ -1,0 +1,16 @@
+... title: “To Pluck from Rooted Memory” Task Performance Strategies for Memorizing Position and Orientation in Change Detection Task
+
+
+
+Abstract
+
+## Introduction
+In visual working memory research, individual variability in third-person data, such as accuracy and reaction time has traditionally been attributed to neuronal noise, contextual effects (i.e. participants' visual experience prior to the experiment), perceptual effects (i.e. the color of the background, the specific sequence of stimuli), and even technical difficulties associated with calibrating a homogenous screen across both trials and participants [1].  We propose the hypothesis that these third-person differences may stem from varying phenomenal states reached by the participants while solving visual working memory tasks. To test this possibility; however, we first have to establish the existence of varying phenomenal states during manipulation of objects in working memory, or what we call task performance strategies.
+## Method
+We will make use of the experimental paradigm of change detection, whereby the participants are exposed to a memory stimulus, followed by a brief delay period, and a test stimulus. After the latter, they are prompted to answer whether it is identical to or different from the memory stimulus. Periodically, at random moments during the performance of this task (both during the maintenance period, as well as between trials) the participants are prompted to take note of their experience by an interviewer who further uses the technique of expositional interview to discern their so-called pristine inner experience [2]. These interviews are then transcribed and categorized according to the quantitative method of thematic analysis to yield task performance strategies, that is to say, the ways participants experience the act of memorizing. We report experiential strategies for two modalities of spatial stimuli, orientation and position. 
+## Results
+Both of these parameters yield varying strategies, including non-rational responses, such as responding randomly, or lack of memorization, due to phenomena such as test anxiety, of mind wandering. Further, the strategies themselves differ in modality (visual, symbolic, motor, spatial, affective, and complex integrations thereof), sense of agency, temporal structure, and the amount of conscious input. We suggest that the number of dimensions along which task performance strategies differ from each other may be the source of individual variability in third person data in visual working memory studies. 
+
+[1] G. Y. Bae, M. Olkkonen, S. R. Allred, C. Wilson, J. I. Flombaum, “Stimulus-specific variability in color working memory with delayed estimation”. *Journal of Vision*, vol. 14, no. 4, p. 1 – 23, June 2014
+[2] R. T. Hurlburt, *Pristine Inner Experience*, Cambridge: Cambridge University Press, 2011
+

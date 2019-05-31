@@ -1,0 +1,21 @@
+... title: Two in one or one in two? A closer look at the default-interventionist model
+
+
+
+Abstract
+
+Differences in thinking across cultures and individuals have been a mystery since early human history. Nowadays, it is quite popular to explain that mystery by dual process theories. On the one hand, there are scientists who presume that such theories have a solid foundation. On the other hand, there are scientists who have opposite opinions. 
+
+The default-interventionist model is mostly supported by empirical evidence [1]. Basically, it could be described as a model of the interactions between system 1 and system 2. Authors emphasize the role of individual differences. However, Kruglanski [2] considers this evidence to be a proof for single process theory instead of the dual one. He claims that individual differences matters very much. The result of such thinking is that at the end of the analysis, there is no distinction between intuitive and deliberative process.
+
+The aim of this paper is to test the aforementioned model. We would like to find out whether people use dual processing when reasoning or there are two types of reasoners. In our experiment, participants (N = 250) performed a cognitive reflection task and no-go task. There were two conditions in the reflection task – with and without time pressure. Furthermore, we investigate a knowing cognitive style, level and quality of education, and the level of confidence about answers in cognitive reflection task. The core hypothesis is formulated as follows: there are no significant differences in cognitive reflexive task under time pressure across several professional backgrounds. We use various statistical methods to interpret the data.
+
+Our findings maintain the previous supportive evidence for the default-interventionist model. Nevertheless, a closer look suggests that Kruglanski has a point. Results show that respondents working or studying in technical fields are equally successful in solving reflection task in both conditions. We can say that this default reaction is connected with the availability of the particular type of reasoning and probably depends on training. In conclusion, we consider the empirical evidence as the manifestation of two different types of reasoners instead of dual processing.
+
+Acknowledgments
+Special thanks to Ján Šefránek and Kristína Malinovská for the "further reading" recommendations related to the project.
+
+References
+[1] J.S.B.T Evans and Stanovich, K.E. “Dual-Process Theories of Higher Cognition: Advancing the Debate ”, Perspectives on Psychological Science, vol.8, no.3, pp. 223–241, 2013
+[2] A.W. Kruglanski, “Only One? The Default Interventionist Perspective as a Unimodel—Commentary on Evans & Stanovich”, Perspectives on Psychological Science, vol.8, no.3, pp. 242–247, 2013
+

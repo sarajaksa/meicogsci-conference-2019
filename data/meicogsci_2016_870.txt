@@ -1,0 +1,31 @@
+... title: Brain-Computer Interface based on Mu Rhythm Desynchronization using Motor Imagery
+
+
+
+Abstract
+
+!!Introduction
+
+Synchronized activation of neurons enables us to recognize patterns of electrical activity over the human cortex. Frequency patterns detected over the motor cortex include the mu rhythm and sensory-motor rhythm (SMR). Mu rhythm is synchronized neural activity in the motor cortex ranging from 8 to 13 Hz and differs from classical alpha waves in functionality and location [1]. During planning or executing of hand movements or finger movements as well as during hand motor imagery without performing the actual movements mu rhythm gets desynchronized [2]. We tried to implement a brain-computer interface based on mu rhythm desynchronization connected to motor imagery. The goal of this research was to determine whether the specific procedure used to implement the BCI produces results which would be sufficient for the BCI to be used in motor imagery based neurorehabilitation after stroke. We hypothesized we would be able to detect a statistically significant decrease in the mu rhythm during the motor imagery condition.
+
+!!Method
+
+Since mu rhythm properties are individual specific and dependent on spatial and temporal components, multi-way decomposition method PARAFAC can be used to recognize mu rhythm component for each subject based on their EEG data. PARAFAC is a generalization of principal component analysis (PCA) to higher order arrays[3], which enables better modelling of interactions between dimensions and is better suited to reveal existing latent data structure compared to many conventional 2D decomposition techniques[4]. The mu rhythm component extracted with PARAFAC can be used to estimate the amplitude of mu rhythm in real time and use it to control an artificial arm. 
+
+To test the BCI, we compared amplitude of the mu rhythm between two conditions: relaxed resting state and imagined movement. A significant decrease in mu rhythm during imagined movement condition would validate our BCI procedure. We compared two different procedures for aquiring the mu rhythm component from the EEG data. In the first one, ten different actual movements were used. In the second procedure, one imagined movement was used – the same movement which was later imagined during BCI sessions.
+
+!!Results
+
+None of the two procedures produced statistically significant differences in mu rhythm amplitudes between the two conditions. However the difference was much larger in the second procedure. We conclude this method of BCI implementation is not suitable for use in neurorehabilitation without further improvements.
+
+!!References
+
+
+[1] J. A. Pineda, "The functional significance of mu rhythms: translating “seeing” and “hearing” into “doing”." Brain Research Reviews, vol. 50, no. 1, pp. 57-68, 2005. 
+
+[2] G. Pfurtscheller, C. Brunner, A. Schlögl and F. L. Da Silva, "Mu rhythm (de) synchronization and EEG single-trial classification of different motor imagery tasks", NeuroImage, vol. 31, no. 1, pp. 153-159, 2006.
+
+[3] R. Bro, "PARAFAC. Tutorial and applications", Chemometrics and intelligent laboratory systems, vol. 38, no. 2, pp. 149-171, 1997.
+
+[4] R. Rosipal, L. J. Trejo, P. L. Nunez, "Application of Multi-way EEG Decomposition for Cognitive Workload Monitoring", Proceedings of the 6th International Conference on Partial Least Squares and Related Methods, pp. 145-149, 2009.
+

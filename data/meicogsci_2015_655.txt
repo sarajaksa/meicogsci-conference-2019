@@ -1,0 +1,26 @@
+... title: Pragmatics and Empathy in Second Language Aptitude
+
+
+
+Abstract
+
+!! Introduction
+While beneficial, learning a language after the critical age in adulthood is a trying task in which some people seem to fare better than others. Our research was driven by our wish to study personality traits and their role in second language acquisition, especially in the aspect of pragmatics.
+
+!! Hypothesis
+We believe that individuals with greater ability to relate to others and to feelings of others would additionally have more success in acquiring the subtle and unwritten language rules that together form the pragmatics of a language. Our hypothesis is supported by research of individuals with autism who usually score low in the common EQ tests and are reported to have underdeveloped pragmatical language ability while their structural language skills range. [1]
+
+!! Experiment
+We used standard Baron-Cohen EQ test and for pragmatical ability we adapted a Test of Pragmatical versus Grammatical Awareness designed by Bardovi-Harlig & Dörnyei [2]. It consists of 20 scenarios from school environment out of which 8 are pragmatically and 8 grammatically wrong. The participants must report which behavior they find incorrect, why and how serious they consider each error. 
+
+!! Results
+We accepted the answers of 68 Slovak native speakers. Average age of these participants was 24, average EQ was 41 and most common English level was 8 out of 10. The score was calculated as the number of correctly found errors minus false alarms for both the pragmatical and grammatical ability. While we can report a significant correlation of the pragmatical score to empathy (r=0.325; p<0.01), the grammatical score shows no such relationship (r = 0.228; p > 0.05).
+
+!! Conclusion
+We can conclude that pragmatical ability is related to empathy. We hypothesized that individuals with higher EQ show greater pragmatical awareness and such behavior was shown by our participants. Just as important is our finding that grammatical ability is not related to empathy as we would not expect such relationship to appear and we would have to reconsider our theory or testing procedure. Our main hypothesis was novel and as such emerged from the literature as well as from our experience with ESL learners.
+
+!! References
+[1] J. Volden et.al., "Brief Report: Pragmatic Language in Autism Spectrum Disorder: Relationships to Measures of Ability and Disability," Journal of Autism and Developmental Disorders 39.2 : 388-393, 2009.
+
+[2] K. Bardovi-Harlig, Z. Dörnyei, "Do Language Learners Recognize Pragmatic Violations? Pragmatic Versus Grammatical Awareness in Instructed L2 Learning*," TESOL Quarterly, Volume 32, Issue 2, pages 233–259, 1998.
+

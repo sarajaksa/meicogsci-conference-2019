@@ -1,0 +1,29 @@
+... title: Motor imagery based brain-computer interface
+
+
+
+Abstract
+
+!!!! Motor imagery based brain-computer interface
+
+!! Motivation
+Brain computer interfaces (BCI) play an integral role in cognitive neuroscience. Currently, there are various uses for BCI technology, some of the more famous being neurofeedback (NFB), where reward from the environment conditions participants to be able to concentrate (retain a desired state of mind) for prolonged periods of time. Another such use is robot assisted neuro-rehabilitation, where stroke patients can use BCI controlled robotic arm attached to their paresthetic upper extremities for muscle exercise [1].
+
+!! Method
+In our BCI experiments we use the concept of mirror neurons - units that fire invariantly whether an action is performed, observed, or imagined. We concentrated on motor imagery, which relates to the sensorimotor cortex - the brain areas that coordinate voluntary movement. It seems that imagining a motor action has almost the same manifestation in the firing patterns of mirror neurons as performing the action physically. When the area in the motor cortex for a specific part of the body is at rest, synchronized neural oscillations form a macroscopically observable pattern: the mu rhythm (8~12 Hz) [2]. The mu rhythm should be absent when the area is active. This phenomenon is called event related synchronization and/or desynchronization, and can be used as a control signal for the BCI application.
+
+!! Experiment
+The participants undertook series of EEG experiments, starting with measuring mu rhythm over the sensorimotor cortex. This experiment consisted of multiple phases, in which subjects performed various mental tasks (conditions) - motor imageries or relaxation. Motor imageries correlated with desynchronization, their absence (motor relaxation) helped facilitate mu rhythm. These pre-trials enabled us to select viable candidates for later BCI experiments. Prior to the BCI experiment itself, subjects were measured performing various conditions to determine the strongest contrasts in frequency-channel bins. These contrasts were used to assemble a personalized classifier for each participant. Using such classifiers, BCI sessions were performed, consisting of 1-D (up-down) moving a cursor on screen. The BCI sessions with promising candidates are still in progress.
+
+!! Future efforts
+We would like to refine the BCI process and make it easier to replicate for further research. Also, exploring additional classification mechanisms and their adaptation capabilities may improve the quality and sensitivity of BCI control. One more area demanding improvement is the BCI “literacy” - the ability of a subject to give steady performance, when working with the brain-computer interface.
+
+!! Acknowledgements
+I wish to thank doc. Ing. Igor Farkaš, PhD. and RNDr. Barbora Cimrová, PhD. for their time, patience, and invaluable advice they have provided.
+
+!! References
+
+[1] E. Formaggio a et al., „Modulation of event-related desynchronization in robot-assisted hand performance: brain oscillatory changes in active, passive and imagined movements.,“ J Neuroeng Rehabil, zv. 10, %1. vyd.24, p. 1186, 2013.
+
+[2] Pineda, Jaime A. "The functional significance of mu rhythms: translating “seeing” and “hearing” into “doing”." Brain Research Reviews 50.1 (2005): 57-68.
+

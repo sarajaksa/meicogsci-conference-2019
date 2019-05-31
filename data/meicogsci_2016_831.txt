@@ -1,0 +1,20 @@
+... title: Expression of motion in visual and sign languages: modal realisation and function in intersubjective engagement
+
+
+
+Abstract
+
+Visual languages (VLs) are defined as sequences of images that follow rules of representation, as in the medium of comic books. Motion is expressed in comics in a number of ways, which vary between genre, country of origin, authors and individual works [1]. Sign languages (SLs), on the other hand, are natural languages, composed of morphemes (signs) constructed from the shape and movement of the signer's hands. Motion in SLs is often expressed iconically, with articulators being moved through the sign space demonstrably.
+
+VLs and SLs, although both operating in the visual modality, differ from each other in a number of ways. Firstly, in (a) the temporospatial relationships between interlocuting users – SLs are used purely dialogically (except in instances of translation) whereas VLs constitute static, material artefacts. Thus, signers exchange information instantaneously whereas there is a gap of space and time between the author and the reader of visual languages. Secondly, they differ in (b) the diversity of morphemes extant in the public realm – for VLs, formalised, public vocabularies do not exist in the traditional sense, for example in the form of dictionaries, (although expressive norms certainly do), whereas they do exist for SLs.
+
+These differences are currently being explored in this study with respect to human interpersonal communication. Following a literature investigation into the methods used to express motion in VLs and SLs and into the biology of motion perception, a theoretical analysis is being undertaken in accordance with an enactive theory of language as in [2] [3]. Preliminary results have shown that certain methods of expressing motion in VLs appear similar to successful methods used in pointlight studies of motion perception, suggesting perhaps that VLs are cognitively linked to active bodily routines. With further analysis, I hope to ascertain whether there are differences between the intersubjective interaction and socio-cultural coordination that occurs during usage of VLs and SLs, and whether these differences ultimately have effects on the collective minds or socially extended cognition that are/is established between interlocutors [3].
+
+!!Acknowledgements
+Many thanks to my supervisor, Dušan Stamenkovic (University of Niš, Serbia) for his inspiration and guidance, to Markus Peschl for his kind support and to my colleagues for their abounding help.
+
+!!References
+[1] N. Cohn, “Comics, Linguistics, and Visual Language: The past and future of a field,” in Linguistics and the Study of Comics, F. Bramlett, Ed. New York: Palgrave MacMillan. 2012, ch. 4, pp. 92-118.
+[2] A. Clark, “Material Symbols,” Phil. Psych., Vol. 19, No. 3, pp. 1-17, Jun. 2006.
+[3] R. Fusaroli, N. Gangopadhyay, K. Tylén, “The dialogically extended mind: language as skilful intersubjective engagment,” Cog. Syst. Res., Vol. 29-30, pp. 31-39, 2014.
+

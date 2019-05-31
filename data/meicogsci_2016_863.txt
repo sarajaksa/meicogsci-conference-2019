@@ -1,0 +1,19 @@
+... title: Can We Trust Our Ears? Perception and Transcription of Naturalistic Speech Errors in Slovak Language
+
+
+
+Abstract
+
+The aim of this study was to examine our ability of naturalistic speech errors detection. We took a closer look at its sensitivity, potential influential factors and interpersonal differences within Slovak language. We were inspired by the work of R. Ferber [1] who investigated the accuracy and reliability of observational data on spontaneous speech errors. In majority of cases, speech errors are noted down immediately after being heard without any possibility of reexaming the correctness or completness of transcription. Nevertheless, collection of spontaneous speech errors formed the basis for language production processing models. Results of the study [1] showed that only half or less of speech errors were recorded in the condition of immediate transcription relative to repeated listening condition. In this study, we compared results within Slovak language with the results of [1], plus we focused on potential influential factors which might had an impact on immediate speech errors perception. We presumed that emotions, attitudes and socio-demographic characteristics might be the potential influential factors.
+
+!!Methods
+The design of experiment was, unless little differences, comparable to the base study. Participants were listening 20 minute record of post-election debate, which satisfied the condition of naturalistic speech listening. As participants do not have any experience with transcription of speech errors, trial version was passed and then the experiment started. Participants were told to stop the record immediately after hearing any kind of speech error and to note down the time and the perceived expression to prepared answer sheet. After the transcription, listening continued. On the contrary, in the base study [1] participants were not allowed to stop listening during transcription. In both studies participants were not allowed to repeated listening. The choice of theme of the record – post-election debate – was intentional because of its emotional charge and potentiality for revelation of presumed influential factors of speech errors perception. After experiment, participants filled the questionnaire about socio-demographic characteristics, their attitudes towards politics and selected politicians and their feelings and experience related to process of experiment and its content.  
+
+We presumed that participants would not be able to perceive all of the speech errors presented in the record and that emotions and attitudes provoqued by political debate would have the impact on the perception of speech errors. 
+
+!! Acknowledgement
+Special thanks goes to my supervisor Mgr. Jana Bašnáková, MSc.
+
+!!References
+[1] R. Ferber, “Slip of the tongue or slip of the ear? On the perception and transcription of naturalistic slips of the tongue“, Journal of Psycholinguistic Research, 1991, Vol. 20, No. 2, pp. 105 - 122
+

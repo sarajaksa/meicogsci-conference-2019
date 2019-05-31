@@ -1,0 +1,24 @@
+... title: Radioligand Binding to Nmda Receptors: Addition of NaCl- One Step Closer to Natural Conditions.
+
+
+
+Abstract
+
+!!!! Radioligand Binding to Nmda Receptors: Addition of NaCl- One Step Closer to Natural Conditions.
+
+The NMDA-receptor contains binding sites for the excitatory neurotransmitter glutamate (Glu, NR-2 subunits) and for glycine (Gly, NR-1 subunits) [1] and is highly concentrated in the hippocampus and the cerebral cortex. This receptor forms an ion channel permeable for Na+ and Ca2+ ions. Usually this channel is blocked by a Mg2+ cation. When Glu and Gly are binding on the receptor and simultaneously the membrane gets depolarized, the Mg2+ block is removed and the Ca2+-ions reach the intracellular space. The influx of Ca2+ can activate several second messenger systems that are important for activity-dependent synaptic plasticity, but on the other hand excessive influx of Ca2+ can cause excitotoxicity that can lead to neuronal degeneration (e.g. stroke, traumatic brain injury, Alzheimer disease)[2]. Dizocilpine (MK-801) is an allosteric blocker of the NMDA-channel [3]. Hence, it can close the ion channel. Several studies reported its neuroprotective benefit toward excitotoxicity. By adding Tritium to MK-801 it can be applied as a radioligand ([3H]MK-801), hence, it can be used to label the NMDA-receptor in neuronal membranes [3].
+In binding experiments the question is whether and in which concentration different test substances can alter the binding of the radioligand. To do so the test substances are delivered in increasing concentration. In 15 consecutive experiments the antagonists D(-)-2-Amino-5-phosphonopentanoic acid (D-APV, competes with Glu at NR2 subunit) and Dichlorokynurenic acid (DCKA, competes with Gly at NR1 subunit) where applied in different buffers (HEPES/3mM Na+ pH 7, BisTris/30mM NaCl pH 7) at rat cerebral cortex membranes in combination with increasing concentration of Glu and Gly. Both D-APV and DCKA are also associated with neuroprotective effects towards excitotoxicity. The two buffers differed strongly in the concentration of sodium to investigate the influence of this physiologically important cation on receptor binding. 
+As expected for competitive inhibitors, inhibition by D-APV and DCKA was strongly influenced by the presence of the respective neurotransmitters Glu and Gly. Inhibition by D-APV and DCKA was also influenced by raising the sodium concentration from 3 to 30 mM. In the presence of 30 mM sodium D-APV and DCKA were better inhibitors than with 3 mM. 
+In conclusion any future search for NDMA-receptor blocker should take in consideration the physiological milieu of the receptor.
+
+
+
+!!Keywords:
+Binding experiment, NMDA-receptor blocker, Excitotoxicity.
+
+!!References
+
+[1] P. Paoletti (2011). „Molecular basis of NMDA receptor functional diversity“. The European journal of neuroscience, vol 33(8), 1351–65. 
+[2] L.V. Kalia et al. (2013).  „NMDA Receptors in Clinical Neurology: Excitatory Times Ahead“. Pub Med Central CANADA (Vol. 7, pp. 742–755). 
+[3] M. Berger et al. (2006). „Polyamines and the NMDA receptor: modifying intrinsic activities with aromatic substituents“. Bioorganic & medicinal chemistry letters, 16(11), 2837–41.
+

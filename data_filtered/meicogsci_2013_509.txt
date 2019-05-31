@@ -1,0 +1,13 @@
+... title: Rational Imitation or Relevance Guided Imitation: The Development of the Head-Touch Task
+
+
+
+Abstract
+
+!!!!Rational Imitation or Relevance Guided Imitation: The Development of the Head-Touch Task
+
+Research has confirmed that early imitative learning is a selective, non-automatic, and inference-guided process (Gergely et al., 2002). According to the Natural Pedagogy theory (Gergely & Csibra, 2006) infants’ selection as to what to learn from novel actions they observe is a) sensitive to their evaluation of the rationality of the action in relation to its outcome within the situational constraints, and b) sensitive to the presence of an ostensive communicative cueing context that serves to guide their relevance-reading process. This view, and the results of the head-touch task has been challenged by Paulus et al. (2011, 2013) who argue that imitative learning is non-inferential and mediated by motor resonance through automatic matching by the mirror neuron- system. 
+They reported some modified versions of the head touch study to demonstrate that the selective imitation effect could be accounted for in terms of whether the action could be mapped onto an already existing motor scheme that the infant could perform.
+The aim of the talk is to defend the natural pedagogy view of selective imitation against this challenge on empirical grounds. Three novel, modified versions of the head touch task (that are close to two of the Paulus et al.’s procedure) generates contrary predictions from the perspective of the motor resonance account and the natural pedagogy account. In Study 1, the model presented the head touch with her hands free and held upwards either in a communicative context or in a non-communicative setting for 14-month-old infants. We found that the proportion of imitators differed significantly in the two conditions, despite the identity of motor presentation. In Study 2, the model kept balls in her hands while she put her hands next to the table, but either she demonstrated that she needed to hold the balls or she demonstrated that she could leave the balls in the plates next to the lamp. Here again, the proportion of imitators differed almost significantly in the two conditions. Finally, in study 3 we tested whether infants perform the very same head touch behavior in the presence of a novel object. We found significant imitation with the novel object, speaking for the generalizability of knowledge learnt through imitation, and posing questions for the low level accounts.
+These results provide support for the inferential relevance and rationality-sensitive account of selective imitation.
+

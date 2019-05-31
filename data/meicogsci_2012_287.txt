@@ -1,0 +1,44 @@
+... title: The effect of the harmonic context on the perception of pitch class
+
+
+
+Abstract
+
+It has been widely accepted, that context is important as to how we perceive things. This has been extensively studied especially trough visual perception research and often connected with visual illusions. However, scientific understanding of how context affects auditory perception is quite limited. 
+
+The study will focus on whether perception of pitch class is context-dependent - that is, whether the perception of pitch class is affected by the harmonic context.
+
+Pitch consists of two components: pitch height, which defines a position of a tone on a continuum from high to low, and pitch class (“tone chroma”), that defines the position of a tone within an octave (Shepard, 1964). Pairs of tones that have the same pitch class form intervals of unison (pitch height is also the same) and octave. The fundamental frequencies of octave tones stand in a ratio of 2:1. Tones that have the same pitch class are standing in close spatial proximity (Shepard, 1964) and are judged as closely similar in musical context (Deutsch, 1982). 
+
+Pitch recognition judgments in sequential settings have been found to be vulnerable to a variety of influences (Deutsch, 1982). It was shown that a harmonic and melodic context influences the perception of a pitch (Deutsch, 1974; Deutsch, 1982).
+
+In Western popular music a leading melody is generally accompanied with a harmonic context that contains common chord progressions. So far, very little research has been published on how different chord progressions influence perception of pitch class, which is the goal of the proposed study. 
+
+Method
+In the experiment, different sequential intervals (intervals that are formed from tones with the same pitch class and intervals that are formed from tones that differ in pitch class), consisting of a 1st and a 2nd probe tone, will be presented under two conditions: session A) without harmonic context, session B) with harmonic context. Subjects (20 musicians – academic level of training; 20 non-musicians – less than 2 years of formal training) will be asked to determine whether the first and second probe tones present the same pitch class or not. Reaction times and error rates will be measured. 
+
+Experiment
+A)	Without harmonic context  - baseline
+Stimuli will be presented in the following order: 1st probe tone, silence, 2nd probe tone.  To reduce the number of possible combinations and to simplify the design of the study, the two probe tones will form the following two combinations: C-C, C-G. The first combination (C-C) is therefore formed from tones with the same pitch class, whereas the second combination (C-G) is formed from tones that differ in pitch class by a distance of a perfect fifth. Probe tone combinations are the same as the ones in session B, because this part of experiment will serve only as a baseline.
+
+B)	With harmonic context
+Stimuli will be presented in the following order: 1st probe tone, silence, 1st probe tone accompanied by the 1st chord, silence, 2nd probe tone accompanied by the 2nd chord. In the same way as in session A the two probe tones will form the following combinations: C-C (the same pitch class), C-G (different pitch class). Chords accompanying probe tones will form all the combinations between chords where the tone C appears as a root, third or a fifth of the chord (C maj, Ab maj, F maj, C min, A min, F min) and chords where C and G tone appear as a root, third or fifth in the same chord (C maj, C min).  
+
+Expected results                      
+
+We expect that the context will highly affect the perception of the pitch class, as specified further on.
+1.	Error rates and reaction times will increase when the probe tones are presented with a harmonic context in comparison to cases where they are presented without harmonic context.
+2.	When two probe tones of the same pitch class are placed in a different harmonic context, error rates and reaction times will increase in comparison to when they are placed in the same harmonic context (based on Deutsch, 1982; Deutsch, 1974). 
+3.	When two probe tones whose pitch classes are not the same (separated by a perfect fifth) are placed in the same harmonic context, error rates and reaction times will increase in comparison to when they are placed in a different harmonic context (based on Deutsch, 1982). 
+4.	When two probe tones belonging to the same pitch class are placed in a different harmonic context, with one probe tone accompanied by a major chord and the other by a minor chord, error rates and reaction times will increase in comparison to when both chords accompanying the probe tones are major or minor. 
+5.	When the chords accompanying two probe tones whose pitch classes are not the same (separated by a perfect fifth) shift in parallel with them, so that the relationships between the probe tones and their accompanying chords are preserved, error rates and reaction times will increase in comparison to when the relationship between the tones is not preserved (based on Deutsch, 1974). 
+
+In addition we expect that musicians will in general have shorter reaction times and will make fewer mistakes, and that the impact of the harmonic context will be less significant. 
+
+The results of the research will provide a new understanding on how context affects our perception. Furthermore, the results can be applied to the music education, especially in the ear-training programs (interval recognition training when they are placed in a harmonic context).
+
+References
+Deutsch, D. (1974). Error patterns in delayed pitch comparison as a function of relational context. Journal of Experimental Psychology, 103, 1027 – 1034. 
+Deutsch, D. (1982). The influence of melodic context on pitch recognition judgement. Perception & Psychophysics, 31, 407 – 410. 
+Shepard, R. (1964). Circularity in judgments of relative pitch. Journal of the Acoustical Society of America, 36, 2346–2353.
+

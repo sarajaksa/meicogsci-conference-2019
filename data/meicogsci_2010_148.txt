@@ -1,0 +1,33 @@
+... title: Extending The SERA Project: Long-term Social Engagement with Robots and Agents
+
+
+
+Abstract
+
+The European project SERA, which this project is a part of, studies long-term social
+interaction between users and a robotic companion in a real life scenario of providing social
+support during rehabilitation. It is a question of high relevance how can assistive technologies
+(companions, virtual butlers) improve our daily life quality. SERA generates theoretical and
+methodological knowledge as well as develops a reference architecture for social engagement
+based on observed behaviour in a performed field study.[3]
+The field study of the SERA project undertakes three iterations in order to collect required data
+(audio and video recordings of human-agent interactions) for the further analysis. Each iteration will provide more functionality to the companion and include more test subjects. The equipment used for the field study has a Nabaztag rabbit in its core. The obviously cute rabbit is placed in eye height so the user-agent interaction is maximized. The Nabaztag is supported by a proximate computer and an array of microphones.
+The Nabaztag is able to connect to the Internet with a built-in wireless receiver. Via this connection command sequences (ear movement, simple speech and playback of audio, speech recognition etc.) can be sent to the rabbit. Along the possibility to socially interact with humans the Nabaztag has diverse competences containing among others the ability to read RSS feeds (e.g. newscasts), a basic Calendar function, everything required to play an Internet-radio and is able to report new incoming e-mails.
+The main topic of this project is to build a easy-to-use graphical user interface for controlling the Nabaztag platform employed in the SERA project. A core capability of this application is a scripting control language. Scripts will be used to demonstrate the physical features and the conversational capabilities of the Nabaztag as required for the successfully run of the project.
+Long-term human-agent interaction remains relatively unexplored.[1] Still is remains one of
+the core aspects of cognitive science. We have to be able to adapt our software as well as our
+robots so that they behave in a socially acceptable manner.
+Humans tend to improve their free time by buying gadgets such as the Nabaztag, but for some
+reason many of them end up piled in a drawer with another gadgets or hidden in a closet. If
+we are smart, we resell them on eBay or on Amazon. Project SERA aims to understand this
+trend.
+As a study subject for long-term human-agent interaction elderly people have been selected[2].
+The SERA system gives advice and encouragement about exercise and daily lifestyle. On the
+one hand the system should encourage daily walks and on the other hand it should respond to
+extensive fatigue by making suggestions about a day rest.
+References:
+[1] Rachel Gockley et al Designing Robots for Long-Term Social Interaction, 2005 IEEE/RSJ
+International Conference on Intelligent Robots and Systems
+[2] British Heart Foundation: The Heart Failure Plan. London (2005). http://bhf.org.uk/
+[3] Payr, Sabine, Peter Wallis, Stuart Cunningham, and Mark Hawley. 2009. Research on Social Engagement with a Rabbitic User Interface. In Roots for the Future of Ambient Intelligence. Adjunct Proceedings, 3rd European Conference on Ambient Intelligence (AmI09)
+

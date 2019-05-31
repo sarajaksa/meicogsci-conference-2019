@@ -1,0 +1,14 @@
+... title: Living With Social Robots: Some Aspects Of Future Human-Robot Relationships
+
+
+
+Abstract
+
+Main goal of this project is to point out the need for guality research on this topic, so we will be better prepared fort he relationship with human like robots. My method was critical analyses of already written articles.
+Technological progress is a part of our sociocultural evolution. [2] This progress is quite fast, so it is possible that social robots will soon be a part of human society. Social robots are human-like robots. They will try to mimic humans; the way we talk, the way we walk, how we think, how we manifest our emotions, etc. They will be a part of our everyday life as our friends, partners and co-workers. They will help us with taking care of the elders and kids. [1] In short, they will become a part of our society. The fact that we are able to create something like that is very appealing. Because of this attractiveness, many have forgotten about potential problems. Investors are usually in a hurry to get money, so researches are often neglected. These researches are important because they would help us to be prepared for unwanted, unplanned and unpredictable situations. Because of the way the robots are designed, they are in need of special maintenance – we need to specify their role and place in our society. The real questions are: »How will social robots affect our lives?«, »How  should they be programmed?« and »How should we act in  the event of a morally questionable situation?«. [3]
+
+References:
+[1] de Graaf, M. A. M. (2016). An ethical evaluation of human-robot relationship. Int J of social robotics, 8(2016), 589-598. Doi: 10.1007/s12369-016-0368-5
+[2] Baciu, C., Opre, D., Riley, S. (2016). A new way of thinking in the era of virtual reality and artificial intelligence. Working paper. Doi: 10.13140/RG.2.1.3986.6483
+[3] Kahn, H. P., Freier, G. N., Freidman, B., Severson L. R., Fledman, N. E. (2004). Social and moral relationships with robotic others. Robot and human interactive communication.
+

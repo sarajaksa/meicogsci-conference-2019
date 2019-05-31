@@ -1,0 +1,25 @@
+... title: Study of an annotation scheme concerning spatial information from text corpora
+
+
+
+Abstract
+
+How is information that locates entities in space expressed in news article? Are those expressions universal; is spatial information expressed in the same way in various languages?
+
+Spatial information is defined as all expressions that account for locating entities in space. Topologicaly speaking, spatial information can be classified into three groups/categories namley,information about location , the motion (path and manner), and the frame of reference.
+A lot of such frameworks can be found in the literature. The main idea behind it, is to find a classification scheme that is an attempt to create a construct that reflects the representation of spatial information presented in natural language. Such a scheme is established through a formal analysis of the entities composing language, as well as the relations among them. In other words, the goal of establishing a classification scheme is an explanatory account of how the structure of language (seen as a system), the combination of the entities and the simple meaning of the entities can account for spatial information. 
+This interest seems to be shared by two disciplines: cognitive linguistics and computational linguistics. Cognitive linguistics and in particular cognitive semantics try to find out how the meaning can be constructed from the structure of the language. It separates meaning into meaning-construction and world representation.
+The field of computational linguistics and in particular the sub discipline of ontology tries to make those categories available for the automatic extraction of spatial information in text, using also diverse models.
+There are a lot of different existing theoretical approaches in cognitive linguistics about the categorization and construction of spatial information: the first part of my project will be to make a short review of those linguistic theories. No systematic classification of those theories exists in the literature: I also aim to establish a classification based on the approaches token. The link in this analysis will consist in asking how those approaches considers languages (what it is nature and how can meaning be created?).
+
+The second part of my project will consist of an evaluation of an already existing standard annotation scheme. This annotation scheme has been developed in a larger project concerning a Semantic Annotation Framework (Pustejovsky ad al., 2012). Its main aim is to provide an inventory of how spatial information is expressed in natural languages. 
+Based on the classification of the cognitive theories established in the first part of the project, the second part will try to make some propositions about the classification used for this annotation schema. It will take into account the limits inherent to the automatic extraction from text corpora and the general guidelines that have to be used in order to satisfy the criteria for establishing an annotation scheme.
+
+The last part of my project will tackle the question of universality: can this annotation specification be used in other languages?
+Since the ultimate idea behind this annotation specification for spatial information is to become multilingual, and has so far only been tested for English corpora, an interesting point would be to test it for French copora. To this purpose, I will try the annotation scheme on a French news article using an existing annotation tool (UMA Corpus tool).
+
+As this is the beginning of the project, there are none existing results at this time. 
+The final result will be a classification of the different approaches concerning language and meaning in cognitive semantics, the evaluation of the existing standard annotation scheme for spatial expressions, and finally testing the universality of application of this scheme.
+
+Since this project is at the interface between cognitive semantics and computational linguistics it aims to contribute to a better interdisciplinary work between the two disciplines.
+

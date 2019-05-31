@@ -1,0 +1,29 @@
+... title: Meditation and P3 event-related brain potential
+
+
+
+Abstract
+
+Meditation practice has been a matter of study for many years. There has been promises from various meditation traditions about positive effects that meditation practice has on one  psychical and physical body (Davidson & Lutz, 2008). 
+
+»Meditation can be conceptualized as a family of complex emotional and attentional regulatory training regimes developed for various ends, including the cultivation of well-being and emotional balance« (Lutz et al., 2008, p. 163). 
+
+In scientific research there are numerous problems regarding meditation research that involve both theoretical and empirical obstacles. On the other hand there has been some interesting results in research focused on studying effects of meditation on attention regulation. 
+
+On the representational poster there will be presented various aspects of meditation and scientific research. From heterogeneity of styles to theoretical obstacles regarding unclear definitions. There will be presented two different styles of meditation that are commonly used in experimental research. Those two types are: Focused attention (FA) and Open monitoring (OM) meditation. The first type of meditation refers to focusing on some kind of object (either abstract or real). Whereas, the second type goes beyond focusing on an object, the aim is monitoring ones mind.
+
+In the empirical part there will be focus on attention regulation and meditation showing results of the latest neuropsychological research. There will be presented the experimental setting involving electroencephalography, oddball paradigm and P3 component. It is known that this component represents event related potential (ERP) with some unsuspected stimuli. The oddball paradigm is usually reffered to as a two-stimulus task, with a standard stimulus (appearing about 80% of time), and a target stimulus (appearing about 20% of time). Beside this traditional version, there is also a three-stimulus oddball task, where in addition to these two stimuli, there is also a distractor. Our focus will acctually be on the subcomponent of P3 – the P3a component. Subcomponents P3a and P3b appear in a three-stimulus oddball task (standard tone, target tone and distractor), where P3a denotes frontal neural activity related to distractor, whereas P3b denotes central-parietal activity related to target stimulus (Polich, 2007). For us, P3a is important beacuse it is related to attention regulation.
+
+In the end there will be presented the results which show that long term meditation practices has effect on attention regulation. 
+
+The aim of the poster is to present the interesting field of meditation so that an observer can understand the framework and current problems of meditation research. With presentation of the specific research observer will be able to understand the setting behind the meditation and attention regulation experiment.
+
+
+References: 
+
+Davidson, R. J. & Lutz, A. (2008). Buddha’s Brain:  Neuroplasticity and Meditation. IEEE Signal Processing 25(1), 171-174.
+
+Lutz, A., Slagter, H. A., Dunne, J. D. & Davidson R. J. (2008). Attention regulation and monitoring in meditation. In Trends in cognitive science Vol. 12, No. 4 (163-169).
+
+Polich, J. (2007). Updating P300: an integrative theory of P3a and P3b. Clin Neurophysiol. Retrieved from: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2715154/pdf/nihms31682.pdf
+

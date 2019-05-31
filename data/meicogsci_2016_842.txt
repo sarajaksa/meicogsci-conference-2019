@@ -1,0 +1,28 @@
+... title: How Do Language and Accent Influence Children’s Toy Choices?
+
+
+
+Abstract
+
+One of the most obvious indicators of group membership is the language one speaks [1]. Language plays an essential role in how we divide the world into social categories. Moreover, spoken language and accent with which someone speaks provides information about an individual's national, social, and ethnic group identity [2].
+
+Developmental research has recently shown the importance of language and accent when it comes to social evaluations and early-life preferences. For example, 5–6-month-old infants look longer at an individual who previously spoke in their native language with a native accent, relative to an individual who previously spoke in a foreign language or a foreign accent. Further research also showed that when offered identical toys by a native and a foreign language speaker, 10-month-old infants preferentially take toys from individuals who previously spoke to them in their native language. These experiments provide evidence for an early-developing social preference for members of one's native language group compared with members of a foreign language group [3].
+
+The aim of this pilot study was to investigate how language and accent affect children’s toy choices, with the research question being if there is an in-group sensitivity for the native over the foreign accent. In the following preference task, two models were sitting side by side, in front of the child. Each of the models talked to the child in one of the conditions; native language with a foreign accent and foreign language with a native accent. Then, the models held up two identical toy animals and lowered them as if offering them to the child. Children’s first reach to one of the toys was recorded and coded offline.
+
+Thirty-five 4–5-year-old monolingual native Hungarian children (14 females, M = 4 years and 8 months, range: 4 years and 0 months; 5 years and 4 months) participated in the study. Data from 24 additional subjects was obtained but not included due to sampling issues.
+
+Results showed that children did not show selectivity in the preference task; they took toys about equally from the individuals of the two accents. The reason for these results will be further discussed in the talk. Moreover, the present study has several limitations that should be addressed in future research.
+
+!!Acknowledgements
+
+We thank all parents and children who participated in this research.
+
+!!References
+
+[1] D. Buttelmann, N. Zmyj, M. Daum and M. Carpenter, ˝Selective imitation of in‐group over out‐group members in 14‐month‐old infants,˝ Child Development, vol. 84, no. 2, pp. 422–428, 2013.
+
+[2] W. Labov, The social stratification of English in New York City, 2nd ed. New York: Cambridge University Press, 2006.
+
+[3] K. D. Kinzler, E. Dupoux and E. S. Spelke, ˝The native language of social cognition,˝ Proceedings of the National Academy of Sciences of the United States of America, vol. 104, pp. 12577–12580, 2007.
+

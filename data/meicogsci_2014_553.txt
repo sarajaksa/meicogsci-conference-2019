@@ -1,0 +1,30 @@
+... title: Making a Case for Theta Burst Stimulation in Treatment of Depression
+
+
+
+Abstract
+
+!!!! Making a Case for Theta Burst Stimulation in Treatment of Depression
+
+Over the last 7 decades, the role of electrical brain stimulation in treatment of depression has been well established, most prominently in the form of electroconvulsive therapy (ECT), a method where direct current is applied to wider areas of the brain, stimulating both its cortex and its deep structures. There is significant evidence of ECT's efficacy, however due to its associated social stigma and, more importantly, many adverse cognitive effects (most commonly memory loss), its use remains controversial. [1] 
+
+One of the alternatives available is Repetitive Transcranial Magnetic Stimulation (rTMS), which is (unlike ECT) a non-convulsive localized stimulation of brains' cortical areas.  Conventional rTMS protocols consist of several trains of stimulation with frequencies up to 20 Hz and have been shown to be effective in treatment of depression. [2] A more novel approach are Theta Burst Stimulation (TBS) protocols, which use a lower stimulation intensity and have shorter application times. [3]
+
+We have conducted a literature review focusing on a comparison of conventional rTMS and TBS. In order to examine TBS's viability as a superior alternative to the established rTMS protocols, we reviewed both the theoretical literature highlighting its possible advantages, as well as the empirical research studying its effects and efficacy.
+
+Most of the TBS research done so far does not deal with depression treatment efficacy directly. It focuses instead on studying how TBS affects the primary motor cortex (M1), exploring its facilitatory/inhibitory effects and its capacity to induce neuroplasticity. In the domain of M1, TBS seems to induce aftereffects that are comparable to (but last longer than) any other rTMS protocol. As TMS is generally considered unpleasant to subjects, TBS’s lower voltage and shorter stimulation times would be advantageous in therapeutic use even if its efficacy was only comparable to rTMS.
+
+Unfortunately, so far there is little confirmation that results of studies on M1 are also applicable to other cortical areas (namely the dorsolateral prefrontal cortex, stimulated in the conventional rTMS treatment). Only preliminary studies have been done so far on linking TBS with depression treatment directly, and produced mostly heterogeneous, inconclusive results.
+
+The literature also suggests that the neurobiological mechanisms of TBS are currently poorly understood. It is hypothesized that processes similar to long-term potentiation and depression are involved, modulating the synaptic connectivity of cortical neurons.
+
+Although the case for TBS in depression treatment seems to be promising considering its advantages, additional research needs to be conducted to establish a consensus on its actual efficacy, its underlying mechanisms, as well as the optimal stimulation parameters.
+
+!! References
+
+[1] D. M. Blumberger, et al., »What Is the Role of Brain Stimulation Therapies in the Treatment of Depression?«, Curr Psychiatry Rep., vol. 15, pp. 368, 2013.
+
+[2] Z. J. Daskalakis, et. al., »Repetitive Transcranial Magnetic Stimulation for Major Depressive Disorder: A Review« The Canadian Journal of Psychiatry, vol. 53, pp. 555-566, 2008.
+
+[3] L. Cárdenas-Morales, et al., »Mechanisms and Applications of Theta-burst rTMS on the Human Motor Cortex«  Brain Topogr, vol. 22, pp. 294-306, 2010.
+

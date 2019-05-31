@@ -1,0 +1,19 @@
+... title: Neural Correlates of Unconscious Visual Attention – Testing the Role of the Superior Colliculi by Subliminal Color-Cueing
+
+
+
+Abstract
+
+Research question: One of the most intriguing questions in the study of the mind certainly is how conscious experience relates to neuronal brain-events. Many studies in the fields of cognitive psychology and neuroscience try to tackle the issue by exploring the limits of unconscious cognition. The brain mechanisms underlying unconscious (subliminal) visual attention are currently subject of debate. Although many researchers assume that they are to large extent of cortical origin, others have argued for an alternative [1]. According to the “bottom-up theory of attention”, subliminal attention is dependent on areas in the midbrain, namely the Superior Colliculi (SC). One line of evidence comes from results of cueing-experiments: Subjects search for targets, and target positions are either cued or not with subliminal abrupt onsets. If these cues capture attention, responding to targets at cued locations is facilitated and vice versa (cueing-effect). Given that neuronal processing in the SC was reported to be largely color-insensitive, the SC-hypothesis is supported by recent findings showing the absence of cueing effects in the search for color-defined targets and a strong dependence of the cueing-effect on the cue´s luminance-contrast [2].  However, the same study reported an almost equally strong cueing-effect by black contrast-cues and color-cues [2]. This result is puzzling because the luminance of color-cues was objectively equated to the background. Possibly, individual differences in luminance-perception account for this observation as objectively luminance-equated color-cues are perceived brighter or darker than the background. The present study tests this hypothesis. 
+
+Methods: The luminance of red, green and blue cues is subjectively matched to the gray background by Heterochromatic Flicker Photometry [3]. In comparison, the luminance of red, green and blue cues is objectively matched to the gray background by direct colorimetric measurement. In a subliminal cueing-paradigm similar to experiment 1 in [2], the cueing by subjectively luminance-equated cues is compared to that of objectively luminance-equated cues. 
+
+Results: Results for four subjects indicate just small differences for subjective vs. objective luminance-matching. Accordingly, significant differences in the actual cueing-experiments cannot be shown. Yet, the study is still in progress and it is too early for a final statement.  
+
+Conclusions: The preliminary results don´t account for the previously observed subliminal cueing-effect by color-cues [2] in terms of individual variations in color-luminance-perception. Further experiments with a higher number of participants are planned because the present data don´t allow a final conclusion.
+
+References:
+1. Mulckhuyse, M., Talsma, D., Theeuwes, J. 2007. Grabbing attention without knowing: Automatic capture of attention by subliminal spatial cues.  Journal of Vision, 7, 9, article 1081.
+2. Fuchs, I., Ansorge, U. 2012. Unconscious cueing via the Superior Colliculi: Evidence from Searching for Onset and Color Targets.  Brain Sci., 2, pp. 33-60.
+3. Sharpe, L. T., Stockman, A., Jägle, H., Knau, H., Klausen, G., Reitner, A., Nathans, J. 1998. Red, green and red–green hybrid pigments in the human retina: correlations between deduced protein sequences and psychophysically-measured spectral sensitivities. J. Neurosci., 18, pp. 10.053-10.069
+

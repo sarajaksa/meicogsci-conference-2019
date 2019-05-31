@@ -1,0 +1,20 @@
+... title: Influence of Age Differences on Media Multitasking
+
+
+
+Abstract
+
+Multitasking is defined as performing two or more tasks simultaneously. The prevailing concept of multitasking as a process derives from cognitive theory. Currently the most holistic explanation of the continuum of multitasking (from concurrent to sequential performing of activities) is threaded cognition [1]. It is based on three pre-existing theories: ACT-R cognitive architecture, which explains processing of information; the threaded cognition theory of concurrent multitasking that explains the simultaneous execution of two or more tasks; and the "memory-for-goals" theory, which explains the interruption and continuation of activities based on memory consolidation that enables tracing of goals [1].
+
+With the development of new types of digital media and online services for interpersonal and mass communication, new types of multitasking have appeared, such as media multitasking (MM). Prevalent phenomenon of MM refers to “a person's consumption of more than one item or stream of content at the same time« [2]. Because most of the studies of MM are based on student population samples, there is a lack of insight into the possible differences in the form and occurrences of MM with respect to the age of those individuals. Therefore, the purpose of the study is to determine whether there is a correlation between age and the expression of MM; more precisely, how is the scope of MM changing with age (rising or decreasing by age groups), and are there differences in the specific forms (combinations of each concurrent activities) of MM related to age.
+
+Research is based on the online questionnaire of a representative sample of the Slovenian population aged between 16 and 55 years. The questionnaire contains one of the most used measuring instruments of MM – Media Multitasking Index, which measures the proportion of time a person uses more than one medium [2]. It also consists of a series of questions that examine the possession of various multimedia devices and a set of questions that relate to the socio-demographic characteristics of the respondents. 
+
+According to previous research it is expected that, at first, the extent of MM will increase by age groups and then decrease due to the cognitive decline and generation differences that are related to the use of technology. Different combinations of concurrent activities are expected to be observed by age groups (e.g. for the oldest age group fewer combinations of concurrent activities are expected compared to younger age groups).
+
+## References
+
+[1] D. Salvucci, N.A.Taatgen and J.P. Borst,  " Toward a unified theory of the multitasking continuum: from concurrent performance to task switching, interruption, and resumption,” *Conference on Human Factors in Computing Systems *,  pp. 1819-1828, 2009.
+
+[2] E. Ophir, C. Nass and A. Wagner, “Cognitive control in media multitaskers,” *Proceedings Of The National Academy Of Sciences*, vol. 106, no. 37, pp. 15583-15587, 2009.
+

@@ -1,0 +1,26 @@
+... title: Rasa Resonator: Towards Affective Music Interaction
+
+
+
+Abstract
+
+!!!! Rasa Resonator: Towards Affective Music Interaction.
+The complex relation between music, its constitutive elements and affect has concerned scholars in the East and West for more than 2000 years. Two positions have been taken:  „Emotivists“ hold that music is able to induce genuine emotional responses. „Cognitivists“ claim that listeners only perceive emotions expressed in music without experiencing them. 
+Empirical research points in the “emotivist” direction but the issue is far from being settled. It remains unclear how properties of a work of music or its sounding elements elicit emotions and which. Listening to „sad“ music often makes a listener happy. It still can be said that “music ́s apparent ability to induce strong emotions is a mystery” [1]. There is no agreement in the research community about why and how musical emotions appear. [2]
+The last 20 years have seen an increase of empirical research on the topic. The affective sciences have developed a variety of theories and models. Psychological experiments about the interpretation of the emotional expression of music and sounds have been conducted. Databases of auditory stimuli that evoke emotions have been validated – though connected only to a limited set of emotional theories (namely the „dimensional theory“ and the „discrete emotions theory“).
+Inspired by the classical „Rasa Theory“ [3] of Indian aesthetics I am taking the „emotivist“ position. Rasa is a notion that describes the dominant affective state in perceiver of a dramatic performance. I develop a research proposal that aims to create a biosignal driven music instrument that elicits defined affective experiences according to the „rasa doctrine“. The concept rests on the fact that affective responses are indicated by physiological changes in heart rate, skin conduction, temperature, respiratory rate, etc.  
+
+To realize the proposed cybernetic feedback loop of an “Emotional Resonator” we need:
+* a valid set of physiological parameters that represent specific emotions
+* a theory of emotions that connects these parameters to specific emotional states and processes
+* a model that integrates these physiological parameters according to the theory
+* a relation of sounds, music and their (dynamic) properties to the affects they evoke
+* the influence of personal taste and cultural disposition of the subject for purposes of calibration
+* a model for the timing of changes of emotional states 
+In creating this actual instrument open questions in measuring emotions (eg. continuous reporting), the influence of low and high level processes in music cognition and the relation of acoustic signal properties and affective response will be addressed.
+
+!! References:
+[1] Patrik N Juslin and Daniel Västfjäll, “Emotional Responses to Music: The Need to Consider Underlying Mechanisms.” The Behavioral and Brain Sciences 31 (5), 2008, pp 559–575.
+[2] Scherer, Klaus R., “Which Emotions Can Be Induced by Music? What Are the Underlying Mechanisms? And How Can We Measure Them?” Journal of New Music Research 33 (3), 2004, pp 239–51.
+[3] Rangacharya, Adya,: The Natyasastra. English Translation with Critical Notes.  New Dehli, India, Munshiram Manoharlal Publishers, 2010
+

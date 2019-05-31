@@ -1,0 +1,19 @@
+... title: Agent-based Modeling: A Novel Practitioner’s Generative View on Social Systems
+
+
+
+Abstract
+
+A common argument in the social sciences is that social systems are too complex to be captured formally: mathematical models necessarily oversimplify them [1]. As a result, the methodological focus has been on capturing the entirety of a social system qualitatively and quantitatively, rather than researching normative aspects, as computational modeling allows. In cognitive science, computational models play a crucial role for the analysis of complex systems: a “good model” is “a simpler and more abstract version of the system” [2, pp. 135] that can be executed and leads to insights that can be reapplied to the original system. Agent-based modeling (ABM) employs interacting agents following some predefined (e.g., adaptive) behavior. It has been successful in the study of emergent phenomena in natural and social worlds.
+Key questions we address are: What kinds of knowledge can be gained through ABM (in principle)? To what extent is it justified and sound to apply insights gained from ABM to real social worlds? And, in particular: How do behaviors of individual agents relate to that of a social system overall?
+To complement our theoretical study of the ABM method (drawing also on our anthropological background) with the development of a grounded understanding of its practical potential for research in the social sciences, we first carried out replication studies of established social models (using the popular NetLogo system). At the time of writing, we are about to extend the gained knowledge and skills by implementing an exploratory model of the impact of affective agents on social systems (cf. e.g. [3]).
+This project was aimed at explicating the status of the relation between the traditional descriptive methods in social sciences and the possibilities of generative ABM. Countering the initially stated widespread skepticism, we show from a novel practitioner’s point of view how ABM can enable a deeper understanding of phenomena occurring in social systems.
+
+!!Acknowledgements
+I would like to thank my supervisor Paolo Petta for his support and the Austrian Research Institute for Artificial Intelligence (OFAI) for providing some of the required infrastructure.
+
+!!References
+[1] J. A. Barceló and F. Del Castillo, “Simulating the Past for Understanding the Present: A Critical Review,” in Simulating Prehistoric and Ancient Worlds (Computational Social Sci.), J. A. Barceló and F. Del Castillo, Eds., Cham, Switzerland: Springer, 2016, pp. 1–140.
+[2] D. Fum et al., “The cognitive modeling of human behavior: Why a model is (sometimes) better than 10,000 words,” (editorial), Cognitive Syst. Research, vol. 8, no. 3, pp. 135-142, Sept. 2007. doi:10.1016/j.cogsys.2007.07.001
+[3] A. Staller and P. Petta, “Introducing Emotions into the Computational Study of Social Norms: A First Evaluation”, J. of Artificial Societies and Social Simulation, vol. 4, no. 1, Jan. 2001. Available:  http://jasss.soc.surrey.ac.uk/4/1/2.html (visited 2017, May 31)
+

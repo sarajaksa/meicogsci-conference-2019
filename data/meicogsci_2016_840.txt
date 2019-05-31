@@ -1,0 +1,25 @@
+... title: Sequential Pattern Learning in Budgerigars, Pigeons, and Humans
+
+
+
+Abstract
+
+The ability to develop and use language is commonly regarded to be one of the core phenomena that distinguishes our species from others [1]. One cognitive subset of this phenomenon might be the ability to recognise and categorise certain sequences of items (patterns) based on a set of rules which can be termed grammar. The mechanism underlying rule abstraction in pattern-learning has - although presumably constitutive for language capacity – been found across modalities in several species [2]. Thus, we assume it to be domain-general, but developed differently across species dependent on their respective phylogeny.
+
+It has been shown that animal vocalisations of all non-human species tested so far do not exceed a complexity level of finite-state grammars [2], while human language requires higher-order grammars [3]. However, using certain finite-state grammars can be sufficient to detect strings of greater complexity (long-distance dependencies).
+Comparing species that are, as humans, vocal learners with non-vocal learners from the same taxon helps to clarify the influence of selective pressures that shaped this ability and thus enable inferring conclusions about human language evolution. Artificial grammar learning is a promising method to this end [3]. 
+
+In the current study we aim at comparing budgerigars (Melopsittacus undulatus), who are vocal learners, pigeons (Columbia livia), who are not vocal learners, and humans, in their ability to distinguish and generalise visual XYX (long-distance dependency) from XXY (immediate dependency) finite-state sequences based on shape and colour cues. Subjects first learn to discriminate both types of sequences in a forced-choice task. Subsequently, generalisation of the grammars is assessed in five tests, varying stimuli in shape, colour and novelty of elements.
+
+If the ability of rule-abstraction is domain-general but consititutive for vocal production, we expect budgerigars  - having had the need to evolve a flexible vocal communication system – to be equipped with parsing abilities between those of humans (higher) and pigeons (lower). This would result in fewer training sessions and more ready generalisation of the underlying grammars in budgerigars compared to pigeons. 
+
+Preliminary results will be shown. 
+
+
+
+[1] M.D. Hauser, , N. Chomsky,  & W.T. Fitch, „The faculty of language: what is it, who has it, and how did it evolve?,“ Science, vol. 5598, pp. 1569-1579, Nov. 2002.
+
+[2] ten Cate, C., & Okanoya, K. , „Revisiting the syntactic abilities of non-human animals: natural vocalizations and artificial grammar learning,“ Phil. Trans. R. Soc. B, vol. 1598, pp. 1984-1994, June 2012.
+
+[3] W.T. Fitch,  & A.D. Friederici,. „Artificial grammar learning meets formal language theory: an overview“ Phil. Trans. R. Soc. B, vol. 1598, pp. 1933-1955, June 2012.
+

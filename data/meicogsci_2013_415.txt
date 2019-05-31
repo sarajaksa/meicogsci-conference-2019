@@ -1,0 +1,16 @@
+... title: Does Daytime Saving Time Steal Your Time?
+
+
+
+Abstract
+
+Introduction: Mankind was always dependent upon light in every area of our lives, so we adapted to be active during the day and to sleep at night. Vital for the process of sleep and wakefulness is the circadian rhythm, which is driven by a suprachiasmatic nucleus (SCN) whose functions are majorly determined by light [1]. To receive more daylight during the hours when majority of people is active and to save electricity, the idea of changing current time one hour forward was widely introduced during the energy crisis in 1970's and is known as Daytime Saving Time (DST) [2]. Because no one is questioning the DST, we decided to make a research in collaboration with the Sleep Center in the Institute of Clinical Neurophysiology (Ljubljana) to statistically measure effects of DST on people.
+
+Our hypothesis was based on the knowledge contributed to researches of Richardson [1] and Wright [3], how the people who got an hour less sleep on the day of the switch, will be affected during the next day. The other hypothesis was that the surveyed will prefer the winter time set, because it is more "natural" (sun being on highest point at noon). 
+
+Methods: We conducted an internet survey involving 620 subjects (59% men, 41% women, aged 14-88 years) lasting from 31st of March (on the day of DST) till 8th of April 2013. Subjects were asked about changes in their duration of sleep in general and on the day of the switch, about the effects of DST after it, how long were the effects noted and what  their subjective opinion on the DST is. The results were analyzed with the statistical program SPSS and the following findings are statistically significant (p < 0,05).
+
+Results: 76.3% of the surveyed find the switch preposterous. 65.8% subjects who slept at least one hour less on the night of a switch felt the effect of tiredness and 33.4% had lack of concentration. The effects of the DST were felt by 53.9% subjects even three days after the switch, which must have some negative effects on general productivity of society, in long term it could even result in some medical conditions. Surprisingly, in 75.8% the favorable time set was the summer time, because surveyed like to have a lot of daylight (after work).
+
+Discussion: Based on the results the surveyed do not find DST reasonable, because it takes their time to inure. There are doubts about DST decreasing general energy consumption and a big possibility that DST interferes with circadian rhythm and in long term there might even be some neurological issues that are not yet clear [3]. For this reason we believe that following research should be done on a bigger scale and on a long term basis, with different methods to investigate the decision that was made almost 40 years ago and is now widely taken for granted.
+

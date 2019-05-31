@@ -1,0 +1,8 @@
+... title: Challenging the anthropocentric view of imitation
+
+
+
+Abstract
+
+Imitation is a major engine of cognitive and social development throughout human life. It provides the foundation for language acquisition, skill learning, socialisation and enculturation. However, two sets of fundamental issues remain unresolved: 1) What are the evolutionary and developmental sources of human imitative potential? 2) How is imitative potential brought under intentional control? In this talk I want to review several studies on social learning in non-human animals that share an irritating feature, they don’t fit into the dominant, anthropocentric theories of social learning. Tortoises show clear evidence of learning a difficult spatial problem by observing a conspecific model despite the fact that they are solitary. Archer fish and common marmosets exhibit high fidelity copying of movement patterns of a conspecific model, thereby solving the correspondence problem of imitation (transforming visual information into matching motor acts). Dogs seem able to imitate — at least in ostensive-communicative contexts — selectively. Together these data suggest that several core components of human cultural learning, such as high copying fidelity, intentional inhibition and selectivity, are shared by many species. It is therefore likely that these behaviours emerge from general learning abilities rather than from specific mechanisms of advanced (human) sociality.
+

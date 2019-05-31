@@ -1,0 +1,28 @@
+... title: Action observation and motor imagery effects on motor learning
+
+
+
+Abstract
+
+##Introduction
+Mental imagery and action observation are often used in combination with overt sports practice to aid in learning and improving performance in motor tasks. Holmes and Calmels [1] suggest that action observation bears some advantages over mental imagery, namely, that participants do not need to generate, maintain and transform imagery content, and that practitioners have more control over the content of an intervention.
+
+Some theories suggest that functional equivalence exists between overt actions and mental imagery or observation of said actions [1]. These actions can supposedly be rehearsed by using mental imagery and action observation.
+
+##Experiment
+I will directly compare the effects of mental imagery and action observation on learning a novel and complex motor task.
+
+First, I will validate the Visual Mental Imagery Questionnaire 2 (VMIQ-2) [2] in Slovenian language with an online survey on a sample of at least 200 participants who will be invited to take part in the main experiment.
+
+A pilot study will be used to determine, on average, how long it takes the participants to reach the first plateau in performance for the training and experimental tasks. The tasks consist of stacking specially designed plastic cups in determined patterns and sequences.
+
+The participants will acquaint themselves with the main task requirements and equipment by practicing a training task. The main experiment will consist of the pre-intervention phase, intervention condition, and post-intervention measurements. The participants will be randomly assigned to one of the experimental groups: Action observation group, Mental imagery group, and Control group.
+
+In the pre-intervention phase, the participants will first practice and then perform measured trials of the experimental task. Each group will then perform their experimental condition in which execution speed and accuracy will be measured. The Action observation group will watch a video of task execution in first person perspective ten times. The Mental imagery group will imagine executing the task while listening to a pre-recorded script. The Control group will answer standard arithmetic problems to inhibit imagery. Each participant will then perform 10 measured post-intervention trials. Speed and accuracy of pre and post-intervention execution will be compared with ANCOVA for independent samples.
+
+Previous studies [1], [2] show that at least 15 and up to 30 participants per group are required to gather statistically sound results.
+
+##References
+[1]	P. Holmes and C. Calmels, “16 - Mental practice: neuroscientific support for a new approach,” in Performance Psychology, D. Collins, A. Button, and H. Richards, Eds. Edinburgh: Churchill Livingstone, 2011, pp. 231–244.
+[2]	R. Roberts, N. Callow, L. Hardy, D. Markland, and J. Bringer, “Movement imagery ability: development and assessment of a revised version of the vividness of movement imagery questionnaire,” J Sport Exerc Psychol, vol. 30, no. 2, pp. 200–221, Apr. 2008.
+

@@ -1,0 +1,23 @@
+... title: A computational morphology approach to Croatian noun inflection with focus on gender prediction
+
+
+
+Abstract
+
+!!!!A computational morphology approach to Croatian noun inflection with focus on gender prediction
+
+
+!!Croatian inflection of nouns is a highly interesting grammatical phenomenon to explore both from the cognitive and linguistic point of view. Croatian exhibits a number of interesting properties with respect to cognition, e.g. animacy, gender in the plural, gender-changing nouns and natural-gender-grammatical-gender discrepancies. With respect to noun inflection, some languages, especially those with rich inflection, are traditionally analyzed as gender-oriented (e.g. Croatian and German), i.e. in order to inflect a noun properly one needs to know that noun’s gender. However, unlike in German, gender in Croatian is also closely related to phonology, which allows probability inflectional choices based on the phonological properties of nouns, i.e. gender assignment, and thus also inflection-class assignment, by default, e.g. nouns terminating in a consonant are masculine by default, nouns ending in -a are feminine by default and nouns in -o/-e are neuter by default. 
+
+!!Based on the afore-stated, the aim of the master thesis will be to develop a computational model for the Croatian noun system that would be able to predict gender of a noun when given in the nominative singular form (dictionary form). The gender is thus meant to be induced mainly from the phonological and morphological properties on the one side – the model has to differentiate between a) suffixed (rad-ost ''joy''= fem.) and b) unsuffixed words (most ''bridge''= masc.), and the agreement with attributive adjectives on the other side e.g. lijep-a rad-ost vs. lijep most ''a beautiful bridge'' & ljep-i most ''the beautiful bridge''. Pursuant to this, the Croatian National Corpus is meant to be used in order to gain a better insight into what the native speakers actually prefer more.  
+
+!!My further goal will be to investigate the pertinent cognitive implications of inflection as well, since gender, as an inherent property of nouns in Croatian, is something native speakers ''know'' all too well, together with the inflection of nouns, however, dealing with this in computational modeling is very hard. In addition to this, the concept of defaults is well-known to language acquisition theories in psycholinguistics (U-shaped learning), as well. Finally, I would like to approach this problem from the view of Natural Morphology, since it deals with what is natural in morphology. 
+
+!!Acknowledgments:
+I wish to thank to prof. Dr. Stela Manova, emer. o. Univ.-Prof. Mag. Dr. Wolfgang Dressler and Nejc Trnjanin.
+
+
+!!References:
+[1] G. G. Corbett, “Gender,” Cambridge: Cambridge University Press, 1991.
+[2] W. U. Dressler, “Natural Morphology,” in Handbook of Morphology, A. Spencer Ed. Oxford: Oxford University Press, 2012.
+

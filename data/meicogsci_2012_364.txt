@@ -1,0 +1,44 @@
+... title: Adaptive Gesture Recognition System, transforming Dance Performance into Music
+
+
+
+Abstract
+
+INTRODUCTION
+
+Gesture recognition is an attractive, but still scarcely researched area of artificial intelligence. It is relatively easy to track a human body and detect gestures, but the complexity of it’s processing is comparable to voice or handwriting recognition. 
+Dance consists of many sophisticated rhythmically repeating gestures. The recognition of dance gestures would open wonderful possibilities for human-computer interaction, art performance, and training in creative skills or therapy.
+This thesis is going to apply the recognition of dance gestures to music performance. The music shall be created based on dancer movements, reversing the traditional music-dancer interaction. 
+
+The gesture recognition system has to work intuitively, enabling real-time interaction with a dance performer, so that both could adapt to each other fluently. Therefore, the thesis will use the tools of artificial intelligence (adaptive machine learning algorithms), the knowledge of cognitive science (embodied cognition, connectionism) and psychology (multi-sensory perception, recognition memory). 
+Artificial neural network, inspired by neuroscience, is one of the classification algorithms to be tested for gesture recognition [3].
+
+METHODS
+
+The gesture recognition system should have this processing chain [1]: Input, Feature Extraction, Segmentation, Classification, Post-processing, Output. The thesis should answer the following questions:
+Input. What is the best way to get the signal from Microsoft Kinect device, informing about the position of the body parts? There is a choice of several drivers and software applications able to do it, but non of them are perfect. Microsoft Kinect SDK will be used if possible, because it’s officially released for Kinect device and will be supported in the future by Microsoft.
+Feature extraction.  Should the dimensionality of the data or the number of samples be reduced? What kind of features should be extracted, if used instead of the raw data - the coordinates and the rotation of the skeleton joints? Different machine learning algorithms - e.g. Vector Quantization, Principal Component Analysis, Symbolic Aggregate Approximation, K-means Clustering - require different data formats to process [2]. Vector Quantization algorithm will be used to reduce the number of samples. 
+Segmentation. How the system will identify the beginning and the end of a continuous gesture? There are several ways to segment a gesture: Trigger Keys, sliding Window, Activity Detection, Musical Segmentation Cues. The system also could “trim” a gesture by (1) rhythm - on every beat or every 4th beat, or by (2) repetition - when the gesture closes in the loop. The simplest way to segment a gesture seems to be “trimming” a gesture by the rhythm.
+Classification. How the gestures should be assigned, remembered and recognized? There are several machine learning algorithms, usually (and claimed to be successfully) used for gesture recognition: Hidden Markov Models, Artificial Neural Networks, Support Vector Machines, Dynamic Time Warping, State Machines, Particle Filters, K-nearest Neighbor Classification. The algorithm has to be multi-class (recognize several gestures), adaptive (learn recent gestures), real-time (for live performance) and require short training. Dynamic Time Warping is the simplest (thus the fastest) algorithm for recognition of rhythmic gestures. Hidden Markov Models, Support Vector Machines and Artificial Neural Networks will also be tested.
+Post-processing. How the system could assist a dancer to make a better music? The system should observe the music being performed and start the right tracks in the right time.
+Output. How the music tracks should be triggered? Music creation software (like Ableton Live) will be used, which would get the signal from the system.
+
+EXPECTED RESULTS
+
+The gesture recognition system is still under development. The success depends on the expectations, that: a gesture in the continuous movement of a dancer can be identified “trimming” it by the rhythm (e.g. every 4 beat); there is a recognition algorithm, which would require few training examples to train the model to recognize a gesture, short time to analyze and recognize a new gesture, to update it’s model later (at the recognition mode) with recently observed and recognized examples; human dancer is capable to adjust to the recognition system and change the movement pattern so that the system has enough time to recognize new gestures and trigger new music tracks in time (at the right rhythm-point).
+I anticipate, that: arithmetical algorithms (like Dynamic Time Warping) will be more efficient than “brain-like” algorithms (like Artificial Neural Network); adaptive algorithm (learning recent, already recognized gestures) will make shorter or even eliminate training phase; a human dancer will be able to quickly adopt the system for music performance, if he/she gets informative auditory and visual feedback; the music performance can be improved, if the system is able to predict dancer’s future gestures.
+
+DISCUSSION
+
+My personal interest writing this thesis is to learn to use machine learning algorithms for human-computer interaction. The ultimate goal, which exceeds the scope of the thesis, is to build an application, which would seamlessly recognize dancer’s movements and transform it into music - without any training and with little effort of a human dancer. This thesis should be the foundation to implement this goal.
+After the thesis, the following questions have to be answered: are there better way to “trim” gestures from continuous movement in the gesture segmentation stage (e.g. it could be done by repetition - when the gesture closes in the loop)? Could there be a gesture prediction stage, when the system starts playing a music track at the beginning of the new gesture to avoid lag (e.g. the last moments of the last gesture could indicate the intention to start a new gesture)?
+The developed system could be applied by researchers of human perception (e.g. how multi-sensory perception is organized, how embodied cognition helps to learn and adapt),  researchers and developers of human-computer interaction systems (e.g. how full body tracking enhances AI agent’s ability to understand and predict human’s actions), developers of video games (e.g. for party entertainment), art and music performers (e.g. for realtime creation of visuals and sounds).
+
+--------------
+
+[1] Gillian N.E. (2011) Gesture Recognition for Music Computer Interaction. PhD thesis, Faculty of Arts, Queen’s University Belfast.
+
+[2] Kiran M., Chan Ch.S., Lai W.K. et al. (2010) A Comparison of Posture Recognition Using Supervised and Unsupervised Learning Algorithms. Proceedings 24th European Conference on Modelling and Simulation (editors: Bargiela A. et al.) ISBN: 978-0-9564944-0-5
+
+[3] Maung T.H.H. (2009) Real-Time Hand Tracking and Gesture Recognition System Using Neural Networks. World Academy of Science, Engineering and Technology 50.
+

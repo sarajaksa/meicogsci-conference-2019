@@ -1,0 +1,24 @@
+... title: Interaction of emotions processing and olfactory perception
+
+
+
+Abstract
+
+For a long time, the scientific community looked at human's olfaction as a rudimentary sense, which has no significant influence on everyday living and decision making. At least since Linda Buck and Richard Axel identified first 18 members of the olfactory receptor gene family (the biggest one in human genome) is the importance of olfaction for humans no more deniable.
+
+The olfactory system is unique among sensory systems in communicating directly with the cerebral cortex without first relaying in the thalamus, although reciprocal relays do exist via the dorsomedial nucleus of the thalamus between primary and secondary olfactory cortical structures
+
+Functionally, odor intensity is associated with amygdala activation. Phylogenetically, the medial amygdala is the older one and evolved from the olfactory system to extend its threat-detection capability to other sensory modalities [LeDoux 2007].
+
+The main dimension of a multidimensional odor experience is valence and, thus, is likely to influence mood such as pleasant odors tend to induce positive moods, whereas unpleasant odors tend to induce negative moods. Odors produce effects on cognition and behavior that are similar to those produced by emotional stimuli. Odors can provoke changes in physiological parameters, such as heart rate or skin conductance, which are directly involved in the emotional response. These effects are usually interpreted as an interdependence of olfaction and emotion on overlapping neural systems [Chrea et al. 2009]. 
+
+The influence of implicit emotions processing on the intensity, the next dimension of an odor, was also confirmed with the results of the behavioral study. 189 students of medicine ( 133 females age range 19–29 years, mean 22.6 years, 56 males age range 19–26 years, mean 22.3 years ) participated in the study. The objective of the study was to find out how processing of implicit emotions modulate the perception of intensity of an odor. I proposed that activations of amygdala via audiovisual stimuli should correlate with subjective growing of perceived intensity of an odor probe, which was still of the same concentration. The results showed a significant evidence of emotions processing influence on subjectively perceived intensity of an odor, suggesting that activation of amygdala correlates with increasing perception of intensity of an odor.
+
+The neural representation of affective space into more primary intensity and higher-order valence components is compatible with the notion that the amygdala supports low-level (intensity) stimulus-driven processing. These findings dovetail nicely with appraisal theories of human emotions, which emphasize that affective responses are not a simple reflection of the intrinsic quality (positive or negative) of a stimulus, but rather result from interactions among the person, the situational context and the stimulus [Lazarus 1991]. An idealized computational component model of appraisal theory of emotions, which formalizes this theory, was used to show how an odor theoretically fits into this concept.  This concept will be useful for a cognitive agent with implemented E-nose (artificial neural network coupled with artificial chemosensors). 
+
+Because of the multidimensionality (valence, intensity, familiarity etc) and endless number of odors perceivable by humans, the definition of an odor is still unclear. I am using psychological experimental methods (behavioral study) and neuroscientific findings of functional physiology of the brain to show that common way, how the scientific community look at emotions can be a way how to look at olfaction. Conversely studing of olfaction processing is beneficial for better understanding of emotions processing. 
+
+[Lazarus 1991] Lazarus RS. (1991). Emotion and adaptation. New York: Oxford University Press. In Pervin, L. A. (Ed.). Handbook of personality: Theory and Research, pp609-637, New York: Guilford.
+[LeDoux 2007] LeDoux J. 2007. The amygdala. Current Biology, 17:868—74.
+[Chrea et al. 2009] Chrea CH, Grandjean D, Delplanque S et al. 2009. Mapping the Semantic Space for the Subjective Experience of Emotional Responses to Odors. Chem. Senses 34: 49–62.
+

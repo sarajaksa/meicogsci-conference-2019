@@ -1,0 +1,26 @@
+... title: Characterization of the GABAA receptor delta subunit in the dentate gyrus
+
+
+
+Abstract
+
+GABA (Gamma-aminobutyric acid) is the most abundant inhibitory neurotransmitter in the mammalian brain. It is estimated, that about 30% of all synapses are GABAergic. Most actions of GABA are mediated via GABAA receptors.  GABAA receptors are ligand-gated chloride ion channels, composed of five different subunits that belong to different subunit classes. The most abundant receptors are composed of two alpha, two beta and one gamma subunit. Gamma subunits can be exchanged for the delta subunit, in which case exclusively extrasynaptic receptors are composed. GABAA receptors can be located synaptically, exhibiting phasic inhibition, or extrasynaptically, exhibiting tonic inhibition. The latter ones can be activated by even lower concentrations of GABA. 
+
+Due to their widespread localization throughout the nervous system, they play a major role in many physiological functions – they are involved in the regulation of anxiety, the excitability of the brain, motor functions, circadian rhythms, sleep, learning and memory – and serve as targets of numerous classes of drugs. Corticolimbic structures involved in the modulation of anxious states, like the hippocampus and amygdala, contain major networks of GABAergic interneurons. Studies have shown, that some interneurons express GABAA receptors as well. The large number of different GABAA receptor subtypes existing in the brain and the expression pattern of subunits, not only in functionally different neurons, but also at distinct subcellular localizations, suggest that different receptor subtypes might have specific functions.
+
+It has been shown that hippocampus contains a heterogeneous population of interneurons. They play a critical role in regulating the complex interactions of principal cells. Whereas the role of interneurons in some brain areas are explained well, the interneurons in the dentate gyrus are poorly understood. Parvalbumin (PV)-expressing interneurons, a very abundant subpopulation of cells, are fast-firing cells involved in synchronizing pyramidal cells through GABAA receptor-mediated synaptic action. At least four different PV-expressing interneurons have been identified in the hippocampus so far.
+
+The aim of our study was to characterize the PV-expressing interneurons in dentate gyrus of the wild-type mice. Our co-localization immunofluorescence studies have shown that virtually all PV-expressing interneurons in this area express delta subunit strongly. The cells positive for delta subunit were scattered across the dentate gyrus, but they were particularly enriched in the subgranular region as well as at the border between the granular and molecular layers. The somata of the cells in the subgranular region were pyramidal-shaped, showing a prominent apical dendrite, which travels through the granular cell layer and branches as it enters the molecular layer. In some cases the basal dendrites have also been identified. Furthermore, our data are in line with other data showing a strong presence of the alpha1 subunit of the GABAA receptor in these cells. 
+
+Our data support the hypothesis that tonic inhibition in the hippocampus and dentate gyrus is not used by silent cells to achieve their hyperpolarized state but by the most active cells to achieve their high precision spike timing. These data are important for understanding the neuronal circuitries as well as the role of specific cells in the pathological conditions.
+
+
+[1] Freund, T.; Buzsáki, G. (1996) Interneurons of the hippocampus.    
+     Hippocampus 6, 347-470
+[2] Klausberger, T.; Somogyi, P. (2008) Neuronal diversity and 
+      temporal dynamics: the unity of hippocampal circuit operations. 
+      Science 321, 53-57
+[3] Sieghart, W.; Sperk, G. (2002) Subunit composition, distribution 
+     and function of GABAA receptor subtypes. Current Topics in 
+     Medicinal Chemistry 2, 795-816
+

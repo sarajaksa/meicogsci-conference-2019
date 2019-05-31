@@ -1,0 +1,17 @@
+... title: Integration of Science and Art in the Case of Evolutionary Art
+
+
+
+Abstract
+
+Art has always encompassed more than mere creation of objects. It also shows the growth of ideas throughout history and manifests as a reaction to the wider cultural climate. Galanter [1] presents a new approach, dubbed “complexism”, which applies the scientific understanding of complex systems onto the content of the arts and humanities. It offers the cooperation of science and humanities through a synthesis of the modern and the postmodern. Evolutionary art uses complexism both as a method and as its subject matter. More specifically, evolutionary art uses methods from evolutionary computation which employ supervised or unsupervised fitness assignments for art creation. The field of computational aesthetics, on the other hand, investigates how computational methods can be used to assign aesthetic judgments to objects. The aim of this theoretical research is to determine how exactly these fields relate to each other and how they can benefit from the findings of cognitive psychology and neuroscience, ultimately forming a model of the human creativity process and perception, and find ways to automate it.
+
+Through an overview of these fields, we see that computational aesthetics takes its basis from the first quantitative theory of aesthetics and its later iterations which represent aesthetics through formulae and rules. A common starting point is Birkhoff's formula which states that the aesthetic measure is the ratio between order and complexity, commonly referred to as “unity and variety”. Many elaborations have emerged from this basis, one specifying complexity as the complexity of a signal the way the human perceptual system receives it, and another defining order as a degree of predictability [2]. Different approaches have been used for determining and correcting this ratio, often used in the implementation of the fitness function of an evolutionary art algorithm. A distinction is also made between perception of form and content, the perception of the latter being more challenging to put into computerized terms [3].
+
+Throughout both theoretical and empirical research, we notice a widespread effort to find a balanced cooperation between a human and a computer, giving both of them the roles of artist and critic. The interdisciplinary approach needed for this task gives us great insight into how human cognition works in the context of art creation and perception, as well widens our knowledge of the mechanics of human cognition in general.
+
+!!References
+[1] P. Galanter, “Complexism and the role of evolutionary art,” In The Art of Artificial Evolution. Heidelberg, Germany: SBH, 2008, ch. 15, sec. 1, pp. 311.
+[2] E. den Heijer & A. Eiben, “Comparing aesthetic measures for evolutionary art,” in Applications of Evolutionary Computation, 2010, p.p. 311–320.
+[3] L. Neumann, M. Sbert, B. Gooch & W. Purgathofer, “Defining computational aesthetics,” in Computational Aesthetics in Graphics, Visualization and Imaging, Annecy, France, 2005, p.p. 13–18.
+

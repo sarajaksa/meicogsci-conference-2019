@@ -1,0 +1,32 @@
+... title: !!!! A Visuo-Spatial Cueing Experiment for Unconscious Peripheral Vision
+
+
+
+Abstract
+
+!!!! A Visuo-Spatial Cueing Experiment for Unconscious Peripheral Vision
+
+The claim that our consciousness and visual attention are not fully dependent on each other is a commonly accepted claim nowadays. Visual attention is claimed to be partially a bottom-up process instead of a completely top-down process as a basis of the aforementioned claim [3]. 
+
+When attention is voluntarily directed towards a target in line with our intentions and goals it is called top-down attention. Bottom-up attention is when our attention is directed towards a target in spite of our goals and intentions that are different from the target [3]. 
+
+Mulckhuyse et al showed in 2007 experiment that “an abrupt onset cue that is not consciously perceived can cause attentional facilitation followed by inhibition at the cued location” [2].
+
+In my paper, an experiment setup to investigate the hypothesis that the bottom-up effect produced by the subliminal cue is real will be revealed. The present experiment is a further variation of the paradigm by Mulckhuyse et al 2007 [2]:
+
+It will be conducted with at least 24 subjects. As in [2], subjects will be cued by a subliminal contrast stimulus. The first variation of the task is that subjects will have to respond to a color target. Color targets are used that are either subjectively or objectively equated to the gray background in terms of their luminance. This is to rule out that individual differences in color luminance perception can account for the cueing effects that are observed for color cues or color targets [1].
+
+In addition to the color targets, two distractors are shown in two different colors, also either subjectively or objectively equated to the luminance of the color background. This is to rule out that the cueing effect is based on a singleton color search strategy that subjects use.
+
+Instead of the Go/no-go task, multiple-choice task is used: Subjects have to report the direction of a colored Landolt ring target. This is to rule out cueing effects that are produced post-attentional by the task, as Go/no-go tasks are generally suspected to produce cueing effects post-attentional by interference with the motor system. 
+
+Statistical data analysis will include repeated-measures ANOVA to assess whether a cueing effect can be found – that is, reacting to targets at cued locations should be faster than reacting to targets at non-cued locations. If the bottom-up effect produced by the subliminal cue is real, we expect to find a cueing effect in this paradigm. If no cueing effect is found, we have to systematically disentangle the different possibilities. 
+
+!! References
+
+[1] I. Fuchs, U. Ansorge. “Unconscious cueing via the Superior Colliculi: Evidence from Searching for Onset and Color Targets”. Brain Sciences, vol. 2, pp. 33-60, 2012.
+
+[2] M. Mulckhuyse, D. Talsma and J. Theeuwes. “Grabbing Attention without Knowing: Automatic Capture of Attention by Subliminal Spatial Cues”. Journal of Vision, vol.7(9), article 1081, 2007.
+
+[3] M. Mulckhuyse, J. Theeuwes. “Unconscious Attentional Orienting to Exogenous Cues: A Review of the Literature”. Acta Psychologica, vol.134, pp. 299-309, 2010.
+

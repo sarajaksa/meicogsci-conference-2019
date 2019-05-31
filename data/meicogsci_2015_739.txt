@@ -1,0 +1,26 @@
+... title: Artificial Moral Agents: Current Approaches and Challenges
+
+
+
+Abstract
+
+The task of engineering artificial moral agents (AMAs) has been quickly gaining in importance and urgency, given the steeply increasing demand for and proposals of autonomous services and agents interacting with people. Researchers in the field of machine ethics have begun to develop dedicated strategies for engineering AMAs in a broad variety of scenarios.
+
+As Wendell Wallach [1] notes, this task requires understanding of human moral decision-making, since humans are the only reference in this domain. A significant challenge is constituted by the limited understanding of functions of cognitive mechanisms underlying moral decision-making. In fact, there is even no agreement over the most fundamental questions regarding: the defining criteria for moral decisions (What makes a decision a moral one?); the defining set of cognitive processes for making a moral decision (Which are necessary and sufficient?); and the problem of evaluating moral decisions (What performance measures for AMAs?).
+
+Instead, much effort has been concerned with premature proposals for engineering AMAs grounded in deficient assumptions regarding the processes of moral decision-making, with many of the issues discussed in fact being due to fundamental flaws in the approaches. Still, next to these impasses and frequent focus on irrelevant or secondary issues there do exist serious attempts to identify principled minimal sets of core components that make up moral faculty [2], a key milestone to enable subsequent research on how to instantiate and integrate them within a working AMA architecture.
+
+I argue that improved understanding of the functional role of morality at the computational theory level as proposed by DeScioli and Kurzban [3] is a priority for progress with building AMAs. A sound conception of the role of moral cognition and its components is required for engineers to be instructed with the specific purposes that their models of moral cognition are to serve and design systems fitting such purposes.
+
+!!Acknowledgements
+
+I would like to thank Paolo Petta for supervising this project.
+
+!!References
+
+[1] W. Wallach, "Robot minds and human ethics: The need for a comprehensive model of moral decision making", Ethics and Information Technology, vol. 12, no. 3, pp. 243-250, Jul. 2010.
+
+[2] B. Malle and M. Scheutz, "Moral competence in social robots", 2014 IEEE International Symposium on Ethics in Science, Technology and Engineering, Curran Associates, Inc., Red Hook, NY, USA. 2014.
+
+[3] P. DeScioli and R. Kurzban, "Mysteries of morality", Cognition, vol. 112, no. 2, pp. 281-299, Aug. 2009.
+

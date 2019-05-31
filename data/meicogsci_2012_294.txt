@@ -1,0 +1,36 @@
+... title: Empathy and Prosocial Behavior across the Lifespan.
+
+
+
+Abstract
+
+Considering empathy as a construct to account for a sense of similarity in feelings experienced by the self and the other (shared representation hypothesis), this study will effectively follow the three component cognitive affective model, which divides the phenomenon of empathy into 
+*a) the ability to discriminate and accurately label the feelings of other’s (emotion recognition), 
+*b) the complex mechanism to change the point of view between the self and the other (perspective taking) and 
+*c) the ability to adequately respond to the perceived emotional stimulus by another (affective responding) [1]. 
+As most of these components have been tested primarily on infants or young adults, it seems immanently important to extend the already acquired data to older age groups in order to capture a more representative picture of modern societies. This study will take such a comprehensive outlook by having recruited N=500 participants in different age groups from 25 to 75 years.
+
+Embedded in the framework of this project, the particular contribution of the author was to focus on the affective response part of the above sketched model. 
+More specifically, it has been suspected that an empathic experience can lead to feelings of sympathy (concern for the other) or personal distress (concern for the self), thereby triggering two different motivational states and -assumingly- behavioral outcomes [2]. To further test this hypothesis, the conducted experiments are designed in a way so that these motivational differences are successfully divided at their joints.
+
+For this purpose, participants have been exposed to short video clips showing patients undergoing a palpably painful medical treatment. After each clip, extensive self reports were gathered from the participants (e.g., subjectively rated uncomfortableness and willingness to give help in such a situation vs. shifting one’s attention). In addition, a wide range of psychometric questionnaires (covering empathy, emotional contagion and prosocialness) would then augment the data to ultimately elicit the intensity (strong/weak) and focus (self/other) of the empathic experience.
+
+Allowing for a uniform distribution, probands were recruited in ten natural groups (two sexes X five age groups) , starting off with subjects between 25 and 35 years to subject groups that were 65 years and older. Important to mention, exclusion criteria were set in a way so that only healthy/normal functioning probands would be included in the sample (e.g. Mini Mental State >25).
+
+At the current stage, the data analysis of the entire project is still due. But generally, the author speculates to find that the degree of empathic concern will positively affect prosocial behavior. Crucially, there are contradictory claims as to how age modulates that link; on the one side, elderly people certainly acquired a lot of experience in figuring out and reacting to emotional stimuli –which indubitably makes them proficient in social commerce. However, developmental research has also shown that advanced age leads to successive deterioration of frontal structures in the brain, thus causing difficulties in cognitively demanding tasks. 
+
+Finding out more about this complex interaction (growing old => becoming an emotive expert vs. inevitably becoming incapable of affective sharing) will help to organize adaptive environments for modern societies with turnaround population pyramids.
+
+On a different note, the author is interested to find out, whether the project will elicit general sex differences in the domain of empathy and prosocialness, as this is still debatable from the current literature [3].
+
+
+The central focus of this study will thus be to three–folded:
+
+*1) finding out whether there any general sex differences in performing empathy related tasks;
+*2) scrutinize to what extent (and more specifically: in which of the above sketched subclasses) the multilayered phenomenon of empathy poses difficulties for aging populations; and finally
+*3) investigating whether there are any interaction effects between empathy, sex and age.
+
+[1] Decety, J., Ickes, W., The Social Neuroscience of Empathy, Cambridge: MIT Press, 2011.
+[2] Decety, J., Lamm, C., Empathy versus Personal Distress: Recent Evidence from Social Neuroscience, Cambridge: MIT Press, 2011.
+[3] Klein, K., Hodges, S., Gender Differences, Motivation, and Empathic Accuracy: When It Pays to Understand, in: Personality and Social Psychology Bulletin, 2001, Vol.27:6, 720–730.
+

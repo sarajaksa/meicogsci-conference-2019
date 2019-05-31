@@ -1,0 +1,25 @@
+... title: Speech alterations in schizophrenia
+
+
+
+Abstract
+
+The dopamine hypothesis of schizophrenia and psychosis is a model linking specific traits and behaviour in schizophrenia as hallucinations and other positive symptoms to alterations in signal transduction of the mesencephalic dopaminergic pathways [1]. This assumption is strengthened by the observation that amphetamine, a potent dopamine-releasing compound, being able to induce a reversible psychosis in healthy controls resembling aspects of schizophrenia such as auditory hallucinations and thought broadcasting [2].
+
+Alterations of speech such as incoherence in discourse are commonly observed in schizophrenia and confer significant burden of disease. This is considered to reflect thought disorder in schizophrenia [3], hence finding an objective measure for these alterations might prove useful in schizophrenia diagnosis and in future research of thought disorder.
+
+In our study healthy volunteers are sensitized to d-amphetamine using a previously established paradigm. Sensitization can be conceptualized as an increased neurochemical and behavioral response to repeated administration of a stable dose of a substance. In this framework schizophrenia is associated with a state of ‘natural sensitization’ [2]. As sensitized individuals show increased responsiveness of dopaminergic pathways which is also reflected in behaviour, we expect to observe amphetamine effects as well as sensitization phenomena also in terms of speech production.
+
+Combining measures of discourse coherence with a PET-competition paradigm to evaluate the amount of dopamine released into the extracellular space after amphetamine administration. Furthermore [18F]-FDOPA PET scans will be acquired prior and after amphetamine sensitization. This then might reveal possible interactions between speech output and dopaminergic neurotransmission.
+
+Speech samples of study participants will be collected prior and after amphetamine intake and before and after sensitization and will be analyzed employing suitable methods of computational linguistics, such as latent semantic analysis or graph analysis.
+
+Alterations in speech production could be a discriminative characteristic [3] in subjects under influence of drugs of abuse and patients with schizophrenia and might possibly lead to the development of valid diagnostic or monitoring tools in the long run.
+
+!!References
+[1] O.D. Howes, R. M. Murray, “Schizophrenia: an integrated sociodevelopmental-cognitive model,” The Lancet, 2014, pp.1677-1687.
+
+[2] A. Weidenauer, M.Bauer, U.Sauerzopf, L. Bartova, N.Praschak-Rieder, H. H. Sitte, & M. Willeit, “Making Sense of: Sensitization in Schizophrenia, ”International Journal of Neuropsychopharmacology, 2017, pp. 1-10.
+
+[3] B. Elvevåg, P. Foltz, D. R. Weinberger, T.E. Goldberg, “Quantifying incoherence in speech: An automated methodology and novel application to schizophrenia,” in Schizophrenia research, 2007, pp. 304-316.
+

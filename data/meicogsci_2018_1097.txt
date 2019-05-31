@@ -1,0 +1,32 @@
+... title: Lucky: Stress Management Mobile App
+
+
+
+Abstract
+
+## Introduction
+
+Stress is lowering psychological well-being of individuals and is a risk factor for developing different diseases (for example, cardiovascular diseases [1]). Life-style in modern society puts high demands on individuals who often lack the knowledge and tools to manage stress effectively.  Many scientifically effective methods, techniques and programmes exist which are not accessible to general population due to high time and financial costs, and stigma. On the other hand, modern technology is highly accessible. We will offer a stress management mobile app for individual use in everyday life. 
+
+## Development of the app
+
+In the first phase, the content of the app will be conceptualized based on thorough literature research and a prototype will be made. The mobile app will combine different scientifically effective [2] stress management techniques: 
+- *breathing techniques*, 
+- *body stretching* techniques in combination with breathing, 
+- audio guided *mindfulness* relaxation, and 
+- *cognitive-behavioural elements* that will consist of education about stress and how to prevent it, and recognition of stress-inducing thinking processes in stressful situations. 
+
+For the purpose of weekly evaluation, Cohen’s psychological questionnaire Perceived Stress Scale (PSS) [3] will be translated into the Slovene language and validated on a Slovene sample. The time frame of the questionnaire will also be changed – we will be interested in the perceived stress in the last week (and not month, as it is stated in original version of the questionnaire). 
+
+The third phase will be programming of the app. The app will be written in Java. 
+
+## Evaluation of the app and expected results
+
+In the first step, user experience will be evaluated. Smaller sample of critical users will use the app for a week and afterwards semi-structured interviews will be conducted in order to get critical evaluation of different aspects of the user experience. If needed, the app will be changed considering the comments. In the next step, the effectiveness of the app will be evaluated during the six-week trial. At least 30 individuals will use the app as often as they want it. On a weekly basis, users will fill in the PSS questionnaire that will be sent to them via the app. The cumulative time of the app use will also be monitored. We hypothesize that, both, cumulative time of the use of the app to the point of PSS measurement and the number of weeks of the use will be negatively correlated with the PSS score which could indicate that the use of the app helped to lower perceived stress. 
+
+## References
+
+[1]	T. Esch, G. B. Stefano, G. L. Fricchione, and H. Benson, “Stress in cardiovascular diseases.,” Med. Sci. Monit., vol. 8, no. 5, p. RA93-RA101, 2002.
+[2]	P. M. Lehrer, R. L. Woolfolk, and W. E. Sime, Eds., Principles and practice of stress management, 3rd ed. New York: The Guilford Press, 2007.
+[3]	S. Cohen, “Perceived stress scale.” Mind Garden, Inc., pp. 1–3, 1994.
+

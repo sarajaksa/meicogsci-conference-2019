@@ -1,0 +1,18 @@
+... title: Mechanisms of Functional Brain Integration Underlying Flexible Cognitive Control
+
+
+
+Abstract
+
+Everyday we are constantly faced with countless tasks, simple and complex. Some of these are familiar, and the relevant responses have, to a large extent, become automatized. Others require purposeful, explicit control over the coordinated use of the available cognitive resources, flexibly bringing some online while inhibiting distracting effects of others. The concept of cognitive control is defined by its flexibility, the ability to efficiently adjust to changes in the environment, deal with novel situations and challenges, and stability, the ability to maintain focus on the task at hand [1]. Previous research has shown that a core set of brain regions is centrally involved in implementing a wide variety of distinct task demands [2]. The main goal of this study is to elucidate the brain mechanisms enabling flexible cognitive control through the study of dynamic functional connectivity during task performance. Specifically, we are evaluating the hypothesis that flexible cognitive control is enabled by adjustment of functional connectivity between brain areas relevant for the performance of the ongoing task. This allows formation of virtual workspaces in which processes needed to complete the task at hand can exchange information effectively.
+
+To test our hypothesis we are making use of a new flexible cognitive control task developed to require the use of and switching between different cognitive abilities (selective attention, working memory, reasoning, inhibition of behavior, switching operations, decision-making) and domain knowledge (mathematics, language, semantic knowledge, etc.). Subjects will perform the task inside the fMRI in order to identify the regions of the brain that are involved in cognitive control. Specifically, we plan to identify regions involved in supporting various cognitive tasks, as well as regions enabling switching between and binding them. 
+
+This project will offer important information about the role of flexible cognitive control in general cognitive abilities and its mediating function in psychopathology by contributing towards an understanding of cognitive control from the perspective of brain network dynamics and providing insights into mechanisms of brain function integration.
+
+!!References
+
+[1] D. A. Norman and T. Shallice, “Attention to action: Willed and automatic control of behaviour”, Consciousness and self regulation, San Diego, Calif.: Univ. of California, 1986, pp. 1-18.
+
+[2] M.  Cole, J.  Reynolds, J.  Power, G.  Repovs, A. Anticevic and T.  Braver, "Multi-task connectivity reveals flexible hubs for adaptive task control", Nature Neuroscience, vol. 16, no. 9, 2012, pp. 1348-1355.
+

@@ -1,0 +1,38 @@
+... title: Correcting Errors in Automatic Speech Recognition in Medical Reports Using Semantic Knowledge
+
+
+
+Abstract
+
+An approach is presented to decrease speech recognition errors in dictated medical reports. The application areas are prescriptions of medications and contraindications as they are a frequent source of misrecognition. Semantic knowledge about this domain is used to enhance the automatic speech recognition.
+A prescription consists of a medication name (the trade name or the active substance of the medication), a valid dosage value and a valid dosage unit. Contraindications between two medications/chemical substances and between a medication/chemical substance and an illness are taken into account. For prescriptions, a rescoring method of the word graphs is used, while for contraindications an alert system is more adequate [1], which is applied later on the text basis.
+This research was done at the Austrian Research Institute for Artificial Intelligence (OFAI).
+
+In a first step, automatic speech recognition in medicine and our motivation using semantic rescoring for error handling will be discussed. In hospitals, dictated reports can be accessed immediately and they provide hands-free input. A drawback of using speech recognition in the medical domain is the time-consuming manual post-processing. Speech-recognition systems turn acoustic input into word graphs. These are directed, acyclic graphs representing the recognized spoken forms and their confidence scores [2]. According to a language model and an acoustic model, the best path in this word graph is chosen which then results in the recognised report.
+
+Our approach to correct errors in prescriptions takes the word graph with the best path marked as an input and analyses the hypotheses using explicit domain knowledge. We aim to minimize post-processing required by human experts in incorporating explicit domain knowledge. We chose the domain of prescriptions, as they are common and frequent in various medical fields. The word error rate for prescriptions of medications is about 40%. In about 30% of these errors the correct string was contained in the word graph, but not ranked on the best path. Based on knowledge about medications and dosages, our method detects the correct dosages in the word graph and rescores them.
+Gurevych and Porzel [3] also present a rescoring approach, where the hypotheses in the word graph are reordered according to semantic information using conceptual parsers.
+Voll [4] uses an approach to detect errors in dictated radiology reports, applying statistical and rule based methods and using the Unified Medical Language System (UMLS) [5] to measure the semantic distances between the concepts. 
+
+We also made use of UMLS to build a knowledge base of medications, consisting of trade names, active substances, dosage values and dosage units. RxNorm is a standardized nomenclature for clinical drugs and a part of UMLS. We used its semantic branded drug form. An example of an entry is 'Acetaminophen 500 MG Oral Tablet [Tylenol]' in which 'Tylenol' is the brand name, 'Acetaminophen' the active ingredient, '500' the dosage value and 'MG' the dosage unit. The derived knowledge base contains 1508 active substances, 7688 trade names and 11263 dosage variations of the trade names. Another knowledge base was derived from UMLS, containing a list of contraindications between two medications/chemical substances and between a medication/chemical substance and an illness.
+
+The text corpus contains 924 clinical reports dictated by physicians from various specialties and hospitals in the USA. Of each report the automatic speech recognition result with the best path marked and a transcription by human experts is available. 
+
+With our rescoring method for prescriptions, the word graphs are scanned and the words of each edge are compared to the active substances and trade names in the knowledge base. In case a medication (active substance or trade name) is found, the edges succeeding the medication are searched for valid dosage values and dosage units and concatenated to a string. Some fillers are allowed between the medication and the dosage ('to', 'for', hesitation, noise and silence). 
+As a second step, the medication is again looked up in the knowledge base, to generate all possible spoken forms of valid dosages values and dosage units.
+Then the generated spoken forms are mapped to the strings derived from the word graph and in case they match, a new edge is inserted into the word graph. For each of these inserted edges, new concept attributes are assigned, containing also a new score to facilitate rescoring of found and valid prescriptions.
+
+In order to measure recall of our rescoring method, we manually checked a sample of 132 reports and 261 out of 358 prescriptions could be detected with our method. In the recognized reports 85 errors concerning medications and/or dosages occurred. For 19 of the 85 errors, the correct result was contained in the word graph, but not on the best path. 8 of these 19 errors could be reconstructed with our method. In the other cases, the medications could not be found in the knowledgebase, as new medications are constantly being released and trade names change frequently. Also abbreviations of medication names and dosage units can not be taken into account.
+
+In the 924 reports 481 valid dosages could be found in the word graphs, although only 325 of these were on the best path. Therefore 156 prescriptions (32%) alternatives could be reconstructed from the word graph. 
+
+In the alert system for contraindications the input and the output is the recognized report on text basis. Contraindications get marked as well as prescriptions of medications, to which the patient is allergic to. A rescoring method would not be adequate for contraindications, as if some patients need to take a lot of different medications, contraindications can not be avoided. On the other hand not only speech recognition errors, but also human errors can be prevented. In the text corpus of 924 reports, 499 contraindications could be marked. 
+
+References:
+
+[1] Galanter W.L., Didomenico R.J. and Polikaitis A (2005) A Trial of Automated Decision Support Alerts for Contraindicated Medications Using Computerized Physician Order Entry In: Journal of the American Medical Informatics Association. 12(3): 269-274.
+[2] Oerder M. and Ney H. (1993) Word Graphs: An efficient interface between continuous speech recognition and language understanding. In: Proceedings. IEEE ICASSP'93. Volume 2. 119-122.
+[3] Gurevych I. and Porzel R. (2003) Using knowledge-based scores for identifying best speech recognition hypothesis. In: Proceedings of ISCA Tutorial and Research Workshop on Error Handling in Spoken Dialogue Systems, Chateau-d'Oex-Vaud, Switzerland 77-81.
+[4] Voll K.D. (2006) A Methodology of Error Detection: Improving Speech Recognition in Rediology. PhD thesis, Simon Fraser University.
+[5] Lindberg D.A., Humphreys B.L. and McCray A.T. (1993) The unified medical language system. Methods of Information in Medicine 32(4) 281-291 http://www.nlm.nih.gov/research/umls/.
+

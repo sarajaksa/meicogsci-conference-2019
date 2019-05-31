@@ -1,0 +1,16 @@
+... title: SleepCog Pilot Study
+
+
+
+Abstract
+
+SleepCog Pilot Study
+
+Our experimental research has focused on the qualitative and quantitative aspects of sleep and its consequences – particularly the impact of disrupted sleep on cognitive functions (especially attention) during the next day. Some of the previous studies concerning this topic suggested that sleep quality rather than quantity could be the determining factor for cognitive performance [1], but only in specific cognitive functions [2] among older populations. Based on conclusions from these and some other experimental studies found in literature, we have formulated our hypotheses concerning the impairment of cognitive functions caused by decreased quality or quantity of sleep in comparison to cognitive performance after an unaffected sleep. In our pilot study we have performed sleep modification experiments in a sample of college students. Participants were randomly assigned to one of the experimental groups (one for the qualitative and one for the quantitative aspect of sleep). We have modulated the qualitative aspect of sleep by frequent sleep disturbances (a simple task of rejecting phone calls made at a constant time interval - sufficient to wake the participants for a very brief moment) during the whole night (while the total sleep duration remained unchanged) and the quantitative aspect by means of sleep deprivation (without any additional constraints). Cognitive performance of each participant was assessed two times during the day after an ordinary unaffected sleep and two times during the day after sleep quality or quantity manipulation with the use of attention tests from the CogLab software (which measures reaction times to various stimuli in milliseconds). The raw collected data were then statistically analysed with the statistical software SPSS (alternatively PSPP). At present, we are finishing our data analysis. In the future, we would like to repeat measurements with the same experimental setup in an enlarged experimental sample, but focusing only on those parameters and those daytimes where the significant differences have been found in the pilot study. Furthermore, we would like to revise the methods of measuring attention (e.g. a more suitable custom-made application instead of the CogLab software). The potential asset of our research could be aimed at the researchers involved in the SleepCog project for inspirational purposes concerning methodological tips for measuring and quantification of cognitive functions.
+
+Keywords: sleep, sleep quality, sleep quantity, sleep deprivation, cognition, cognitive functions, attention
+
+References:
+[1] Blackwell, T. et al. (2006): Poor Sleep Is Associated With Impaired Cognitive Function in Older Women: The Study of Osteoporotic Fractures. The Journals of Gerontology, Vol. 61A, No. 4, 405-410
+[2] Lo, J. C. et al. (2012): Effects of Partial and Acute Total Sleep Deprivation on Performance across Cognitive Domains, Individuals and Circadian Phase. PLoS ONE, Vol. 7, Issue 9, 1-16
+

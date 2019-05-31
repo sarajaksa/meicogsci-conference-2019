@@ -1,0 +1,21 @@
+... title: How can we make sense of what we perceive?
+
+
+
+Abstract
+
+The often cited motto of Descartes “I think, therefore I am” or in other (Damasio’s) words “I feel, therefore I am” can be reformulated in an embodied way “I am, therefore I think” (Ron Sun [1]). This little play on words symbolizes one of the major issues in the whole discussion of “How can we make sense of what we perceive”. These issues have been discussed under many different names and paradigms. I focus on two:
+The Symbol Grounding Problem:
+"How can the semantic interpretation of a formal symbol system be made intrinsic to the system, rather than just parasitic on the meanings in our heads?” Steven Harnad [2]
+Intentionality:
+“Intentionality is the circular process of generalization/abstraction of input and specification/concretization of output by which brains achieve understanding of their environments through the cycle of prediction, action, sensation, perception, and assimilation by learning.” Freeman [3]
+There is an ongoing discussion on how these two concepts are related, if they are the same or not and how they are related to meaning. However, when thinking about these problems it will be necessary to analyse some related topics too: “Interactivism” (Bickhard), intention, active sensing, interactive perception, subjective perception, social grounding and physical grounding, affordances, growing up through experience, embodied memory and representation.
+In the discussions mentioned Descartes’ motto “I think, therefore I am” has often been used. I believe it is very important to address this question the other way round, thus: “I am, therefore I think”. This means that before I can talk about thinking and/or meaning I have to look at “who am I?” and “what am I?”. Before I can use my body and my perception in a meaningful way, I have to learn how to use my body and my perception in a meaningful way. Learning to use my body and my perception means learning to interact with the environment. Generalizing/abstracting my experience based on former experience in this interaction process leads to my individual representation of the environment.
+Sun [1] used Heidegger’s idea to distinguish between mediated and unmediated interaction. The low-level unmediated (in the sense of mindless) interactions with no internal representation (Gibson, Bickhard or Brooks) are everyday actions and are called comportment. Comportments are the basis for the higher level of interactions which use internal representation and have an intention.
+Conclusion: In the discussion of “How can we make sense of what we perceive” I believe that the distinction of these two levels of interaction is often ignored or blurred or completely mixed up. Before we can talk about intention and representation we have to talk about comportment. The aim of my study is to research these two levels of interaction and try to combine them in order to make a step towards the solution of the above mentioned discussions.
+References:
+
+[1]	R. Sun. (2000). Symbol grounding: a new look at an old idea. Philosophical Psychology, 13, 2000, pp. 149-172. ( http://citeseer.ist.psu.edu/285913.html 20.05.08)
+[2]	S. Harnad. (1990) The Symbol Grounding Problem. Physica D 42: 335-346.
+[3]	W. J. Freeman (2007). Intentionality. Scholarpedia 2007, 2(2):1337, http://www.scholarpedia.org/article/Intentionality (25.05.08)
+

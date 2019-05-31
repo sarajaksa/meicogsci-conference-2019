@@ -1,0 +1,15 @@
+... title: Fetal development of hypothalamic dopaminergic neurons and their role in circadian rhythms
+
+
+
+Abstract
+
+The hypothalamus is a region in the brain just below the thalamus and its main function is to maintain the homeostasis of the body. Hypothalamic neurons play important roles in controlling the body’s essential functions, including sleep and eating behaviours which are influenced by the circadian rhythmicity. Under the circadian rhythms we define any biological processes with endogenous oscillations of approximately 24 hours. The internal biological clock that drives these circadian rhythms is located in the suprachiasmatic nucleus in the anterior hypothalamus. The functional integrity of the biological clock is associated with many benefits, such as better cognitive performance, alertness, health and well-being. Patients that are suffering from neurodegenerative diseases, such as Alzheimer’s Disease, Parkinson’s Disease and Huntington’s Disease, display disturbances in circadian rhythmicity which ashow as irregular sleep-wake cycle [1], [2]. 
+
+Single cell transcriptomics of the adult hypothalamic area in mice revealed a particular group of novel dopaminergic neurons, located in the periventricular area in the hypothalamus, which show involvement in circadian activity [3]. Detailed analysis of this cell population revealed characteristic expression profiles which are specifically expressed by these dopaminergic cells. However, the birth, migration and differentiation of this particular cell group during fetal development, as well as their adult function, remains unknown [3]. The main goal is to investigate the physiological function of this cell population by tracing their development and synaptic integration into hypothalamic circuitry. Our hypotheses are that these cells are born at the ventricular zone of the hypothalamus, then migrate outwards and travel back to periventricular space. Once integrated at their final position they incorporate into circadian associated neuronal circuits. To test our hypotheses we will use different methods, including immunohistochemistry and in utero electroporation with a fluorescent construct, to show their origin.  In addition, we will analyse cell-type specific knockout mice and wild type littermates for brain circuit analysis and behavioural testing to understand their function in circadian behaviours. 
+
+!!Literature
+[1]	Reichlin Seymour, “Function of the hypothalamus,” vol. 43, no. October, 1967.
+[2]	M. U. Gillette and S. A. Tischkau, “Suprachiasmatic nucleus: the brain’s circadian clock.,” Recent progress in hormone research, vol. 54. pp. 33-58–9, 1999.
+[3]	R. A. Romanov et al., “Molecular interrogation of hypothalamic organization reveals distinct dopamine neuronal subtypes,” Nat. Neurosci., no. December, 2016.
+

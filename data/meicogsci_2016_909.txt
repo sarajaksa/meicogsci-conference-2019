@@ -1,0 +1,22 @@
+... title: On Becoming Authentic: A Self-Guided Web-Based Intervention Based on Existential Analysis
+
+
+
+Abstract
+
+Authenticity has been defined as a three-part construct, constituted of self-alienation (the difference between one’s actual experience and one’s conscious awareness of it), authentic living (the congruence of one’s conscious awareness and behaviour) and accepting external influence (including the belief of having to meet others expectations). Being authentic has been valued throughout history and correlated with self-esteem, subjective and psychological well-being [1].
+
+The aim of Existential Analysis, a phenomenological and person-oriented psychotherapy, is to foster one’s authenticity and self-fidelity [2]. Yet, as a school of psychotherapy, Existential Analysis is mostly applied as treatment of psychological illness and not considered by many healthy individuals. Fortunately, the internet offers anonymity as well as the possibility of making information accessible to a broad audience with low costs, providing the opportunity to support people through self-guided interventions, which once established do not require a therapist. However,  such interventions exclude the observation and guidance of a trained, empathic professional as well as the fostering aspects of the client-therapist relation, which are crucial success factors of psychotherapy.
+
+So far, Existential Analysis has not been studied as a self-guided web-based intervention. To research the feasibility of application in that context  a particular self-guided web-based intervention based on Existential Analysis is developed to guide healthy individuals in becoming more authentic. The impact on authenticity is measured in a pre-test, post-test experimental design using the Authenticity Scale, a validated 12-item instrument whose structure provides separate information on the three constituent parts of authenticity(self-alienation, authentic living and accepting external influence) [1].
+
+Analysing E-Mental Health studies, attrition has been outlined as a critical issue, as huge amounts of participants drop out prior study completion. Therefore, usage metrics and determinants of attrition are gathered and analysed to identify the reasons for dropouts [3].
+
+!!References
+[1] A. Wood, P. Linley, J. Maltby, M. Baliousis and S. Joseph, "The Authentic Personality: A Theoretical and Empirical Conceptualization and the Development of the Authenticity Scale.", Journal of Counseling Psychology, vol. 55, no. 3, pp. 385-399, 2008.
+[2] A. Längle, "Existenzanalyse", in Entscheidung zum Sein Viktor E. Frankls Logotherapie in der Praxis, 1st ed., A. Längle, Ed. 1988.
+[3] G. Eysenbach, "The Law of Attrition", J Med Internet Res, vol. 7, no. 1, p. e11, 2005.
+
+!!Acknowledgements
+I want to thank Prof. Alfried Längle and Lisa Holle for their meaningful and dedicated collaboration!
+

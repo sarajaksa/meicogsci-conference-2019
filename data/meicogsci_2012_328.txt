@@ -1,0 +1,26 @@
+... title: Communication platform for agents in heterogeneous environment
+
+
+
+Abstract
+
+Small and smart devices are becoming part of man’s everyday life. It is not that long time ago when people did’t know what Internet is. Nowadays, most of them can not imagine their lives without it. They are creating and adapting different devices so they can keep them close and online. These devices help them to solve everyday tasks, or just keep them entertained during their spare time.
+
+These devices possess invaluable information about their owners, they know their habits, what kind of music they like, their favorite places to go, who are they friends with and what they have in common, and many others. Possessing such information about somebody gives the opportunity to deduce his personally, what his mood is or even predict his future actions.
+
+Big Internet companies such as Google, recognized this trend at the very beginning and started to use these information in their own advantage. On the other hand, it looks like the cognitive science audience fail to catch this early train. In 2012 G. Miller in his article [1] summarizes the use of smart phones in different surveys and predicts the future development of these surveys. Although first surveys using smart devices dates back to year 2001, they are just becoming more widespread in yer 2010. Until this day, the scientific community did not offer any solution to connect these devices, nor grant them the ability to make agreements.
+
+We think, that the age of modern smart devices will develop into the age ambient intelligence, where devices work in concert to support people in carrying out their everyday life activities, tasks and rituals in easy, natural way using information and intelligence that is hidden in the network connecting these devices. Because of this, a multi-agent middleware that is able to run on such devices is needed.
+
+Multi-agent system is a system composed of multiple interacting intelligent agents and their environment. They can be used to solve problems that are difficult or impossible for an individual agent.
+
+The coordination between the agents depends on a sophisticated system of inter-agent communication. The language used by agents for this inter-agent communication is the Agent Communication Language (ACL). The main purpose of this language is to model a suitable framework that allows heterogeneous agents to interact and to communicate with meaningful statements that convey information about their environment or knowledge. Different Agent Communication Languages evolve around the key concept of communicative act from Speech Act Theory proposed by John R. Searle[2]. Speech Act Theory claims, that a communicative act is a special type of action, in this particular case realized by sending a message.
+
+FIPA[3] was established in 1996 as an international non-profit association of companies that agreed to share efforts to produce standard specifications of generic agent technologies. Since then FIPA, has generated a set of specifications that went through three cycles of review: FIPA97, FIPA98 and FIPA2000. The last standardized review is called FIPA2002. The aim of these specifications is to make agent technologies usable across a large number of applications so that a high level of interoperability across applications is achieved. These specifications are focusing more on explicitly specifying how agents communicate and connect and less on specifying components such as agents, humans, data and services that transform, generate, process and store messages that are communicated. 
+
+There are several well known FIPA compliant multi-agent middlewares including JADE or SPADE. However, these middlewares have several important deficiency. Among others, they are not suitable for running on small devices and are not multi-platform. Therefore, we propose new multi-agent middleware that is able to run on embedded devices, computers, Macs, iPhones, etc. We implemented it in three very popular languages, Python, Java and C++ to ensure agents are able to work in heterogeneous environments. Agents are using FIPA-ACL language. Our multi-agent middleware is partially FIPA compliant to ensure agents are able to interact with agents from different platforms.
+
+[1] - ﻿Miller, G. (2012). The Smartphone Psychology Manifesto. Perspectives on Psychological Science, 7(3), 221-237. doi:10.1177/1745691612441215
+[2] - ﻿Searle, J. R. (1979). Expression and Meaning: Studies in the Theory of Speech Acts. essay collection (Vol. 49, p. 187). Cambridge University Press. doi:10.2307/2184707
+[3] - www.fipa.org
+

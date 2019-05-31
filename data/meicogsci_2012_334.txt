@@ -1,0 +1,59 @@
+... title: Comprehension of indirect replies
+
+
+
+Abstract
+
+Abstract for: Comprehension of indirect replies
+My semestral project is from the area of psycholinguistics/pragmatics and
+deals with indirect speech act comprehension.
+To use language is not only to express propositional content, but also to
+perform action. We can promise, bet, threaten,
+just by using the right words in the right circumstances. Speech acts
+become indirect when a speaker communicates to the hearer more than he
+says by relying on their mutually shared knowledge, general powers of
+rationality and inference on the part of the hearer (Searle, 1969).
+When people engage in dialog, their common goal (according to P.Grice)
+is to cooperate to exchange information/ convey meaning. This is done by
+respecting Grice's maxims – a set of rules, that interlocutors should
+follow. There are 4 maxims; maxim of quality, maxim of
+quantity, maxim of relation(relevance maxim) and maxim of manner.
+Basically they say, that your reply should be clear, relevant, of
+appropriate length and you should believe, that what you are saying is
+true.
+When people talk they often violate these rules and express their intended
+meaning indirectly.
+Indirect speech is often used in order to ensure plausible
+deniability, negotiate relationships or save speakers face. Plausible
+deniability means that proposition we make can be understood, but
+when listener does not want to cooperate, we can possibly deny we made
+one. Negotiating relationship occurs when we meet someone and we do
+not have established relationship. We try to communicate in a way that
+is not disrespectful and somehow suggesting we are in some way
+superior. Saving face means not to lose reputation or respect of other
+people.
+Holtgraves(1999) studied comprehension of indirect replies that
+violated Grice's relevance maxim. We used first experiment from his
+paper to inspire our research. His hypothesis was that comprehension
+of an indirect reply will facilitate sentence verification. Sentence
+verification happens when the sentence is presented and we have to
+judge if it is valid grammatical sentence or not. Verification should
+be facilitated when target sentence is direct interpretation of
+meaning indirect reply conveyed.
+The experimental stimuli consisted of short dialogs. In the first few
+sentences author described relationship between conversational
+partners and the situation in which dialog occured. Each description was
+followed by a question and an answer. When the answer was indirect and
+the target sentence was its direct interpretation, the time the
+decision took was measured and compared to time when maxim was not
+violated or target sentence was neutral.
+Our adaptation of the experiment will have altered method and stimuli,
+it will be done using Slovak language.
+Final product of my semestral project will be an experiment(Java
+application), which will be used for our future research.
+
+References:
+1. Pinker, S., Nowak M. A., & Lee J. J. (2008).  The logic of indirect speech. Proceedings of the National Academy of Sciences. 105(3), 833-838. 
+2. Holtgraves, T. M. (1999). Comprehending indirect replies: when and how are their conveyed meanings activated? Journal of
+Memory and Language, 41, 519–540.
+

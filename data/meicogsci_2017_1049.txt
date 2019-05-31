@@ -1,0 +1,18 @@
+... title: The Effect of Task Description on the p600 ERP in Artificial Language Learning
+
+
+
+Abstract
+
+The P600 event related potential is an EEG component commonly associated with processing syntactic anomalies. This project aims to investigate whether it is a necessary correlate of ecological sentence processing, or whether its occurrence is a side-effect of the constrained setting of EEG sentence processing experiments.
+Syntactic anomalies, or ungrammatical sentences, play a central role in modern linguistic research: In the case of neurolinguistics, the p600 ERP's association with syntactic anomalies is used as a source of evidence about language processing. However, linguistics can be accused of overstating the importance of ungrammatical sentences, since recognizing and analysing ungrammatical or anomalous syntax is not a central aspect of everyday language use.
+
+To approach this problem, this project will address the question whether the p600 reflects a processing effort that is necessary for linguistic behaviour by testing whether it is influenced by the particulars of experimental tasks descriptions. Few studies have investigated this possibility. An exception is a study by Schacht et al. [1], who found that the p600 is robust when participants are asked to judge grammaticality, but absent when participants' attention was distracted from the grammaticality of the sentence toward the font of the stimuli. However, it is possible that their attention was distracted too far away from the task, and these results do not reflect sentence processing at all. Another study by Silva et al. asked participants to study an artificial grammar by exposure and then measured the P600 when participants were asked to judge the grammaticality of new stimuli compared to when they were asked to judge new stimuli for how much they liked them [2]. They found a P600 in both conditions and took this to indicate that both task descriptions are valid. However, they do note slight differences in the p600 in both cases.
+
+This project will use the artificial language learning paradigm from Silva et al. [2] to further study the effect of task description on the p600. Participants will similarly study a grammar, but the test group will be asked not to rate new stimuli for grammaticality or preference, but indicate whether they have seen them before (while none were present in the training phase). We expect that the test group will show the same linguistic behaviour, i.e. they discriminate grammatical from ungrammatical sentences, but  they do not show a p600 potential. Such results would indicate that the p600 is an effect of the task description rather than of linguistic behaviour.
+
+!!!References
+
+[1]A. Schacht, W. Sommer, O. Shmuilovich, P.C. Martíenz, & M. Martín-Loeches. “Differential task effects on N400 and P600 elicited by semantic and syntactic violations”. PloS one, Vol. 9, No. 3, 2014.
+[2]S. Silva, V. Folia, P. Hagoort, & K.M. Petersson. “The P600 in Implicit Artificial Grammar Learning”. Cognitive science. Vol. 41, No. 1, pp137–157, 2016.
+

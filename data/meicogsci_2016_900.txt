@@ -1,0 +1,28 @@
+... title: Moral Decision-Making in Virtual Reality
+
+
+
+Abstract
+
+Investigating human moral faculty has proven a difficult research endeavor. Due to differences between what people actually do and what they want others to think they do, whenever moral considerations are involved, self-reports of moral behavior are unreliable. Experimental expectancy effects and self-deceptive illusions held by people effectively prevent them from reporting accurate facts and motivations when inquired [1].
+
+Therefore, indirect methods of studying human moral intuitions have been developed. The most widely used method consists of presenting subjects with written vignettes and asking them what they or other story characters would or should do. Unfortunately, the dilemmas described in these texts are very often unusual or altogether unrealistic, what leads to frivolous treatment by subjects [2].
+
+Distinctive features of situations involving moral considerations are the environment itself being risky or characters operating under pressure. Virtual Reality (VR) has been argued to be a panacea to recreate and control such real-world situations for research purposes, by referring to relative ease of manipulating the environment [3].
+
+To critically assess this approach, we develop a non-immersive desktop-based virtual reality system using the Unity Game Engine. Within this 3D environment, the user controls a character from a first-person perspective. The scenario is set in a company producing car accessories, and the player needs to decide whether to engage in production of counterfeit goods. Interactions with non-player characters make use of a menu-based dialogue system, revealing the player’s appraisals and mental representations of the situation, as well as the justification of their moral decision.
+
+This pilot study aims at the development of a grounded critical understanding of theoretical, empirical, and methodological issues in the design and implementation of such a scientific VR-based probe. If warranted by fundamental assessments of the first prototype and later incremental findings, we successively also address usability and player engagement, reliability of decisions, and first validation our research hypothesis of expected differences of VR- and vignette-based outcomes.
+
+!!Acknowledgements
+
+I would like to thank Paolo Petta for supervising this project.
+
+!!References
+
+[1] W. von Hippel and R. Trivers, “The evolution and psychology of self-deception,” Behav Brain Sci, vol. 34, no. 01, pp. 1–16, 2011. doi:10.1017/s0140525x10001354.
+
+[2] C. W. Bauman, A. P. McGraw, D. M. Bartels, and C. Warren, “Revisiting external validity: Concerns about trolley problems and other sacrificial dilemmas in moral psychology,” Soc Personal Psychol Compass, vol. 8, no. 9, pp. 536–554, 2014. doi:10.1111/spc3.12131.
+
+[3] T. D. Parsons, “Virtual reality for enhanced ecological validity and experimental control in the clinical, affective and social neurosciences,” Front Hum Neurosci, vol. 9, no. 660, 2015. doi:10.3389/fnhum.2015.00660.
+

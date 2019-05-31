@@ -1,0 +1,19 @@
+... title: Guiding preschoolers’ attention to feedbacks in an educational digital game
+
+
+
+Abstract
+
+Magical Garden is an R&D project of a Teachable Agent based educational game in mathematics for 5-6 year olds, conducted by Educational Technology group in Lund University, Sweden. Teachable Agents are the digital characters that children can train in the game playing the role as teachers based on the concept of ‘learning by teaching’. We are extending the study to explore children’s meaning-makings of what happens in the game with regard to the interaction with digital characters.
+
+The project is focusing on the adaptation of the presentation of pedagogically important feedback (Central Feedback Instances, or CFI) in the game. The idea is that even though we provide meaningful feedback to children, it will not be helpful with learning if they do not pay attention to it. In this paper, I focus on the attention issue questioning if children pay attention to the CFIs and what the effects would be if we manipulate the salience of CFIs via different strategies. I investigate them with respect to the social relationship with digital characters. Thus, the strategies consist of three categories: social cueing such as a character pointing and gazing at the object; non-social cueing such as lightening up the object itself; and the combination of the two. The hypothesis is that the attention per se may be equally affected by social strategy and non-social strategy leaving the effect on learning aside. In addition, the combination of the two could either strengthen each other or produce conflicts or distractions.
+
+!!Methods
+There has been increasing interest in using eye-tracking data to gain insights on the cognitive and perceptual processes underlying a user’s performance with an interactive system [1]. In this study, I contribute to this line of research by using gaze information to understand if and how children attend to CFIs. The data can be divided into two types: total fixation time, which is the total time a child’s gaze rested on a displayed object for each CFI; and the gaze shift speed, which is the time that elapses between the evocation and the first fixation on the item. 
+
+!!Discussion
+Even though the attention itself does not show significant difference between social and non-social strategy, the information processing and learning might be more affected by the social strategy. Further studies in Magical Garden project are expected to identify how children’ attention is related to their understanding and progress rate. Moreover, insights can be derived from a more detailed analysis of the attention patterns associated with how much children interact with digital characters. In the long term, we want to use this information to build the adaptive and supporting software that can be distributed at large-scale and thus reach the children who are at pre-schools where little effort goes towards early math training.
+
+!!Reference
+[1] Conati, C. and Merten, C., “Eye-tracking for user modeling in exploratory learning environments: An empirical evaluation.” Knowl.-Based Syst. 20(6), 2007, pp. 557-574
+

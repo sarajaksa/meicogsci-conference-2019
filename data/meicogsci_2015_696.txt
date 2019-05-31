@@ -1,0 +1,17 @@
+... title: The Embodied Cognition Explored on a Case Study
+
+
+
+Abstract
+
+In my research I will use the alternative paradigm in cognitive science, embodied cognition. This approach states that the nature of the human mind is largely determined by the form of the human body. In this paradigm aspects of the agents body beyond the brain play a significant causal role in cognitive processing. [1] An interesting question is if with the improvement of the motor tasks, a better performance of the cognitive tasks follows. A recent study [2] shows that children who started doing regular physical activity at school and thus performed better on the Test of Gross Motor Development also improved their grades in math. My study is set to explore how strong the interaction is between motor processes and cognitive processes in a participant with motor impairments. 
+
+My participant is a 56-years old woman with cerebral palsy (CP) with no cognitive deficits. She has spastic and distonic type of CP combined, with a defect of pyramidal tract and basal ganglia. She has a partial motor paralysis of the left and right leg, 60% each and a partial motor paralysis of left and right arm, 40% each, in total she is a 100% invalid. She can walk in places she knows (i.e. at home) with the help of cruthes, elsewhere she needs to use a scooter. I will try to influence on her body with physiotherapy to reduce painful spasms and slightly improve her motoric. There are going to be ten one hour long sessions performed within one month period. Before and after the physiotherapy my participant will perform motor tasks adapted to her abilities and cognitive tasks. Afterwards the performance on all tasks will be compared. My expectation (and assumption) is a slightly better performance of the motor tasks and reduced pain and spasms after the physiotherapy since »it can be speculated that [...] physical fitness training, is beneficial to improve physical behaviour in persons with CP.« [3]
+
+The questions to which I would like an answer is to what extent does body play a role in cognitive processing and if a slight change of body (i.e. less pain, less spasms, slightly improved motoric) could influence cognition. If such an effect will be visible, that would add a credit to the role of the body in cognitive processing and it would also add a new insight into a role of physiotherapy in individuals with motor impairments.
+
+!!References
+[1]  R. Wilson, L. Foglia. “Embodied Cognition. Internet: http://plato.stanford.edu/entries/embodied-cognition/, Jul. 25, 2011 [May 15, 2015]. 
+[2] R. Laura, D. Paola, G.P. Filippo. “Embodied processes between maths and gross-motor skills”. Procedia – Social and Behavioral Sciences, vol. 174, pp. 3805–3809, 2015.
+[3] J. Slaman et al., “Can a lifestyle intervention programme improve physical behaviour among adolescents and young adults with spastic cerebral palsy? A randomized controlled trial”. Developmental Medicine & Child Neurology, vol. 57, pp. 159–166, 2015.
+

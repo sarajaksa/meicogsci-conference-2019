@@ -1,0 +1,18 @@
+... title: Connectionist model of sentence comprehension
+
+
+
+Abstract
+
+The research of the language comprehension has shown that a human creates his own representation of the written or spoken sentences. It is assumed that the best explanation of these representations is in situational level.  In this work we assume that the situations described in the text have a specific form, in particular agent, action, and patient. The meaning of the situations is encoded in the pre-trained self-organising map which particular units hold probabilistic relations between text sentences and their meaning [1]. 
+For sentence comprehension task we built two models, the first uses Simple Recurrent Network [2] and the second includes Merge Self-Orginising Map [3]. Both models aim to reconstruct the meaning of the sentences represented in the activation of units of self-orginising map. 
+The goal of the thesis was to compare a baseline Simple Recurrent Network model of sentence representation to a Merge Self-Orginising Map based on sentence processing, wherein the representation of meaning is obtained by top-down backward propagation in a model trained for sentence production task. The input to the SRN are the text sentences presented by one word at a time and the targets are the activations of the SOM neurons which represent the meaning of the sentence. Since MSOM is unsupervised, these activations are added to the input vectors to MSOM while everything other remains the same.
+In our experiments we created 240 sentences with various lengths (from 2 to 7 words). Firstly, we evaluated the error between prediction of the meaning of the sentences and actual SOM-like meaning of the situations. Secondly, we examined the precision of the meaning prediction after presenting the sentence, one word at the time. 
+The first model (with Simple Recurrent Network) shows better results compared to the second model (with Merge Self-Organising Map). The first model shows clear decrease of the error after more words have been presented. On the other hand, the second model was unstable in the meaning prediction of the sentences with 6 and 7 words. Further, the first model shows good reconstruction of the meaning, even after the first few words from the sentence have been presented. In the future work we can build on our findings more complex model of sentence comprehension. Regarding the worse performance of the model with Merge Self-Organising Map we assume the main reason is in the high dimensionality of the input vectors. 
+!!Acknowledgement
+My special thanks belong to Martin Takac for valuable guidance and discussion.
+!! References
+[1] Frank, S. L., "Sentence comprehension as the construction of a situational representation: A connectionist model", in International Symposium on Adaptive Models of Knowledge, Language and Cognition, Espoo, FIN, 2005, pp. 27-33.
+[2] Elman, J. L., "Finding structure in time", in Cognitive science,  1990, vol. 14, no. 2, pp. 179-211.
+[3] M. Strickert and B. Hammer, "Merge SOM for temporal data," in Neurocomputing, vol. 64, pp. 39-71, 2005.
+

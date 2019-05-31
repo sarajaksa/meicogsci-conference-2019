@@ -1,0 +1,20 @@
+... title: Schopenhauer‘s Last Will
+
+
+
+Abstract
+
+My topics of interest in Cognitive Science always have been the big questions: What is mind? How can we describe our conscious being in the world? How free is our will? What is love, happiness and meaning of life? In three words: What is man?
+I think those are the key concerns of every human being with a reasonable amount of time for thought plays. While most of the researchers are asking for them implicitly, I‘m going to face them directly, because they are the foundation for all further scientific investigation. Without the merest understanding of the nature of the answers to those questions, any research can be considered as pure speculation: How can one talk about some perception abilities of our mind when they have no idea what this very mind could be?
+This is one of the reasons why contemporary discussions in (neuro) philosophy and neuroscience on consciousness and free will are so deflating. Consciousness gets eliminated (cf. Churchland), determined (cf. Wegner) or simply ignored. Free will is sometimes voluntarily given up (cf. Roth), to deny basically the meaning of each of our lives by calling volition a false attribution.
+My goal is to get a better understanding on where to start approaching the first person ontology - the mind - scientifically. To get a grip on this big mystery within a master thesis one could (a) limit the size of the phenomenon by looking on certain smaller properties (like free movement, cortical blindness, split brain patients etc.) or (b) limit the depth of the investigation admitting to stay on a fragmentary level. However, when talking about a theory of mind all knowledge and models have to be called fragmentary and temporary. That‘s why it‘s more than fair to submit to approach (b), admitting the sheer incredible scope of the phenomenon, instead of doing (a) and break it into smaller chunks of problems that seem easily manageable but have nothing to do with the core phenomenon of interest anymore, by denying its complexity.
+
+My intellectual journey will start at Arthur Schopenhauer‘s (1788-1860) theory of mind. In his main work (see References) he considers the world as Vorstellung (conception, representation, idea) of the individual Subject. This Vorstellung is created when a person interacts with reality by perceiving the causalities in the objective, material world (body and environment). By this interplay of Subject and the real world a subjective world of Vorstellungen, which are the subjective correlates of real-world object constitutes. The subjective domain of wilfulness, motivations, and feelings is produced by the so called Will. This transcendental Will is the only thing in itself, the ultimate reason and driving force behind all things happening. While for us inaccessible for direct investigation the Will reveals itself by our actions, which can be observed and understood by reasoning.
+
+In my work I will reconstruct Schopenhauer‘s theory of mind in detail. His ideas seem relevant to me when working on consciousness and free will and are candidates to bypass and overcome some of the problems in modern neurophilosophy. For this cause I will take my elaboration of his concepts and combine it with contemporary philosophy of mind and findings in cognitive neuroscience.
+
+References:
+
+Schopenhauer, A. (1859). Die Welt als Wille und Vorstellung.
+Schopenhauer, A. (1841). Über die Freiheit des menschlichen Willens.
+

@@ -1,0 +1,23 @@
+... title: Conflict Management in Ravens
+
+
+
+Abstract
+
+Conflict is one of the prices individuals pay for social living. Corvids such as ravens regularly fight for accessing food and rising status in the group [1]. Non-invasive methods to quantify components of stress in non-human animals mostly rely on the use of physiological or behavioral measures. At the physiological level, stress is usually measured in terms of fecal or urinary glucocorticoid output. At the behavioral level, typical measures are self-directed behaviors (SDBs) such as scratching, preening, yawning etc. [2].  
+
+The aim of this study is to explore the possible link between conflict management and stress in ravens. We determined stress levels behaviorally (via counting SDBs) and physiologically (via excreted CORT in fecal samples). Firstly, we wanted to know whether conflicts are stressful. For this we compared the behavior and CORT expression after a conflict (PC) with those during a matched control (MC). Secondly, we wanted to know if the intensity of the stress response was dependent on factors such as temporal social stability/instability, individual differences and characteristics of each conflict. Thirdly, we wanted to know if post-conflict affiliation by a bonding partner reduces the stress in victims of aggression. We predict that there will be more self-directed behaviors and higher CORT in PC than in matched controls. We also predict that stress will be reduced if the victim of the conflict gets affiliative contacts from a bystander post-conflict.
+
+We studied 17 captive common ravens (Corvus corax) and from these, 11 different birds were victims of conflicts. Data collection was conducted between October 2015 and February 2016. Ravens were observed regularly throughout the day and also at various hours. If a severe conflict, i.e. a chase or a fight, was observed it was recorded and its characteristics were noted. After the end of the conflict a 10 minute post-conflict video of the victim was taken. Then in the time period of 50-90 minutes after the start of the conflict as many fecal samples as possible were taken from the victim. The next possible day (in which the victim did not have a conflict) a matched control video (also 10 minutes long) and fecal samples were taken in about the same time as the conflict had occurred. 
+
+Data for a total of 37 conflicts was collected. The videos were coded with Salomon coder and the behaviors were categorized as self-directed, social, environment-directed and vocalization. The analysis is currently being done using PCA (to look for possible components) and non-parametric tests. 
+
+!!Acknowledgments
+Special thanks to Martina Schiestl and Lisa-Claire von Hooland for guiding me when I was working with ravens.
+
+!!References
+
+[1] C. J. Logan, N. J. Emery and N. S. Clayton, „Squabbles and snuggles: How corvids handle conflict,“ Natural history, vol. 119, no. 6, pp. 18-19, 2011.
+
+ [2] N. S. Clayton and N. J. Emery, „The social life of corvids,“ Current Biology, vol. 17, no. 16, pp. R652-R656, 2007.
+

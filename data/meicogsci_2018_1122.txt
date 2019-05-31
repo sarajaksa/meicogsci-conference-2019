@@ -1,0 +1,14 @@
+... title: The Relationship Between Amphetamine-induced Dopamine Release and Susceptibility to Induced Auditory Hallucinations
+
+
+
+Abstract
+
+Auditory hallucinations are a major psychotic symptom. They are most commonly associated with schizophrenia, but infrequently occur in other conditions, as well as in a population of people who do not meet diagnostic criteria for any psychiatric disorder. According to the predictive processing view, perception is an inferential mechanism, whereby incoming sensory signals are combined with top-down predictions about their causes to yield actual percepts. Within this framework, aberrant perceptual experiences are seen as resulting from deficits in assigning proper weight to either of the two elements. In case of hallucinations, it is thought that overweighed top-down predictions can lead to percepts even in absence of external stimuli [1]. This model is supported by evidence that auditory hallucinations can be induced by means of strengthening perceptual expectations in a conditioning task [2]. Furthermore, the frequency of induced hallucinations differentiates between hallucinators and non-hallucinators, suggesting a connection between susceptibility to conditioned hallucinations and the propensity to experience them outside of the lab. In line with consistent findings that psychosis is characterized by increased dopamine neurotransmission in the striatum, a recent study [3] has linked perceptual biases resulting from overestimated priors to both hallucinatory experiences and dopamine release. This points to a possible dopaminergic basis of the predictive processing deficits thought to underlie auditory hallucinations.
+The thesis will try to establish whether higher susceptibility to induced auditory hallucinations can be associated with an increased responsiveness of the dopamine system to small doses of intravenously administered amphetamine in healthy subjects. Sixteen volunteers will undergo a d-amphetamine [11C]-(+)-PHNO positron emission tomography scan, allowing for measurements of dopamine levels before and after amphetamine administration in a single scanning procedure. Same subjects will complete the conditioning task [2] at a different time and the estimated propensity to experience induced hallucinations will be compared to dopamine release at baseline and post-amphetamine.
+
+## References
+[1] R. A. Adams, K. E. Stephan, H. R. Brown, C. D. Frith, and K. J. Friston, "The computational anatomy of psychosis", Frontiers in Psychiatry, 4, 47, 2013. 
+[2] A. R. Powers, C. Mathys, and P. R. Corlett, "Pavlovian conditioning induced hallucinations result from overweighting of perceptual priors", Science, 357, pp. 596–600, 2017.
+[3] C. M. Cassidy, P. D. Balsam, J. J. Weinstein, R. J. Rosengard, M. Slifstein, N. D. Daw, A. Abi-Dargham, and G. Horga, "A Perceptual Inference Mechanism Linked to Striatal Dopamine", Cell, 28(4), pp. 503-514, 2018.
+

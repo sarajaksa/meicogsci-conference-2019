@@ -1,0 +1,21 @@
+... title: Prosody of Slovak Motherese
+
+
+
+Abstract
+
+When talking to children or infants, we tend to alter our speech in various ways. Research of this phenomenon, which has many names including baby talk, motherese, parentese or more generally infant-directed speech (IDS), has been conducted in many languages. The comparative research of this kind was able to generate some universalities among linguistic and acoustic features of IDS such as decreased linguistic complexity, repetition and redundancy as well as prosodic features such as high pitch, wide range and exaggerated intonation. These findings subsequently led to a hypothesis that motherese exists in our languages and speech universally regardless of our culture and the language we speak. 
+
+Functions of this special type of speech towards children have not yet been fully researched and may even differ during the child development. Theories exists about three basic functions that could be a motivation for adults to use this type of language as well as beneficial for the child – linguistic, attentional and social/affective (Fernald, 1985; Grieser & Kuhl 1988; Thiessen, 2005). Although my primary purpose is to acquire acoustic features of IDS in Slovak language which can be used to advocate the notion of universal motherese I recognize the significance of the function of IDS and will therefore discuss it in the theoretical part of my thesis. 
+
+I conducted my research with the help of 6 participating mothers recorded during an interaction with their children in prelinguistic phase of their development ranging from 3 months to 12 months of age as well as mother’s speech directed to an adult (ADS). All the recordings were done in natural domestic setting to achieve as authentic samples as possible. 
+
+First step after I gathered the data is their preparation for comparative analysis. In order to acquired the acoustic features of IDS in Slovak language I intend to identify the differences of my samples IDS and ADS such as differences in fundamental frequency or pitch, frequency range per sample and phrase, duration of pause and phrase, number of syllables and phrases per sample and various others. As the next step I am to compare the acquired features of IDS in Slovak language with available data from other studies and possibly support the universal motherese hypothesis. 
+The preliminary results of my research show that the mean fundamental frequency is higher and its range is wider in IDS than ADS, which is consistent with the hypothesis.
+
+References
+
+[1] Fernald, Anne. "Four-month-old infants prefer to listen to motherese." Infant behavior and development 8.2 (1985): 181-195.
+[2] Grieser, DiAnne L., and Patricia K. Kuhl. "Maternal speech to infants in a tonal language: Support for universal prosodic features in motherese." Developmental Psychology 24.1 (1988): 14-20.
+[3] Thiessen, Erik, Emily Hill, and Jenny Saffran. "Infant-Directed Speech Facilitates Word Segmentation." Infancy 7.1 (2005): 53-71.
+

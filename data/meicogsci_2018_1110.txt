@@ -1,0 +1,24 @@
+... title: The Gamification of a Tax Experiment
+
+
+
+Abstract
+
+##Introduction
+
+The use of laboratory experiments in tax compliance research is often being criticized for having high internal validity but low external validity [1]. My assumption is that using gamified questionnaires in laboratory experiments might be more immersive for users and thus have higher external validity than standard questionnaires. A first step to test this assumption is using gamification, which is using game elements and mechanics in non-game contexts with the goal of engaging users [2], on a tax compliance questionnaire. In this thesis such a questionnaire will be created and a gamified version of it will be compared to a non-gamified version of it. 
+For the process of gamification at least one of Marczewski’s element of gamification (e.g. customisation, competition, progression...) for each of the six gamer types (Player, Free Spirit, Achiever, Disruptor, Philanthropist and Socialiser) and four general elements (feedback, tutorials, loss aversion & investment) [3] will be used.
+
+##Method
+The gamified questionnaire will be realised by putting the user in a manager's shoes (on a computer) who has to make decisions about purchasing items and declaring taxes. After every other task the user will answer questions about his/her emotions and will be told information to test whether manipulation of behaviour by information has a different effect in the two versions of the questionnaire. The non gamified version will have the same tasks and questions but no gamification elements. The manipulations are not only important for this thesis, but lay the groundwork for future research because testing external validity could work by comparing effects (and their sizes) that may occur in a gamified questionnaire as well as in real life (e.g. windfall gains, bomb crater effect...).
+
+##Future research
+
+Even though first steps towards testing external validity will be taken in this thesis, doing research on the external validity of the gamified version will be the next step, due to the fact that one should not create and use a questionnaire for research in one step. Additionally one has to know whether gamification has an impact when doing research on tax compliance first because nothing has been done on this topic so far. 
+
+##References
+
+[1] S. Muehlbacher, and E. Kirchler, “Taxperiments. About the external validity of laboratory experiments in tax compliance research,” Schaeffer-Poeschl Verlag für Wirtschaft, Steuern, Recht GmbH, pp. 7-19. 2016.
+[2] P. Molins-Ruano, et al., “An Approach to Gamify an Adaptive Questionnaire Environment,” In Proc. IEEE Global Engineering Education Conference 16, 2016, pp. 1129-1133.
+[3] A. Marczewski, “User Types,” in Even Ninja Monkeys Like to Play: Gamification, Game Thinking and Motivational Design, CreateSpace Independent Publishing Platform, 1st ed., 2015, pp. 65-80.
+

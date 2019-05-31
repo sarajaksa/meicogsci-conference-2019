@@ -1,0 +1,18 @@
+... title: Near Miss Effect in Flow Theory
+
+
+
+Abstract
+
+Flow is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. In essence, flow is characterized by complete absorption in what one does. Proposed by Mihály Csíkszentmihályi, this positive psychology concept has been widely referenced across a variety of fields.[1]
+
+Near misses are widely believed to encourage future play, even in games of chance where the probability of winning remains constant from trial to trial. Some commercial gambling systems, particularly instant lotteries and slot machines, are contrived to ensure a higher frequency of near misses than would be expected by chance alone. [2]
+
+Aim of this thesis is to incorporate situations known as Near miss to Csíkszentmihályi’s Flow theory. Proposal of our solution is followed by presentation of performed experiment. Results of this experiment indicate positive effect of Near miss situation to one’s Flow.
+
+In order to show positive influence of Near miss situation to one's Flow in gaming, following experiment has been designed: Participants was asked to play several games of computer game Mashed against skilled player. After each trial (each game consist of several trials, each winning trial give player one point) participants had to write self-evaluation of their performance on scale 0-10. This was more or less just distraction task, time spend on this task has been measured. Based on the assumption that motivated player will do the distraction task quicker in order to keep playing game, we compared reaction times after winning, loosing or near-miss trials. After winning or near-miss trials players react significantly quicker than after loosing trials.
+
+[1] Csikszentmihalyi, Mihaly. Finding flow: The psychology of engagement with everyday life. Basic Books, 1997.
+
+[2] Reid, R. L. "The psychology of the near miss." Journal of Gambling Behavior2.1 (1986): 32-39.
+

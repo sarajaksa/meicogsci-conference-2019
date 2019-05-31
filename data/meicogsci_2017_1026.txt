@@ -1,0 +1,20 @@
+... title: Face Recognition
+
+
+
+Abstract
+
+Face recognition is a subset of cognitive processes associated with template recognition. In my research, I come from templates theory based on bottom-up processing theory. The most important cognitive functions are: long-term memory and work with it and search in templates.
+
+My goal is to execute an experiment in order to determine the effectiveness of face recognition attributes like age, gender and race. [1] The experiment plan to be executed on a group of 30-50 participants which will be divided into 2 age groups. There will be online questionnaire where will be presented images from FG-NET aging database [2].
+
+The cross-race effect (CRE) is a phenomenon in which individuals have better memory for faces of their own race than for faces of another race [3] This phenomenon was further investigated by an experiment published last year [4]. 
+
+Results of the experiment will be analyzed and presented that it could be later on compared with machine recognition results.
+
+!!References
+[1] Recognizing Age-Separated Face Images: Humans and Machines, 2014, Daksha Yadav, Richa Singh, Mayank Vatsa
+[2] H. Han, C. Otto, X. Liu and A. K. Jain, "Demographic Estimation from Face Images: Human vs. Machine Performance", IEEE Transaction on Pattern Analysis and Machine Intelligence, 2014
+[3] Malpass, R. S., & Kravitz, J. (1969). Recognition for faces of own and other race. Journal of Personality and Social Psychology, 13, 330–334. doi:10.1037/h0028434
+[4] Ho, M. &. (2016). Postencoding cognitive processes in the cross-race effect: Categorization and individuation during face recognition. Psychon Bull Rev, 23(3), pp 771–780. doi:10.3758/s13423-015-0945-x
+

@@ -1,0 +1,22 @@
+... title: Relation Between Learned Helplessness and Locus of Control
+
+
+
+Abstract
+
+!!!! Relation Between Learned Helplessness and Locus of Control
+
+!! Introduction
+The theory of learned helplessness was developed in 1967 by Martin E.P. Seligman. At first, he applied his theory only on dogs while doing a research on classical conditioning. Later on, the theory was expanded to human behavior as well. The expectation that consequences of our actions are not under our control decreases our motivation to try and control the sequence, while interfering with our knowledge regarding the fact that through our reaction, we can actually control the situation. It is a kind of an inadequate evaluation of the previous repetitious experiences that leads to a feeling and a conclusion that an individual can´t control the result of his behavior, not even in a situation where having control would be possible. His theory was later expanded by John Teasdale by his hypothesis that connected learned helplessness with locus of control. Locus of control is a concept formalized by J.B Rotter and it is a generalised expectancy for internal as opposed to external control of reinforcements [2]. 
+
+!! Subjects 
+120 high school students divided into 2 groups. Group A (control) and group B that was studied for learned helplessness. 
+
+!! Method
+In my experiment, a test that consists of five cryptograms for group A and five for group B has been formed. Group A had five solvable cryptograms, group B had four unsolvable cryptograms and the fifth one was the same as the fifth in group A. After administering this test to the class the students have been warned that they always have to finish a cryptogram before they move to another one. Every time they finished a word they had to wait for the rest of the class. Under pressure of group A being always finished sooner, it was expected that learned helplessness will be observable in the B group. By the time they got to the last cryptogram, most of the students in group B were not able to solve the last cryptogram (an effect of learned helplessness). After this test I explained my intentions and the goal of this test to the students and administered them a five-item Locus of control questionnaire. An abbreviated version of Rotter's (1966) Locus of Control scale was used. My hypothesis was that students with externalised locus of control will succumb to learned helplessness more easily, because there are many stimuli in their environment that they may perceive as restricting to their performance. For people with internalised locus, their own abilities and effort are their attributions of control, on the contrary to externalised locus, where attributions of control are, for example, luck, coincidence and difficulty of given task. 
+
+!! References
+[1] Rotter, J. B. Generalized expectancies for internal versus external control of reinforcement. 
+Psychological Monographs, 1966, 80, NO. 1 (Whole No. 609).
+  [2] Seligman, M. E. P. Helplessness: On development, and death. San Francisco: Freeman, 1975.
+

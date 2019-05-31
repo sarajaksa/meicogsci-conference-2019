@@ -1,0 +1,15 @@
+... title: Auditory Verbal Hallucinations and the Content-Specificity Problem: A Study in Phenomenology and Cognitive Science
+
+
+
+Abstract
+
+Due to their indisputable complexity, auditory verbal hallucinations have always been a challenge for scientists from various disciplines. Usually defined as percept-like phenomena occurring in the absence of a corresponding stimulus, they are characterised by extraordinary diversity. One of the ways that this dissimilarity manifests itself is in the specific contents of the hallucinations [1]. Described phenomena may differ from one another in accent, gender, familiarity and the occurrence of abusive content. On the other hand, there is a certain consistency in the way that auditory and verbal hallucinations are described. There is, however, no coherent explanation why this specific diversity takes place. In spite of the wide range of literature on the subject, there has thus far been no attempt to synthesise their findings and explain why auditory and verbal hallucinations can be so dissimilar in some features while at the same time maintaining a certain thematic similarity. As a result, an explanatory gap is emerging.
+In my thesis, I will contrast two competing approaches to auditory verbal hallucinations. I will start by introducing the phenomenological approach [2] and then proceed with the presentation of ideas advocated by the cognitive sciences [3]. Although these two methodologies are commonly viewed as contradictory, they both attempt to explain the same phenomenon and seem to lack the sensitivity necessary to resolve the discussed issue. Furthermore, I will also argue that the two paradigms are complementary rather than contradictory, and that there is a need to reexamine aspects of the existing literature through the lens offered by a more evolved approach to the existing paradigms. In my final remarks I will address whether these approaches are capable of accommodating both the diversity and the similarities within hallucinatory experience. 
+
+!!References
+
+[1] T. H. Nayani and A. S. David, "The Auditory Hallucination: a Phenomenological Survey", Psychological Medicine, vol. 26, pp. 177-189, 1996.
+[2] F. Larøi, "The Phenomenological Diversity of Hallucinations: Some Theoretical and Clinical Implications", Psychologica Belgica, vol. 46, pp. 163-183, 2006.
+[3] C. D. Frith," The Cognitive Neuropsychology of Schizophrenia", Hove: Psychology Press, pp. 65-77, 1992.
+

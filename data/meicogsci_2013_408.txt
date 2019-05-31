@@ -1,0 +1,23 @@
+... title: Features of Innovative School Environments
+
+
+
+Abstract
+
+!!! Features of Innovative School Environments
+
+!! Research Question
+
+Within the framework of Enabling Spaces we explored the structural elements of innovative secondary schools.  Secondary schools are specially interesting as they prepare students for a vocational and/or academic career. The term “innovative” is seen as a label, which is given to learning environments that break with traditional learning settings. The currently still wide-spread behaviouristic of treating learning as a input-output relation is obsolete, due to findings in cognitive and learning science. An innovative learning environment views learning as a situated and enacted process within a social setting. The goal of this research is to explore the structure of current innovative learning environments as inspiration for teachers and knowledge workers.
+
+!! Method
+The Organisation for Economic Co-operation and Development (OECD) invited universities or public institutions from all over the world to send ethnographically collected data about innovative learning environments. Out of this data set we extracted 19 schools based on the following criteria: runtime at least 1 year, secondary school. Two additional schools were added, compliant with the definition of innovative learning environments by the OECD [2]. These secondary educational institutions have been structured according to the OECD definition and are dissected according to it. These structural elements are space and time organisation, assessment, content and social interaction.
+
+!! Results
+Some schools have a more traditional understanding of space, where learning happens in a classroom, whereas other schools consider the whole school area and additional virtual space as a learning environment. Assessment is mainly done by interviews and different kind of portfolios. On the one hand teachers are seen as guides or coaches who supports students. In these settings students either form one one big learning group or work independently. On the other hand students are organised in classes where one teacher or a teaching team is responsible. In two third of these schools the time table is predetermined, whereas in the other third time organisation is negotiated . Some schools have a specialised or highly differentiated curriculum, whereas other schools stick to the specifications of their ministry of education. Learning is happing all over the school and with different social settings and assessments compared to traditional school settings.
+
+
+!!! References
+[1]	M. Peschl, “Spaces enabling game-changing and sustaining innovations: why space matters for knowledge creation and innovation,” J. Organ. Transform. Soc. Change, vol. 9, no. 1, 2012.
+[2]	Oecd Publishing, Educational Research and Innovation the Nature of Learning Using Research to Inspire Practice. Washington: Organization for Economic Cooperation & Development, 2010.
+

@@ -1,0 +1,26 @@
+... title: Supporting Awareness and Interaction Across Distributed Scientific Work Groups via Technology
+
+
+
+Abstract
+
+!!!! Supporting Awareness and Interaction Across Distributed Scientific Work Groups via Technology
+
+!! Motivation & Background
+Awareness (of others, their activities) can set the ground for informal interactions and connections which in turn are important for initiating or maintaining collaborations [1]. Physically distributed groups do not have this by default. Here technology can come into play.
+Research around that has been done within the field of Computer Supported Cooperative Work, starting in the 90s, in conceptual, ethnographic and system-driven ways [2]. One early and prominent example for the latter would be the Portholes project [1], where media space technology was used to offer awareness information across distance.
+By this time, new technological possibilities (e.g. touch displays, sensors, social networking tools) exist, design tensions (e.g. regarding availability, privacy, conventions (e.g. individual freedom vs. shared group arrangements) and tailoring (e.g. consistency vs. adjustability to situation) [2]) are prevalent, and the challenge to support awareness and interaction between distributed groups (e.g. in science) in an acceptable, practical and engaging way remains topical.
+
+!! Approach & Methods
+Therefore the goal of this thesis will be to explore the user perspective and human factors in a specific scientific context, gather new technological options, and investigate the interrelations/range of possibilities in between. This will be done by drawing on literature and a case study within an Institute of TU Vienna (IGW) consisting of three distributed work groups. In order to take a both user-centered and technology-informed approach in the field, the following mix of (qualitative) methods will be applied:
+* Observation and semi-structured Interviews across the groups: to investigate how awareness and interaction unfolds, what support is wished and needed, and what connections are found acceptable in this setting.
+* Technology probes using available touch screens and simple applications (allowing to interact across groups): to learn about patterns and forms of usage and draw out further issues for discussion.
+* Participatory Design sessions: to address possible scenarios and potential sensitive issues based on the former investigations, and stir further reflections and design ideas.
+
+!! Outlook
+The investigations shall result in a map/schema offering an integrated view of involved aspects, possibilities and tensions that can serve as basis, not only in the specific context of investigation, for reflecting on balanced design options fitted to the everyday work life.
+
+!! References 
+[1] P. Dourish and S. Bly, "Portholes: Supporting Awareness in a Distributed Work Group", in Proceedings of the CHI'92 Conference on Human Factors in Computing Systems, 1992, pp. 541-547.
+[2] T. Gross, "Supporting Effortless Coordination: 25 Years of Awareness Research", Computer Supported Cooperative Work, vol. 22, no. 4-6, pp. 425-474, Aug. 2013.
+

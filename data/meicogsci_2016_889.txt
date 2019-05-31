@@ -1,0 +1,17 @@
+... title: Assessing the Relevance of Using Serious Games as an Extension to On-going Therapy of Children Diagnosed with Autism Spectrum Disorder
+
+
+
+Abstract
+
+In the past decade, there has been growing interest from researchers and practitioners to develop evidence-based therapies and technologies for children diagnosed with Autism Spectrum Disorder (ASD). Due to the heterogeneity of symptoms and the burgeoning prevalence of diagnosis of ASD over the past years, the main concern of stakeholders involved is to provide effective, versatile, and low-cost services.
+Serious games are considered effective new methods to support skills improvement for children with ASD [1]. An issue serious games face is the limitation in providing evidence of the ability of ASD children to generalize learning: Both near and far transfer to other tasks/elements within the therapy and to the social environment can be attained  if motivation to play is enhanced through an increased use of elements of serious game design [2] . 
+We address the known theory-to-research-to-practice gap [3] in the area of ASD by starting to develop a basic framework for the design of a serious game aimed at the generalization of learned social skills, founded on Theory of Mind (ToM) and reconciled knowledge from practitioners of ASD interventions. The main goal of this project is to obtain knowledge in the field of ASD therapy adjuncts that should support and orient further research towards the implementation and evaluation of a targeted serious game.
+ A survey desktop research is carried out in the fields of psychology, neuroscience, and human-computer interaction to clarify the nature of the disorder as well as established rehabilitation procedures. This is complemented by interviews with influential representatives in the fields of ASD interventions and serious games. We attempt to reconcile the acquired knowledge through early prototyping of a serious game.
+!!Acknowledgments
+Sincere thanks to Paolo Petta from OFAI for his mentorship.
+!!References
+[1]	M. Frutos, I. Bustos, B. G. Zapirain, and A. M. Zorrilla, “Computer game to learn and enhance speech problems for children with autism,” in 16th international conference on Computer Games (CGAMES), Washington, DC, USA: IEEE,  2011, pp. 209–216.
+[2]	E. M. Whyte, J. M. Smyth, and K. S. Scherf, “Designing serious game interventions for individuals with autism,” Journal of autism and developmental disorders, vol. 45, no. 12, pp. 3820–3831, Dec. 2015.
+[3]	N. Chown, “Do Researchers Evaluate Psychosocial Interventions for Autism from the Perspective of the Three Dominant Cognitive Autism Theories?,” Review Journal of Autism and Developmental Disorders, vol. 2, no. 3, pp. 243–261, 2015.
+

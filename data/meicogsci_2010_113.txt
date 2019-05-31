@@ -1,0 +1,22 @@
+... title: Artificial consciousness
+
+
+
+Abstract
+
+Is it possible to create a conscious machine with a mind, thoughts, emotions and selfhood? This question was raised and discussed among many scientists across various branches of science. Most people would probably consider the idea of a conscious robot only as a science fiction. Artificial consciousness is a relatively new scientific field that is aimed to answer this question. It is related to artificial intelligence and cognitive robotics and attempts to simulate or imitate key mechanisms underlying consciousness in computational models or embodied agents. It also attempts to understand consciousness using the methods and laws of informational systems.
+Since the year 1950, when Alan Turing proposed his famous imitation game, philosophers and scientists began thinking about the possibility of a consciousness as an identifiable property of a machine.
+Another important event in the history of artificial consciousness is the meeting sponsored in 2001 at the Cold Spring Harbour Laboratories (CSHL). This meeting addressed the question "Could Machines Be Conscious?" Neuroscientist Christof Koch, philosopher David Chalmers, computer scientist Rodney Goodman and roboticist Owen Holland discussed this question with the audience made up of neuroscientists, philosophers and computer scientists. They agreed on the conclusion that there is no known reason that forbids the existence of subjective feelings in machines. In the recent years, the amount of the research investigating the design of conscious artefacts is growing rapidly.
+There are two basic views of the artificial consciousness. The first one is the "strong view". People holding this view aim to develop conscious machines: artefacts that actually have experiences. The second one is the "weak view". The models of weak artificial consciousness articulate specific hypothesis through simulations in order to gain insight into the processes associated with consciousness. The goal of the weak view is to promote conceptual clarification and development.
+The aim of my work is to review the research that is currently developing in the area of artificial consciousness and its related branches. In the first chapter, the basic concepts of consciousness are discussed, which include the distinction between conscious level and content, access and phenomenal consciousness, primary and higher-order consciousness.
+The hard problem and the intentionality problem of consciousness is described next, leading into an explanation of the philosophical positions regarding consciousness (physicalism, reductionism, epiphenomenalism, monism, mysterianism).
+The work follows with the description of some of the most influential models of consciousness, including the dynamic core hypothesis, information integration theory and global workspace theory. Next is the analysis of The Turing Test and The Chinese room argument that is followed by the main part of the work - the description of the models and the most important work in the field of artificial consciousness.
+Machines and robots represent useful agents in which theoretical approaches to artificial consciousness can be grounded. Notable contributions in this area are from Hesslow, Holland, Kuipers, Chella and Takeno.
+Properties of computational neural mechanisms are also very useful in research of artificial consciousness. Few of these approaches are mentioned, including neural models of cognition by Haikonen and Axiomatic Consciousness Theory by Aleksander.
+The ConsScale framework by Arrabales is discussed next. This framework is an attempt to evaluate the presence of cognitive functions associated with consciousness. The work is concluded by my subjective opinions to following outstanding questions concerning this topic: Can any non-living organism be conscious? How can we discover consciousness in a system? Can a system be conscious without phenomenal states? What is the future of artificial consciousness?
+
+References:
+Aleksander, I. (2009) Designing Conscious Systems. Cognitive Computation 1(1): 22-28
+Aleksander, I., Morton, H.B. (2007) Phenomenology and digital neural architectures. Neural Networks 20(9): 932-937
+Seth, A.K. (2009) Explanatory correlates of consciousness: Theoretical and computational challenges. Cognitive Computation, 1, 50-63.
+

@@ -1,0 +1,21 @@
+... title: Effects of cognitive and motor tasks on gait parameters and stride variability during treadmill walking
+
+
+
+Abstract
+
+Introduction
+Human walking was considered to be automatic behaviour controlled by subcortical structures of brain, especially basal ganglia. Since then, scientists discovered that gait is a complex task which places demands on sensory and cognitive systems. Results from our study on healthy participants will provide some clues on how does cognitive system interfere with control of walking. We will measure what influence does cognitive and motor interference have on human walking and (give us an opportunity to) later compare results with measures from patients suffering from neurological disorders (Al-Yahyaa E. et al., 2011).
+
+Methods
+For research on the effects of cognitive and motor interferences on gait parameters and stride variability we will follow the dual task paradigm. This is a procedure that requires an individual to perform two tasks simultaneously. We will compare the results in dual-task conditions with results in single-task conditions. 
+
+For our project we will test 20 healthy subjects. The gait parameters and stride variability will be measured while walking on treadmill. The participants will have to solve tests for measuring cognitive and motor abilities while walking on treadmill. In control settings, participants will have to solve all of those tasks while sitting. Besides the second control will be just walking on treadmill without any distraction. The final analysis will be comparison of measured parameters of gait and stride variability while walking with those in control settings and also comparison of results from cognitive and motor tasks. Measured parameters will be step and stride length, step and stride time, time of contact with treadmill and cadence.
+
+Expected results
+We are expecting differences in stride variability and step length during walking on treadmill and executing second task. This leads to different cadence and also change in time of contact with treadmill. We are not expecting any impact on measured parameters regarding the type of the second task, whether cognitive or motor task (O’Shea S. et al., 2002). Furthermore, we are expecting lower scores on cognitive and motor tasks during dual task conditions (Al-Yahyaa E. et al., 2011).
+
+References
+Al-Yahyaa, E., Dawesa, H., Smith, L., Dennisa, A., Howellsa, K., Cockburna, J. (2011). Cognitive motor interference while walking: A systematic review and meta-analysis. Neuroscience and Biobehavioral Reviews. Vol. 35, 715–728.
+O’Shea, S., Morris, E.M. & Iansek, R. (2002). Dual Task Interference During Gait in People With Parkinson Disease: Effects of Motor Versus Cognitive Secondary Tasks. Physical Therapy. Vol. 82, No. 9, 888-897.
+

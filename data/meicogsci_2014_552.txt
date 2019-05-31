@@ -1,0 +1,19 @@
+... title: !!!!Precognitive Detection of Erotic Stimuli
+
+
+
+Abstract
+
+In our study we are attempting to replicate one of the experiments originally performed by Daryl J. Bem and documented in his 2011 paper titled „Feeling the future“.  In it, Bem describes nine experiments that test for precognition, which he describes as „the anomalous retroactive influence of some future event on an individual’s current responses” [1]. He tests for precognition by time-reversing established psychological tests, so that the individual responds before the stimulus affecting his or her response occurs.
+
+The particular experiment we are attempting to replicate is the „precognitive detection of erotic stimuli“. We chose this one because of its relative simplicity and comparatively attractive nature (we assumed we would get more participants with erotic stimuli than negative stimuli). Bem argues that, if precognition exists, it is the product of evolution and therefore provides some sort of advantage. The advantage he presumed for the precognitive tendency towards erotic stimuli is that it increases the likelihood of encountering situations that would enable the organism to procreate – namely situations of an erotic nature. 
+
+In order to minimize the experimenter's influence on the participant, the experiment is wholly conducted on a computer. The program used and supplied to us by Bem shows two curtains on the screen. Behind one is a picture. The participant chooses the curtain behind which he or she feels is a picture, and the curtain opens to reveal the picture or an empty wall. This is repeated 36 times. Half of the pictures are erotic and half are neutral. At the end of the session, the program reports the hit rate for erotic and non-erotic pictures.
+
+Presuming our standard model of the world holds true and precognition does not exist, the average hit rate for either erotic or neutral stimuli should be about 50%. Bem's findings, however, differ from this. He reports a statistically significant difference from the expected average hit rate of erotic stimuli. His 100 participants scored an average hit rate of 53.1% on erotic trials versus 49.8% on     nonerotic trials, which Bem supports with results from a t-test:  t(99) = 2.51, p = .01 for erotic trials and t(99) = –0.15, p = .56 for nonerotic trials. He found that the participants' sex does not correlate with their performance.
+
+Our own preliminary results fail to replicate these findings. Our current sample of 50 participants scored an average hit rate of 47.7%, t(49) = –1,50, p = .924 for erotic trials and a hit rate of 50.3%, t(49) = .22, p = .432 for nonerotic trials. During experimentation, we have found flaws in Bem's program that might have contributed to the failure to replicate his findings. Participants complained that the resolution of the images used is too low and that they are subsequently less stimulating. Therefore we plan on expanding on Bem's experiment, using higher resolution imagery, specifically calibrating the stimuli to account for every individual participant’s sensitivity to them, as well as measuring skin conductance and blood pressure of participants.
+
+!!References
+[1] D. J. Bem, “Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect”, J. Pers. Soc. Psychol., vol. 100, pp. 407-425, Mar. 2011.
+

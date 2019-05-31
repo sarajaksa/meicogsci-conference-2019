@@ -1,0 +1,23 @@
+... title: Basic Neuropharmachological Research on Ibogaine as a Potential Therapy for Drug Addiction
+
+
+
+Abstract
+
+!!!!  Basic Neuropharmachological Research on Ibogaine as a Potential Therapy for Drug Addiction
+
+Ibogaine (IUPAC name 12-Methoxyibogamine) is a naturally occurring plant alkaloid which has been traditionally used as a medicinal and ceremonial agent in West Central Africa and is allegedly effective in the treatment of drug abuse [1]. ]. It has been reported that ibogaine decreases various adverse phenotypes associated with exposure to drugs and alcohol in human and rodent models [2]. The research of ibogaine and its effect on the body and the brain is interesteting from many aspects concerning cognitive science, ranging from first-person perspective/phenomenological point of view (impairment of cognitive control over impulses - addiction) to neuroscientific approach. Our group focuses on neuropharmacological aspects of ibogaine and its mechanisms of action.
+
+There has been reports that ibogaine and its desirable actions to reduce self-administration of, and relapse to, alcohol consumption are mediated via the upregulated expression of glial cell line-derived neurotrophic factor (GDNF) in the midbrain ventral tegmental area (VTA), and the consequent activation of the GDNF signaling pathways [2]. In order to test the hypothesis that ibogaine induces increased transcription of gdnf gene and synthesis of this trophic factor, we will employ primary cell-cultures of neurons and astrocytes, either grown together or cultured separately, as well as a neuroblastoma cell line (SHS 5Y5). GDNF expression will be assessed both at the transcription (PCR) and translation level (immunodetection in cells (immunocytochemistry) and medium (ELISA)) following different times of cell culture incubation with various concentrations of ibogaine.
+
+In addition, due to (1) a key role played by liver in the metabolism of ibogaine when it is acting systemically, and (2) putative hepatoprotective effects of ibogaine on alcohol-induced injury, we aim to study effects of ibogaine on primary cell cultures of rat liver cells (hepatocytes), and its potential hepatoprotective properties. We will treat primary hepatocyte cultures, with alcohol in various combinations with ibogaine and look at possible changes in activity of biochemical markers of alcohol-induced injury. 
+
+While experiments are under way and we have no results, yet, we formulated our hypotheses based on published scientific reports, wich explored mechanisms of ibogaine activity.  Addiction is a process, which causes impairment of functional connections within brain reward system and changes its sensitivity to certain neurotransmitters like dopamine. Ibogaine has been shown to reduce / halt self-administration of drugs and alcohol without signs of withdrawal syndrome – this effect outlasts ibogain's measurable presence in blood or tissues. This could be explained in two ways, which complement each other: 1. by effective long-lived metabolite of ibogaine (e.g., noribogaine), and 2. by long-term neuroplastic changes in brain reward (or related modulatory) networks. Some previous studies have provided evidence for both explanations in vitro (i.e., in cell cultures) and in rodent models of addiction, respectively [2]. Our studies may shed additional light on ibogaine effects and mechanisms of action.
+
+
+!! References:
+
+[1].	K.R.Alper. 'Ibogaine: A Review'. The Alkaloids Chemistry and Biology, vol. 56, pp1-38, 2001.
+
+[2].	S.Carnicella et al. 'Noribogaine, but not 18-MC, exhibits similar actions as ibogaine on GDNF expression and ethanol self administration'. Addiction biology, 15(4):424-33, Oct. 2010.
+

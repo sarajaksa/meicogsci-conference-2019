@@ -1,0 +1,23 @@
+... title: Acquisition Of Slovene Adjective Inflection And Semantics
+
+
+
+Abstract
+
+Acquisition Of Slovene Adjective Inflection And Semantics
+
+The project Acquisition of Slovene adjective inflection and semantics dealt with the Slovene adjective inflection. The latter was interesting to explore both from cognitive and linguistic points of view, since besides grammatical descriptions, there was not much written about Slovene adjectives. The morphology of Slovene adjectives is (similar to Slovene nouns) quite complex due to the heterogeneity of their inflection. 
+
+The aim of our research was to investigate the new subject of the acquisition of adjectives in Slovene and to focus on parent-child input-output relations in a longitudinal study. After dealing with formal aspects of Slovene adjectives (especially those which occur in our data), we presented and interpreted acquisition data, and analyzed them from a morphological and syntactic perspective. Then we analyzed the semantic and lexical relations of the adjectives used focusing on word fields, antonyms and synonyms.
+
+We analyzed the speech production and the input received by one Slovene girl from age 1,5 to 2,8. The material used for this analysis is based on theoretical assumptions in [1], [2], [3] and on empirical data, provided by the first author.
+
+The predominant strategy of adjective acquisition was by repetition. At age 1,5–1,7 no adjectives were produced, since 1,8 only occasionally, since 2,0 more often, at 2,1 isolated inflected forms appeared, whereas at 2,8 we found a consistent amount of adequately used adjectives. Our results showed that not only the lexical category of adjectives, but also their inflection emerge late and that their development depends less on input frequencies than on contrastive relations between adjectives, in terms of antonyms and word fields.
+
+We believe that this paper can contribute to the field of cognitive and psycholinguistics and it has been accepted to be published in across-linguistic volume on the acquisition of adjectives edited by three Dutch, Russian and Italian editors and proposed to a British publishing house.
+
+!!References
+[1] T. Petrič, Erstspracherwerb am Beispiel eines slowenischen Kindes – Parallelen im Erwerb des Slowenischen und Deutschen. In: Herwig, R. Sprache und die modernen Medien: Linguistik international 14, 2002.
+[2] W. U. Dressler, M. Kilani-Schoch and S. Klampfer, How does a child detect morphology? Evidence from production. In: Baayen, R. H. and Schreuder, R. Morphological Structure in Language Processing. Berlin: Mouton de Gruyter, 391-426, 2003.
+[3] K. Korecky-Kröll and W. U. Dressler, Acquisition of German adjective inflection and semantics by two Austrian children, 2013.
+

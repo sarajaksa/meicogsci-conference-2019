@@ -1,0 +1,21 @@
+... title: Effects of Intention on Motor Performance: A Combined TMS-EEG Study with Focal Dystonia Patients
+
+
+
+Abstract
+
+!!! Effects of Intention on Motor Performance: A Combined TMS-EEG Study with Focal Dystonia Patients
+
+The aim of this project is to explore the effects of intention (assist vs resist) in a central perturbation of the primary motor cortex (M1) elicited by Transcranial Magnetic Stimulation (TMS) in Focal Dystonia (FD) patients. In fact, recent research has shown that in healthy subjects, prior intention to a TMS delivery to the M1 can modulate cortical excitability [1], [2] and thus modify the motor output of the stimulated cortex (increasing or decreasing the amplitude of the motor evoked potentials at the target muscle, depending on the condition). Dystonic patients are believed to have impaired inhibition at a spinal, brain stem, subcortical and cortical levels [3]. The main aim of the thesis is to test whether modulation of the M1 by intention, is disrupted in the cognitive-motor loop of patients with FD, and whether there are specific differences between patients with and without sensory trick. The intended outcome of the thesis is to deepen our understanding of the effects of intention on motor performance, both in healthy subjects and in a variety of subtypes of FD. A secondary goal of the research thesis is to provide new insights into the neurophysiology of the sensory trick. A methodology combining TMS and Electroencephalography (EEG) will be used to address these questions. This technique offers the valuable possibility of getting into the cognitive-motor loop, and thus, exploring the neurophysiological and behavioral effects of cognitive function (related to intention) on motor function (related to performance).
+
+!! Methods
+15 FD patients and 15 matched healthy controls will be asked to mentally resist or assist a subsequent TMS single pulse to the M1. Changes in the amplitude of the Motor Evoked Potentials (MEPs) will be monitored for the wrist flexor and extensor muscles by using Electromyography (EMG). EEG will be recorded throughout all the experiment in order to determine the extent of modulation of cortical excitability (revealed by Contingent Negative Variation) prior to TMS pulse, and whether this modulation was mediated by inhibitory circuits (revealed by N100 component), this last measure will complement Silent Period. In addition, behavioral data will be recorded using a two degrees of freedom goniometer. Finally, after completion of the experiment, a qualitative questionnaire will be handed to the subjects. This will be used to discriminate further possible reasons for variability or significant differences in the measurements across subjects, if any, and to explore the possibility that different mental strategies for performing the task correlates with different degrees of success in the two experimental conditions.
+
+!! Expected Results
+MEP amplitude will be decreased in the resist condition compared to the assist condition. This effect will be lessened in FD patients, but perhaps not in patients with sensory trick. Simultaneous EEG measures will allow determination of the neurophysiological characteristics of the modulatory effects of intention, in healthy and diseased subjects, and deepen our understanding of the sensory trick. Finally, different mental strategies may correlate with different degrees of modulation and task success
+
+!! References
+[1] M. Bonnard, et al., "Direct evidence for a binding between cognitive and motor functions in humans: a TMS study." Journal of cognitive neuroscience, vol 15(8), pp. 1207-1216. 2003.
+[2] M. Bonnard et al. "Prior intention can locally tune inhibitory processes in the primary motor cortex: direct evidence from combined TMS‐EEG." European Journal of Neuroscience, vol 30(5), pp. 913-923. 2009.
+[3] M. Hallett, "Neurophysiology of dystonia: The role of inhibition." Neurobiology of disease, vol 42(2), pp. 177-184. 2011.
+

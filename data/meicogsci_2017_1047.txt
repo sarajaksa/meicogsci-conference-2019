@@ -1,0 +1,16 @@
+... title: Towards an Understanding of the Emotional Modulation Effects of Focused Attention Meditation
+
+
+
+Abstract
+
+Meditation is becoming increasingly popular as a topic for scientific research. Specific components of meditation have been shown to have differential, dissociable effects extending across a wide range of cognitive control processes. Using functional magnetic resonance imaging (fMRI), our study explores the neural substrates and behavioral effects of the focused attention aspect of meditation. During focused attention meditation, practitioners direct their attention towards a chosen object, such as the internal sensation of the breath entering and leaving the nostrils, and maintain their focus on that object from one moment to the next.
+
+In a previous study differentiating focus on breathing and focus on external stimuli during meditation [1], one of the key differences found between the groups was a greater deactivation of the posterior cingulate cortex (PCC) during the breathing-focused task. PCC deactivation has been linked to attenuation of emotional intensity during evaluation of emotional imagery [2], and our study aims to examine whether the impact of focused attention on emotional reactivity will differ with varying foci of meditation. While both attention conditions should lead to overall lower activity in the default mode network (DMN), only the internal attention focus should lead to a specific, strong deactivation of the PCC. If these deactivations correspond to lower intensity ratings of negative emotional imagery, this would suggest that the PCC serves as the underlying mechanism governing the emotional regulation effects of focused attention meditation. Such results would be consistent with existing evidence implicating the PCC in the interactions of emotional and memory-related processes. 
+
+While undergoing fMRI, participants of our study will evaluate negative emotional stimuli after a focused attention task where attention is directed either towards an external visual stimulus or towards the internal bodily process of breathing. We expect that the intensity ratings of the emotional stimuli will be lower following the breathing-focused attention task, and that these lower ratings will be correlated with greater deactivations of the DMN, particularly in the PCC. Such results would support a differential effect of internally and externally focused attention on emotional regulation, as well as the neural mechanism through which it may occur. 
+
+!!References
+[1] H. Scheibner, C. Bogler, T. Gleich, J. Haynes, and F. Bermpohl, “Internal and External Attention and the Default Mode Network”, NeuroImage, vol. 148, pp. 381-389, March 2017.
+[2] V. Taylor, J. Grant, V. Daneault, G. Scavone, E. Breton, S. Roffe-Vidal, J. Courtemanche, A. Lavarenne, and M. Beauregard, “Impact of Mindfulness on the Neural Responses to Emotional Pictures in Experienced and Beginner Meditators” NeuroImage, vol. 57, no. 4, pp. 1524-1533, Aug. 2011.
+

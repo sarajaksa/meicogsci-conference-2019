@@ -1,0 +1,18 @@
+... title: Symbol Grounding Through Action and Language in Cognitive Robotics
+
+
+
+Abstract
+
+The problem of symbol grounding (assigning meanings to symbols) presents a vast impasse in cognitive science. Yet many contemporary theories are based on empirical evidence that argues that grounding happens through an agent's active interaction with the environment via sensorimotor behaviour. To explain how low-level cognitive phenomena lead to high-level cognition, Vygotsky argues that language leads to abstraction and reasoning [1]. This process can be simulated using robotic models. I review three relevant models and present some of the findings here.
+
+The models’ basic goal is to learn and name specific actions. Cangelosi et al.’s [2] robot learns and grounds the actions of moving limbs, Farkaš et al.’s [3] “point”, “touch” and “push”, and Lallee et al.’s [1] “give”, “take” and so on. Cangelosi's approach, employing two robots, is based on a teacher-learner relationship, similar to how a child mimics people. It produces grounding transfer, as the robot acquires higher level actions through learning and naming basic actions. However, it has biologically questionable multilayer perceptron and it forces the learner to unnaturally imitate the teacher. Farkaš's model learns, using a biologically viable reward-based system, names an action and comments on it, the latter proving stronger grounded meaning. The shortcomings are in the location-determining visual module and that it can only name an action after executing it, bringing forth the limitations of its understanding. Lallee et al. expand the understanding of an action with a model that sees action as goal-based with a starting and ending state, similar to humans’ perception. The authors argue that an action represents a wider context (e.g. causality, possession). The model learns to divide its actions into subparts which denote the object and the causal relations (if-then, because), resulting in a fuller understanding of actions. However, the model has an innate vocabulary, which hinders its validity. 
+
+Each model approaches the same fundamental paradigm from its own direction and presents a different, but limited representation of human symbol grounding. Nevertheless, they show promise in creating autonomous, biologically and ecologically viable models that ground meanings through interaction with the environment via low-level cognition, using language to acquire higher cognition.
+
+!!References
+
+[1] S. Lallee, C. Madden, M. Hoen, and P. F. Dominey, “Linking language with embodied and teleological representations of action for humanoid cognition,” Frontiers in Neurorobotics, vol. 4, no. 8, 2010.
+[2] A. Cangelosi, V. Tikhanojff, J. Fontanari, and E. Hourdakis, “Integrating Language and Cognition: A Cognitive Robotics Approach,” IEEE Computational Intelligence Magazine, vol. 2, no. 3, 2007.
+[3] I. Farkaš, T. Malík, and K. Rebrová, “Grounding the Meanings in Sensorimotor Behavior using Reinforcement Learning,” Frontiers in Neurorobotics, vol. 6, no. 1, 2012.
+

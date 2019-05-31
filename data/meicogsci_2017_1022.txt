@@ -1,0 +1,20 @@
+... title: Team Dynamics During Innovation, Knowledge Creation and Learning Processes
+
+
+
+Abstract
+
+Innovation, knowledge creation and learning process (learning process) is a process that takes place when new knowledge is created in accordance to the Theory U [1]. It allows us to learn from the future instead of learning from the past. Learning processes have mostly been studied through the cognitive and epistemological point of view, but there has been less interest in how the social factors can affect it. This is why the focus of this study have been on the team dynamics aspect of it, where the team dynamics are defined as behaviour relationships between members of the team. The research question I started with is 'What roles members take on during the knowledge creation process, and how does this affect it?'.
+
+Data for this research has been collected during the university seminar on the innovation, knowledge creation and philosophy of science in the summer term of 2015, jointly held by University of Vienna and Vienna University of Technology. The students worked in the knowledge creation teams (KCTs) on a self-selected topic. They were using the process based on Theory U [1], with the aim of creating a prototype. The data had 17 students, grouped in 3 teams from 4 to 7 students. The individuals wrote 7 diary entries regarding the KCTs learning and group processes during different points of the seminar.
+
+This data is being analysed with the grounded theory methodology according to Charmaz [2]. Grounded theory is a qualitative method, used to construct new theories, which allows for a detailed view into the data and the underlying processes. Because of that, it is used to study phenomena, where all the variables that could have an effect were not yet identified, like in this case. 
+
+During the initial coding, I have noticed differences in how people in the same team perceived the team dynamics of their own group. These differences included noticing problems by some and claiming that the work is going without problems by others. Or the same situation can be perceived both as problematic, and as a relief.
+
+In the following steps of research, there is going to be a deeper investigation into these differences. This could help us understand how the perception of the group dynamics can affect the learning process. This could have implications for understanding learning processes, especially in the university settings. 
+
+!!References:
+[1] C. O. Scharmer, Theory U. Leading from the future as it emerges. The social technology of presencing. Cambridge, MA: Society for Organizational Learning. 2007.
+[2] K. Charmaz, Constructing grounded theory: A practical guide through qualitative analysis. London: Sage Publications, 2006.
+

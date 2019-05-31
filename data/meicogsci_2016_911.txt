@@ -1,0 +1,16 @@
+... title: Rethinking the nature of social understanding in embodied interpersonal encounters
+
+
+
+Abstract
+
+Traditionally, cognitive science has regarded our ability to understand other people as a puzzle-solving achievement in which a person attributes intentions, beliefs and desires to another by either inferring them theoretically or simulating them by putting herself in the 'mental shoes' of the other.  More recent proposals have challenged such views, suggesting that social understanding in everyday interaction for the most part does not involve deciphering other people's hidden mind on the basis of their observable behavior. Rather, others' mental states are generally apparent in their embodied actions and can be directly perceived and understood through our interacting with them [1].
+
+My master thesis topic will revolve around the question of the relationship between social understanding and social interaction. In my talk I will present the first sketch of the philosophical grounds that will serve as a starting point for my research. At the outset I will explore the nature of social understanding from the point of view of phenomenological philosophy and cognitive science. Are competitive theories of social cognition talking about the same phenomenon at all? Can we speak of reflective as well as pre-reflective social understanding and what is the difference between the implicitly felt and conscious, explicit knowledge of the other's mind?
+
+With support of different accounts of unreflective action and habit I will view face-to-face social interaction as a skillful activity that seldom involves reflective deliberation, thus emphasizing the habitual character of everyday social understanding. Questioning the traditional distinction between implicit and explicit memory, I will analyze the role of body memory [2] in the consolidation of habitual patterns of interaction in long-standing relationships over time. I will propose that past embodied encounters with the other shape our lived present with them, bringing about more stable interpersonal dynamics, a pre-reflective feeling of familiarity and a less explicit, more bodily character of interpersonal understanding hidden in the background of experience. However, how much does 'feeling at home' with the other really have to do with knowing their mind? In other words, can the pre-reflective experience of familiarity still be conceived of as a kind of social understanding?
+
+‼References
+[1] S. Gallagher, "In Defense of Phenomenological Approaches to Social Cognition: Interacting with the Critics," Rev. Phil. Psych., vol. 3, no. 2, pp. 187–212, Dec. 2011.
+[2] T. Fuchs, "The phenomenology of body memory," in Body memory, metaphor and movement, S. C. Koch, T. Fuchs, M. Summa and C. Müller, Eds. Amsterdam, Netherlands: John Benjamins, 2012, pp. 9–22.
+

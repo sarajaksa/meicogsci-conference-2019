@@ -1,0 +1,29 @@
+... title: Extending Concept-level Knowledge Bases in favor of Information Extraction
+
+
+
+Abstract
+
+!!Abstract
+
+The aim of the present project is to seek and match the regularities in source databases, for extending the knowledge within the word map (in Continuous Vector Space)[1].
+
+The two major systems of representing conceptual meaning (the information to be extracted) are: word vectors (Contionuous Vector Space or CVS Semantics), forming a high dimensional space - word map) [3] and knowledge graphs (known as Algebraic Conceptual Representation or ACR semantics). 
+
+Source databases are both, Microsoft Concept Graph (ACR) [2] and the Stanford glove.840B (CVS) [3]. Where we are to find non-redundant links between the entities of Concept Graph, supported by the glove.840B database of pre-trained word vectors.
+
+Within the Concept Graph, subjects of information – entities – are still extracted, therefore there is no need to process unstructured text. The database itself consists of entity-pairs with a specific “is_a” directed tie between them. E.g. pepper -is_a-> vegetable. 
+
+The database to extend is the word-map, because word vectors offer from many perspectives near-optimal “numerical” representation of words. The technique offered by the GloVe supports opposite word vectors and even specific related categories. Appropriate representation of categories means generalization of meaning type based on the (Euclidian, cosine …) distance of two related words in high dimensional (300 D) space. E.g. pepper - vegetable = tiger – mammal
+Moreover, extent of semantic similarities is relative to difference between two word vectors and it's orientation , representing two Concepts.
+
+In first stage, we are to find general nodes in Concept Graph, where replacing one node with one of the nearest word in feature space do not mean depreciation of the tie between the substituted and the remained node. In that case, the knowledge-base can rise without expensive web crawling for more instances to analogous relation. Next, we make attempts to express these relations via suitable linear transformations in the high dimensional space (CVS), to be recallable without modifying the source database.
+
+!!References
+
+[1] Mikolov, Tomas, Wen-tau Yih, and Geoffrey Zweig. "Linguistic Regularities in Continuous Space Word Representations." Hlt-naacl. Vol. 13. 2013.
+
+[2] Wang, Zhongyuan, et al. "An Inference Approach to Basic Level of Categorization." Proceedings of the 24th ACM International on Conference on Information and Knowledge Management. ACM, 2015.
+
+[3] Pennington, J., Socher, R., & Manning, C. D. (2014, October). Glove: Global Vectors for Word Representation. In EMNLP (Vol. 14, pp. 1532-1543).
+

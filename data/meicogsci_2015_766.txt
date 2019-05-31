@@ -1,0 +1,18 @@
+... title: Emergence of communication:  Triadic interaction
+
+
+
+Abstract
+
+According to theory that language has evolved in cooperatively-competitive environment [1], we have designed an extension to existing Tacit Communication Game (TCG) [2] to observe the interaction of the real participants. Adding the third player, the original two participants will have to communicate the same way as in original TCG, but in conditions that force them to hide their pseudo-language in front of the eavesdropper. A pilot research results will be presented.
+
+It is typical for our communication that not everything we say has to be absolutely true. Language is full of misinterpretations, metaphors, lies or just misunderstandings. Still, we keep using it as a way to pass the information in a good belief, that the other side will understand us the way we want them to. What is more, it appears to be pretty successful. Unfortunately, there is no way to find out, how and why did such idea come to our minds back then. We can only guess and observe and create a behavioral models to (maybe!) get a little bit closer to this mystery. 
+One of the theories about emergence of communication says that language has evolved in cooperatively-competitive environment [1]: there might be a need to hide the passing information from the third person in the way that will be understood only by the chosen ones, so we were forced to create more and more complex ways to express ourselves. And as the Red Queen said to Alice: "Now, here, you see, it takes all the running you can do, to keep in the same place." [3] In other words, to keep our communication hidden and the other communication understandable (even when we were not supposed to), we were forced to improve in both: encrypting and decrypting messages over and over again.
+
+Based on the previous experiments [2][4], we have designed a communication game to observe the communication between participants in an environment that prevents almost any usual way of communication with a third person eavesdropping. The two original players can not see the moves of the eavesdropper, but they will be informed when their code talk can no longer be safe. Then the participants can alter their code in environment without eavesdropper (and a reward). The role of the third player is to break the code talk as soon as possible.
+
+[1] Malinovský, L’. (2014). Broadcasting to the enemy: deception as a solution in evolution of language. V Evolution Of Language: Proceedings Of The 10Th International Conference Evolang 10, str. 169–176. World Scientific Publishing, Singapore.
+[2] De Ruiter, J. P., Noordzij, M., Newman-Norlund, S., Hagoort, P. a Toni, I. (2007). On the origin of intentions. Attention & Performance XXII, str. 593–610. 
+[3] Carroll, Lewis (1998) [1960]. Through the Looking-Glass and What Alice Found There. New York: The New American Library. p. 46. ISBN 978-0-517-18920-7. 
+[4] Scott-Phillips, T. C., Kirby, S. a Ritchie, G. R. (2009). Signalling signalhood and the emergence of communication. Cognition, 113(2):226–233.
+

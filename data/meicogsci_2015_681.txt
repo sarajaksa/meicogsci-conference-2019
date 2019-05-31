@@ -1,0 +1,21 @@
+... title: (Testing) the Cultural Cognition Theory of Risk Perception
+
+
+
+Abstract
+
+Several decades of research sought to answer the question how people form positions on the risks they encounter. Especially when they lack experience, expertise, time and cognitive capacity to adequately understand a lot of data. Simple heuristics are suitable candidates for numerous findings regarding judgment and decision making under risk. However, recent research suggests that heuristic processing interacts with cultural values [1]. 
+
+In our study, we test the Cultural cognition theory of risk perception. It posits that individuals selectively deal with information on risks in a manner that mirrors and reinforces their cultural worldview or preferences about desired state and organization of society [2]. Building upon research by Kahan et al. [1], we examine two models explaining the mechanisms through which culture might influence evaluation of risks and benefits: polarization effect and credibility heuristic. Moreover, we focus on sample- and domain specificity of risk perception in the context of two socially relevant topics.
+
+We recruited 482 respondents who filled out an electronic questionnaire. After exclusion due to the time limit, we analyzed data from 349 participants (110 males, M = 30.7 years, SD = 10.6). Research material primarily consisted of the Cultural cognition worldview scales [2] adapted to local conditions, and risk perception and knowledge scales. Experimental manipulation was based on providing (opposing) arguments, either ascribed to two anonymous authors (experimental group 1) or two advocates described by a specific constellation of cultural values (experimental group 2). Members of the control group answered without being exposed to any arguments. The two topics addressed were administered in a random order.
+
+Preliminary results of the experiment will be presented and discussed within an interdisciplinary context of cognitive psychology, medicine and neuroscience as well as law and political sciences. Research efforts aimed at analyzing perception of risk, uncertainty and probability, might result in important implications, ranging from communication of information on statistics and scientific findings to the public, to policy making interventions.
+
+!! Acknowledgments
+Special thanks belong to Miroslav Valuš and Janka Bašnáková for their help and support.
+
+!! References
+[1] D. M. Kahan, D. Braman, G. L. Cohen, J. Gastil and P. Slovic, “Who fears the HPV vaccine, who doesn’t, and why? An experimental study of the mechanisms of cultural cognition,” Law & Policy Review, vol. 34, pp. 501-516, 2009.
+[2] D. M. Kahan, “Cultural cognition as a conception of the Cultural theory of risk,” in Handbook of Risk Theory: Epistemology, Decision Theory, Ethics, and Social Implications of Risk, S. Roeser et al., Eds. Springer Netherlands, pp. 725-759, 2012.
+

@@ -1,0 +1,30 @@
+... title: Effects of Stress on Empathy and Situational Awareness
+
+
+
+Abstract
+
+!!!!Effects of Stress on Empathy and Situational Awareness
+
+The construct of empathy has recently been referred to as a sense of similarity between the feelings one experiences and those expressed by others [1]. It involves not only affective experiences of the other person’s actual or inferred emotional state but also a predictive validity of information processing. The prominence of emotional states reinforces the appraisal from neural and somatic activity that is conditioned by the ongoing embodied awareness and action [2]. Thus, when being exposed to demanding circumstances, our knowledge, experience and education provide us with the basis for subsequent decision making and performance in order to perceive relevant information, integrate data and predict future events.
+
+In this study, several aircrews were recorded during all different phases of a short flight reproduced in a flight simulator. These videos were used to individually analyze eye gazing frequency, non verbal communication and body language (including features like facial expressions, body movements and posture, gestures, eye contact or touching), mimicry and differences in distance between the two pilots (the captain and the first officer). In addition, all the pilots couples of the crews were asked to fill out an anonymous questionnaire after the simulation’s performance, with two relevant rating scale questions about their own and their partner's impressions of having the situation controlled and whether they felt stressed during the simulation among others. 
+
+Using psychophysiological measures for decoding performance manifestations tracked by the videos, and visualized using a language analyser software developed by the Max-Planck Institute for Psycholinguistics (ELAN), in contrast with data-based approaches, relied on self-impressions reports we can explore the influence that stress has on empathy and situational awareness, as well as their correlations within this specific context.
+
+Mimicry seems to evoke the corresponding emotions in the observer which makes it an important factor for emotional empathy. There is a tendency for people to show the same expressions as those of the target they are interacting with or observing. Moreover, as this kind of expressions may also be influenced by the identity of the target [3], we are therefore looking for  underlying constructions of these manifestations to see their relation to stress, by exploring the continuous perception between the self and aircraft in relation to the dynamic environment of the flight, taking into account possible threats within each of all different flight phases to evaluate the ability pilots use in such situations to forecast and execute tasks based on the perception of self-awareness and regarding the fact of  being part of a team.
+
+According to bibliography, both applied measurements should reflect a similarity effect on empathy. On one hand, the research to investigating this convergence may reveal that self-report measures can be a better tool to distinguish among the different components of empathy and so make them more specific than psychophysiological measures. However, pilots under stressful situations might also be prone to self-presentation bias and a lack of self-awareness according to their interpretations. On the other hand, psychophysiological responses, while being more objective, can be elicited by a range of different stimuli, especially when facing possible danger. This may lead to subjective interpretations that will have to be interpreted and related to specific components of empathy as well as self-awareness.
+
+The aim is to assess the influence of stress on these intersubjectively open mechanisms, based on the hypothesis of the existence of a possible tendency to mimic others as a predictor for empathy comparing self-perceptions with active performances contemplated in these two measurements.
+
+
+
+!!References
+
+[1] Thompson, E. “Empathy and consciousness”. Journal of Consciousness Studies. London: Routledge. pp. 10. 2001.
+
+[2] Douglas F. Watt. “Affect and the Limbic System: Some Hard Problems”. The Journal of Neuropsychiatry and Clinical Neurosciences. 10:113a-116. 1998.
+
+[3] Brown, L. M., Bradley, M. M., & Lang, P. J. “Affective reactions to pictures of ingroup and outgroup members. Biological Psychology”, 71, 303-311. 2006.
+

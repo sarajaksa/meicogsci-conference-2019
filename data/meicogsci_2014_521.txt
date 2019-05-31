@@ -1,0 +1,53 @@
+... title: Social Factors in Decision Making about Vaccination
+
+
+
+Abstract
+
+!!!! Social Factors in Decision Making about Vaccination
+
+We examined the influence of emotional subtleness of different messages about vaccination on participants’ willingness to get vaccinated.
+The aim of our study is to deepen our understanding of how vaccination decision 
+making process works and what kind of messaging is the most effective with respect to 
+vaccination.
+
+Previous research has found that out of four different types of messages regarding 
+vaccination, none were successful at increasing participants' vaccination willingness [1]. 
+The authors have subsequently highligted the role of emotional impact of vaccination 
+messages, hypothesizing that the inefficiency of vaccination messages might have been 
+caused by high level of emotionality in the vaccination messages. They claimed that 
+if emotional information were presented in a more subtle way, this would not lead to 
+participants‘ rejection of vaccination. Therefore, we manipulated the level of emotional 
+subtleness in order to see whether this factor would indeed have an influence on 
+vaccination willingness. 
+
+!! Experimental design
+Two of the four types of messages from [1] were used:
+* Message about research disproving particular alleged adverse effect of a particular vaccine
+* Message emphasizing risks of a particular vaccine-preventable disease
+
+Each message type has 4 different levels of emotional subtleness, which was manipulated by emotionally charged adjectives in the text of the messages. 
+Higher level of emotional strength is established by adding new emotionally charged 
+adjectives, or providing stronger emotionally charged adjectives.
+All participants were presented with both types of messages, and randomly assigned 
+to one of 4 possible levels of emotional subtleness per message type. After reading a 
+message, participants were asked to report their willingness to vaccinate themselves and 
+willingness to vaccinate their children, both on a scale between 0 and 10. 
+
+Participants have been recruited online, via several discussion fora on Slovak websites.
+
+!! Results
+
+Preliminary results indicate that in line with hypotheses:
+* Emotionality of vaccination messages does change participants’ willingness to vaccinate
+* There is a peak of emotionality, after which adding emotional strength becomes 
+counterproductive, concerning the message acceptance.
+* Significant difference exists between the willingness to vaccinate self and (potential) 
+child.
+
+!! Acknowledgements
+I want to thank Miroslav Heriban and Richard Dinga for consultations.
+The biggest thanks go to my supervisor Jana Basnakova for all the time and effort she has invested in this project.
+
+[1] B. Nyhan et al., “Effective Messages in Vaccine Promotion: A Randomized Trial,” Pediatrics, Am Acad Pediatrics, 2014.
+

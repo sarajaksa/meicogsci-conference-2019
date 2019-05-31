@@ -1,0 +1,18 @@
+... title: Analysis of the Sleep Process in Patients after Stroke
+
+
+
+Abstract
+
+!!Introduction: Sleep is essential for normal functioning of the body and cognition while we are awake. In sleep process the brain wave frequency is changing while going through sleep phases, which are associated with the activity in various brain regions. These brain regions can be damaged after an ischemic stroke, caused by the blockade in the blood vessel leading to lack of oxygen supply and producing lesions in brain areas, what results in a loss of brain function. As a consequence of a disrupted brain functions, the sleep architecture can be affected [1]. Studies show, that there are some differences in sleep patterns among healthy sleepers and subjects after stroke, showing that subjects after stroke spent more time in slow wave sleep and less in REM sleep in comparison with the healthy sleepers [2]. Based on these findings the goal of this study is to analyze the sleep process among patients after stroke conditioned on the affected brain area after stroke. Different brain regions affected by the stroke can influence sleep patterns among the patients and thus indicate the neuroanatomical importance of the regions on the sleep process.
+
+!!Methods: This study includes 51 polysomnograpy (PSG) recording taken from patients after stroke. In all patients the brain magnetic resonance (MRI) was performed to locate the stroke affected area. The points of interest were patients with effected supratentorial regions (43) and patients with stroke in brain stem (8 subjects). The task was to compare their sleep architecture and other sleep features like sleep efficiency, time in bed and awakenings with Matlab program.
+
+!!Results: The results are indicating on differences in the architecture of sleep in the patients with stroke in the brain stem, showing lower REM latency (p = 0.07), lower efficiency (p = 0.003), more staying awake during sleep (p =0.04) than in the patients after stroke in supratentorial regions. 
+
+!!Conclusions: There are differences in the architecture of sleep between patients with stroke in the brain stem comparing with the patients with stroke in supratentorial region. The results are linking REM phase with the brain stem. These finding are providing evidence how different brain regions can affect different sleep features. For further studies it would be advisable to include more patients and a control group. 
+
+!!References:
+[1] Valldeoriola F., Santamaria J., Graus F., Tolosa E. Absence of REM sleep, altered NREM sleep and supranuclear horizontal gaze palsy caused by a lesion of the pontine tegmentum. Sleep, 1993, vol.16, no. 2, pp. 184-188.
+[2] Skoviera R., Rostakova Z., Krakovska A., Rosipal R.: Spectral and Complexity Characteristics of Sleep EEG Following Ischemic Stroke. In Proceedings of YBERC: The Sixth Biomedical Conference of Young Biomedical Engineers and Researchers, Bratislava, Slovakia, pp. 108-114, 2014.
+

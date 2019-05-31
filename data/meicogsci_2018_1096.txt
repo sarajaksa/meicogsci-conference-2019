@@ -1,0 +1,19 @@
+... title: Frequency-dependant Local and Remote Immediate Effects by Concurrent TMS-fMRI Setup
+
+
+
+Abstract
+
+## Context
+Transcranial magnetic stimulation (TMS) of the dorsolateral prefrontal cortex (DLPFC) is a promising, FDA-approved treatment option for major depressive disorder (MDD), when applied on patients, who did not reach remission after pharmacological intervention. Unfortunately, not all patients show significant improvement of their symptoms after treatment. The main source of this non-response seem to be inaccuracies in the stimulation process itself, in particular stimulation dose, that is consisted from stimulation intensity and stimulation frequency[1]. General rule is that higher stimulation frequencies and higher stimulation dose lead to better outcomes [2].
+
+## Method
+The study will be performed on a 3T Prisma (Siemens, Erlangen, Germany). TMS/fMRI setup will include a MagProX100 stimulator (Magventure, Farum, Denmark), MRI-B91 MR-compatible TMS coil mounted on dedicated RF-coil and MR-compatible neuronavigation with electromyogram (EMG) incorporated (Brainsight).  We aim to include 10 right-handed healthy subjects with no history of neurological or psychiatric diseases. The TMS/fMRI coil-array will be positioned over the DLPFC using newly established MR-compatible neuronavigation setup [3]. Subjects will be stimulated in two blocks, each consisted of same TMS frequency protocols (single pulse, 1Hz, 3Hz, 5Hz, 10Hz, 20Hz and theta-burst stimulation) with 110% of resting motor threshold (RMT). Two blocks will differ in types of coil we will use, meaning in one block we will use sham coil for isolating placebo effect, while in the other block we will use normal coil for real stimulation. In sham condition we will add 3cm thick empty TMS housing coil to prevent TMS pulse of reaching cortex. Blocks will be counterbalanced.
+
+## Expected Results
+With this study, we are expecting to show the profound immediate impact of frequency used in TMS protocols on the brain modulatory effects. Even though lower-frequencies are considered to inhibit neural activity [2], we are expecting to observe significant activation of stimulated area in all protocols. Furthermore, we also believe that with higher frequency brain activation of stimulated area will be greater.
+## References
+[1]	A. V. Peterchev, T. A. Wagner, P. C. Miranda, M. A. Nitsche, W. Paulus, S. H. Lisanby, A. Pascual-Leone, and M. Bikson, “Fundamentals of transcranial electric and magnetic stimulation dose: Definition, selection, and reporting practices,” Brain Stimulation, vol. 5, no. 4, pp. 435–453, Oct. 2012.
+[2]	L. Cárdenas-Morales, D. A. Nowak, T. Kammer, R. C. Wolf, and C. Schönfeldt-Lecuona, “Mechanisms and Applications of Theta-burst rTMS on the Human Motor Cortex,” Brain Topography, vol. 22, no. 4, pp. 294–306, Mar. 2009.
+[3]	L. I. Navarro de Lara, M. Tik, M. Woletz, R. Frass-Kriegl, E. Moser, E. Laistler, and C. Windischberger, “High-sensitivity TMS/fMRI of the Human Motor Cortex Using a Dedicated Multichannel MR Coil,” NeuroImage, vol. 150, pp. 262–269, Apr. 2017.
+

@@ -1,0 +1,47 @@
+... title: GDNF, Ibogaine and Addiction
+
+
+
+Abstract
+
+Chronic drug and alcohol abuse result in biochemical and structural changes
+in the human brain and are especially expressed in midbrain dopaminergic
+neurons. Studies suggest that activation of glial cell line-derived
+neurotrophic factor (GDNF) signal pathways importantly promote growth,
+survival and regeneration of dopaminergic and motor neuron populations in
+adult brain. This properties make GDNF a potential candidate as a
+therapeutic medicine for drug or alcohol addicts [1]. The problem appears
+with administration, since GDNF cannot pass the blood brain barrier in the
+human brain. Indole alkaloid, ibogaine, which is extracted from the roots of
+the plant Tabernanthe iboga, promotes expression of GDNF in the brain.
+Ingestion of ibogaine resets the balance of some receptors and transmitters.
+Another studies showed ibogaine's effect on a cellular level that trigger
+remodeling of the housekeeping metabolism. After some initial energy costs
+it increases efficiency of physiological antioxidative systems, which reduce
+oxidative damage and decrease basal metabolic needs, liberating free energy
+for a prolonged period of time [2]. Patients can also gain from the
+psychedelic experience, which are common for higher (~15mg/kg) doses. 
+Intense introspective states can be a powerful therapeutic tool and tend to lead to some life promises. When ibogaine is administered to treat drug dependence,
+patients usually report reduction of withdrawal syndromes and elimination of
+drug craving for prolonged time periods. Because of the prohibitive
+legislation of ibogaine in many countries, treatments are being held in
+uncontrolled environments [3], what can cause problems for patients and
+further research. Proper approach demands systematic testing before human
+use, that is why studies on enzymes, yeast, rats and human hepatocytes are
+necessary to create a safe medicine. For further work we have decided to
+culture primary human hepatocyte line ex vivo, since it is a valuable model
+for testing their mutual effects with drugs because to some degree the
+metabolic and transport pathways stay the same as in the liver in vivo.
+
+References 
+
+[1] D. Ron and P. H. Janak. ''GDNF and addiction.'' Reviews in the
+Neurosciences, vol. 16(4), pp. 277-285, 2005.
+
+[2] R. Paškulin, P. Jamnik, T. Danevčič, G. Koželj, R. Krašovec, 
+D. Krstić-Milošević and B. Štrukelj. "Metabolic plasticity and the 
+energy economizing effect of ibogaine, the principal alkaloid of tabernanthe iboga." Journal of Ethnopharmacology, vol. 143(1), pp. 319-324, 2012.
+
+[3] K. R. Alper, H. S. Lotsof and C. D. Kaplan. "The ibogaine medical
+subculture." Journal of Ethnopharmacology, vol. 115(1), pp. 9-24, 2008.
+

@@ -1,0 +1,9 @@
+... title: Multi-way Data Analysis for Advanced Processing of EEG in Cognitive and Motor-related Tasks
+
+
+
+Abstract
+
+We applied and developed new multi-way data analysis algorithms for physiological advanced estimation of cognitive status, which significantly improved the estimation of cognitive workload and shed new light on the estimation of mental fatigue. More specifically, atomic decomposition of parallel factor analysis (PARAFAC) and multi-way partial least squares (N-PLS) can identify unique sources of brain electrical activity as measured by the EEG recorded in human participants as they performed tasks that induced different mental states, including engagement, mental workload, and mental fatigue. 
+	During the workshop I will briefly describe the concept of multi-way data analysis and the used algorithms and I will demonstrate the methodology on real data using the proprietary software environment. Next, I will in a interactive way introduce the concept of mirror-neuron based training aiming to enhance oscillatory sensory-motor brain rhythms and I will demonstrate how the methodology of multi-way analysis can be applied in this context. The workshop aims providing practical insights to the topics that I will present in my conference talk.
+

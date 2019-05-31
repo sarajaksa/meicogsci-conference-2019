@@ -1,0 +1,20 @@
+... title: The Diagnosis of Parkinson’s Disease Using Eye Tracking
+
+
+
+Abstract
+
+Eye tracking has already been used as a diagnostic tool for neurodegenerative diseases in previous research and has proved to bear potential for finding disease-specific features that could enable differentiation between respective neurodegenerative diseases [1].
+Our aim is to develop a diagnostic tool that would provide assistance in the diagnosis of Parkinson’s disease (PD) and in differentiation from other clinically similar parkinsonisms. The long-term goal is to conduct a longitudinal study to verify specificity of the eye tracking method to diagnose and predict the development of the studied neurodegenerative diseases. We hope our research could demonstrate, whether saccadic eye movements can provide an objective biomarker to accurately diagnose and evaluate the progression of PD, which could offer a cheaper and more easily accessible diagnostic method for initial screening than the ones currently used.
+
+!!Materials and methods
+Saccadic eye movements will be used to assist in the differential diagnosis between respective parkinsonisms and PD. We will measure eye movements in unmedicated participants who have been clinically examined and diagnosed with one of the selected neurodegenerative disease and healthy age-matching controls. We will be using the Tobii TX300 eye tracker to gather our data. Participants in the research will be shown pictures and videos, while we will simultaneously monitor the movements of their eyes. The tasks will involve the fixation protocol, SPEM (smooth pursuit eye movements) task, reflexive or pro-saccade, the anti-saccade paradigm and the memory guided saccades. With these tasks we will be able to perform measurements in relation to latency, amplitude, velocity and duration of the eye movements [2].
+
+!!Expected results
+We expect that the latencies of the eye movements will be normal in PD and Progressive supranuclear palsy (PSP), but patients with Corticobasal degeneration (CBD) will show a prolonged latency, especially in voluntary saccades. It is expected that such results will show in the antisaccade errors, which are common in PSP and dementias, but are not observed in patients with PD or Multiple system atrophy [3]. We also expect the fixation protocol will differentiate between PSP and PD, due to PSP patients having a reduced amplitude and peak velocity when compared to patients with PD [1].
+
+!!References
+[1] S. Marx et al., "Validation of mobile eye-tracking as novel and efficient means for differentiating progressive supranuclear palsy from Parkinson's disease," Frontiers in behavioral neuroscience, vol. 6, pp. 1-11, Dec. 2012.
+[2] M. Georges et al., "Alterations of eye movement control in neurodegenerative movement disorders," Journal of ophthalmology, vol. 2014, pp. 1-11, May 2014.
+[3] T. J. Anderson and M. R. MacAskil, "Eye movements in patients with neurodegenerative disorders," Nature Reviews Neurology, vol. 9, pp. 74-85, Feb. 2013.
+

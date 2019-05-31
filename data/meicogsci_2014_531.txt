@@ -1,0 +1,51 @@
+... title: Inter-agent communication as a mean of achieving objectives
+
+
+
+Abstract
+
+!!!!Inter-agent communication as a mean of achieving objectives
+
+!!Introduction
+This paper investigates whether a group of cognitive agents may learn to use simple communication and apply this acquired knowledge to be more successful in achieving their objectives.
+
+!!Environment
+Environment is a squared grid map. Agent can move inside of an area with dimensions of 13x13. There are no obstacles inside this area. Beside agents, the environment contains multiple types of fruit. The agent receives rewards for collecting fruit.
+
+!!Agent
+Our agent is an entity placed in a simple virtual environment. Its goal is to maximize the average reward gained per action. Agent receives a reward if it picks up the fruit and gets a minor additional reward if it responds correctly to a help signal. It perceives squares within certain distance around it. There are two types of actions which it can perform.
+
+Movements
+It can move around its environment in any direction (horizontal, vertical or diagonal), or it can choose not to move without performing any other action.
+
+Communication
+Agent can try to communicate with other agents within its percept. There are three types of signals:
+* Help: agent should try to send this signal if there is no fruit object within its percept
+* There is a fruit in my percept
+* There is no fruit in my percept
+
+Learning mechanism
+As a learning mechanism we have chosen model free actor-critic reinforcement learning approach.[2]
+“The neural actor-critic architecture usually consists of two neural networks(NN):
+* the value NN (critic)
+* the action NN (actor)
+The value NN approximates evaluation functions, mapping states to estimated values, whereas the action NN generates a plausible (or legal) action mapping states to actions. The adaptive critic receives external (primary) reinforcement from the world and transforms it into internal (heuristic) reinforcement. The critic is adaptive because its predictor component (value NN) is updated using temporal difference methods. The action NN attempts to learn optimal control or decision making skills. It does so by choosing actions probabilistically to produce exploration hopefully converging to optimal actions with probability one. In this framework an actor-critic agent attempts to find both optimal actions and optimal values.”[1]
+Agents learning process starts immediately after it is placed into a virtual environment. Exploration mechanism is implemented in its action selection. This means that at first, agent will perform completely random actions and the more steps it will take the less random will the action selection become.
+
+!!Experiment
+We have compared an average reward gained per action in three groups:
+* Agents that were performing only random actions
+* Learning agents
+* Learning agents with communication
+
+Our experiment is divided into two phases:
+* Search for the most suitable configuration of learning mechanism parameters by comparing results of first and second group
+* Comparing results of second and third group with main focus on analysis of communication actions
+
+Different environment setup will be used in each phase (placement and quantity of objects on a map) with respect to our goals. Actions of all agent-groups will use the same reward function.
+
+!!References
+[1] Mizutani, E., Dreyfus, S.: "Totally Model Free Reinforcement Learning by Actor Critic Elman Networks in Non Markovian Domains" in The 1998 IEEE International Joint Conference on Neural Networks Proceedings, Anchorage, AK, 1998, pp. 2016 - 2021 vol.3
+
+[2] Richard, S., Sutton a Andrew, G. Barto (1998). Reinforcement Learning: An Introduction (Adaptive Computation a Machine Learning). The MIT Press. ISBN 0262193981.
+

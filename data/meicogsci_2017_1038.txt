@@ -1,0 +1,24 @@
+... title: “Wanting" And "Liking" Of Primary and Social Rewards in Humans
+
+
+
+Abstract
+
+Motivation of human behavior through rewards represents a highly important yet complex topic for which different concepts and models of explanation have been proposed in the scientific community. One model prominently features the differentiation of two components of reward processing: a motivational component called “wanting” which is driven by incentive salience and an affective component called “liking” which relates to the hedonic pleasure while obtaining rewards [1].
+While this has been investigated at large within animal research, more evidence is needed to support a similar dissociation of these components in humans.
+Furthermore, it remains to be seen whether identical or separate neural networks underlie processing of different types of rewards, for example, primary rewards (e.g. food) versus social rewards (e.g. physical contact) [2]. Hence, paradigms considering both “wanting” and “liking” as well as primary and social rewards are of interest. 
+In this pilot study, a new behavioral paradigm is introduced which shall be applicable to psychopharmacological and neuroimaging techniques (fMRI) in the future.
+
+Using a within-subjects design, healthy male and female participants were tested in a standardized real effort task, which enabled not only measurement of subjective responses (ratings of “wanting” and “liking”) but also objective responses to both primary and social rewards. 
+Objective assessment of “wanting” a reward was realized through subjects’ squeezing of a hand dynamometer while electromyographic activity of the zygomaticus major muscle (involved in raising the corners of the lips) and the corrugator supercilii muscle (involved in frowning) was used as an objective measure of “liking” a reward. 
+As a primary reward, small amounts of milk mixed with different concentrations of cacao-drinks (e.g. 25% or 100%) were delivered using computer-controlled pumps. As a social reward, participants received forearm caresses at different speeds by a same-sex experimenter mirroring social grooming in animals. 
+
+Preliminary subjective and objective behavioral data suggest comparable responses of “wanting” and “liking” to all stimuli regardless of the type of reward. This paradigm or respective adaptations will be employed in future research regarding “wanting” and “liking” in the social neuroscience domain. The anticipated insights through this new experimental approach shall aid understanding of instances of dysfunctional reward processing such as addiction (primary rewards) and autism spectrum disorders (social rewards).
+
+
+!!References: 
+
+[1] K. C. Berridge, and T. E. Robinson, “Parsing Rewards”. TRENDS in Neurosciences, vol. 26, no. 9, pp. 507-513, 2003. DOI: doi:10.1016/S0166-2236(03)00233-9 
+
+[2] K. C. Berridge, and M. L. Kringelbach, Pleasure Systems in the Brain. Neuron, vol. 86, no. 3, pp. 646-664, May 2015. DOI: doi.org/10.1016/j.neuron.2015.02.018
+

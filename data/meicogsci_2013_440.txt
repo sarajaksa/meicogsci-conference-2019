@@ -1,0 +1,26 @@
+... title: Are Swings Cognitive Artifacts? The Case of Pendulum Motion and its Effect on Human Cognition
+
+
+
+Abstract
+
+!!!! Are Swings Cognitive Artifacts? The Case of Pendulum Motion and its Effect on Human Cognition
+
+A suspension in space, a hiccup of weightlessness before a violent plunge, a pursuit of entropy against the pull of the equilibrium, a game against gravity: a swing is not merely a playground item but a complex phenomenon/experience with multiple sense-modalities. However, there seems to be little place for swings in the constellation of human adult games and play. With this research, we explore the influence of self-propelled swinging movement on a manifold of cognitive processes in adults.  
+
+The approach used for the research consists of two main parts, an analytical and an empirical study. 
+For the analytical part, we deconstruct swinging into three levels:  the first level studies the pendulum motion from the point of view of physics and mathematics, a macroscopic perspective [1]. With a turn to kinaesthetics and body scheme theory, the first level spills into the second, microscopic level: an outlook from neurophysiology, where we investigate proprioception, sensory and motor systems involved, visual and vestibular systems and finally, the psychophysiological effects. Where the second level converges to psychology, we arrive to the third one: the cognitive science in humanities approach. Here we argue that swings are a physical interpretation of ilinx- a term in game studies that describes a kind of play that causes temporary perception disturbance. The third level finishes with an overview from philosophy ('what is it like' to swing), semiotics, ethology and cultural anthropology- building a case of a swing as a cognitive artifact. The initial three-level analytic part of our research concludes with a comparative study between the swinging motion as an (un)conscious oscillatory movement and the rocking motion as an ideomotor phenomenon. 
+
+The empirical core of the research is a synthesis of a questionnaire, an experiment and an EEG study. The questionnaire presents an overall statistical foundation and is an overview of 250 adult participants, their aerobic exercise habits [2], engagement in play behavior etc. The experiment employs 40 adults in two groups, swinging and control, both tested with a Torrance test of creative thinking, not evaluated by the experimenter to avoid rating bias. Lastly, the EEG study presents a pioneer measurement of effects of swinging such as neural oscillations, heart rate, pulse.
+
+The results from the first, analytical part, present a ground base for the study of swings as cognitive artifacts/interface; while the second, empirical part, confirms our hypothesis that swinging motion has a substantial (immediate) effect on cognition i.e. increases one’s creativity.  
+
+Our research shows that a simple phenomenon can lead to complex consequences; and while the study is ongoing and exploratory, the implications of this discovery can offer insight to cognitive technologies, play studies, environmental design and affective neuroscience.
+
+
+!! References 
+
+[1] M. R. Matthews, “Philosophical Perspectives,” in The Pendulum: A Case Study in Physics, 1st ed., New York, Springer-Verlag, 2006
+
+[2] D. M. Blanchette et al., Aerobic Exercise and Cognitive Creativity: Immediate and Residual Effects, Creativity Research Journal, 17(2&3), 257-264, 2005
+

@@ -1,0 +1,17 @@
+... title: Natural Semantic Metalanguage Framework (NSM): A Novel Approach to Computational Modeling of Cognition and Emotions
+
+
+
+Abstract
+
+Conceptualising cognition at large, and emotions in particular, in such a way that would provide us with valuable insights into their very nature has been a long-lasting challenge for science in general. One of the methods that has proven effective in this regard is modeling. A process that allows us to address the complexity of the investigated phenomenon by creating its functional simulacrum, i.e. a model. This model, in turn, represents an "artifact that can be mapped onto a phenomenon that we are having difficulty understanding" [1]. By examining the model, we can test the validity of our conceptualisation and, in this manner, increase our overall comprehension of the phenomenon of interest. 
+A class of models that has proven particularly useful in this regard are computational models. That is to say, implementations in the form of functional computer programs powered by specific-purpose architectures. The more multidimensional the underlying architecture is, the more efficient our model and the closer to deciphering the complexity at hand we will be. 
+Pursuant to this, the primary (ontological) goal of this study is to introduce one such multidimensional architecture that grounds cognition, and emotions in particular, in a web of linguistic schemata - NSM scripts, formulated in a universal Natural Semantic Metalanguage (NSM). The secondary (epistemic) goal, to provide empirical insights into the intuitiveness of the framework itself with regards to its affective-modeling potential, as well as its potential for modeling cognition at large.
+The practical rendition came in the form of a qualitative behavioural study based on a carefully designed questionnaire, aimed at testing the [a] modelling efficacy of the framework & validity of the existent emotion-scripts [pt. I] and [b] intuitiveness of the framework based on participants' self-devised emotion-scripts [pt. II]. Resting on the findings of the study, the ultimate goal is to propose the implementation scenario for a universal affective architecture in the form of a multi-language software - the "NSM cogni-cultural emotion translator".  
+Although originally a brainchild of linguistics, the multidimensional character makes the NSM framework [2] highly applicable to other disciplines as well. One such discipline that could benefit profusely from its potentials is also A.I. - domains that deal with computational modeling of cognition and emotions in particular [3]. Implemented in this manner, the NSM framework can be regarded as a linguistic substrate of cognition and emotions. 
+
+!!References 
+[1] C. Goddard, “Semantic primes, semantic molecules, semantic templates: Key concepts in the NSM approach to lexical typology,” Lex. Typology, pp. 1–37, 2012.  
+[2] M. R. Dawson, Minds and machines. Malden, MA: Blackwell Publishing, 2004.   
+[3] FröhlichP. Langley, J. E. Laird, and S. Rogers, “Cognitive architectures: Research issues and challenges,” Cogn. Syst. Res., vol. 10, no. 2, pp. 141–160, Jun. 2009.
+

@@ -1,0 +1,30 @@
+... title: Voice  controlled mouse cursor
+
+
+
+Abstract
+
+Voice recognition is nowadays one of the most studied branches of Artificial intelligence as well as cognitive science because of its impact on everyday life. Modern user interfaces are designed to be controlled by mouse, what creates potential obstacles for disabled people. On the other hand, voice recognition is the area of my personal interest, what led me to choose this area as a theme for my thesis.
+
+The goal of this thesis is to create a functional program for controlling mouse cursor by voice, which could be successfully used by people. The user will be able to control the cursor by continually pronouncing defined vowels (in Slovak language) into a microphone. For example to move the mouse cursor up the user will keep saying "aaaa" as long he or she wants the mouse cursor to move. For other mouse functions there are different sounds.
+
+Recognition of vowels: Physical representation of human speech is a vibration which originates in human speech organs. The source of every vocal sound is vibration of human voice apparatus. The frequencies of these vibrations differ for adults and children and also for men and women. This frequency is mostly between 150 and 400 Hz and also sets the basic tone of human voice. Besides basic vocal tone, there are higher amplified tones caused by resonance in vocal tract during vowel creation. These higher tones are called formant. First two formants are specific for each vowel:
+
+a: F1 = 750 - 1100 Hz F2 = 1100 - 1500 Hz
+e: F1 = 500 - 700 Hz F2 = 1500 - 2000 Hz
+i: F1 = 300 - 500 Hz F2 = 2000 - 3000 Hz
+o: F1 = 500 - 700 Hz F2 = 900 - 1200 Hz
+u: F1 = 300 - 500 Hz F2 = 600 - 1000 Hz
+
+Constant recording of sound (speech signal) is needed  to recognize specific vowel. In this work there are two ways of getting formants. One is using LPC (Linear Predictive Coding). LPC is one of the most effective methods of acoustic signal analysis. This method is aimed on estimation of parameters of speech signal and with these parameters get "cover" of frequency space using Durbin algorithm. LPC is based on theory that k-th sample of signal can be described by linear combination of Q previous samples. Durbin algorithm is a recursive solution of set of equations from LPC. The main advantage of this method is the possibility of getting very accurate estimations with very low computational cost. Second approach is Fourier transformation (FT). FT is used to transform speech signal into frequency space and then get its "cover" using average filter. 
+
+Technologies: Program is programmed in C language because of fast code execution. OS Linux was chosen because of accessibility of drivers and their source codes and also because of large number of open source programs for recording and displaying data. PulseAudio sound system was used for recording of sound signal and GnuPlot for displaying tested data. For Fourier transformation I used the Fast Fourier Transformation from GSL (GNU Scientific Library). 
+
+
+The work is now in state of testing and choosing the best options for cursor movement and also choosing the best training algorithm for specific users.
+
+
+References:
+[1] Psutka, Josef (1995): Komunikace s pocitacem mluvenou reci, ISBN 80-200-0203-0
+[2] Stewen W. Smith (2003): Digital signal processing - a practical guide for engineers and scientists, ISBN 0-850674-44-X
+

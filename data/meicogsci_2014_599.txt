@@ -1,0 +1,27 @@
+... title: User Experience Design for the "Web of Needs"
+
+
+
+Abstract
+
+!!!! User Experience Design for the "Web of Needs"
+
+The main focus of the project is to find out how people structure their needs and how we can use this knowledge to build cognitive and intelligent user-interfaces for an "owner application" (a web-based graphical user interface - GUI) that should allow user to create, publish and manage need objects) for of the Web of Needs (WoN) - which will be online need management app. The name might change in the future but the purpose won't. The goal of WoN is to be an extension of your needs on the world wide web where you can see mostly offers of various goods and services. What WoN would do differently is that it would add a personalized layer between you and the offers online. Thus in a big part eliminating the need for searching for whatever it is you need. 
+
+Literature research was done in order to come up with the "need" definition and hopefully a a need classification system we could use for categorizing and managing needs. We tried to be as broad as possible in our research, looking into theories from different research fields (economy, psychology, sociology etc.) One of the most famous examples we were looking into is Maslow's need theory [1], which was later extended by Alderfer [2]. We decided to give our main focus to the Human Scale Development and Needs theory from a Chilean economist that goes by the name of Max Neef [3]. He divided human needs into four broad categories of Being(qualities), Having (things), Doing (actions) and Interacting (settings). In his book titled "Development and human needs" he also provided a 36 cell need matrix which we found was the most appropriate for us to use as a concept on which we would try to build our Web of Needs software. 
+
+Later we developed a paper GUI prototype which was based on the concepts of Max Neef´s Need Theory. We performed a qualitative user experience test with five participants using a paper GUI prototype. The feedback was recorded by three observers using the rainbow spreadsheet method which is often used in these type of UX (user experience) tests. The data was then analyzed, summarized and served as a guideline for further GUI improvement.
+
+To gather more empirical data about how people manage their needs we designed a online questionnaire on what do people think they need, are they conscious about their need, how do they manage needs etc. The results of the questionnaire will help the computer scientist and designers to develop the software for Web of Needs which will be efficient in managing people's needs and have a vibrant community of regular users. 
+
+We are now in the process of translating the questionnaire into multiple languages (Slovenian, South Korean, English, German, Croatian etc.). As we want to build a global Web of Needs management system we would like to have broad pool of empirical findings about how is need management different through continents, countries and cultures. The findings will be analyzed and hopefully contribute in building the software that would allow us to manage our needs more efficiently and effectively.
+
+!! Acknowledgements
+I would like to thank the University of Vienna and Research Studios Austria-Smart Agent Technologies for providing this opportunity and supporting me in my project.
+
+
+!! References
+[1] Maslow, A. H. (1943). A theory of human motivation. Psychological Review, 50,370–396.
+[2] Alderfer, C. (1972). Existence, relatedness, & growth. New York: Free Press.
+[3] Max-Neef, Manfred, Antonio Elizalde, and Martin Hopenhayn. "Development and human needs." Real-Life Economics: understanding wealth creation, edited by: Ekins, P. and Max-Neef, M., Routledge, London (1992): 197-213.
+

@@ -1,0 +1,16 @@
+... title: How to try on Virtual Clothes? A Mental Imagery Perspective
+
+
+
+Abstract
+
+Clothes are experienced goods, for which information about important attributes can only be recalled from previous direct sensory interaction. The inherent lack of product interaction and the associated problem of product fit in the virtual world are resolved by enhancing mental imagery through adequate tactile and trial information. 
+In the pilot study, we tested factors influencing the choice of size in a virtual shop, when a number of issues associated with the size chart, the presentation of apparel, and the role of experience became evident. In short, a low rate of consulting and even lower rate of accepting size recommendations was observed, lack of trust in size charts was reported, whereas the image, rotate, and zoom-in were most frequently used options, all placing the experience, mental imagery and the notion of fit as important factors into perspective. Finally, we assumed the high perceived risk was due to the underperformance of the online store to appropriately represent product information for an informed judgment.
+Mechanisms underlying mental imagery are effortful processes that reactivate the modality-specific memory for the purpose of solving a (difficult) task [1] and resemble those of the grounded cognition theory. The memory and motivation, both closely related to imagery [2], play a crucial role for the virtual product experience. The question is how to evoke mental imagery to recreate actual perceptual experience relevant for the notion of fit?
+The dual coding theory postulates that a nonverbal and a verbal system are independent, yet jointly contribute to cognition [2]. Previous e-retail research found that verbal information about the product had stronger impact than picture size on mental imagery, and that people perceived more information from one large photo than several large ones, due to lack of visual fluency in multiple presentation. Preference for verbal, i.e. nonverbal information and the resulting impact on mental imagery have also been proven for verbalizers/visualizers respectively. Picture and text interact to different degrees depending on their concreteness, which evokes different number but also vividness and clarity of mental imagery [3].
+I argue that the interplay of nonverbal and verbal presentation plays a key role in shaping the mental imagery, the perceived cognitive effort/fit to provide informed judgment. This study shall contribute to the limited research on fit of virtual clothes from the mental imagery perspective.
+!!References
+[1] S. M. Kosslyn et al., “Neural foundations of imagery,” Nature Reviews Neuroscience, vol. 2, pp. 635–642, 2001.
+[2] A. Paivio, Mental Representations. New York: Oxford University Press, 1986.
+ [3] J. Yoo and M. Kim, “The effects of online product presentation on consumer responses: A mental imagery perspective,” Journal of Business Research, vol. 67, no. 11, pp. 2464–2472, Nov. 2014.
+

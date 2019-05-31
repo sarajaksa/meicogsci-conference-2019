@@ -1,0 +1,18 @@
+... title: "What Is It like to Be a Buddhist?"
+
+
+
+Abstract
+
+Buddhism seems to be the fastest growing religion in the West both in terms of converts and of previously non-religious individuals who seek to practice various meditation techniques. What is it like to be a Buddhist in the West? How does one experience the world, how does one describe it, what world-views does one have? Does one’s experience change significantly and permanently after embracing Buddha’s teachings or is it just a temporary "persona" one puts on?
+
+I tried to answer these questions with the help of phenomenography and Corpus linguistics analysis. Phenomenography, a pragmatic method for doing qualitative research, aims at investigating different ways people think about a phenomenon. Its data analysis is always whole group oriented; patterns which emerge from the data are collected into categories of description [1]. Corpus linguistics, a study of large bodies of "real world" written texts, is an empirically-based approach with the focus on the meaning; by observing the occurrence of lexical units (words, multi-word units, phrases etc.) in context we find out how they are typically used [2]. I investigated texts that 16 Buddhists (experimental group) and 16 non-Buddhists (control group) from different European countries produced when answering a questionnaire I designed for this occasion, the Questionnaire of Life Situations. Its main point is to describe feelings, thoughts, attitudes etc. about important aspects of life as vividly and as detailedly as possible.
+
+Very briefly, Buddhists seem to be a lot more compassionate and tolerant than general population; their way of thinking about the world is much more holistic and all-inclusive, to the point of overgeneralizing; they turned out to be more positive and optimistic as well as more self-assure, peaceful and calm. However, analysis of the correspondence with Buddhists via online forums and mails shed a sceptical light on the results as I have encountered quite some ill-tempered and defensive behaviour. Based on this disparity and the fact their answers were extremely imbued with main Buddha’s teachings I argue that Buddhist participants exhibited strong socially desirable behaviour and exaggerated in a sense that they used the questionnaire to promote Buddhism and "teach" me its virtues. 
+
+The study has some disadvantages – age bias and lack of criteria for defining non-Buddhist group to say the least. But since this is a novel combination of approaches and my first exploration of this much unexplored interdisciplinary area of psychology of religion, world-view studies, and cultural issues in cognitive science, I am very satisfied with the result. In the future, it would be interesting to expand the study by getting more participants, enriching the questionnaire, and investigating different groups.
+
+!!References
+[1] F. Marton and S. Booth, Learning and awareness. Mahwah, N.J.: L. E. Associates, 1997.
+[2] W. Teubert, ‘My version of corpus linguistics’, International Journal of Corpus Linguistics, vol. 10, no. 1, pp. 1–13, 2005.
+

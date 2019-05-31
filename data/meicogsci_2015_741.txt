@@ -1,0 +1,14 @@
+... title: The Effect of Cognitive Framing on Motivation and Risk Taking
+
+
+
+Abstract
+
+!!Motivation
+The design of the incentives affects cognitive frames that influence the decisions on risk and effort, separately and jointly. Several theories talk about effort and risk-taking behavior separately, but in real life they are usually connected [1]. In the experiment, we will analyze choices in different frames created by the design of incentive scheme and outcome fairness and link decisions to cognitive and personality traits. We want to compare decisions on risk, effort and risk and effort jointly in dependence of incentive scheme design (bonus or malus) and outcome fairness (fair and unfair outcome distribution). Further, we want to explore the relatedness of these decisions with some personality traits. We hypothesize a relationship between the incentive scheme frame and outcome fairness and BIS/BAS questionnaire score and Achievement Motivation Scale (AMS) score .
+!!Method
+We will divide the participants in six groups, which will be a combination of bonus/malus and fair/unfair scheme. In the unfair scheme, participants can be overpaid or underpaid. The participants will have to make decisions, with which we will measure risk, effort and risk and effort jointly. These tasks are firstly measured in base condition (without incentives) and then in one of the six possible manipulations. At the end of the experiment, the participants will be asked to complete a behavioral approach system (BAS) and behavioral inhibition system (BIS) questionnaire and a revised Achievement Motivation Scale, which will allow us an insight into their personality traits.
+!!Expected results
+We expect that the results will complement the results of our previous experiment, where we researched which cognitive frames dominate in combined decisions about risk and effort [1]. In addition we would like to connect personality traits with decisions connected with effort and risk. We expect that the participants with high BAS and AMS score will more often decide for hard task when in bonus fair scheme and those high in BIS and low in AMS will opt for the hard task when in bonus and unfair scheme.
+[1] K. Oblak S. Slapničar and M. Godec. “The role of cognitive frames in combined decisions about risk level and effort exertion.” in European Accounting Association, 38th Annual Congress, Glasgow, UK, 28-30 April 2015. EAA 2015 : European Accounting Association, 38th Annual Congress, Glasgow, UK, 28-30 April 2015. [S. l.]: European Accounting Association, vol. 38, pp. http://www.eaacongress.org/userfiles/GIEEIMJ_FELHHL_TQ4FQ0BJ.pdf. [COBISS.SI-ID22562534], 2015.
+

@@ -1,0 +1,15 @@
+... title: “Trust development in repeated interactions: The relationship between implicit and explicit measures of trust and personality variables.“
+
+
+
+Abstract
+
+The main focus of the project is studying the evolution of trust in the context of repeated interactions and analysing how different personality factors influence this process. This approach contributes to the development of the theoretical construct of trust while offering practical information for domains such as online commerce. Trust is assessed using explicit measures: investment behaviour in a repeated trust game and evaluations of trustworthiness beliefs, as well as implicit ones: the affect misattribution procedure and the comfortable interpersonal distance task.
+
+The design of the trust game, similar to that proposed by Fett et al. [1], includes repeated interactions with two players which, unbeknown to the participants, are operated through computer scripts. Participants distinguish between the two players using names (i.e. Player A, Player B) and associated avatars . In the first five rounds, both players return the whole sum invested by the participant in order to avoid biases and suspend disbelief that they are preprogramed. We hypothesise that there will be no difference between what the participants invest in each player and how trustworthy they consider them to be, at the end of the five rounds. Afterwards, one player starts to return less money than what the participant has given him, while the other returns more money. Questions assessing the trustworthiness of each player are presented every five rounds. The task is composed of 25 interactions with each player. We predict a direct positive correlation between the number of interactions and investment behaviour in the generous player and an inverse correlation between these variables in the case of the selfish player. Furthermore, we expect these results to be consistent with those obtained by using implicit measures. 
+
+Regarding personality-related variables, the analysis will test for differences in investment behaviour and trustworthiness induced by the general tendency to trust people, measured through questions from the Social-economical panel, inclinations towards altruistic, prosocial or selfish behaviour, indicated by the Social value orientation skill, and motivational aspects that underlie behaviour, reflected by the BIS-BAS scale.
+A number of 120 participants will be recruited, half of which will be informed that they are interacting with computer agents (offering a non-social context) while the others will be told that they are playing against other people.
+
+!! References [1] A. K. J. Fett, P. M. Gromann, V. Giampietro, S. S. Shergill and L. Krabbendam, “Default distrust? An fMRI investigation of the neural development of trust and cooperation”, Social cognitive and affective neuroscience, vol. 9, no. 4, pp. 395-402, 2014.
+

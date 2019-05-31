@@ -1,0 +1,19 @@
+... title: Enactivism and Language: A conceptual analysis
+
+
+
+Abstract
+
+Enactivist conceptualization of language stems from biological and epistemological assumptions posited by Humberto Maturana. Based on his observations, there has been an increase in understanding language as a biocultural phenomenon. Maturana does not see language as an abstract system of symbols with which we manipulate according to syntactic rules, but rather a lived "entity”, which constantly enacts itself based on the interactions between the organism and its environment on the one hand, and between the organism and another organism on the other [2]. Language serves to coordinate behavior between organisms and it is in a state a state of flux based on the interaction. Language is thus an ongoing process, which exists only as "languaging" not as isolated “items of behaviour” (as per Maturana and Varela) [1]. 
+
+Philosophy of life, which accompanies every enactivist interpretation of cognitive processes and cognition in general, does not find its way into the mainstream conceptualizations of language. Therefore, it is not unusual that the concepts used by traditional cognitive linguistics to explain and understand language, do not resemble a living thing at all, but quite the opposite. Traditional cognitive linguistics treat the mind akin to a von Neumann computer and view language as a symbolic system for translating thought. Thinking is therefore computation. Symbolic manipulation is governed by a set of rules that predict what possible “legal sentences” can be generated in a given language [3]. Such highly abstract conceptualization of language and thought has little to do with a living language.
+
+My goal is to conceptually analyze epistemological assumptions of traditional cognitive linguistics and see how they fit into enactivist conception of language.  I will attempt to adjust those assumptions in order to provide a concept of language that more aptly resembles a living “entity”. Evidence acquired by traditional cognitive linguistics thus far will not be discarded, but rather interpreted in a new way to fit the embodied paradigm. I will also attempt to provide a methodological approach to studying language that will encompass various aspects of human behaviour and cognition. These include phenomenological, behavioral and cognitive processes.
+
+
+##References
+
+Maturana, H. R. (1978). Biology of language: The epistemology of reality. Psychology and Biology of Language and Thought, 27–63.
+Cuffari, Elena C., Di Paolo, Ezequiel., De Jaegher, Hanne. (2015). From participatory sense-making to language: there and back again. Phenomenology in Cognitive Science. 14(1): 1089 – 1125
+Krevchenko, V. A. (2011). How Humberto Maturana's Biology of Cognition Can Revive the Language Sciences. Constructivist Foundations 6(3):352-362
+

@@ -1,0 +1,15 @@
+... title: Eye movements as a measure of language processing
+
+
+
+Abstract
+
+Eye tracking has established as a valuable tool in language processing research due to its simplicity for use, multidimensionality and precision. Today, the technique is completely non-invasive; the devices are usually based on an IR lamp and camera with the appropriate software. 
+
+There are two major groups of experimental paradigms for language processing research with the eye-tracker. The first group comprises of reading paradigms. They make a good use of the fact that reading is a well structured sequence of saccades and fixations. Generally, the range and the direction of the saccades (forward vs. backward eye movements) are related to the particular difficulties within the text (e.g. the increased number of back-saccades onto a particular word represents some difficulty in processing the word or the structure the word belongs to), while the duration of fixations is thought to correspond to the lexical retrieval processes. 
+Reading paradigms also make use of larger texts. They reveal the typical pattern of reading, especially the range of the saccade that brings the eye to the beginning of the new line. The range increases with age; the younger readers often undershoot. Therefore, this paradigm can be used for developmental studies or as a help in diagnostics. The text can be varied in difficulty or some graphical features.
+
+The second way of exploring language processing with the eye-tracker is the "listening paradigm". It is based on the "eye-mind hypothesis" stating that the eye looks at what the mind processes at that moment. The simplest question that can be answered using this paradigm is the question of the reference: what is a reference of some linguistic unit. In one such study we explored the reference of a pronoun in a sentence preceded by a sentence with two characters doing something. In this respect Croatian is particularly interesting being a pro-drop language.
+If a reference is not available at a certain point in a sentence (e.g. when a verb is encountered by the listener) the gaze goes to the next available referent; in this case we talk about the anticipatory gaze. We have studied anticipatory gaze as representing the build up of a syntactic structure ahead of what is heard at a certain point. A comparison between children with typical language development and children with Specific Language Impairment (SLI) shows much lesser reliance on the syntactic information in the SLI group. 
+In short, a number of different paradigms that are available for the eye-tracking allow for language processing studies that are simple to perform, but offer a number of new dependent variables.
+

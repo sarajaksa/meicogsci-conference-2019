@@ -1,0 +1,24 @@
+... title: Preprocessing of resting-state functional connectivity MRI
+
+
+
+Abstract
+
+!!!! Preprocessing of Resting-state Functional Connectivity MRI
+
+Resting-state fMRI is a very recent method that analyzes regional neural interactions in the absence of an explicit task. It allows to study the functional organization of the brain in general, as well as the differences thereof between distinct subject populations.
+
+When acquiring a resting-state scan, the only instruction given to the subjects is to keep their eyes opened. The subjects will not receive a stimulus of any kind during the recording. The resulting data is then preprocessed using slice-timing correction, motion correction, spatial normalization and spatial smoothing[1]. Furthermore, any signal that is not originating from grey matter will be removed.
+
+As only slow changes(＜0.08Hz) in the neural activation are considered to be related to functional connectivity, anything above this threshold will be filtered out before analyzing the data. Another way to think of this is that only neural oscillations for which it takes more than 1/0.08Hz = 12.5s to go from a more activated state 'A' to a less activated state 'B' and back to 'A' are of interest for this analysis. Thus, anything with a higher frequency—such as spontaneously fluctuating neural activity—will be discarded.
+
+Finally, the signal will be decomposed into independent components that should correspond to highly correlated functional networks. The resulting networks include well-known anatomical structures such as the visual and sensory/motor networks as well as others about which there is not much known. It should also be noted that the resulting networks are not required to be structurally(anatomically) connected to be considered functionally connected. Many of these networks have been found to be very stable across large numbers of healthy subjects. In addition to the exploration of functional networks, this technique can also be applied to study diseases such as Parkinson, where a reduced connectivity has been found in the visual and executive-attention networks[2]. Another application is to study the effects on resting-state networks after the stimulation of a certain brain region using TMS.
+
+This work will address the efficient processing of resting-state data and critically evaluate fundamental standards of this very new method, such as the frequency threshold of $0.08$ Hz that dates back to the first paper describing the method in 1995[3] and was used ever since. To our knowledge, the consequences of changing the threshold on the resulting functional connectivity have not been studied so far. Furthermore, resting-state data obtained from much longer runs(1h) than usual(3-10min) are analyzed to (a)check for very slow oscillations which—due to their slowness—require an even longer scan time to be revealed and (b)evaluate the influence of the scan length on the quality of the outcome. The goal of this work is the better understanding of the frequency band and time parameters, which are important for the design and analysis of all resting state MRI applications.
+
+
+!! References
+[1] A. Weissenbacher et al., "Correlations and anticorrelations in resting-state functional connectivity mri: a quantitative comparison of preprocessing strategies," in Neuroimage, 2009, 1408-1416.
+[2] A. Tessitore et al., "Resting-state brain connectivity in patients with parkinson’s disease and freezing of gait," in Parkinsonism & related disorders, 2012, 781-787.
+[3] B. Biswal et al., "Functional connectivity in the motor cortex of resting human brain using echo-planar mri," in Magnetic resonance in medicine, 1995, 537-541.
+

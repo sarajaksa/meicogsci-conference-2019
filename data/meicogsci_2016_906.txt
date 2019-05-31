@@ -1,0 +1,23 @@
+... title: Towards opening black boxes in behavioral science through simulation
+
+
+
+Abstract
+
+Behavioural science draws conclusions through the results of behavioural observations. In particular, it is trying to predict animal's internal states and processes based on indirect measurements and/or observations of the animal’s behaviour. Cognitive science endeavors for years on revealing the content of the black box, as revealing the inner workings between input (stimuli) and output (response).
+
+The aim of our project is to implement a framework with models that are imitating an animal’s behaviour and to evaluate, which model fits best animal’s behaviour. Hopefully, this will allow us to reveal the inner workings on the basis of very simple observations. An example of similar framework is a prediction of human goal inferences [1].
+
+The evaluation framework is composed of two components: models and evaluation. The framework’s input will be the data, that describe a simple animal’s behaviour in a form of trajectories in space and time. Models are fitted to the data, which in term generates new trajectories with fitted parameters. The newly generated trajectory will be compared with the original one and the evaluation method returns the information about which model fits better to the inputs. The selected model potentially reveals the underlying inner structure.
+
+We defined two basic families of models; one is expressing beliefs, desires and defines a model of its planning process and the other is simple dynamical model. The former is interpretable but full of assumptions, while the later could not reveal rich inner structure. 
+
+The novelty of the project is an update of similar frameworks to our scenario, which includes a replacement of subjects’ predictions with model’s predictions and an unique design of evaluation method that compares original and predicted data and evaluates the comparison.
+
+In the development phase, the framework will be fed with the artificially generated data. With the implemented solution and the data, for which is known whether they are describing the reflexive or goal oriented behaviour, are going to try to answer the question whether an animal has a cognition.
+
+The long term aim of the project is to feed the tool with real experimental data, for which it is not known which processes are governing behaviour. The implemented solution will serve as an additional research tool in an experimental work, that is performed in the laboratory.
+
+!!References
+[1] Baker, C. L., Saxe, R., & Tenenbaum, J. B. (2009). Action understanding as inverse planning. Cognition, 113(3), 329-349.
+

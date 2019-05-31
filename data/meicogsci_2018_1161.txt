@@ -1,0 +1,23 @@
+... title: Effect of Short-term Multiple Object Tracking Training in Non-athletes, Dancers and Tennis Players
+
+
+
+Abstract
+
+## Introduction
+In 1988 Z. Pylyshyn developed Multiple Object Tracking task (MOT) to examine ability to track multiple objects at the same time. People track 4-5 targets. Pylyshyn proposed in FINST theory (FINgers of INSTantiation), that mechanism responsible for this ability works in automatic pre-attentive way and enables us to assign indexes, which stay attached to objects independently of their properties [1]. Other researchers used MOT for testing split sustained attention demanding on peripheral vision. J. Faubert used MOT as a context-free task, testing attentional skills in complex dynamic visuals scenes, relevant for sport domain [2]. He found that performance in MOT improves by long-term practice. How quickly one improves distinguishes specifically skilled professional, an amateur and a non-athlete. To our best knowledge, similar comparison in short-term training is missing. We expect a professional in a field explicitly requiring object tracking (tennis) to perform better in MOT, than professional in field, which it requires not (dance) or non-athlete.
+
+## Method 
+The participant observes the screen, on which 4-10 same objects appear. Some of them are highlighted for 1330ms (targets) and after highlighting disappears, all identical objects start to move randomly around the screen, while participant should visually track motion of targets. In this project we examine differences in non-athletes, dancers (Breaking) and tennis players on MOT task in short-term training. Each group consisted of 4 volunteers, each seated 60cm from screen with MOT. It consisted of 4 sessions, each corresponding to number of tracked targets (2, 3, 4 and 5). Every session had 30 trials lasting 8s. Session started with lowest out of 10 speed levels, which was increased every time when the participant tracked all targets correctly. Targets were always counterbalanced with distractors. Both subtended 2 visual angles.
+
+ ## Findings 
+One way ANOVA indicate significant differences only in 5 targets. Breaking performed above other groups and reached highest speed level, steepest slope of improvement curve, and also reached peak in their performance fastest.
+
+## Conclusion 
+Significantly different results in breaking group may be due to the fact that field of expertise in this group is highly demanding on peripheral vision. Professional dancers on competitions dance in circle created by constraints (people, cameras, judges …). Next to complex movements, split attention in peripheral vision is crucial. Their MOT performance can be epiphenomenon, which is not directly linked to learning complex combinations of movements, but arises from constrained environment in which motion takes place.
+
+ ## References
+[1] D. Dedrick a L. Trick, Ed., Computation, cognition, and Pylyshyn. Cambridge, Mass: MIT Press, 2009.
+
+[2] J. Faubert, “Professional athletes have extraordinary skills for rapidly learning complex and neutral dynamic visual scenes”, Scientific Reports, roč. 3, č. 1, dec. 2013.
+

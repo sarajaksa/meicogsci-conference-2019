@@ -1,0 +1,17 @@
+... title: Picture Object Recognition In Kea Mountain Parrots
+
+
+
+Abstract
+
+Making the connection between a real-world object and a picture is no minor feat for non-human animals, and can even present difficulty for untrained humans[1]. This has important methodological significance for cognitive and behavioural research with animals, as photographs and videos are often utilized in experiments. It is important that researchers do not assume that animal subjects see the same thing in a picture as their human counterparts. Not only does this run the risk of anthropomorphizing, but due to the different visual systems and cognitive abilities of animals, it is certainly not the case for most animal subjects. A large body of literature over the last half century has been devoted to clarifying how animals react to, discriminate between, and categorize pictures and videos. The vast majority of this research has focused on primate species, and much progress has been made in understanding how they perceive the relationship between pictures and objects[2]. For birds, on the other hand, the picture-object recognition research has focused almost exclusively on pigeons, except for a handful of studies on other species such as chickens and Japanese quail[3]. Nonetheless, cognitive research is being done on numerous bird species unrelated to pigeons or chickens, coming from groups as diverse as corvids(crows, ravens and allies), passerines (songbirds) and psittacines (parrots).
+
+This study shows evidence of picture-object recognition in a parrot species: the kea mountain parrot (Nestor notabilis). Kea were tested on an object-to-picture transfer task. Subjects were trained and tested in a two alternative forced-choice procedure, meaning that for each trial the kea was presented with two objects or images, and had to choose one before continuing. Stimuli were a metal toy duck and a metal toy frog for the object discrimination task, and photographs of those objects presented on a touchscreen for the picture discrimination task. Test subjects learned the object discrimination task during training, and once training was complete they were presented with the touchscreen task. A control group participated in the same touchscreen task but without prior training on the solid objects. The test group also took part in a control touchscreen session, where they were presented with pictures of novel objects. 
+
+Test subjects performed significantly better in the test session than in the control session, and better than the control group. The results of this study suggest that kea can correlate a picture on a touchscreen with an object that they have encountered before. Further, this is the first time such an ability has been shown in a parrot species.
+
+!! References 
+[1] Bovet, D., & Vauclair, J. “Picture recognition in animals and humans”. Behavioural Brain Research, vol. 109, pp 143-165. (2000).
+[2]Miller RJ., “Cross-cultural research in the perception of pictorial materials”. Psychological Bulletin, vol. 80, pp135–50. (1973)
+[3]Weisman, R., Spetch, M. “Determining when birds perceive correspondence between pictures and objects: a critique”. Comparative Cognition and Behavior Reviews, vol. 5, pp117-131. (2010)
+

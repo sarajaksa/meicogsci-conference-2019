@@ -1,0 +1,28 @@
+... title: Computational model of intrinsic and extrinsic motivation  for decision making and action-selection
+
+
+
+Abstract
+
+!!!! Abstract:
+
+	Decision control is, obviously, an important ability people expect should be present in autonomous computer systems. Computer systems with reliable decision control can be expected to perform an unlimited amount of tasks. A computational model of decision making based on intrinsic and extrinsic motivation has been proposed by Takáč and Pileckyte[1]. The idea is that motivation can be represented as a set of physiological and psychological needs. These are represented as a point in a multidimensional space with needs at dimensions. We can have a dimension for energy, physical integrity as well as curiosity.
+
+	This project aims to develop the computer model discussed n the paper. This consists of  the development of the simulating world where the agent will actually perform actions as well as the agent itself. The simulating world also acts as a laboratory in which the researchers want to perform experiments on this model. An important requirement here is high usability and ability to change any of the factors in the world that can affect the agent, its ability to manipulate the environment and its perception of the world. We have decided to go with a Rich Internet Application for our simulator. Our strong belief is that the main advantage of a RIA is that it allows transparency and access from anywhere in the world. 
+
+	The agent implements a neural network representation of an actor-critic model for reinforcement learning. It computes feedback depending on the reward it acquires after performing an action/a set of actions. The reward is computed from the change in distance of the current
+state of needs from the equilibrium (point where all needs are at zero) between two
+successive time points. It can be positive, or negative depending on whether the
+agent moved closer or further from the equilibrium. 
+
+	Despite the fact that the model is yet to be finished and the results are yet to be reviewed, this project succeeded in building a team consisting of people with background in several fields, all playing a major part in Cognitive Sciences. The current state of progress can be seen at www.actorcritic.php5.sk. 
+
+
+!! Acknowledgments
+
+	Special thanks to Martin Takáč for being of immediate help even when being so far away and for both Takáč and Pileckyte for proposing such an exciting model.
+
+!! References:
+
+[1] I. Pileckyte and M. Takáč, Computational model of intrinsic and extrinsic motivation for decision making and action-selection [2013]
+

@@ -1,0 +1,49 @@
+... title: Language acquisition: speech acts in multi-agent system
+
+
+
+Abstract
+
+Language acquisition is the process by which humans acquire the capacity
+to perceive, produce and use words to understand and communicate.
+A major concern in understanding language acquisition is how these
+capacities are acquired by infants from what appears to be a very small
+amount of input information. A range of theories of language acquisition
+has been created in order to explain this apparent problem.
+
+On the other hand, agents in multi-agent systems communicate with their
+own language, which is already implemented and it is difficult to change
+it. Because of this, we can not move agent from one system to another
+with different language and expect it will be able to communicate
+properly in this new environment.
+
+Because of this, we decided to implement Skinner`s Behavioral theory [3]
+into an agent in multi-agent system. Under Behaviorism, it was argued
+that language is learned solely through a form of operant conditioning,
+namely reinforcement and punishment as Skinner suggested. Reinforcement
+learning is defined as learning by trial-and-error from performance
+feedback from the environment or an external evaluator [2]. The agent has
+absolutely no prior knowledge of what action to take, and has to discover
+(or explore) which actions yield the highest reward.
+
+In the first stage of our experiment, we are focusing just on speech acts.
+Speech act is an utterance defined in terms of a speaker's intentions
+and the effects it has on a listener. According to Austin [1], there are
+three main types of acts:
+* locutionary acts - the actual utterance and its ostensible meaning,
+* illocutionary act - the semantic of the utterance, its real, intended meaning,
+* perlocutionary act – actual effect (intended or not).
+
+For simplicity of the experiment, language used in agents is composed of
+simple mathematics operators (add, multiply, etc), numbers and few
+letters (used as variables). We are expecting that agent with no a priori
+knowledge of the speech acts in the system will be able to learn them and
+be able to use a proper speech act to achieve demanding effect. Therefore,
+the agent moved to the different multi-agent system will learn new
+speech acts just from communicating with other agents in the system.
+
+
+﻿[1] J.L. Austin, A.R. White, and J.O. Urmson, How to Do Things with Words, Harvard University Press, 1963.
+﻿[2] A.P. Engelbrecht, Computational Intelligence, Chichester, UK: John Wiley & Sons, Ltd, 2007.
+﻿[3] B.F. Skinner, Verbal behavior., East Norwalk, CT, US: Appleton-Century-Crofts, 1957.
+

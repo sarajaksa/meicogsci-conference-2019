@@ -1,0 +1,17 @@
+... title: Comparing motor resonance between observed and imaginative movement in professional dancers using EEG
+
+
+
+Abstract
+
+Motor resonance (MR) is the activation in motor areas elicited by a sole observation of movement. It is influenced by the expertise of an individual. The depth of understanding of what an individual sees seems to be based on how well the perceived action is mapped onto his motor repertoire. MR can be observed in the brain by using EEG, specifically by observing the mu rhythm, which is an oscillation between 8-13 Hz and 15-25 Hz. It reflects mostly the sensorimotor processing in frontal and parietal networks and it is an important link between perception and action [2].
+Calvo-Merino et al. (2004) used fMRI to study to what extent the MR generalizes observed complex movement by showing professional ballet dancers videos of capoeira dancers performing a similar type of movement to their own and vice versa. The results have shown that generalization in the MR system is minimal because ballet dancers showed little activations when observing capoeira dancers and vice versa [1].
+The aim of this project is to find if there are differences in MR when professional ballroom dancers are observing a ballroom dance choreography and when the dancers are imagining that they are dancing themselves, by measuring desynchronization in their mu rhythm activity via EEG.
+We created an experiment in which dancers were presented with a series of 3 min. videos. The experiment consisted of 3 conditions. In the first, the dancers were watching a video of a static TV noise. This was the control condition. In the second, the dancers were presented with a video of a dancing pair performing a choreography of Samba. In the last condition the participants were asked to close their eyes and try to imagine themselves dancing the choreography. In the last condition auditory stimulus was present in the form of a song from the previous condition.
+In all measurements the international 10-20 electrode placement system was used. Signals were recorded from locations FC3, FCz, FC4, C5, C1, Cz, C2, C6, CP3, CP4, Pz, O1, and O2. Ground electrode was placed in the Fpz area and reference electrode was placed on the left earlobe. 
+Our results are showing that there seems to be no significant difference between the observation of dancing choreography and imagining its performance, suggesting that observing and imagining a complex movement in dancer’s area of expertise does not elicit significantly different mu rhythm desynchronization.
+
+## References
+[1] Calvo-Merino, B., Glaser, D. E., Grèzes, J., Passingham, R. E., & Haggard, P. (2005). Action Observation and Acquired Motor Skills: An fMRI Study with Expert Dancers. Cerebral Cortex, 15(8), 1243–1249. https://doi.org/10.1093/cercor/bhi007
+[2] Pineda, J. A. (2005). The functional significance of mu rhythms: Translating “seeing” and “hearing” into “doing”. Brain Research Reviews, 50(1), 57–68. https://doi.org/10.1016/j.brainresrev.2005.04.005
+

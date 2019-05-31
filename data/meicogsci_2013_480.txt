@@ -1,0 +1,20 @@
+... title: Exploring the Chain Model
+
+
+
+Abstract
+
+!!!! Exploring the Chain Model
+There is a lot of empirical evidence showing that motor areas of the brain are activated both during action execution and comprehension of action related verbs, or sentences [3]. Interestingly, behavioral research and TMS research show both faciliation and interference when comprehension of motor action related sentences and execution of motor actions take place shortly after each other. This evidence suggests, that there is some relation between language processing and motor areas in the brain, but the nature of this relation is poorly understood [1].
+
+Neurophysiological measurements show, that motor neurons encoding the same motor act exhibit different activation patterns according to the goal of sequence they are a part of. This gave birth to a theory of motor chains. The core idea of this theory is, that short action sequences are represented in brain as chained activation of pools of neurons, where each pool encodes a specific motor act.  Chersi et al. [1] proposed a computational chain model  aspiring to bring light to the relation between language processing and activation of motor parts. They tested the model by simulating an experiment inspired by previous experiments on human subjects. My goal is to implement the proposed model, replicate the simulated experiment and  simulate my own experiment after the first is replicated successfully.
+
+The model consists of neuronal pools organized in chains, where the behavior of each pool is described by a firing rate model [2] with time dependent synaptic currents. The first experiment examines the facilitation and interference in activation of brain motor areas when an action is executed shortly after an action related sentence is presented to the subject (model in my case). The delay between stimulus (sentence) and execution is the independent variable and the firing rate of particular motor area is the dependent variable. I expect to observe temporal relation of interference and facilitation to delay as in [1], comparable to results obtained from experiments with human subjects.
+
+This exploration is a logical first step for my subsequent research regarding the chain model, which could help entangle the wires connecting language processing and motor areas in the brain and for the use of this kind of models in context of cognitive robotics.
+
+!! References
+[1] F. Chersi, S. Thill, T. Ziemke, A. M. Borghi, “Sentence processing: linking language to motor chains”, Front. Neurorobotics, vol. 4, no. 4, May 2010
+[2] P. Dayan, L. F. Abbott, “Network Models,” in Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems, MIT Press, 2001, pp. 229-278
+[3] F. Pulvermüller, “Brain mechanisms linking language and action”, Nat. Rev. Neurosci, vol. 6, no. 7, pp. 576-582, July 2005
+

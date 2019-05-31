@@ -1,0 +1,22 @@
+... title: Insight and Outside Creativity: “Aha!” Moments and External Hint Processing in a Remote Associates Task (RAT)
+
+
+
+Abstract
+
+Creativity enables us to produce new ideas, concepts, solutions and products and is therefore one of the most fascinating capacities of the human brain. Although many theories of creativity have been proposed, the definition of creativity is still debated. 
+
+This study takes a process-oriented approach and focuses on creative problem solving which is often accompanied by a sudden moment of insight – colloquially referred to as “Aha!” experience – revealing new interpretations of a problem. The aim was to investigate brain areas associated with creative as opposed to analytic problem solving with functional magnetic resonance imaging (fMRI). In the following we present the results of the behavioral data acquired in the course of the fMRI experiment; the fMRI data is presented by David Willinger (same volume).
+
+Method. The Remote Associates Task (RAT, [1]) comprises word puzzles consisting of three words; the solution word forms a compound word with each one of them (example: cream – skate – water, solution: i c e [2]) and can be found either with insight or with analytic strategies (i.e. search). 48 RAT items were randomly selected for every subject and presented for 20 seconds and another 10 seconds with a hint in case the participant could not solve the problem. When the solution was found, subjects were asked to indicate which out of four presented options the last letter of their solution corresponded with to control for solution correctness. As a sudden feeling of insight is characteristic for creative problem solving [1], participants were asked to rate their feelings of insight and impasse (scale 0–5) after each trial. 
+
+Results. Participants solved 58% (n=668) of the problems and 72.6% of the solutions were correct. About two thirds (65%) of the problems were solved before a hint was shown. In 65% of the cases that had not been solved (n=484), participants reported that they understood the displayed solution. Participants found significantly more and more correct solutions and reported significantly decreased feelings of impasse and increased feelings of insight after the second block of trials.
+
+Discussion. The increase of correct solutions and “Aha!” moments after the second block suggests that the resting state scanning phase (6 min) that was conducted after the second block of trials influenced the problem solving performance. This finding nicely confirms the proposition of previous studies [3] that broadening the focus of attention (e.g. letting one’s mind wander during the resting state scanning) enhances creativity. 
+
+
+!! References	
+[1] S. A. Mednick, “The associative basis of the creative process”, in Psychological Review, vol. 69, no. 3, 1962, pp. 220-232.
+[2] http://www.remote-associates-test.com/
+[3] R. S. Friedman et al., “Attentional priming effects on creativity”, in Creativity Research Journal, vol. 15, 2003, pp. 277–286.
+

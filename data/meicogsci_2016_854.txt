@@ -1,0 +1,20 @@
+... title: P300 Component Across Different Attention Modality
+
+
+
+Abstract
+
+!!Introduction
+There is a vast number of sensory stimuli surrounding us all the time and competing for our attention. Our brains filter non important information out in a process we call selective attention. In electroencephalographic studies we try to find out in what way and how fast the brain reacts to a certain stimulus. The P300 component reflects fundamental cognitive attentional processes, and can be produced using the so-called `oddball’ paradigm. Our pilot study investigated the electrophysiological correlates of attentional processes in three different modalities: auditory, somatosensory and visual. Our main question was whether different sensory modalities of selective attention have an influence on the P300 component. 
+
+!!Method
+Healthy young adults (N=4), with an average age of 25 years (SD=4,5), had to focus their attention on an auditory, somatosensory and visual three-stimuli oddball task paradigm. Each modality was presented in a block of 25 minutes. All oddball tasks included three types of stimuli: frequent, target and distractor, which occurred 70, 15 and 15 per cent of the time, respectively. The participants were presented with all three different stimuli in a randomized fashion and had to count the occurrences of target stimuli. Simultaneously, brain activity was recorded with a 32-channel EEG system, and transcranial magnetic stimulation (TMS) was applied to the primary motor cortex, in order to measure cortical excitability. In offline analysis, visual, auditory and somatosensory oddball tasks will be compared to a control condition where no specific attention was required. 
+
+!!Results
+There were 4 subjects included in this pilot study. No significant differences were observed in cortical excitability measures when comparing the different modalities.  EEG data early preprocessing was tailored to deal with TMS induced artifacts according to Herring et al [1] and followed the PREP pipeline procedure [2]. We expect our results to show the mean P300 latencies for auditory stimuli to be shorter than for visual stimuli [3] but we don’t know how the P300 latencies for somatosensory stimuli will be elicited since there is almost no research done for all three modalities with three-stimuli oddball task in one study. We can’t give any predictions for the P300 amplitudes differences yet. 
+
+!!Reference
+[1] Herring, G. Thut, O. Jensen and T. Bergmann, "Attention Modulates TMS-Locked Alpha Oscillations in the Visual Cortex", Journal of Neuroscience, vol. 35, no. 43, pp. 14435-14447, 2015.
+[2] N. Bigdely-Shamlo, T. Mullen, C. Kothe, K. Su and K. Robbins, "The PREP pipeline: standardized preprocessing for large-scale EEG analysis", Front. Neuroinform., vol. 9, 2015.
+[3] Katayama and J. Polich, "Auditory and visual P300 topography from a 3 stimulus paradigm", Clinical Neurophysiology, vol. 110, no. 3, pp. 463-468, 1999.
+

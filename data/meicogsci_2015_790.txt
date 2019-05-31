@@ -1,0 +1,21 @@
+... title: Temporal Sampling Framework: Pilot Study on Slovak Children with Developmental Dyslexia
+
+
+
+Abstract
+
+Temporal Sampling Framework: Pilot Study on Slovak Children with Developmental Dyslexia
+
+!!Introduction
+The temporal sampling framework for developmental dyslexia suggests that an impaired perception of slow amplitude modulations in the auditory signal is responsible for phonological deficits in developmental dyslexia such as decreased ability to detect syllable onsets and stressed syllables, but also problems with the perception of musical meter and amplitude rise time perception. This deficits might be due to the lack of lateralisation in slow amplitude modulations processing in dyslectic population [1]. Previous research also suggests different performance of dyslectic children in dichotic listening tasks [2]. In this study we investigate a relationship between reading level, patterns of lateralisation and perception of amplitude modulations and musical beat. 
+Problems with the temporal sampling have been reported in many languages, but to our knowledge there was no such study in any Slavic language. 
+!!Methods
+A total of 28 right handed children aged between 10 and 15 years who had Slovak as their native language participated in this study. Children in the experimental group (N=14) had statement of developmental dyslexia from their local education authority. We used the control group matched by age (N=14). 
+All participants received the short hearing test and the short text reading task. They also completed The Hand Preference Questionnaire [3]. The lateral asymmetry was investigated with a free recall dichotic listening to the CV syllables [2]. Then we used two tasks described in [1]. In the rise time discrimination task 3 tones were introduced on the each trial. Two of these were standard tones (fixed 15 ms rise time) and one was deviant (rise time varied logarithmically from 15-300 ms between trials). Participants had to identify the deviants. The beat perception task consisted of 9 short rhythmic phrases played twice within one trial by a vibraphone. In half of the trials the accented note duration in the second phrase was increased by 100 or 166 ms. Participants had to identify trials with the prolonged notes. 
+!!Results
+Although, there are no final results available yet, we assume that the results will be similar to those in other languages. This effect was reported in a great variety of languages both the syllable and the stress based and also with the different orthographic depths. 
+!!References
+[1]	M. Huss, J. P. Verney, T. Fosker, N. Mead and U. Goswami, “Music, rhythm, rise time perception and developmental dyslexia: Perception of musical meter predicts reading and phonology,” Cortex, vol. 47, no. 6, pp. 674–689, Jun. 2011.
+[2]  M. Špajdel, K. Jariabková, P. Krajmer, “Verbal auditory processing in boys with specific reading disability,” Activitas Nervosa Superior Rediviva, vol. 51, no. 3-4, pp. 156-158, Dec. 2009. 
+[3] M. P. Bryden, “Laterality – functional asymmetry in the intact brain,” New York: Academic Press, 1982, pp. 160-165.
+

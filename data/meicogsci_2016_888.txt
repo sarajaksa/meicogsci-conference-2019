@@ -1,0 +1,15 @@
+... title: Salsa Meets Science. A Case Study on the Improvisational Skills of Dancers
+
+
+
+Abstract
+
+Dance and Improvisation have been marginalized topics in scholarly discourse for a long time. Fortunately, this is changing due to the realization that these domains provide essential insights about creativity and intersubjectivity [1], [2]. In their current research project “Embodied Creativity in Dyadic Interaction” Kimmel and Hristova take this stance and have investigated the improvisational skills in Tango Argentino. Based on their interdisciplinary methodology and theoretical framework which is informed by Cultural and Social Anthropology and Cognitive Science (Affordance Theory, Dynamic Systems Theory and Enactivism), I will explore these in the field of Salsa with the aim of bridging science and (dance) practice. The question at hand is concerned with translating a “cognitive theory of joint improvisation” [3] back into practice. In concrete this will result in defining a teaching strategy that focuses on these highly demanding skills. 
+My research project is subdivided into three phases. In the explorative phase I will make use of interview techniques that combine aspects of Cognitive Task Analysis (CTA) and the video-stimulated recall method [2] to delve into the mindset and the expertise of Salsa dancers. Also, I target at discussing the current state of Salsa didactics on improvisation. Subsequently, I will draw on these second-person data and use the theory of Kimmel [3] to map the discipline-specific demands of Salsa (analytic phase). This framework takes into account the multimodality and complexity of cognitive skills found in dancers, and I expect the defined model on improvisation to function as a basis for defining a teaching strategy.  Finally, in the test phase this teaching strategy will be applied and evaluated in a workshop. These results may form a point of departure to reconceptualise didactics in Salsa that take into account the inherent creative character of improvisation. Furthermore, they might have implications for social cognition research contributing aspects to its subfields such as interaction and intersubjectivity. 
+!!Acknowledgements
+I would like to thank my supervisor Michael Kimmel and Dayana Hristova for their support as well as Günther Greindl and his team for participating this project.
+!!References
+[1] K. Łucznik, “Between minds and bodies: Some insights about creativity from dance improvisation”, in Technoetic Arts: A Journal Of Speculative Research, 13(3), 2015, 301-308. doi:10.1386/tear.13.3.301_1
+[2] M. Kimmel, “Intersubjectivity at Close Quarters: How Dancers of Tango Argentino Use Imagery for Interaction and Improvisation”, in Journal of Cognitive Semiotics, IV(1), 2009, pp. 76-124. doi: http://dx.doi.org/10.1515/cogsem.2009.4.1.76
+[3] M. Kimmel, “A cognitive theory of joint improvisation: The case of tango argentino”, in V. Midgelow, Ed., Handbook of Dance Improvisation, Oxford University Press, to be published.
+

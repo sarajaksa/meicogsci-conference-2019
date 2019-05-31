@@ -1,0 +1,16 @@
+... title: Talent for Accent: Is There a Correlation Between Phonetic Native and Foreign Language Aptitude?
+
+
+
+Abstract
+
+Acquiring pronunciation is one of the hardest challenges one has to face while learning a second language (L2). Yet, while some individuals immersed early in their L2 culture never reach native-like competence [1], others manage to acquire native-like pronunciation almost effortlessly despite having started to learn their L2 after the end of the critical period for phonology acquisition. Individuals of the second category seem to display a talent for accent.
+Studies on the relationship between L2 pronunciation skills and imitative skills have found correlations between scores of native German speakers, English late learners, on English and on Hindi imitation tasks [2]. First, this shows that talent for accent relies on an articulation capacity that is not language specific. Second, looking at Hindi imitation ability allows controlling for the influence of confounding variables such as proficiency. Since the imitators have not been exposed to this language beforehand, Hindi allows to focus on inherent talent for accent [3].
+If some aspects of talent for accent are indeed inherent to the speaker, we would expect them to be detectable in tasks involving various imitation abilities and languages. Plus, a potential explanation for the universality of talent for accent is that it relies on non-linguistic capacities such as working memory and singing ability. 
+       The project’s aim is to test whether talent for accent is universal. Thus, we try to see whether varying degrees of imitation skills are detectable in tasks involving different imitation abilities and languages. In one task, German native imitators (N=31) are rated by 25 German native listeners and an expert rater on their ability to directly imitate their native language. Since all native speakers of German have had the same amount of experience with this language, we assume that this task mirrors inherent talent. In another task, German native imitators (N=43) are graded by 25 French native listeners on their capacity to fake a French accent. We also try to see whether performance on these tasks correlates with scores on English & Hindi imitation tasks, working memory tests and singing ability self reports.
+We expect individual differences in imitation ability to be perceived by native listeners in the two tasks and that performance on these tasks will correlate with results on the working memory task and self-report of singing ability. 
+!!References
+J. Flege, "A Critical Period for Learning to Pronounce Foreign Languages?", Applied Linguistics, vol. 8, no. 2, pp. 162-177, 1987
+S. Reiterer, X. Hu, M. Erb, G. Rota, D. Nardo, W. Grodd, S. Winkler and H. Ackermann, "Individual Differences in Audio-Vocal Speech Imitation Aptitude in Late Bilinguals: Functional Neuro-Imaging and Brain Morphology", Frontiers in Psychology, vol. 2, 2011
+M. Jilka, “Talent and Proficiency in Language” in Language Talent and Brain Activity, G. Dogil & S. M. Reiterer (Eds.), Berlin, Boston: De Gruyter Mouton, pp.1766, 2009
+

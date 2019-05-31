@@ -1,0 +1,21 @@
+... title: USING DEEP BELIEF NETWORK IN OBJECT RECOGNITION
+
+
+
+Abstract
+
+Artificial neural networks became very popular in last few decades. They are based on biologically motivated processes, that occur in our brains. These networks represent good tool for complex problem solving in the field of artificial intelligence and statistical analysis. One of the main characteristic of these nets is the distributed representation of the stored information. Based on connenctionist theory, knowledge is distributed into many simple units. The central connectionist principle is that mental phenomena can be described by interconnected networks of simple and often uniform units. Dissociative representation is robust and noise resistant. [1]. This approach proved to be particularly suitable for categorization of multidimensional information. It has the ability to find hidden relationship between input data and desired output category. The process of finding this relation is called training. Artificial neural networks experienced significant development in the previous period.
+
+My work is focused on Deep belief network, which was first described by Dr. Geoffrey E. Hinton (University of Toronto, Canada) [2][3]. This network is characterized by two step training. In the first, unsupervised phase, the net is learning one layer at a time by treating the values of the latent variables in one layer, when they are being inferred from data, as the data for training the next layer [3]. Next step of training is the fine-tuning, which is performed by adding a final layer of variables that represent the desired outputs and back-propagating error derivatives [3]. The advantage of this network is the great potential to effectively use many neurons and layers (in comparison with classic multilayer perceptron). Complex network topology (many layers with thousands of units) helps to increase performance in solving categorization problems.
+
+Main purpose of my work is to test the ability of the network to recognize different kinds of objects (like a square, a triangle, and a cross). For this task I generated dataset of input objects,which vary in size, color and view angel - rotation. Each input image is in gray-scale with dimensions of 32x32 pixels. This dataset reflects a wide range of possible states of different object as they could be observed in real world situations with simulated shades and linear perceptive. The pregenerated dataset was divided between training, validation and test data (training=10000, validation=2000 and test=2056 items). Using 1024-500-500-500-3 topology setup the net achieved good result. After 144 epochs of training achieved test data error only 0.58% (13 mistakes in 2256 items). The work confirmed the hypothesis that deep belief networks are very good in performing complex classification tasks.
+
+
+
+
+[1] I. Arel, D. C. Rose, T. P. Karnowski, Deep Machine Learning - A New Frontier in Artificial Intelligence Research, The University of Tennessee, 2010
+
+[2] G. E. Hinton, S. Osindero, Y. the,   A Fast Learning Algorithm for Deep Belief Nets , 2006
+
+[3]  G. E. Hinton, Deep Belief Networks, Scholarpedia, 2009
+

@@ -1,0 +1,8 @@
+... title: Context Effects on Cooperation in the Prisoner's Dilemma Game
+
+
+
+Abstract
+
+The Prisoner's dilemma game is considered a good framework for studying cooperation in a wide range of social situations. The game is a social dilemma in the sense that the individualistic behaviour can lead to the highest payoff of the game at the expenses of the other opponent if she cooperates. On the other hand, if both players behave individualistically, the payoffs they are getting are lower than if they both cooperated. The talk will present some recent theoretical and experimental results in the understanding of cooperation in PD.
+

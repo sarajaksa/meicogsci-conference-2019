@@ -1,0 +1,24 @@
+... title: Experiential differences between typing and handwriting
+
+
+
+Abstract
+
+!!Introduction
+
+Writing is a complex activity that involves a number of cognitive actions and relies heavily on perceptual and sensory-motor processes. Although the process of writing has been studied from many different perspectives, not much attention has been paid to its intrinsic "bodiliness" and the importance of the tool it is carried out with. Clearly, writing is very different when using a pen and paper or a keyboard and a screen regarding the movement patterns and the focus of visual attention [1]. What changes in our cognition when we switch from pen to computer? While numerous studies focus on the influence of the usage of distinct writing technologies on participants' knowledge and performance, not much has been said about its implications for the phenomenology of writing. The aim of this project is to highlight the experiential differences in typing versus writing by hand. Phenomenological interviews and various third-person observational methods were combined in order to carry out an in-depth qualitative analysis of participants' writing experience.
+
+!!Method
+
+The research plan was formed following the first-person observations of my own writing experience. The core of the inquiry was the phenomenological interview, conducted following the technique described by Petitmengin [2], the goal of which was to help participants become aware of their subjective experience and describe it with as much detail as possible. During the session the subjects interchangeably used handwriting or typing and talked about the accompanying experience; the sessions were videotaped and the computer screen display video captured. Since introspective examination requires motivation as well as skill, the participants were chosen on the basis of their interest in the topic studied and interviewed in three or more successive sessions, thus gradually turning into skilled researchers of their writing experience.
+
+!!Future research
+
+In addition to the analysis of interview-acquired phenomenological data, I will also examine the participants' behavior during the writing sessions and the course of their text-creation. Although they have not yet been thoroughly analyzed, the phenomenological data from the first three participants suggest a number of medium-dependent characteristics of their writing experience. The current findings will serve as a guidance for further research with more participants which will hopefully reveal some generally present patterns of the studied phenomenon.
+
+!!References
+
+[1] A. Mangen and J. L. Velay. "Digitizing literacy: reflections on the haptics of writing," in Advances in Haptics, M. H. Zadeh, Ed. InTech, 2010, pp. 385–402
+
+[2] C. Petitmengin. "Describing one’s subjective experience in the second person: An interview method for the science of consciousness". Phenomenology and the Cognitive sciences, vol. 5, pp. 229–269, Nov. 2006.
+

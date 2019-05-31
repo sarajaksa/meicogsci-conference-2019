@@ -1,0 +1,28 @@
+... title: Eyetracking on paintings
+
+
+
+Abstract
+
+!Theoretical concepts
+Eye tracker is a device for measuring positions and movement of the eye. It is widely used in research of the visual system, which includes visual perception (3). Differences in human gaze behaviour can be studied by analyzing fixations and saccades. Fixations are the periods when the eyes are relatively stable and visual information is gathered, while saccades are fast eye-movements which bring the fovea from one fixation point to another (1). With eyetracker we can see what people are looking simply by measuring gaze behaviour. In paintings, the viewer’s eye is easily caught by figures presented in a picture. Although gaze behaviour during picture viewing is affected by visual features, cognitive factors are also important, for example person’s knowledge about the picture (2). Eyetracking could be used when we would like to observe gaze patterns of two types of art - abstract and representational. Representational art consists of pictures that depict some recognizable thing or scene. It includes portraits, still-lifes, and landscapes. Precisely, it includes realist art, which attempts to reproduce the actual appearance of the things depicted. Representational art contrasts with abstract art. Abstract art uses a visual language of form, colour and line to create a composition which may exist with a degree of independence from visual references in the world.
+
+!Aim of the study
+The aim of the study is to test hypothesis that there are differences in perception of abstract versus representational, more realistic paintings. 
+
+Hence, I want to compare whether people look diversely at different styles of art pictures, that is why I choose abstract cubist paintings (for example Picasso) and older more realistic paintings (for example Velazquez). In addition I tried to collect pairs of pictures with the same theme, so that I could compare common eye-gaze points/patterns and number of fixations in each picture. 
+
+!Methods
+Gaze patterns were measured on iView eyetracking device where pictures were presented on a 19-inch computer screen. 9 point calibration was performed before experiment. 16 volunteers participated in a task, which was 4 minutes long. In that time, 27 pictures were presented, of which there was 8 pairs of pictures with the same theme painted in different style and 11 distractor pictures. Each picture was presented for 10 seconds and there was a fixation cross between each. Participants had the task to look at the pictures freely.
+
+!Expected results
+I expect to find differences in eye gaze patterns regarding different styles of picture. In abstract-style paintings I expect more fixations with shorter duration, while in representational-style paintings less fixations with longer duration are going to be observed. I will analyse the data of which picture style, number of fixations, duration of fixations and position of fixations are crucial for analysis. A two sample t-test is going to be performed to test whether there are differences in perception of abstract versus representational, more realistic pictures. 
+
+!Interdisciplinarity
+The study focuses on human perception which is important topic in cognitive psychology. Not much has been done on the topic of perception of art pictures, although nowadays there is increasing interest in that field which is important for cognitive science and the broader horizons of it. Especially, it is interesting for understanding of art perception. Also we could see how different information as for example some abstract shape is perceived and analyzed to from a thing or a human. I believe this research is also important for the field of art history and for a number of artists who are interested in perception of art or “how we see” pictures.
+
+!References
+[1] Pihko, E. et al. (2011). Experiencing art: the influence of expertise and painting abstraction level. Frontires in human neuroscience. 1.(94).
+[2] Belke, B. et al. (2010). When Picasso is “Picasso”: the entry point in identification of visual art. Acta Psychologica. 133(191-202).
+[3] Duchowsky A.T. (2007). Eyetracking methodology. Theory and practice. Second edition. Springer-Verlag London.
+

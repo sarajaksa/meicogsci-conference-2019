@@ -1,0 +1,28 @@
+... title: Spatial and Temporal Distribution of GABAa Receptor Subunits in Cortical and Subcortical Regions of Normal and Down Syndrome Developing Human Brain
+
+
+
+Abstract
+
+!!! Spatial and Temporal Distribution of GABAa Receptor Subunits in Cortical and Subcortical Regions of Normal and Down Syndrome Developing Human Brain
+
+!! Introduction
+GABAa receptors represent the major inhibitory receptor system in the adult mammalian brain [1]. There are 19 different subunits (alpha 1-6, beta 1-3, gamma 1-3, delta, epsilon, pi, theta, rho 1-3), which can assemble into functional receptors [2]. The characterization of the GABAergic inhibitory system, could give not only insights into better understanding of normal development of the brain, but also in better understanding of human neurodevelopmental disorders. Here we provide a detailed histological investigation of four GABAa receptor subunits (alpha 1, alpha 2, alpha 3 and gamma 2) in the hippocampus (CA1, subiculum), basal ganglia (putamen, globus pallidus ext. (GPe), globus pallidus int. (GPi)) and corical layers (marginal zone (MZ) and subplate) in Down syndrom (DS) and age-matched controls (from 14 GW to birth).
+
+!! Methods
+On specific regions of 28 human fetal brains of subjects with DS and 28 controls, immunohistochemistry was performed. Glass slides were converted to digital slides, from which 3 images with high magnification were exported from every brain region. Quantitative measurements of immunoreactivity (IR) staining followed. Statistical tests Two-Way ANOVA and Quasi linear regression model (QLRM) were performed to acquire the results. 
+
+!! Results
+We observed differences in dynamics according to time period of four GABAa receptor subunits (alpha 1, alpha 2, alpha 3 and gamma 2) in all observed regions in both DS and control group. Delayed onset of all GABAa receptor subunits was noted in DS in subcortical and hippocampal regions. Differences in levels of IR between the groups were observed in CA1 (alpha 3 and gamma 2), MZ (alpha 3), subplate (alpha 3), putamen (alpha 3 and gamma 2) and GPe (alpha 1). In all regions (except in MZ) we noted higher levels of IR in control group. 
+
+!! Conclusion
+Different amount of subunits between normal and DS developing brain, relationship between amount of specific subunits and early brain developmental period and different spatial and temporal distribution are findings which support the possibility of GABAa receptor subunits being an important factor in human neurodevelopmental disorders, including ones with cognitive impairment.
+
+!! Acknowledgements
+I would like to thank Dr. Ivan Milenković and Dr. Gabor Kovacs for offering me the possibility to collaborate at this research and for their support throughout the research process.
+
+!! References
+[1] W. Sieghart, »Structure and pharmacology of gamma-aminobutyric acidA receptor subtypes,« Pharmacol Rev 47:181-234, 1995.
+
+[2] R. W. Olsen, W. Sieghart, »International Union of Pharmacology. LXX. Subtypes of gamma-aminobutyric acid(A) receptors: classification on the basis of subunit composition, pharmacology, and function. Update.,« Pharmacol Rev 60:243-260, 2008.
+

@@ -1,0 +1,24 @@
+... title: !!!!Analysis of the EEG in Patients with Alzheimer’s Disease
+
+
+
+Abstract
+
+!!Introduction
+
+The number of patients diagnosed with the most common form of dementia, neuro-degenerative disease Alzheimer’s disease, is estimated to triple within the next 50 years [1]. Although no known cure to treat AD exists, some medications seem to delay the symptoms if prescribed during the time frame they are most effective. Since neurological changes start before any behavioral or psychological changes are evident it is therefore of great importance that the disease is diagnosed in its nascent stage. Nowadays, diagnosis is normally performed by eliminating other possible causes for the symptoms with the help of psychological tests (Mini Mental State Examinations), blood test, spinal fluid and neurological examinations. Increasingly, imaging techniques, namely electroencephalograms, proved their potential in diagnosing the AD. 
+
+!!Advantages of EEG in diagnosing AD
+
+Inexpensive, fairly uncomplicated to use and potentially mobile EEG is appreciated for its high temporal resolution which is important in spotting the slowing, enhanced complexity of the EEG signals and perturbations in synchrony when screening effects of AD [2]. However, in the context of diagnosing AD, there is no consensus yet as to what measures are the most effective. It is therefore our aim to empirically research all possible measures and define which would distinguish between AD patients and healthy controls most efficiently.
+
+!!Method 
+
+The study sample will consist of 30-40 subjects with AD. The healthy control group will consist of 30-40 subjects as well with no history of heart attacks, strokes, Parkinson’s disease, multiple sclerosis, depression or brain surgery. 
+The 64-channel EEG data (digital average reference and 0.15-30 Hz band-pass) will be recorded while subjects will perform the 3-stimuli oddball task that is mostly used to evoke the P3. In terms of required response, subjects will have to mentally count infrequent targets during the visual and auditory oddball task (large blue circles and high pitch tones). The two groups will be compared in different data sets: frequency bands, spectral power, ERP latency and amplitude, reference electrode choice, etc. 
+
+!!References
+
+[1] J. Dauwels and A. Cichocki, “Diagnosis of Alzheimer’s Disease from EEG Signals : Where Are We Standing?” Curr Alzheimer Res, vol. 7, pp 487-505, 2010.
+[2] C. E. Jackson and P. J. Snyder, “Electroencephalography and event-related potentials as biomarkers of mild cognitive impairment and mild Alzheimer’s disease,” Alzheimer’s & dementia : the journal of the Alzheimer's Association, vol. 4, pp S137-143, 2008.
+

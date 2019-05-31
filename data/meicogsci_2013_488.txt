@@ -1,0 +1,41 @@
+... title: Modeling of behavior of cognitive agents in a virtual world in the TerraSim simulation environment
+
+
+
+Abstract
+
+In this paper I am describing research and goals of my diploma thesis. Paper is divided into following parts:
+- Brief description of simulated virtual environment TerraSim
+- Introduction to paper “Developing episodic semantics”(Takáč, 2008)
+- Brief description of implemented learning mechanisms of our agents
+- Description of our environment and agent goals
+- Communication scenarios to which agents will be exposed
+
+TerraSim
+	TerraSim is a simulated virtual environment which was created by Mgr. Ladislav Benc as his diploma thesis in 2011. 
+	“Our goal was to design an environment the agent can explore, reason about, categorize various objects it encounters and observe results of its actions. The simulation itself is implemented as a module for TerraSim – our solution working as a network server, allowing remote control of agents. Single- as well as multi-agent scenarios are supported. The modular architecture of TerraSim enables us to easily define multiple different scenarios with new sets of sensors, actuators or even whole worlds, making its potential uses quite broad. We also provide usage examples, an application for controlling the agent in any kind of simulation and a visualization application.”(Benc, 2011) 
+
+Episodic Semaptics
+	In his paper “Developing episodic semantics”, Takáč introduced model of computational abstraction of meaning (distingushing criteria) for artificial agents. Agents perceive performed actions (of others as well as their own) and by this, they are learning to predict their results, internal changes to subject and object of performed action, etc. 
+
+Agent learning mechanisms      
+	As a learning mechanism we have choosen reinforcement learning approach. Agents will not be given a model and policy. Model consists of state transition probability function T(a,s,a') and reinforcement function R(s,a). Policy is a function which maps states to actions. It is used to maximize long-run measure of reinforcement. Each agent has to learn model and derive policy from it. 
+	Agents will not have separated learning phases to passive and active. Its learning process starts immediately after it is placed into virtual environment. At first, all agents will be performing random actions. Efficiency of learning mechanism will be compared to agents without implemented learning mechanism, who will perform only random actions. Actions of both agent-groups (learning and non-learning) will be evaluated by the same reinforcement function.
+
+Environment and agent goals
+	Agents will be placed to a simple environment that satisfies needs of our experiment. Environment will contain several types of fungi and plants. Some of them are poisonous some of them are not. Agent will receive positive reward if it harvests non-poisonous plant/fungi, otherwise the reward is negative. There are no obstacles in the environment. Agents and objects will be placed on grid. Agent can move freely all over the grid and all nodes of the grid will have same properties.          
+
+Communication scenarios
+	Our experiment is divided into two main parts. In first part, agents will only be able to move inside the environment and if they are close enough to plant/fungi they can harvest it. There will be no interaction between agents. Agents will only be able to observe actions of other agents. They will not have access to changes of internal states of other agents (such as whether agent received reward or not), unless they will be able to infer it.  
+	In next step, agents will be given facility to communicate with each other. In first scenario, they will emit signal for agents which perceived their action, whether they received reward for actien they performed (different signals for positive reward, negative reward and no reward). 
+	In other scenario, agents will be given simple language (set of commands). Agents have to learn meaning of these commands and they receive a reward if they act upon it.
+
+
+
+
+REFERENCES
+
+[1] Benc L., “Simulované prostredie pre učiacich sa agentov”[Simulated environment for learning agents], 2011.
+
+[2] Takáč, M.: Developing Episodic Semantics. 2008.
+

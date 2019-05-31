@@ -1,0 +1,8 @@
+... title: Phenomenological Rules of Synaptic Plasticity and Metaplasticity
+
+
+
+Abstract
+
+Synaptic plasticity is a brain-wide and life-long capacity of interneuronal connections, i.e. synapses to change their strength. Long-term changes in synaptic weights underlie learning and long-term memory formation in the brain. In addition, numerous studies show that the outcome of a particular stimulation protocol which induces long-term synaptic changes, depends also on the state and or previous history of activity of neural circuitry. In this workshop we will describe, compare and discuss several phenomenological rules of synaptic plasticity and metaplasticity that were introduced within the last decade to account for the above phenomena. Phenomenological means that these rules account for the phenomenon per se and not for the molecular mechanisms that are involved.
+

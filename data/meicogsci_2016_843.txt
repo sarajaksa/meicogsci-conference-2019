@@ -1,0 +1,19 @@
+... title: Pupillary Activity in Parrots
+
+
+
+Abstract
+
+The order Psittaciformes, known as parrots, splits into the superfamilies Strigipoidea, Cacatuoidea, and Psittacoidea. All are highly social, monogamous, vocal learners and have a high telencephalic volume fraction [1]. Behavioral and neuroanatomical data indicate that Cacatuoidea and Psittacoidea are better at vocal mimicry with evidence suggesting that some species of Psittacoidea are the most adept. In addition to being more adept at vocal mimicry, these species exhibit a striking pupillary action that is difficult to see in Cacatuoidea and Strigipoidea. The behavior is referred to as “eye pinning” and consists of rapid constriction and dilation the pupils. 
+
+Constriction is highly visible because of stark contrast between the pupil and a bright, colorful surrounding iris. Eye pinning can be observed dramatically and reliably in at least several species with highly contrasted eyes during vocal mimicry. In the only scientific document that refers to this phenomenon, the author’s parrot constricts her pupils while mimicking human speech, and on occasion about 200 ms before speaking begins [2]. In captive parrots it is also observed during vocal mimicry, mate attraction, copulation, occasionally when a bird sees an item it wants to investigate, and when birds are experiencing states of arousal likened to happiness, irritation and anger. In wild parrots it has also been observed during copulation.
+
+At this point it is impossible to say whether the pupillary constriction and dilation of parrots is under voluntary control or simply physiological responses to changes in light and a neurological change in the bird’s emotional state. As the vocal pathway is embedded within or near non-vocal motor learning brain regions, it may have influenced morphological and neurological changes in visual and motor control systems such that they now are connected in some manner or trigger neural cross talk during activation. Consequently, the contrast in the eye may have evolved to communicate aspects of the mental state to observers as it appears mostly during arousal. 
+
+My work will investigate the evolution of eye pinning. It will be primarily theoretical with an in depth evolutionary comparison of parrot eyes, brains, and behavior. I will research parrot neuroanatomy to elaborate on how neural pathways may have evolved together. As morphological data is lacking, a practical component will compare the anatomical differences of as many parrots’ sclerotic rings and eye musculature through CT and MRI scans of dead specimens as is available through the University of Vienna’s Natural History Museum and other resources. I hope to restart a scientific discussion on this likely nonverbal communication.
+
+!!References
+[1] M.J. Burish, H.Y. Kueh, S. Wang, “Brain architecture and social complexity in modern and ancient birds”, Brain, Behavior and Evolution, vol. 63, 107-124, 2004.
+
+[2] R. Gregory and P. Hopkins, “The pupils of a talking parrot”, Nature, vol. 252, 267-268, Dec. 1974.
+

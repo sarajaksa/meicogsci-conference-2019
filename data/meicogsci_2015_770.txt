@@ -1,0 +1,18 @@
+... title: The Influence of Bimodal Bilingualism on Attentional Processes
+
+
+
+Abstract
+
+It has been hypothesized that bilingualism provides a specific form of attention training, which enhances the efficiency of attentional control. Results of many studies seem to support this hypothesis, showing, e.g., a smaller cost of conflict in bilinguals than monolinguals in tasks involving resolution of cognitive conflicts. [1][2] However, a specific, unique type of bilingualism, a bimodal bilingualism, has remained a relatively unexplored and poorly understood. Bimodal bilinguals are able to communicate using languages in two different modalities: vocal (in the case of spoken language) and visual (in sign language). It leads to a phenomenon called code-blending, when bilinguals at the same time produce signs and spoken words.
+
+We will present an overview of a previous studies on the effects of bimodal bilingualism on cognitive control and attention processes, with particular emphasis on spatial attention. This aspect of attention is especially engaged in signers, and thus may be particularly trained, compared to no-signers. [3] We will also present our own study on attentional functioning in bimodal bilinguals. The aim of the study is to examine effects of sign language on the efficiency of spatial and executive attention. A variant of arrow-flanker task with three different visual eccentricities of the target and flanker stimuli was used, so that the efficiency of conflict resolution on less and more peripheral locations of visual field could be measured. Two groups of spoken-sign adult bilinguals participated in the study: hearing children of Deaf adult (CODA), who grown up in Deaf families using Polish Sign Language and Deafs who know Polish Sign Language and Spoken Polish (in written form). The data collection  is underway. We will discuss findings in relation to models of attention and experience-based modulations in attention efficiency.
+
+!!References
+
+[1] Bialystok E., Craik F.I.M., Green D.W., Gollan T. H., "Bilingual Minds" Psychological Science vol. 10 pp.89–129, Dec. 2009
+
+[2] Kroll J.F., Bobb S.C., Misra M., Guo T., "Language Selection in Bilingual Speech: Evidence for Inhibitory Processes" Acta Psychologica vol. 128 pp.416–430, Jul. 2008
+
+[3] Emmorey K., Luk G., Pyers J. E., Bialystok E., "The Source of Enhanced Cognitive Control in Bilinguals; Evidence From Bimodal Bilinguals" Psychological Science vol. 19 pp.1201–1206, Dec. 2008
+

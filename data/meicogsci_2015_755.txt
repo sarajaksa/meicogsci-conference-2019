@@ -1,0 +1,24 @@
+... title: Classification of Images into Categories Based on Content and Popularity of Images Using Artificial Neural Networks
+
+
+
+Abstract
+
+!!Motivation
+Object recognition and classification is the basis for the understanding of the world around us. Only in the past several years have we acquired necessary software and hardware tools that are at least partially capable of replicating some of our cognitive capabilities. Developing algorithms that mimic human capability of object recognition and categorization may tell us how our own visual system works. These algorithms also have numerous practical applications, for example they can be used for automatic classification of photographs based on their content or in the robotic vision. Judging from the results of ILSVRC 2014 image recognition challenge, neural networks are currently the most powerful image recognition algorithm available [1]. Neural networks were also successfully used for predicting of the popularity of the images on image sharing websites [2]. 
+
+!!Method
+Our main goal is to test the performance of simple artificial neural network on two main tasks. The first task is the classification of photographs downloaded from image sharing site into four different categories. These categories are landscapes, wild animals, architecture and portraits.  The second task is predicting whether a certain image belongs to two distinct categories of images based on their popularity, in other words if certain image belongs to category of popular images or regular images. For both tasks we have divided our image dataset into two sets, one for training, and one for testing. 
+For both tasks we have used our own implementation of multilayer perceptron in Matlab. Our neural network has been trained using stochastic gradient descent algorithm with weight decay and momentum on Nvidia GTX 770 GPU. The network has three hidden layers with sigmoid activation function and one output layer with softmax activation function. We have tested different combinations of network parameters to determine the most effective combination of parameters.
+
+
+!!Preliminary Results
+With our model we have achieved a 62.4% accuracy on category classification task, which is 37.4% above chance (25%). On popularity prediction task we have achieved 72.6% accuracy, which is 22.6% above chance (50%). Considering the simplicity of our model we think that using a more advanced neural network, as convolutional neural network or bigger dataset a much higher accuracy is achievable. In the future we plan to test more advanced neural networks on these tasks.
+
+!!Acknowledgements
+I would like to thank my supervisor RNDr. Kristína Rebrová PhD., prof. Ing. Igor Farkaš, Dr. and Mgr. Tomáš Kuzma for their support and advice.
+
+!!References
+[1] Christian Szegedy et al. (2014, September 17).  Going deeper with convolutions (1. ed.) [Online]. Available: http://arxiv.org/abs/1409.4842v1
+[2] Aditya Khosla et al., “What makes an image popular?“, in Proceedings of the 23rd international conference on World wide web, New York, NY, USA, 2014, pp. 867-876.
+

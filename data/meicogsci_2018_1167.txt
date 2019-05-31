@@ -1,0 +1,22 @@
+... title: Adapting Cognitive Control Challenge Task for Electrophysiological Studies
+
+
+
+Abstract
+
+## Introduction
+Better understanding of wide multimodal ability of flexible cognitive control is important since one has to be able to adapt behaviour according to changes in the environment throughout one’s whole life. The fronto-parietal brain network (FPN) was shown to be the most relevant network supporting the cognitive flexibility [1]. We adapted and analysed the properties of newly developed behavioural/fMRI Cognitive Control Challenge Task (CCCT), which demands quick shifts in mental strategies and control processes, for electrophysiological studies like electroencephalography recordings. We intend to use this paradigm for research on flexible cognitive control and cognitive inflexibility in early stages of different neurodegenerative disorders.
+
+## Methods
+Two female participants completed the CCCT task during electroencephalography (EEG) recording, with high density 64-channel EEG (BrainAmp) with active electrodes (actiCAP). Each participant completed two practice blocks of trials. In the recording session participants completed the whole CCCT paradigm which consists of two conditions, a stable one with one set of rules valid across all 10 trials in each of the 16 blocks and second a flexible condition with rules changing for each of the 10 trials in 16 blocks. Trials in CCCT consist of auditory and visual stimuli, both in the left and right side and of three-part rule (sensory-semantic domain, logical-decision domain and motor response domain) [1]. The task was computer based and each event (rule or stimulus display) and response (correct, incorrect, timeout) was implemented and presented with the behavioral software PsychoPy and recorded together with EEG signal with Brain Vision Recorder software. 
+
+## Results and further research
+The main aim of this pilot testing was to identify the number of trials in CCCT that have to be recorded to achieve stable results in oscillatory (time-frequency domain) types of analysis. The time frequency analysis showed that 50 trials were enough for reasonably stable results in all frequency bands, with 100 trials and beta frequency band giving the most stable results for all conditions. These results will be taken into account in further CCCT paradigm adaptation which will be used in later experiments where changes in oscillatory measures over localised parts of the cortex and changes in synchronisation of activity in distributed brain networks will be analysed [2]. 
+
+## Acknowledgements
+Laboratory for Clinical Neuroscience, Department of Neurology, University Medical Centre Ljubljana
+
+## References
+[1] 	M. W. Cole et al., "Multi-task connectivity reveals flexible hubs for adaptive task control," Nature neuroscience, vol. 16, no. 9, pp. 1348-1355, 2013. 
+[2] 	V. R. Gorišek et al., "The electrophysiological correlates of the working memory subcomponents: evidence from high-density EEG and coherence analysis," Neurological Sciences, vol. 36, no.12, pp. 2199-2207, 2015.
+

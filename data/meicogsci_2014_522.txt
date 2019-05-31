@@ -1,0 +1,23 @@
+... title: Intersubjective Meaning Transfer in Cognitive Agents
+
+
+
+Abstract
+
+!!!! Intersubjective Meaning Transfer in Cognitive Agents
+
+!! Introduction
+Meanings or concepts are traditionally accepted as results of function mapping words into their content. Building on situated and embodied cognition theories, we believe that the creation of meanings is a prerequisite for language acquisition and is a condition for successful communication even without language in a classical sense [1,2]. We want to discuss meaning transfer and communication on a wider field of agents, including humans, infants, animals and artificial agents. Their representations may differ in basic characteristics/qualities even during the communication of the same type of agents depending on their sensory channels and experience (e.g. blindness, religion vs. science). Therefore, we need to identify widgets, that are able to create mutual understanding between agents. The result should be applicable in problems of philosophy of science or education. 
+
+!! Sketch of solution
+Agents do not have direct access to another agent's meanings. We represent meanings via the semantics of distinguishing criteria as image schemata [2], what is for us also a solution of symbols grounding. Agents in our abstract conception basically consist of their behavior, current perception, intentions and the whole knowledge representation gathered through experience, where the meanings are rooted/embodied. However, just behavior is observable. The other parts are just partially accessible with the help of abductive reasoning. To get common synchronization of meanings agents need to build on communally accepted truths[2].
+
+!! Toward formalization
+Based on [2] we represent agent's perception as a schema where vertices represent entities and edges represent relations. Agent can operate on them to get more detail or more general view. We abstract of language and take behavior as a kind of information transfer and accept it as only activity of agents. Main contribution of work is replacement of missing vertices or edges that represent the problem or question and formalization of them with a probability distribution of possible results, so the schema becomes a Bayesian network [3]. Information theory tool, such entropy seems to be valuable tool for describing vagueness and uncertainty of agent's representation of current situation. Entropy grows with rising amount of unknown facts missing for understanding a situation and pushes the agent to get more information and useful tools to gain from the information as much as possible. 
+In the communication and misunderstanding of two agents an agreement is reached via identifying of basic concepts that minimize entropy. Such medium can be some authorities, algorithms or measurements. We call them instruments. An instrument represents some point of view on the world and new can be based on more simple ones. 
+
+!! References
+[1] W. Croft, D.A. Cruse: Cognitive Linguistics. Cambridge University Press 2004.
+[2] M. Takáč, J. Šefránek, “Semantics of Distinguishing Criteria: From Subjective to Intersubjective,” in Interdisciplinary Description of Complex Systems 10(3), 248-269, 2012
+[3] A. N. Rafferty, M. L. LaMar, T. L. Griffiths. “Inferring learners knowledge from observed actions.” In Proceedings of The 5th International Conference on Educational Data Mining, Chania, Greece, 2012, pp. 226-227.
+

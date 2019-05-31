@@ -1,0 +1,22 @@
+... title: Validating the EEG Dementia Index (EDI): A Novel Biomarker of Alzheimer's Type Dementia
+
+
+
+Abstract
+
+Dementia is one of the most prevalent chronic neurological diseases among the elderly. With population aging, the number of AD patients will continue to rise, and they are fast becoming an increasing socioeconomic challenge. Currently used diagnostic methods are either invasive, expensive or unable to diagnose dementia in its early stages. The aim of our research, conducted at the UMC Ljubljana, Department of Neurology, is to determine whether EEG, as a cost-effective and non-invasive method, is suitable as an aid in clinical AD diagnosis in its early symptomatic stage.
+
+The research is based on a pilot study [1] in which 3 quantitative EEG biomarkers of the phenomenon of “EEG slowing” were calculated from EEG data. The biomarkers (peak alpha frequency, average alpha band frequency, and alpha/theta spectral power ratio) were aggregated into the EEG dementia index (EDI), using a generalized linear model [1]. Our wider research will focus on validating these biomarkers. Between the control group and the AD patients, we expect to find differences in wave frequencies and power ratios for all three biomarkers.
+
+64-channel EEG recordings will be obtained from 150 subjects, aged between 70 and 85, belonging to two groups, AD patients and control group, the former consisting of people diagnosed with “probable Alzheimer's disease”, according to the 2011 NINCDS-ADRDA criteria [2]. The experimental procedure consists of two rest- and one active-EEG condition. For rest conditions, participants will have to keep their eyes alternately open and closed. The active-EEG condition is the memory image sequence where the participants will try to determine whether the image on the monitor was repeated or not. Participants will be presented with 80 different images from the NAPS database [3] (40 images shown once, 40 three times). The task, designed at our lab, is derived from a non-verbal memory test. It is currently being tested for P300. A new contribution to the ongoing research will be conducting the active EEG task. Our main focus in this part will be the P300 wave, i.e. a late positive deflection in post-stimulation ERPs in humans.
+
+We expect to see a greater amplitude of the P300 when the subject is presented with a repeated image compared to first presentations, but expect smaller differences between these two amplitudes in the patient group, as compared to the controls.
+
+!!References
+
+[1] J. Dreo, B. Pikš, A. Emeršič, J. Bon, M. Gregorič Kramberger and Z. Pirtošek, “The EEG Dementia Index (EDI): A promising low-cost biomarker of Alzheimer's type dementia”, in press.
+
+[2] G. M. McKhann et al., "The diagnosis of dementia due to Alzheimer’s disease: Recommendations from the national institute on Aging-Alzheimer’s association workgroups on diagnostic guidelines for Alzheimer’s disease," Alzheimer’s & Dementia, vol. 7, no. 3, pp. 263–269, 2011.
+
+[3] A. Marchewka, Ł. Żurawski, K. Jednoróg and A. Grabowska, “The Nencki Affective Picture System (NAPS): Introduction to a novel, standardized, wide-range, high-quality, realistic picture database”, Behav Res, vol. 46, no. 2, pp. 596-610, 2013.
+

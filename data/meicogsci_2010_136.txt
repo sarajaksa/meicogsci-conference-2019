@@ -1,0 +1,29 @@
+... title: The effect of study-test modality on long-term memorizing
+
+
+
+Abstract
+
+IIntroduction
+Long-term memory encodes information semantically for storage, as researched by Baddeley [1]. However encoding of the long-term memory is not only semantic, there is evidence of different kinds of encoding. We are able to place information in memory that resembles places, objects, or people in sort of a mental image. Besides semantic and visual encoding, also acoustic encoding exists. For example when people are experiencing ,,on tip of the tongue" phenomenon, when a word can't be recalled immediately, but people feel that the blocked word is on the edge of being recovered. This has nothing to do with meaning but with that what the word sounds like.
+
+Objectives
+In my experiment I focus on visual and acoustic encoding, results of other experiments show that visual memory has great capacity - according to Standing, observers were showed up to 10,000 images for few seconds and subsequently identified which images they have seen before with 83% accuracy [2]. In my project I examine if an analogous ability exists in the auditory domain. My objective is to find out whether there are differences in long-term recognition between acoustic and visual input type of information. Further I'm studying if there are differences in sex, age and education. Also I intend to study the hypothesis that in the long-term memory the visual recognition memory is superior to auditory recognition memory, the same way as in the short term memory [3].
+
+Methods
+To verify the hypothesis I have programmed my own test. Experiment consists of 2 phases: First (study) phase and second (testing) phase. In the first phase, one group of participants was looking at pictures (visual version) and the other participants were listening to different kinds of sound clips (auditory version) - they were divided into groups listening to: 1. common sounds of everyday life (sounds of animals, machines, traffic...) 2. parts of songs, 3. parts of conversations. The group of participants listening to common sounds was given additional information for easier remembering. One type of this information was verbal description of presented sounds, the second type was a picture representing the sound. Each group was given 90 stimuli (pictures, sound clips) and each sound clip took approximately 7 seconds. Altogether there were 6 versions of the test. 
+In the second phase all groups have been tested on their ability to distinguish old and new inputs after 24 hours. The 2 types of additional information were for easier remembering only, so they didn't appear in this phase. Some of the participants took part on the visual version of experiment and 2 days later also on the auditory version to cross-balance the results.
+
+Results
+According to the test, memory for pictures was significantly better than for all other stimuli. In the visual version of experiment the hit rate was 87, 6% and the false alarm rate 9, 4% yielding a d` score (standard index of detectability) d` = 2, 47. D` score obtained for common sounds version was far lesser (d` = 0, 88). With different versions of auditory test the results improved, recall for music version was slightly higher (d` = 0, 99) and for language version was even better (d` = 1, 48). Supplying the participants with pictures representing the sounds in study phase improved recall for common sounds clips (d` = 1, 35). Supplying the participants with descriptions improved recall for common sound clips even more (d` = 1, 68). It is clear from these results that visual long-term recognition memory is superior to auditory long-term recognition memory. Results showed that age didn't matter in the experiment, but there was correlation between education and long-term recognition memory - participants with higher education were able to remember bigger amounts of information. We did not find any significant difference between sexes, however male showed slightly higher skill at remembering visual inputs. The obtained results have proved that visual long-term recognition memory is superior to auditory long-term recognition memory as in short-term recognition memory [3].
+
+
+
+
+
+
+[1] Baddeley, A.D. (1966). The influence of acoustic and semantic similarity on long-term memory for word sequences. J The Quarterly Journal of Experimental Psychology 18: 302-309
+[2] Standing L., (1973) Learning 10,00 pictures. Q J Exp Psychol 25: 207-222
+[3] Cohen  M. A., Horowitz T. S., Wolfe J. M., (2009) Auditory recognition memory is inferior to visual
+recognition memory
+

@@ -1,0 +1,17 @@
+... title: A Physiological Correlate of Empathic Accuracy in Attentive and Non-attentive Listening: an EDA Study
+
+
+
+Abstract
+
+Empathy is central to social interactions, providing a link between the internal states of one person and another by observation of psychological and physiological cues [1]. The accuracy of empathic judgements is known as empathic accuracy, which builds on a combination of experience sharing and mental state attribution processes including both cognitive and affective domains [2], [3].
+The present study is designed to investigate whether behavioural synchrony and EDA (electrodermal activity) synchronisation can differentiate between attentive and non-attentive listening, and whether there is a real-time empathic accuracy correlation with these responses. EDA provides information on the level of arousal from which emotional intensity can be inferred. The lack of affective valence is compensated through the combination with ‘Affect Dial’ ratings of the behavioural slices. During the initial phase of the study, 2 female and 2 male participants are recorded presenting emotional autobiographical event while having their EDA measured. Afterwards, they are instructed to watch the recording, and use ‘Affect Dial’ to continuously rate the intensity of the affective valence they had felt while telling the event. In the second phase of the study, 20 participants with equal gender distribution watch the recorded videos under normal and distracted conditions while continuously rating them using the ‘Affect Dial’ and also having their EDA simultaneously measured. This is a minor modification to the original methodology described in [3]. If the attention manipulation works, a lower empathic accuracy and EDA synchronisation in the distracted condition are expected. Moreover, we expect the EDA synchronisation to correlate with empathic accuracy in the non-distracted condition (between subjects). This would outline the importance of attention in empathic accuracy judgments and the necessity of attention training (e.g. therapeutic, clinical psychology education).
+
+!!Acknowledgments:
+The authors would like to specifically thank Dr. Geraldine Fitzpatrick, Petr Slovak and the Human-Computer Interaction (HCI) group at the Vienna University of Technology for supporting this project.
+
+!!References:
+[1] R. Levenson and A. Ruef, 'Empathy: A physiological substrate.', Journal of Personality and Social Psychology, vol. 63, no. 2, pp. 234-246, 1992.
+[2] R.B. Knapp, et al., "Physiological Signals and Their Use in Augmenting Emotion Recognition for Human-Machine Interaction," Emotion-Oriented Systems: The Humaine Handbook, P. Petta, et al., eds., pp. 133-159, Springer-Verlag, 2011.
+[3] J. Zaki, et al., 'The neural bases of empathic accuracy', Proceedings of the National Academy of Sciences, vol. 106, no. 27, pp. 11382-11387, 2009.
+

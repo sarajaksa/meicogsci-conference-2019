@@ -1,0 +1,25 @@
+... title: P3 Topography from Different Sensory Modalities in Oddball Tasks: Testing the Common Pathway Hypothesis of P3 Generation.
+
+
+
+Abstract
+
+The P3 (also termed as P300) wave is an event-related potential (ERP) component with a latency of 250-500ms, which was recorded first in 1964.  It is considered to be an endogenous potential, as its generation doesn’t seem to rely on the physical attributes of a stimulus itself but to a person’s reaction to it. It plays a crucial role in attention and memory processes, stimulus evaluation and categorization. A probable explanation is the context updating theory, suggesting that the working memory compares the momentary neural presentation of the environment with the actual one. If a significant change in the environment gets detected, the P3 generates [1]. 
+
+In experimental settings, the common way to elicit the P3 wave is through different Oddball tasks. Even though the P3 wave is one of the better-studied ERPs, its generation and distribution over the scalp is still a matter of debate. Katayama and Polich [2] showed that the P3 generation for different sensory modalities is likely to have a common pathway with a maximum distribution over the frontal-central and temporal-parietal area. Most of the known studies that have been done in this field used either only a little array of electrodes [2] or tested rarely for the correlations of different sensory modalities when using a dense array of electrodes. Also contradicting results have been found [1]. Therefore we will use a 128-channel EEG testing 20 participants with different sensory modalities in oddball tasks (i.e. auditory, visual and somatosensory). The aim of the project will be to analyse the scalp distribution of the P3 wave and to look for topographical correlations elicited by the different sensory modalities to find out:
+
+a) 	If the P3 generation shares a common neural pathway
+b)	If the physical attributes of the stimuli are indeed  irrelevant
+c)	How it is distributed over the scalp and how the  topographical correlations between the different modality tasks are
+
+As the task difficulty seems to have an effect on the P3 amplitude and latency [1] we will also use two different difficulty levels for each sensory modality. 
+
+This study could provide a better understanding of the basics of the neural P3 generation and therefore could have valuable impact on future study designs and clinical research, e.g. Parkinson and Schizophrenia.
+
+Acknowledgements
+I want to thank Prof.Dr.Zvezdan Pirtosek, Dr.Grega Repovs, Jurij Dreo and the IKN of the University Clinical Center for offering this great possibility to conduct this research.
+
+References:
+[1] J. Polich, "Overview of P3a and P3b", in: Detection of change: event-related potential and fMRI findings, J. Polich, Ed. Boston:MA, 2003, pp.83-98
+[2] J. Katayama, J. Polich: Stimulus context determines P3a and P3b. Psychophysiology, 35:32, 23–33, 1998
+

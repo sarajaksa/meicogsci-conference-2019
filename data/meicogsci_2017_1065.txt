@@ -1,0 +1,24 @@
+... title: Collective Dynamics of Multi-Agent Networks: Simulation Studies in Probabilistic Reasoning
+
+
+
+Abstract
+
+Agent-based modelling is seen as an alternative to traditional, "equation-based" modelling. It has seen applications in diverse areas. At the same time, the modern formulation of network theory became part of science, influencing discipline after discipline. Historically, however, networks have almost exclusively been dealt with implicitly by agent-based modellers. Their "network awareness" is a very recent phenomenon [1].
+
+Belief updating refers to the process that enables an agent to alter his belief in a given hypothesis conditional on evidence that it receives. This concept is part of the field of "formal epistemology" that explores knowledge and reasoning using tools from math and logic. Bayesian approaches to probabilistic reasoning are dominant here. Proponents uphold that Bayesianism is the only rational way of belief formation, given that no other strategy protects an agent in principle from "Dutch books" (bets that guarantee a loss to one side). Nonetheless, alternatives that are probabilistic but not (Standard-)Bayesian have been introduced under the heading of "Inference to the Best Explanation". The use of alternatives is justified by questioning the practical relevance of Dutch book arguments and by resorting to pragmatism: It has been shown that there are strategies that have speed and accuracy advantages in belief updating [2].
+
+This thesis will explore different scenarios with multiple agents updating their beliefs and influencing each other through specific network structures. The dynamics on networks as well as the dynamics of networks will therefore be in the focus of analysis [3]. Agent behavior and network dynamics develop interdependently, i.e. they coevolve.
+
+Apart from being a methodological advance, it is expected that this approach can yield novel theoretical insights on the dynamical formation of network structures by interacting agents. Additionally, it will be possible to demonstrate that there are alternatives to Bayesian updating that also yield advantages in multi-agent settings. 
+On a meta-theoretical level it will be argued that simulation results can be treated as quasi-empirical. Several necessary conditions will be identified that need to be fulfilled for this aim. 
+We borrow methods from computer science to investigate questions from philosophy (of science). Additionally, work done in the social sciences on agents and networks will provide input.
+
+!!References
+
+[1] M. Newman, Networks: An Introduction. New York, NY, USA: Oxford University Press, Inc., 2010.
+
+[2] I. Douven and S. Wenmackers, “Inference to the Best Explanation versus Bayes’s Rule in a Social Setting,” The British Journal for the Philosophy of Science, 2015.
+
+[3] A. Namatame and S.-H. Chen, Agent-Based Modeling and Network Dynamics. Oxford, New York: Oxford University Press, p.10, 2016.
+

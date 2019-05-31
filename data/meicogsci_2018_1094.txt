@@ -1,0 +1,14 @@
+... title: The Phenomenology and Linguistics of Schizophrenia: A Battle of Selves
+
+
+
+Abstract
+
+In phenomenological psychopathology, schizophrenia is described as a disruption of ipseity, a primitive form of self-awareness which constitutes our primary presence in the world. Also referred to as the minimal self, it is not a linguistically mediated representation of oneself, but a pre-reflexive, implicit, non-conceptual sense of existing as a subject of awareness. Against this, Hinzen and Rosselló [1] criticise that “a purely phenomenological account of self-disturbance, which were to see human experience as taking place in a completely pre-linguistic experiential space, with language as only a secondary method of ‘translating’ its contents for others, would be naïve” and argue that the self-disturbance witnessed in schizophrenia is the result of a language pathology. The aim of this master’s thesis is an interdisciplinary comparison between linguistic and phenomenological dimensions of the self in schizophrenia, in order to clarify the role language plays in this disorder: Is the self-disturbance in schizophrenia more fundamental than described by recent linguistic research? Or is it essentially a linguistic disorder - maybe even, as psychiatrist T. J. Crow claims, the price Homo Sapiens pays for language? 
+While phenomenological literature on schizophrenia is quite rich, language and more particularly its relation to schizophrenia is very rarely discussed. While phenomenologists regard the linguistic self as secondary to our primordial sense of self mediated by the lived body, linguists conceive of language as something over and above the minimal self. The result: a gaping abyss between the pre-linguistic and linguistic self, which leaves it unsolved whether language is constitutive for the “I” affected in schizophrenia, and thus how to understand its pathogenesis in general. This could furthermore have repercussions on diagnosis and treatment methods.
+My aim is to tackle precisely these questions by establishing an interdisciplinary dialogue between phenomenological psychopathology and linguistics. A dialectical analysis of the phenomenological and linguistic literature on the self in schizophrenia is expected to indicate that what language is supposed to add to the self affected in schizophrenia is already in place in the minimal self. Thus, a critical assessment of their respective arguments will enable to approach the relationship between self, language, and schizophrenia and eventually tell us whether the foundation of phenomenological research needs to be revised, or whether linguistics continues to overestimate the role of language.
+
+
+## References
+[1] W. Hinzen and J. Rosselló, “The linguistics of schizophrenia: thought disturbance as language pathology across positive symptoms,” Frontiers in Psychology, vol. 6, no. 971, p. 8, 2015.
+

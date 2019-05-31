@@ -1,0 +1,27 @@
+... title: Learning from Two Perspectives: AI and Psychology
+
+
+
+Abstract
+
+Our research questions are: What does the term “learning” entail in the scientific fields of Psychology and Artificial Intelligence (AI), and what are key differences in how the two disciplines address it? 
+
+The ability to _learn_ is indispensable for us humans to interact successfully with our environment. In the field of psychology, understanding the human learning mechanisms is a means to better understand human behaviour. For the field of AI, the topic is of equal importance: A systems designer may not be able to anticipate and specify solutions for all scenarios an agent might have to cope with. Since the fields of Psychology and AI are interwoven, progress in psychological explanations of the human learning ability can open up new approaches for designing AI systems with improved learning abilities; progress in AI may likewise inspire new psychological theories about the human ability to learn.
+
+In our comparison, we focus on two concepts of “learning” for each of the two disciplines: In the field of Psychology, we address _conditioning_, the process by which certain kinds of experience make particular actions more or less likely [1], and _task learning_: the acquisition of competence in carrying out new tasks. In the field of AI, we address _Deep Learning_, the learning of more complex concepts out of simpler ones, and _task learning_ in SOAR, as an example realization in a seminal Cognitive Architecture [2] and as an instance of terminological _overloading_ across disciplines.
+
+Against the background of canonical textbook material about the studied variants of _learning_ in the two disciplines, we conduct our analysis from a functional computationalist view as proposed by Marr [3], i.e., with respect to. i) the _Computational Theory_ level: What is the goal of the computation? ii) the _Representation and Algorithm_ level: How is i) implemented? What representation is used for the input and output, and what is the algorithm for the transformation? iii) the_ Hardware Implementation_ level: How is the representation and algorithm realised in the physical world?
+
+After addressing each field individually, we will conduct comparisons across the disciplines, aiming to elaborate on the nature of the trans- and crossdisciplinary scientific fertilisation.
+
+
+## Acknowledgements:
+
+I would like to thank Paolo Petta for supervising this project.
+
+## References:
+
+[1]	G. R. VandenBos, Hrsg., APA Dictionary of Psychology, Second Edition. Significantly expanded, Updated, and Revised. Washington, DC: American Psychological Association, 2015.
+[2]	J. E. Laird, The Soar Cognitive Architecture. Cambridge: MIT Press, 2012.
+[3]	D. Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information. New York, NY, USA: Henry Holt and Co., Inc., 1982.
+

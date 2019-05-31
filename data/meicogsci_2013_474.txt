@@ -1,0 +1,31 @@
+... title: A Coherent Model of Mentalizing, Empathy and Self-awareness
+
+
+
+Abstract
+
+!!!! A Coherent Model of Mentalizing, Empathy and Self-awareness
+
+Intelligent software agents and robots are taking on increasingly more complex interactive social tasks. Such high-level social agents have to be able to understand, predict, and influence mental states of their peers: humans, other artificial agents, but also themselves. Self-awareness, mentalizing (theory of mind), and empathy refer to cognitive phenomena intimately related to these indispensable abilities of social artificial agents. In this project, we researched the contributions of mentalizing and empathy to self-awareness, with the aim of developing a sound conceptual basis for the design and implementation of social computational agents. 
+
+
+We set out with a broad survey that alongside theoretical literature from philosophy, sociology, psychology, and the neurosciences also covered empirical methods for the assessment of self-awareness and relevant achievements in the field of artificial intelligence. We next focused on the development of the Sauté model (Self-Awareness and User-awareness through Theory of mind and Empathy), a coherent Computational Theory of self-awareness, mentalizing, and empathy. Sauté integrates Simulation Theory [1] as important philosophical category of mentalizing, the psychological Objective Self-awareness Theory [2], and the ideomotor model of Mirror Neurons from the neurosciences with concepts of interactive storytelling from the field of artificial intelligence. In Sauté, empathy and theory of mind are realised through the simulation of imaginary models of the targeted agents (and targeted users) in the “minds” of real virtual agents. This approach may also lend itself to simulating an imaginary ideal self-model that develops self-awareness; we identified different variants how such imaginary models can be managed. 
+
+
+We then identified main requirements for a cognitive architecture suited as baseline for the implementation of a practically viable computational model: OFAI's ActAffAct cognitive architecture [3] was demonstrated to meet these requirements and in addition provide a suitable scenario domain for a prototype implementation. In first efforts towards realising a prototype implementation on top of ActAffAct, we could determine main characteristics of architectural design candidates. Overall, the realised prototype shows both, the desirable property of locality of specific processing tasks and uses of representations, as well as global effects of information processing, in the sense of a modulation and structuring of the global system behaviour. These very promising results are reflected in the list of directions for further research and development.
+
+
+!! Acknowledgment
+
+The Austrian Research Institute for Artificial Intelligence is supported by the Austrian Federal Ministry for Transport, Innovation, and Technology.
+
+
+
+!! References
+
+[1] R. M. Gordon. “Folk psychology as simulation.” Mind & Language, vol 1, pp. 158– 171, 1986.
+
+[2] S. Duval and R. A. Wicklund. A theory of objective self awareness. Academic Press, New York, 1972.
+
+[3] S. Rank, P.L. Anjos, P. Petta and R. Aylett. “What is in an affective architecture for situated agents?”, in L. Cañamero (ed.): HUMAINE Deliverable D7a: Emotion in Cognition and Action, WP7 Workshop Proceedings, King's College London, UK, EU, July 4-5, 2005, HUMAINE FP7 Network of Excellence.
+

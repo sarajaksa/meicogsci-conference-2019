@@ -1,0 +1,19 @@
+... title: Mirror neuron system and the perception of movement
+
+
+
+Abstract
+
+!!!! Mirror neuron system and the perception of movement
+
+Neurophysiological studies of the last decade have been connecting the suppression of electroencephalographic (EEG) oscillation known as mu-rhythm, during either observation or imagery of a motor act, with so-called mirror neurons. Mirror neurons are a functionally special class of neural cells found in some areas of primate brains that are rendered active by executing, observing or imagining a movement. Being part of a larger mirror neuron system, they are hypothesised to enable a form of neural mapping of perceived movement and thus might be one of the underlying mechanisms of action understanding, imitation or empathy [1]. 
+
+Unlike in lower primates, where mirror neuron activity has been reported as being specific to object-directed motor acts, human mirror neurons were shown to be capable of responding to a more abstract types of movement [2,3]. To test the boundaries of this human ability, a couple of EEG experiments were conducted, with the event-related desynchronisation (ERD) of the mu-rhythm being considered as the indicator of mirror neuron system activity. 
+
+In the first experiment, EEG data was collected from subjects observing a precision grip of an object, or an empty grip performed in the same manner, carried out by both human and robotic hand. The second experiment was focused on using motionless stimuli in form of chronophotographic pictures and action words, to test whether the mere notion or implication of a movement is sufficient to cause an ERD of the mu-rhythm. Fast Fourier Transform was performed on the filtered EEG data that had been cleaned from artifacts and power spectral densities of mu specific bands were compared across conditions. The results suggest embodied properties of the mirror neuron system, facilitating the understanding of innate and abstract actions alike.
+
+!! References
+[1]	J. a Pineda, “The functional significance of mu rhythms: translating ‘seeing’ and ‘hearing’ into ‘doing’.,” Brain research. Brain research reviews, vol. 50, no. 1, pp. 57–68, Dec. 2005.
+[2]	L. M. Oberman, J. P. McCleery, V. S. Ramachandran, and J. a. Pineda, “EEG evidence for mirror neuron activity during the observation of human and robot actions: Toward an analysis of the human qualities of interactive robots,” Neurocomputing, vol. 70, no. 13–15, pp. 2194–2203, Aug. 2007.
+[3]	J. A. Pineda, L. Giromini, P. Porcelli, L. Parolin, and D. J. Viglione, “Mu suppression and human movement responses to the Rorschach test.,” Neuroreport, vol. 22, no. 5, pp. 223–6, Mar. 2011.
+

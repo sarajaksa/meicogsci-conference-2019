@@ -1,0 +1,24 @@
+... title: Research on the User Experience of the Thesaurus of Modern Slovene
+
+
+
+Abstract
+
+## Introduction
+
+Lexicography has changed a lot since the Dictionary of the Slovenian Standard Language was published at the end of the 20th century, between 1970 and 1991. [1] Until 2016, when a one-volume thesaurus was published only in printed form, describing only Slovene from the middle of the 20th century, no thesaurus in Slovene had been available. [1] Then, in 2018, a new type of dictionary called the responsive dictionary, the Thesaurus of Modern Slovene [3], was introduced by The Centre for Language Resources and Technologies. It is the largest automatically generated open-access collection of Slovene synonyms. The Thesaurus is based on The Oxford®-DZS Comprehensive English-Slovenian Dictionary and the Gigafida reference corpus of written Slovene, that both contain language material created after 1991 and as such offer a description of modern Slovene. Its creators say that it is “a dictionary made by the community for the community” [1] because the language community can contribute with changes and opinions to this type of dictionary, which means it is never finished as it evolves over time. [2] Since this is a new concept in lexicography, with novelties that have not been evaluated yet, the aim of the research is to collect real-time feedback from its users in order to improve it.
+
+## Method
+
+For the research, we used a think-aloud protocol and a half-structured interview. We interviewed 10 Slovene language students and 10 translation students. At the beginning of the session, the student used the thesaurus for approximately 10 minutes and was thinking aloud at the same time. We also recorded the computer screen, so we can see where his mouse pointer was at any moment during the session. After that, we interviewed each student about their view on lexicography, online dictionaries, crowdsourcing and the applicability of the thesaurus.
+
+## Future Research
+
+The interviews are still being conducted and the research will continue with students from other fields of study. The data gathered so far from the first thirteen participants shows promising results. With the majority saying they welcome similar modernizations of language sources. Once the in depth analysis of the research results is done, it will serve as a guide to improve the dictionary.
+
+## References
+
+[1] S. Krek, C. Laskowski and M. Robnik-Šikonja. From translation equivalents to synonyms: creation of a Slovene thesaurus using word co-occurrence network analysis. _Proceedings of eLex 2017: Lexicography from Scratch_, 19-21 September 2017, Leiden, Netherlands. Available: https://elex.link/elex2017/wp-content/uploads/2017/09/paper05.pdf. [Accessed May 8, 2018].
+[2] The Centre for Language Resources and Technologies, CJVT Sopomenke 1.0, “About the Thesaurus”. [Online]. Available: http://viri.cjvt.si/sopomenke/eng/about. [Accessed May 8, 2018].
+[3] The Centre for Language Resources and Technologies, CJVT Sopomenke 1.0. [Online] Available: http://viri.cjvt.si/sopomenke/eng/. [Accessed June 6, 2018].
+

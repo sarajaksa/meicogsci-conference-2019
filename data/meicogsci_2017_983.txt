@@ -1,0 +1,18 @@
+... title: Combining Electroencephalography With Transcranial Magnetic Stimulation As a New Step in Understanding Mechanisms of Non-invasive Brain Stimulation Techniques
+
+
+
+Abstract
+
+In the 1980s, a new non-invasive neuromodulatory technique called transcranial magnetic stimulation (TMS) was developed and is now being increasingly used in clinical and research practices around the world. During this period, we have seen numerous comprehensive and consistent reports about the beneficial effects of high-frequency TMS to the left dorsolateral prefrontal cortex (l-DLPFC) in patients with major depressive disorder who have not benefited from at least two courses of antidepressant medication. Despite these advances, the main question remains open: how exactly does this technique work?
+
+In general, we distinguish four types of TMS, depending on the frequency and shape of the induced electric field; single-pulse TMS, repetitive TMS (rTMS), paired pulse TMS and theta burst stimulation (TBS). Latter is a patterned rTMS protocol, which uses short bursts at 50-100 Hz stimulation frequency that are then repeated at 5 Hz. This has been shown to induce long-term potentiation (LTP) in a faster and more secure way than traditional rTMS protocols. The most widely used methods for measuring the effects of non-invasive brain stimulation (NBS) in cortical excitability, is by looking into the motor evoked potentials (MEPs). It was shown that a single TBS session produces a mixture of facilitatory and inhibitory effects on synaptic transmission, with facilitation building up faster than inhibition. This led to the proposition that intermittent TBS would favour rapid build-up of facilitation. After a few years, more investigations of cortical excitability were starting to show a big issue with the TBS protocols, namely that the MEP responses observed are highly variable both within and between individuals. This has to do with factors of gender, aerobic exercise, age, attention, pharmacology and genetics. [1]
+
+Since MEPs are highly variable, and limited to the motor cortex, new techniques are starting to be searched for. One of them is the combination of TMS with electroencephalography (EEG). Researches are reporting EEG correlates of cortical excitability, inhibition and interhemispheric connectivity. Using this methodology, we can observe TMS-evoked potentials (TEPs), that already have specific and described components, such as P30, N45, N55, N100 and P180. [2] The next logical step, which we are currently undertaking, is to find the most suitable interpretation of these components and with this also their possible correlation with MEPs. We believe this is how we can achieve a better understanding of the mechanisms and effects of NBS techniques when treating conditions such as, treatment-resistant depression.
+
+!!References
+
+[1] M. C. Ridding and U. Ziemann, “Determinants of the induction of cortical plasticity by non-invasive brain stimulation in healthy subjects,” The Journal of Physiology, vol. 588, no. 13, pp. 2291–2304, 2010.
+
+[2] R. J. Ilmoniemi and D. Kičić, “Methodology for Combined TMS and EEG,” Brain Topography, vol. 22, no. 4, pp. 233–248, Oct. 2009.
+

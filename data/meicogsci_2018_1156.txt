@@ -1,0 +1,24 @@
+... title: How Dependent Are fMRI Results on Specific Analysis Tools: A Comparison of Results Analyzed with AFNI, FSL and SPM
+
+
+
+Abstract
+
+## Introduction
+Functional magnetic resonance imaging (fMRI) is a neuroimaging method based on the blood flow in the brain, which indirectly indicates neural activity. The data is analyzed in multiple steps; this can be done in one or more of the available software packages, the most common being the open-source packages AFNI (Analysis of Functional NeuroImages), FSL (FMRIB Software Library) and SPM (Statistical Parametric Mapping) [1].
+It is possible, however, that these software packages could give different results. A few studies have shown that there is a methodological plurality, that can result in a different general pattern of identified brain activation [2]. If that is the case, it would put into question the validity of applying this type of neuroimaging. The aim of our study is first to compare the results of obtained using AFNI, FSL and SPM tools, and second, to compare the results of a block design to an event-related design. 
+
+## Methods
+We will be using data from a study on obesity, where 16 subjects performed an attentional capture task using salient stimuli. This included a block design run and an event-related design run. The data will be analyzed separately with AFNI, FSL and SPM and the results will then be compared quantitatively and qualitatively.
+
+## Results
+We expect the results from the different software packages to not differ significantly. Whereas some studies have shown that they do differ [2], our expectations are in line with the assumptions in today’s neuroscience. The results from the block design are expected to be more robust than the ones from the event-related design, as the models indicate.
+
+## Discussion
+With our research, we wish to improve the validity of neuroscientific studies that use fMRI as their method. While there have been many comparisons of fMRI software packages, very few directly compare the results obtained on the same dataset, so this will be valuable information. Showing that results do not differ when using different software packages will support the presumption that neuroimaging gives us a reflection of reality and not just methodological bias. It is not possible to make this conclusion at this point, as there is still the question of other theoretical assumptions, interpretation of results etc., but it is a step further into reflecting on the methods used in cognitive science.
+
+## References
+[1] R. A. Poldrack, J. A. Mumford and T. E. Nichols, *Handbook of functional MRI data analysis*. New York: Cambridge University Press, 2011.
+
+[2] R. Pauli, A. Bowring, R. Reynolds, G. Chen, T. E. Nichols and C. Maumet, “Exploring fMRI Results Space: 31 Variants of an fMRI Analysis in AFNI, FSL and SPM,” *Frontiers in Neuroinformatics*, vol. 10, no. 24, Jul., pp. 1-6, 2016.
+

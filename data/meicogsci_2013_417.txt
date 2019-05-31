@@ -1,0 +1,32 @@
+... title: Enabling Psychotherapeutic Spaces
+
+
+
+Abstract
+
+!!!! Enabling Psychotherapeutic Spaces
+
+The relation of a healing potential to design in psychotherapeutic spaces was studied in many researches. It was noted, that patients are responding to different settings in a way, which affected the therapeutic process and its outcome. Beautiful rooms are described as attractive, pretty and comfortable and on the other side in the ugly rooms patients were more likely to complain of monotony, fatigue and headache and showed irritability and hostility [1].
+
+Several studies showed also more specific effects on patients well-being during therapy. On e.g. seeing personal memorabilia of therapists was shown to lead to better self-disclosure in patients, the display of a large number of credentials was concluded as a positive impact factor on judgements of therapists’ qualifications [2], specific lightning, decoration and interior design were also studied and concluded as important elements in psychotherapeutic spaces [1].
+
+The problem with the most studies conducted is that although it is known how specific physical properties affect patient and therapist, we are unsure about the outcomes of different features combined. Although they were tested (on e.g. beautiful vs. ugly [1], soft vs. hard [2]) it could be different for every patient and therapist, as there are different preferences. For getting better or completely new results it is important to discover the core processes, which can be later transformed to a physical space as innovative enabler of new knowledge.
+
+In this study, enabling space paradigm is used, which is focused toward identification of core processes and patterns that define specific environments [3]. The identification was done by searching for the basic qualities that are needed in psychotherapy by therapists and patients. 
+
+!! Methods
+
+Qualities were researched using qualitative interviews. 12 interviews with patients, which were on average 21:19 minutes long and 7 interviews with psychotherapists, which were on average 44:50 minutes long were made. In those interviews patients and psychotherapists were asked about the branch of the psychotherapeutic approach they are attending or performing, basic qualities needed, their relation to physical settings and relation to the process of psychotherapy. Interviews were based on previously conducted questionnaires, but were not used rigorously. Thus participants lead conversation and more information, which could lead to innovation was gathered.
+
+!! Results
+
+Based on ‘sense making phase [3]’ and quotes from therapists and patients, trust is proposed as a basic quality, that is needed in psychotherapy and which can later be regarded as a fundament of enabling space. It was concluded that patients develop trust if cognitive, emotional and physical spaces provide them safety, privacy, acceptance and understanding. Distractors showed as very affective in the process of developing trust, so in designing the prototype of physical space, I focused on removing as many of them as possible.
+
+In this talk, I will present the results of the interviews and observation in detail and show a designed prototype of the proposed psychotherapeutic space, based on qualities found.
+
+!! References
+
+[1] Y. Miwa, K. Hanyu. “The Effects of Interior Design on Communication and Impressions of a Counselor in a Counseling Room.” Environment and Behaviour, vol. 38, pp. 484-502, May 2006.
+[2] J. L. Nasar. “Impressions of Psychotherapists’ Offices.” Journal of Counseling Psychology, vol. 58, pp. 310-320, May 2011.
+[3] M. Peschl, T. Fundneider. “Spaces Enabling Game-Changing and Sustaining Innovations: Why Space Matters for Knowledge Creation and Innovation.” Journal of Organisational Transformation and Social Change, vol. 9, pp. 41-61, Apr. 2012.
+

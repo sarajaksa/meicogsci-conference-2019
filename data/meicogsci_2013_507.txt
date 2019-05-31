@@ -1,0 +1,24 @@
+... title: !!!! The effect of 25 Hz rTMS on corticospinal excitability- a study with repetitive transcranial magnetic stimulation
+
+
+
+Abstract
+
+!!!! The effect of 25 Hz rTMS on corticospinal excitability- a study with repetitive transcranial magnetic stimulation 
+
+Transcranial magnetic stimulation (TMS) is a non-invasive method that uses magnetic waves to induce weak electric currents in the brain, i.e. electromagnetic induction principle. With single pulse and paired pulse TMS technique it is possible to measure the excitability of corticospinal neurons and intracortical interneurons, respectively. On the other hand, repetitive TMS (rTMS) techniques produce long term potentiation-like (LTP-like) and long term depression-like (LTD-like) effect in the stimulated brain region and are therefore a valuable electrophysiological tool to study cortical plasticity. Depending on the rTMS technique given over the primary motor cortex (M1), it is possible to either increase or decrease the excitability of the corticospinal neurons. In general, low frequency rTMS protocols produce LTD-like effect, while high frequency protocols (>1Hz) produce LTP-like effect., however the effect will also depend on the intensity of stimulation and the number of given pulses. rTMS has been intensively investigated as a treatment tool for various neurological and psychiatric disorders (e.g. Parkinson’s disease, dystonia, depression) [1, 3]. For example,  25Hz TMS, was reported to improve motor signs in Parkinson’s disease [2], however it is not clear if observed clinical improvement relates to any changes in electrophysiological measures induced by TMS. In particular, it is not known if 25Hz rTMS may induce plasticity changes in healthy subjects or PD patients. Therefore, in the present study, we assessed if 25 Hz rTMS given over the M1 may induce changes in corticospinal excitability, which would suggest that it is an effective protocol to probe motor cortex plasticity. 
+We studied the effect of 25 Hz rTMS over the M1 of dominant and non-dominant hemisphere in 5 right handed healthy individuals. Motor evoked potentials (MEPs) were recorded form Abductor pollicis brevis (APB) and Abductor Digiti Minimi (ADM) muscles. We first determined the optimal stimulation point, i.e. “hot spot” for APB muscle. After determining the resting motor threshold (RMT), we recorded 20 MEPs evoked at intensity of 120% RMT. To probe motor cortex plasticity, we then used 25Hz rTMS (1000 pulses given at intensity of RMT) and assessed the effect of this conditioning protocol on MEPs amplitude at 4 time points: 0, 15 min, 30 and 40 min after rTMS. Each subject underwent stimulation twice (once per hemisphere) on two different days at approximately the same time of the day.
+We are still collecting the data, therefore no statistical analysis has been done yet and discussion is also pending. 
+
+!! Acknowledgements:
+
+We are grateful to Maja Kojović and Jure Bon for their mentorship, as well as Jurij Dreo for teaching us the basics about TMS.
+
+!! References:
+
+[1.] E. S. Higgins and  M. S. George. Brain Stimulation Therapies for Clinicians. Washington, DC and London: American Psychiatric Publishing Inc. 2009.
+
+[2.] E. M. Khedr, J. C. Rothwell, O. A. Shawky, M. A. Ahmed and A. Hamdy. “Effect of Daily Repetitive Transcranial Magnetic Stimulation on Motor Performance in Parkinson’s Disease”. Movement Disorders, vol. 21, pp.  2201-2205, Sep. 2006.
+
+[3.] V. Walsh and A. Pascual-Leone. Transcranial Magnetic Stimulation: A Neurochronometrics of Mind. Cambridge, MA and London: MIT Press. 2003.
+

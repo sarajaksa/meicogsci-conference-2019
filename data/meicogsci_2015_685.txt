@@ -1,0 +1,18 @@
+... title: Probing the Strength of Infants' Preference for Helpers over Hinderers: Two Replication Attempts of Hamlin & Wynn (2011)
+
+
+
+Abstract
+
+Numerous studies have shown that preverbal infants are sensitive to the difference between helping and hindering (e.g., Hamlin & Wynn, 2011).  Additionally, 19-months-old toddlers are more likely to give a treat to a puppet helping to open a box; and they are more willing to take away a treat from the puppet that hinders this process (Hamlin et al., 2013).
+The methodological challenge is to assess whether infants’ and toddlers’ preferences are the results of the actor’s intention or his action. In other words, do they prefer the helper because his intention is good or because he is enabling a good outcome? 
+Therefore, the present study provides a paradigm, based on Hamlin and Wynn (2011), in which 9- month old, fully developed infants are presented with performance of three puppets- the Protagonist, the Helper and the Hinderer. The Protagonist was trying to open the box with colorful rattle inside and was either helped by the Helper or hindered the Hinderer. At the manual choice test, infants were asked to choose one of the presented puppets and encouraged to grab one of them. 
+The study was replicated by 2 independent groups of researcher. In both replications 24 infants (9 month old full term) participated in each study. At baseline, the first study did not replicate the findings of Hamlin and Wynn (2011). Toddlers did not show a preference for either the helper or the hinderer (p=0.44). In our controlled condition, in which helping did not result in a positive outcome, again children did not prefer the helper over the hinderer (p=0.70). The second replication used slightly different procedure, however the results were similar.  Group 2 found, that infants did not significantly prefer the Helper over the Hinderer (12 infants out of 24 did so: p = 1.00, binomial test).
+ This study casts doubts about an innate moral core. Alternatively, we hypothesize that what toddlers really prefer is a puppet that imitates the actions of the puppet who needs help.
+!!Acknowledgements: 
+I want to thank to all members of Cognitive Development Center of Central European University for giving me the opportunity to be part of the project. 
+
+!!References: 
+1.	Hamlin JK. Moral judgment and action in preverbal infants and toddlers: Evidence for an innate moral core. Curr Dir Psychol. 2013. 22(3): 186-193. doi:10.1177/0963721412470687
+2.	Hamlin JK, Wynn K. Young infants prefer prosocial to antisocial others. Cognitive Dev. 2011. 26(1): 30-39. doi:10.1016/j.cogdev.2010.09.001
+

@@ -1,0 +1,19 @@
+... title: Romantic Love and Visual Recognition
+
+
+
+Abstract
+
+In our experimental design we attempted to ascertain whether romantic love influences our visual perception to account for monogamous relationship. We submitted a group of young women in stable, exclusive relationships, to an experimental design in which they were presented a set of visual stimuli - pictures of individual facial features belonging to the subject’s boyfriend, an attractive male neutral and an attractive female neutral. After each stimuli the participants were asked to respond by indicating who was on the picture. We hypothesize that there should be no correlation between the intensity of love and the ability to recognize the boyfriend and the female neutral, but there should be a negative correlation between the love intensity and the ability to recognize the male neutral. The measure of differentiation in recognition was the accuracy with which they could tell who was on the picture.
+
+We used this previous study by Lundström and Jones-Gotman focused on olfactory perception as a basis for our experiment and decided to see if the mechanisms they talk about relate to other perceprion modalities, in our case the visual modality. The authors mention two separate, but connected mechanism – the increased attention to one’s partner, which they call attention theory and the attention deflected from other potential partners, hence deflection theory. In their experiment they found out that there was a negative correlation between identification of an opposite-sex friend and degree of love, supporting deflection theory. We want to try a similar experimental design with visual stimuli to see if we can replicate the results or if there is no such effect with visual perception. [1].
+
+Since facial recognition is a task the human brain is very good at, as it evolved to be, we decided to work only with facial features instead of whole faces and decided to keep the presentation of the stimuli for as short a time frame as possible. We decided to present the stimuli for 200ms based on two basic components that are tied with facial recognition. The weaker M100 and the stronger N170 (M170). While we did not employ EEG/MEG in our project we used this study as a reference for setting the time frame for stimuli presentation [2].
+
+The relationship was assessed by Passionate Love Scale, a 15-item scale measuring the intensity of passion in the relationship. We hypothesize that the stronger the passion in the relationship is the less the women will be able to differentiate the male neutral control [3].
+
+
+[1] J. N. Lundström, M. Jones-Gotman. "Romantic love modulates women's identification of men's body odors." Hormones and Behavior, vol. 55, pp. 280-284, 2009.
+[2] J. Liu, A. Harris, N. Kanwisher. "Stages of processing in face perception: an MEG study." Nature neuroscience, vol. 5(9), pp. 910-916, 2002.
+[3] Hatfield, E., Sprecher, S., 1986. "Measuring passionate love in intimate relationships." J. Adolesc., vol. 9, pp. 383–410, 1986.
+

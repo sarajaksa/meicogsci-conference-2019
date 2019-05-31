@@ -1,0 +1,30 @@
+... title: Virtual Enabling Space: Value Creation in Networking Events
+
+
+
+Abstract
+
+!!!! Virtual Enabling Space: Value Creation in Networking Events
+
+!! Introduction 
+Conferences are knowledge-intense events that create opportunities to bring experts from different fields together and open spaces for communication. Different human-computer interfaces, e.g. web-tools and apps, have been designed to moderate communication in a conference setting based on cognitive science, computer science, and phenomenological philosophy [1].
+Developed by Danube University Krems, Event Network Advancement (ENA) is a web based platform with the goal to enhance conference experience in terms of networking and knowledge sharing by visualizing both conference and participants’ information in an interactive manner.
+
+!! Objectives of ENA
+ENA pursues two main objectives; Virtual Event Explorer and Enabling Event Space, whereas our project pursues the first objective.  
+Virtual Event Explorer focuses on visualizations that is claimed to enable the individual exploration and identification of potential communication targets during and after the conference. 
+
+!! Goal of the Project
+The goal for this project (MEi:CogSci SS2014) is to enhance human-computer interaction mediated by the first prototype which was designed prior to the current project. The resulting product will be applied at Wima conference held by Danube University Krems on 27 and May 28, 2014 to provide participants a tool to easily navigate and contact people of their interest.
+
+!! Project Structure
+The first step was to conduct literature research to get acquainted with the history and current state of the art in the field of human-computer interaction with regard to event management tools.
+Next, comparison research was carried out to assess ENA’s competitiveness with features offered by other available tools in the market. 
+Further, a usability test was conducted as in line with human-computer interaction design  to evaluate a product by testing it on users. The test consisted of a task-oriented questionnaire which is specifically designed to fit ENA’s features and objectives. Ten usability experts participated in the test to evaluate the tool to find any inconsistencies associated with the usability standards [2] and report on their experience and impression [3]. 
+The final report, encompassing all these steps, respective findings, and analysis of the results, shall be presented to the ENA development board for further possible modification to the tool.
+
+!! Reference
+[1] J. Hurtienne,  “Cognition in HCI: An Ongoing Story”. Human Technology, vol. 5, no. 1, pp 12-28, May 2009. 
+[2] J. Nielsen, R. L. Mack, “Usability Inspection Methods”. New York: John Wiley & Sons, 1994.
+[3] S. Gallagher, D. Zahavi, “Phenomenological Mind. An Introduction to Philosophy of Mind and Cognitive Science”, Routledge, 2008
+

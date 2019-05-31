@@ -1,0 +1,18 @@
+... title: !!!! Vocabulary Differences Between Stutterers and Non-stutterers
+
+
+
+Abstract
+
+!!!! Vocabulary Differences Between Stutterers and Non-stutterers
+
+The stuttering is a speech disorder where verbal communication is involuntary disrupted by repetitions, prolongations or pauses. In order to speak more fluently, adult stutterers tend to replace words which are difficult to pronounce with more easily pronounceable words in their verbal expression, as a part of their coping strategy [1]. This exploratory study looks at potential differences in the active vocabulary of stuttering and fluent adult population. We hypothesize that due to such coping strategy, they might use less frequent words than the intact population in their speech.
+Since stutterers prefer written rather than oral communication [2], both groups were tested with an online questionnaire, to make conditions more equal. The subjects are Slovak native adults. The questionnaire consists of an identification part, a verbal fluency task, a picture naming task and questions about the stuttering and learning disabilities, which could interfere with results. We hypothesize that vocabulary of adults who stutter will differ from the intact population vocabulary in both tasks. More precisely, the immediate vocabulary of both groups will be different in the verbal fluency task, because they will write the words they usually use as first. In the picture-naming task, they will use different synonyms for each depicted situation, because they do that in real life to avoid certain problematic words, which might belong to the active vocabulary of non-stutterers. The results of stutterers were compared with results of fluent participants matching their sex, age and education. The preliminary results showed mostly individual differences between the groups, which means more participants are needed to confirm the hypothesis. As it was not examined before, all methods are tested in the vocabulary of adult stutterers and non-stutterers for the first time and they might need further corrections.
+
+!! Acknowledgements
+Special thanks to Jana Basnakova and Veronika Duricova for supporting this project.
+
+!! References:
+[1] V. Lechta, „Balbuties”, in Logopedické repetitorium, 1st ed. Bratislava, Slovakia: Slovenske pedagogicke nakladatelstvo, 1988, ch. IX, pp.228-248. 
+[2] L. Vlachova, „Komunikacni dovednosti osob s diagnozou balbuties“, Bachelor thesis, Faculty of Education, Masaryk University, Brno, Czech Republic, 2013.
+

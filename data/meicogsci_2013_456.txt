@@ -1,0 +1,24 @@
+... title: Impact of Motor Action Familiarity on Motor Resonance
+
+
+
+Abstract
+
+!!!! Impact of Motor Action Familiarity on Motor Resonance
+
+Mirror neurons were originally discovered in area F5 (responsive to goal-directed hand and mouth movements) of the ventral premotor cortex in macaque monkeys. Neurons in F5 discharged not only during the execution of a certain grasping movement, but also when the monkey looked at the experimenter producing the same action. [1]
+
+Some of the strongest evidence testifying to the presence of mirror neurons in humans, however, has been observed in a phenomenon called motor resonance.  Motor resonance is a partial activation of motor neural circuitry, caused by sensory (usually visual) stimulation. In other words, this activation of the sensorimotor cortex, normally responsible for voluntary movement-based actions, is also witnessed when subject is perceiving that particular movement/action in question. This is a theoretical interpretation of empirically documented cases, where de-synchronization in μ-rhythm (EEG) led to linking this very phenomenon with the already established framework of the system of mirror neurons in humans. [2]
+
+The experimental design in its entirety will consist of two groups of subjects – an experimental group (primed seven days prior to the experiment by repetitiously executing object-oriented action) and a control group (with no prior experience with the said action) will watch video stimuli, while their EEG waves will be recorded. The stimuli, a person exercising aforementioned particular object-oriented motor action and multiple other ordinary actions as a control, will be taped (various angles) beforehand to keep the conditions uniform for all the subjects. 
+
+The pilot part of the research, intended to test and adjust the experimental design and stimuli will compare two groups of subjects. The experimental group will entail professional makers of the traditional Slovak musical instrument – fujara. The control group will consist of subjects unfamiliar with the specifics of the fujara making process. The stimulus, a specific movement included in the process of fabrication, will be presented to the subject, with control stimuli in form of different types of other actions for comparison.
+
+The hypothesis states that the observed de-synchronization of the μ-rhythm in subjects from the experimental group should be significantly higher with respect to the control group and to the control stimuli. Output in the form of density maps for spectral subtractions will be presented to demonstrate either corroboration or repudiation of the hypothesis. [3]
+
+!! References
+
+[1] G. Rizzolatti et al., “Premotor cortex and the recognition of motor actions,” Cognitive Brain Research, vol. 3, no. 2, pp. 131-141, 1996.
+[2] R. P. R. D. Van der Wel et al., “Action perception from a common coding perspective,” in People Watching: Social, Perceptual, and Neurophysiological Studies of Body Perception, K. L. Johnson and M. Shiffrar, Eds. New York: Oxford University Press, 2013, pp. 101-115.
+[3] S. D. Muthukumaraswamy et al., “Mu rhythm modulation during observation of an object-directed grasp,” Cognitive Brain Research, vol. 19, no. 2, pp. 195-201, 2004.
+

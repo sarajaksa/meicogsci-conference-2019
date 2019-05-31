@@ -1,0 +1,25 @@
+... title: Genetic Predisposition for Neurological Disorders in Populations - An Evolutionary Perspective
+
+
+
+Abstract
+
+## Introduction
+
+Novel research in genetics and genomics has shown that the development and function of the brain are controlled by the genetic blueprint, and it reflects changes that have happened over the history of evolution [1]. The phenotypic evolution in populations is the result of different evolutionary forces acting on heritable variation such as mutation, genetic drift, gene flow and natural selection. Disease risk alleles of neurological disorders should be under strong negative selection because of its negative fitness effects. However, it appears that at least some neurological disorders are highly polygenic, suggesting that their genetic predisposition should be due to the additive result of a hundred to thousand genetic variants with small effect size [2]. Moreover, these risk variants may differ among the human populations. 
+The strength of natural selection may be dependent on various environmental factors driving the population-specific frequency of selected alleles. For instance, results of a recent study suggest that certain autism spectrum disorder (ASD) risk alleles are under positive selection during human evolution due to their involvement in neurogenesis and cognitive ability [3].
+
+## Method
+
+In this study, we will use different population genetic models of natural selection and genome-wide tests of positive selection to examine the hypothesis that polygenic selection drives population-specific risk alleles for neurological disorders in human populations. We will combine bioinformatics analyses of the genomic data, human population genetics analysis, and machine learning methods in order to identify the important variables, gene networks, and molecular pathways.
+
+## Results
+
+The integration of genomic data, population genetic data, and functional genetic data will help us to identify the causal genetic variants and to determine the evolutionary networks underlying neurological disorders susceptibility. Finally, we will try to answer to what extent is human behavior a product of genes and to what extent of the environment. 
+
+## References
+
+[1] B. Bae, D. Jayaraman, and C. A. Walsh, “Genetic Changes Shaping the Human Brain”, Developmental Cell, vol. 32 no. 4, pp. 423–434, Feb. 2015.
+[2] M. J. Daly, E. B. Robinson, and B. M. Neale, “Natural Selection and Neuropsychiatric Disease: Theory, Observation, and Emerging Genetic Findings.”, In Genomics, Circuits, and Pathways in Clinical Neuropsychiatry, T. Lehner, B. L. Miller, M.W. State, Academic Press, 2016, pp. 51-61.
+[3] R. Polimanti, J. Gelernter “Widespread signatures of positive selection in common risk alleles associated to autism. spectrum disorder.”, PLoS Genet vol. 13 no. 2, e1006618. Feb. 2017.
+

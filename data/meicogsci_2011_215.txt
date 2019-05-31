@@ -1,0 +1,28 @@
+... title: Changes in event-related electroencefalographic coherence during the performance of  verbal task as a reflection of compensatory changes in corticocortical connections in patients with Broca's aphasia
+
+
+
+Abstract
+
+Veronika Rutar, Christina Manouilidou, Aleš Belič, Ignac Zidar, Blaž Koritnik, Grega Repovš, Jure Bon, Janez Zidar, Katarina Marjanovič, Lenka Vrhunec
+Institute of Clinical Neurophysiology, Ljubljana, Slovenia
+
+Introduction: Broca’s aphasia is a language disturbance (also known as cortical motor, expressive or nonfluent aphasia), typically caused by a stroke in Broca's area or the surrounding vicinity. Patients with this syndrome have difficulty speaking, their speech is nonfluent, telegraphic and agrammatical. The patients’ language is therefore reduced to disjointed words and consists of only open class content words (function words are omitted). Beside the loss of ability to produce comprehensible spoken language, patients also experience difficulties (or are incapable of) producing written language. There is some indirect evidence that this type of aphasia also impairs working memory, which additionally contributes to the speech disorder. The first part of our research is thus focused on verbal and spatial working memory. Working memory is typically defined as a storage system that holds a limited amount of information for a short period of time. The information held in this storage is rapidly accessible and can easily be changed. There are different kinds of working memory buffers among which are also spatial and object working memory, which stores spatial information, and verbal buffer, which stores speech-like material.
+
+Aim: In our neurolinguistic study we will compare the brain activity of patients with Broca’s aphasia to the brain activity of a healthy control group during complex cognitive tasks (tasks which require the use of working memory). 
+Using EEG and fMRI we will explore the effects of a brain stoke on certain brain processes – its consequences on the brain activity during the execution of a complex cognitive task. 
+The results of the research will possibly lead to a better understanding of brain plasticity and its capacity for functional recovery (its capacity to regenerate, compensate and remodel after a stroke). At the same time, the research aims to contribute to the better understanding of language information processing in healthy subjects. Thus, the aim of first part of our study is to investigate the pattern of EEG coherence changes in verbal and spatial working memory task and the effect of irrelevant speech interference. The results will later be compared to brain activity of patients with Broca’s aphasia.  
+
+Methods and tests: Subjects: 15 right-handed subjects in the control group, 15 right-handed ischemic stroke patients. 
+In the first part of our research, seven healthy volunteers performed two working memory tasks in which they were presented with a set of letters (verbal task) or positions (spatial task). They had to maintain the order of the letters or positions and later report whether the probe was presented at the indicated position within the set. In some cases, there were interference conditions - irrelevant speech was presented throughout the tasks (verbal task + irrelevant speech, spatial task + irrelevant speech). 128-channel EEG was recorded. Task-related coherences were calculated for all electrode pairs in all frequency bands for maintenance periods and compared between all conditions (verbal task, spatial task, verbal task + irrelevant speech, spatial task + irrelevant speech). Event-related theta power spectrum changes were later calculated using wavelet analysis.  Further research will include 15 right-handed ischemic stroke patients, which suffer from Broca’s aphasia and additional 8 healthy volunteers.
+
+Current results: In all healthy participants, a clear, almost identical pattern of increase in theta coherence between fronto-central pairs of electrodes separately in each hemisphere and a decrease of the interhemispheric coherence for verbal and spatial tasks was demonstrated. In verbal task with irrelevant speech condition, there was a decrease in left inferiofrontal theta power during maintenance. 
+
+Conclusion: High-density EEG revealed short-range synchronizations within fronto-central regions. The modality-independent increase in fronto-central theta coherence can be interpreted as a reflection of working memory executive function. The effect of irrelevant speech was demonstrated as a decrease in theta power during maintenance in left inferiofrontal region. 
+
+
+References
+Bear, M. F., Connors, B. W., Paradiso, M. A.: Neurosicence: Exploring the Brain, Third Edition. Lippincott Williams & Wilkins, 2007: 621-623.
+Edward E. Smith, E. E., Jonides, J., Koeppe, R. A.: Dissociating Verbal and Spatial Working Memory Using PET. Oxford University Press. Cereb. Cortex, 1996 (6): 11-20.
+Rogalsky, C., Matchin, W., Hickok G.: Broca's Area, Sentence Comprehension, and Working Memory: An fMRI Study. Frontiers in Human Neuroscience, 2008 (2): 14.
+

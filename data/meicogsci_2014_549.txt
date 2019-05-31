@@ -1,0 +1,38 @@
+... title: The Importance of Humor in the Classroom
+
+
+
+Abstract
+
+!!!! The Importance of Humor in the Classroom
+
+!! Introduction
+
+Many agree that humor is an important part of the learning process. There have been studies to prove the impact of humor on remembering and recalling information [1]. Two hypotheses for why this occurs have been proposed – either the emotional arousal helps heighten impact of the information on our brains or simply the fact, that we pay more attention to humorous material helps us remember it better.
+
+!! Future experiment proposal
+We hope to conduct a large-scale experiment in the future, where one group of students will be taught without humor and the other will be in an environment where humor is regularly used. Our hypothesis is to see greater improvement in the latter group of students at the end of the course. We believe that our proposed experiment could be run in various teaching environments, but for our pilot experiment we chose the classes of English as a Second Language.
+
+!! Pilot experiment design
+We designed a pilot experiment to help us find limitations in the testing approach and see preliminary results. As a part-time English tutor, the author tested her class. The class consists of 8 students, but only 6 attended both lessons in which the experiment was conducted.
+
+The experiment had two phases; each phase lasted one lesson (e.g. 90 minutes). The lessons were similar in the type of taught material, apart from first 20 minutes of class, which intended to set the atmosphere in class. During each lesson new vocabulary was presented and explained without translation. In the last 15 minutes of class, the vocabulary was reviewed and students were given a test.
+
+The lessons looked as follows:
+*1.	non-humorus lesson: 20 minutes grammar exercises, reading, listening, testing
+*2.	humorous lesson: 20 minutes speaking exercise, reading, listening, testing
+
+!! Pilot experiment results
+4 out of 6 students had better test results in the second lesson; the 2 remaining students had the same test score in both cases. The average difference between lessons was 0.91 words. The highest difference between the two lessons was 2.5 words.
+
+However, this difference has not proven to be statistically significant. We assume this was caused by the small real difference between two classes, since the students were accustomed to relaxed environment in the classroom and finding situation humorous on their own. Another limitation was the relatively small number of participants.
+
+!! Conclusion
+Although due to limitations of our study we have not yet proven our hypothesis, we see the importance of such research to be conducted on larger scale. We have also found other aspects of learning and teaching that we would like to study in the future.
+
+!! Acknowledgments
+I would like to thank RNDr. Barbora Cimrova, PhD. and PaedDr. Viera Zufkova, PhD. for advice and co-operation
+
+!! References
+[1] S.R. Schmidt, "Effects of humor on sentence memory," J. Exp. Psychol.: Learn., vol. 20, no. 4, pp. 953-967, Apr. 1994.
+

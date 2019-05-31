@@ -1,0 +1,22 @@
+... title: Cognitive Models of Multi-attribute Decision Making
+
+
+
+Abstract
+
+!!!! Cognitive Models of Multi-attribute Decision Making
+
+In this research project, we want to investigate contributions to decision research from the perspective of cognitive modeling. Traditionally, decision research was dominated by normative economic theories and has developed mostly in separation from the cognitive sciences [1]. This historical divide has led researchers to focus on outcome rather than process models of decision making. However, a better understanding of decision making, instrumental to the goal of understanding human cognition at large, requires models of intra-agent processes that explicate the kinds of representations and mechanisms proposed to be involved in decision making [2]. In this work, we want to reflect on a selection of models that are currently being discussed in the literature and investigate a potential for their unification or reconciliation.
+
+Based on [1, 3], we will (i) describe dimensions that we assume to be important in order to characterize models, including: aspects of the decision process; differing levels of abstraction and process granularity; model assumptions and boundary conditions. We will then (ii) place selected models within this multi-dimensional framework and (iii) assess possibilities for their integration and reconciliation. Three types of models will be discussed: (a) Rule-based (heuristic) models are modular, assuming a number of evolved decision strategies consisting of simple rules for information search exploiting core psychological capacities such as recognition memory. This approach entails an ontological commitment to rules as representational structures. (b) Evidence accumulation models, such as decision field theory, focus on the deliberation process. Decision makers are assumed to sequentially direct their attention at evidence for or against decision alternatives until a decision threshold is reached. This approach proposes a single decision process, obviating the metacognitive task of strategy selection. (c) Lastly, intuitive process models focus on more sophisticated computations and mimic automatic, i.e. cognitively “effortless”, processes. They have been used to model compensatory strategies that require the weighing and adding of large quantities of information.
+
+Our current analysis indicates an incompatibility of evidence accumulation models and rule-based heuristic proposal, while models addressing different aspects under the dual-process paradigm (see e.g. [1]) seem to be amenable to integration. In addition to that, the fact that some of the models may be empirically indistinguishable points at deeper epistemological questions of model selection.
+
+!! Acknowledgments 
+Special thanks to Paolo Petta at the Austrian Research Institute for Artificial Intelligence (OFAI) for supervising this project.
+
+!! References
+[1] Newell, B. R. and A. Bröder, “Cognitive processes, models and metaphors in decision research,” Judgment and Decision Making, vol.3, no. 3, 2008, pp. 195-204.
+[2] Sun, R.  et al., “On levels of cognitive modeling,” Philosophical Psychology, vol.18, no.5, 2005, pp. 613-637.
+[3] Busemeyer, J. R. and J. G. Johnson, “Computational models of decision making” in Blackwell handbook of judgment and decision making, in: D. J. Koehler and N. Harvey, Eds. Wiley-Blackwell, Oxford, United Kingdom, 2004, pp. 133-154.
+

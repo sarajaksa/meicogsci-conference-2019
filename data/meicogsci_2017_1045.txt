@@ -1,0 +1,15 @@
+... title: The Role of Mental Representations in Problem Solving Process
+
+
+
+Abstract
+
+Problem solving research field has been widely researched through many disciplines, such as psychology, medicine and engineering, and a lot of research has been focused on how one tackles a given problem (problem-solving process) through strategy use and optimization [1]. But there exists a very important aspect that is considered intuitive and often neglected: Shape and mental representation of the problem and problem-solving process. 
+	Given a complete problem description, the problem-solving process is far from uniquely determined. The subject’s internal mental representation of the problem then fully shapes the problem (and solution) spaces and consequently the problem-solving process as well. This mental shape of the problem determines how problem-solving will occur and which strategies can be applied. Herbert A. Simon and his associates [2] argue that the effectiveness of problem-solving process lies in the mental representation of the problem, which is strongly determined by problem description information and prior knowledge. It was shown that, although initial mental representation may not always be the best and can even block production of a successful solution, subjects are often unable to change it and avoid the knowledge transfer (effect of solving a task on solving subsequent tasks). 
+	The general aim of our study is to examine to what extend people tend to transfer previous mental representation  into subsequent isomorphic problem solving tasks. More specifically, we  will examine the effect of prior learned knowledge (experiment 1) and also the effect of problem description manipulation (experiment 2) on creation and transfer of mental representation. Using a matchsticks problem solving tasks in the first experiment we will investigate whether creating a mental representation and learning effective strategies leads to a negative (unwanted) transfer in an isomorphic task, so that other representations and strategies are overlooked. The second experiment will examine the effect of transfer in a more specific field of programming. Here, we will investigate whether manipulating the structure of information about the problem task induces creation of a certain mental representation and choosing of a particular strategy. We will also investigate whether the transfer of strategy used also occurs in neutrally introduced isomorphic task that does not induce creation of a particular mental representation. Hopefully, our research will provide new findings about how prior knowledge and information structure affect the occurrence of transfer, which could create some base-ground for further interdisciplinary research in psychology and computer science.
+
+
+!!References
+[1] Y. Wang and V. Chiew, “On the cognitive process of human problem solving,” Cognitive Systems Research, 2010, pp.11:81–92.
+[2] K. Kotovsky and D. Fallside, “Representation and transfer in problem solving,” Complex information processing: The impact of Herbert A. Simon,  1989, pp.69–108.
+

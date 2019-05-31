@@ -1,0 +1,19 @@
+... title: Investigating Inequity Aversion in Pack-living Wolves and Dogs
+
+
+
+Abstract
+
+Domestication of dogs may have initially occurred to increase interspecific cooperation between wolves and humans. During domestication, humans bred for cognitive traits that enabled ancestral wolves, and eventually dogs, and humans to communicate and work together more effectively. Investigating cognitive, environmental, and social differences between wolves and dogs enables us to distinguish cognitive abilities that have been shaped by humans from those that have not changed since domestication from earlier, ancestral wolves.
+
+Social structures of wolves and dogs rely heavily on cooperation. Inequity aversion, defined as partners resisting inequitable outcomes [1], may have evolved alongside cooperation as it allows individuals to assess with whom they should and should not cooperate. This study compares inequity aversion in wolves and dogs raised in pack environments to determine phylogenetic and ontogenetic factors involved in a cognitive process that potentially contributes to cooperative behavior.
+
+Pairs of captive, pack-living wolves and dogs are tested under various equity conditions at the Wolf Science Center in Ernstbrunn, Austria. Equity conditions in the social setting consist of three tests: Equity (subject and partner receive same low-value reward for same amount of work), Quality Inequity (subject receives low-value reward, partner receives high-value reward), and Reward Inequity (subject receives no reward, partner receives high-value reward). In the No Reward condition of the asocial setting, subjects are tested on how many trials they will work without receiving a reward.
+
+We expect results for pack dog dyads to indicate that dogs are sensitive (stop working earlier, display more stress behaviors) to a Reward Inequity more-so than a Quality Inequity. We also expect they will stop working earlier in the Reward Inequity test than in the asocial No Reward test. We predict wolves will show sensitivity to Reward Inequity. We also predict they will stop working earlier in the Reward Inequity test than in the asocial No Reward test. A sensitivity to Quality Inequity may indicate that wolves are more inequity averse due to their high dependence on intraspecific cooperation, or that they focus on food rewards more than pleasing a human, an effect of domestication.
+
+We can compare pet dogs to pack dogs to determine which social interactions are shaped by a dog’s training and close relationship with a human and which interactions are more broadly shaped by domestication. Wolves provide an important baseline comparison to the differences between pet dogs and pack dogs in order to identify the environmental and social pressures that contribute to the development of inequity aversion as a cognitive process in canids and potentially other species as well.
+
+!!References
+[1]F. Range, L. Horn, Z. Viranyi and L. Huber, 'The absence of reward induces inequity aversion in dogs', PNAS, vol. 106, pp. 340-345, 2009.
+

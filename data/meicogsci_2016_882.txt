@@ -1,0 +1,32 @@
+... title: Human Affect and Typography Aesthetics – on Qualitative Aspects of Mnemonics at the Intersection of Image and Text
+
+
+
+Abstract
+
+While there is a wealth of research in the field of art history and reading, the investigative effort at the intersection of  research on lines, images and text is at its infancy and located in the young field of neuroaesthetics [1]. How are shapes, lines, and “patterns” in the world affecting our cognitive and affective processes? And is there a type of aesthetic quality to cognitive offloading techniques that contributes to the production of meaning?
+
+In order to inspect the correlations between perception, typography and affect this study is employing EEG and eye-tracking methods. The aesthetics of typographic design and the potential consequences on human affect are studied via four questions:
+What is the epistemological surplus of aesthetics in text perception?
+How can visual quality help us learn and memorize better?
+How can science be conducted/communicated more effectively?
+In what ways is knowledge development affected and structured by visual qualities, and are there differences between age groups?
+
+60-100 subjects are presented with 1 motive in 3 versions alternating neutral and aesthetic typographic stimuli.
+Each motive is seen only once for a duration of 20 sec. Using EEG and eye-tracking data, in conjunction with interviews and self-report questionnaires, the difference in perceiving “neutral” text and typographic design is compared while neural underpinnings of the aesthetic episode are gathered.
+
+Understanding typographic design and its representational effects (as a large projection field of non-verbal imagery and cognitive structuring [2]) can help explain human situated cognition [3] and elucidate the building blocks involved in the construction of images and composition of text. Understanding how we see and design our knowledge helps us understand how we experience the world and how we think. One of the goals of this study is to explore the links between visual representation and emotional connotations and to determine the effect context plays on the communication of science and knowledge acquisition. Moreover its aim is to contribute to a better understanding of the emotional component of the aesthetic episode and its evolutionary origins.
+
+!! References
+[1] H. Leder, "Next steps in neuroaesthetics: Which processes and processing
+stages to study?." Psychology of Aesthetics, Creativity, and the Arts, vol.
+7, no. 1, p.27, 2013 [Online]. Available: APA PsycNET,
+http://psycnet.apa.org/journals/aca/7/1/27/. [Accessed May, 31, 2016].
+
+[2] B. E. Koch, “Human emotion response to typographic design,” Ph.D.
+dissertation, University of Minnesota, Minneapolis, USA, 2011.
+
+[3] L. Malafouris “The aesthetics of material engagement,” in  Situated
+Aesthetics: Art Beyond the Skin, R. Manzotti, Ed. Exeter: Imprint Academic,
+2011, pp.123.
+

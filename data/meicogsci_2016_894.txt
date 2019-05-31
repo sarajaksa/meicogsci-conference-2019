@@ -1,0 +1,25 @@
+... title: Automatic Acoustic Siren Detection in Noisy Environment with Deep Neural Nets
+
+
+
+Abstract
+
+!!Motivation
+Rapid and reliable detection of emergency sounds in traffic is an important skill required for human drivers. Next to the need for assisting the hearing impaired, recent developments in autonomous driving have increased the demand for the automatic detection of these sounds in real time. Simultaneously, the amount of available computing resources in cars has increased vastly and enables the use of state-of-the-art machine learning techniques such as deep artificial neural networks.
+
+Multiple previous studies have tackled this task, mostly by employing techniques of low computational cost, such as Mechanical Resonant Filters, or classifiers like Hidden Markov Models. In more recent years, approaches using small-scale artificial neural networks have proved to be successful at detecting siren sounds, achieving up to 99% accuracy [1]. However, these studies usually focus on very restricted databases of siren sounds, often times of emergency vehicles from a single country or department. This results in restricted models, sometimes relying only on a fixed set of frequencies or signal durations. Additionally, most of the studies ignore the large diversity of real world scenarios, such as closed windows or the Doppler effect caused by moving vehicles.
+
+!!Method
+This study will employ a deep convolutional neural net to detect siren sounds, inspired by an approach for musical onset and voice detection [2]. In a first step, the network is trained on a dataset of several hours of urban noise recordings which include a variety of different siren sounds [3]. In a second step, the available data for training will be augmented by including audio from publicly available videos with siren sounds. As operational systems have to work in real time while simultaneously avoiding false alarms, special attention is paid to finding the optimal response time.
+
+!!Expected results
+The network's prediction accuracy is expected to match the level of previous approaches using neural nets while being able to recognize a larger variety of different sirens. Previous results indicate that reliable predictions can be expected within one second or less and thereby facilitating real world applications.
+
+!!Acknowledgments
+Special thanks to Jan Schlüter, Prof. Gerhard Widmer and OFAI for supporting this project.
+
+!!References
+[1] F. Beritelli, et al. "An automatic emergency signal recognition system for the hearing impaired." Digital Signal Processing Workshop, 12th-Signal Processing Education Workshop, 4th. IEEE, 2006, pp. 179-182
+[2] J. Schlüter and T. Grill, " Exploring data augmentation for improved singing voice detection with neural networks." in Proceedings of the 16th International Society for Music Information Retrieval Conference (ISMIR 2015), Malaga, Spain, 2015, pp. 121-126
+[3] J. Salamon, C. Jacoby and J. P. Bello, "A dataset and taxonomy for urban sound research." Proceedings of the ACM International Conference on Multimedia. ACM, 2014, pp. 1041-1044
+

@@ -1,0 +1,18 @@
+... title: Is neuronavigated hot spot determination of the motor cortex hand area more accurate than the traditional method?
+
+
+
+Abstract
+
+!!Introduction                                                                                                                                                          Transcranial magnetic stimulation is a technique that can be used for excitation of cortical neurons via electrical currents induced by a rapidly changing magnetic field [1]. The importance of accurate coil positioning in TMS has been emphasized in many recent studies [2].Targeting the correct area of the brain (e.g. the DLPFC in the treatment of Major Depressive Disorder) is of great importance for achieving the optimal effect. Moreover, each individual has a slightly different brain morphometry, which makes the traditional landmark based estimation techniques, (e.g. 5 cm rule or 10-20 system) inaccurate [2]. In our study, we will compare two methods for determining the optimal stimulation site for the hand area in the motor cortex, known as the 'hot spot': traditional 'hot spot' hunting and coil positioning guided by neuronavigation. The main goal of our study is to determine which method is more accurate in locating the motor cortex hand area.
+
+!!Methods                                                                                                                                                                                     Five healthy volunteers will participate in this pilot study, and undergo both hand area hot spot determination procedures on two consecutive sessions.  Resting motor threshold (RMT) and MEP latency for both procedures will be analyzed and compared offline.
+
+!!Discussion                                                                                                                                                                       We expect that the neuronavigated method will produce a lower or equal rMT and a shorter or equal MEP latency, when compared to the traditional hot spot hunting method.
+This study is aimed at determining whether MRI guided TMS could be an alternative, not only to landmark estimated coil positioning on the motor cortex, but also to the traditional motor cortex hot spot hunting procedures, which are known to be time consuming, subjective and inaccurate [2].
+
+!!References   
+ [1] P., T. Fox, S. Narayana, N. Tandon, H. Sandoval, S., P. Fox, Kochunov, J., L. Lancaser,  »Column-based Model of Electric Field Excitation of Cerebral Cortex«,  Res. Ima. Cen., Univ. Texas, San Antonio, Div. Neu., Dep. Sur., Univ. Texas, San Antonio, 2004. 
+
+ [2] P., B. Fitzgerald, K. Hoy, S. Mcqueen, J. J. Maller, S. Herring, R. Segrave, M. Bailey, G. Been., J. Kulkarni,  Z. J. Daskalakis, »Randomized Trial of rTMS Targeted with MRI Based Neuro-Navigation in Treatment-Resistant Depression«, Alf. Psy. Res. Cen., Melbourne, Mon. Univ. Dep. Epi. Pre.Med., Melbourne, Cen. Add. Men. Hea., Toronto, 2009.
+

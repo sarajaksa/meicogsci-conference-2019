@@ -1,0 +1,18 @@
+... title: Effect of power posing on pain threshold
+
+
+
+Abstract
+
+With the many challenging issues of experimental pain research in mind, we embarked on a study, based on a published report by Bohns and Wiltermuth [1], who tested dominant and submissive posture effects on pain threshold. Their results show that briefly adopting a dominant pose acutely increases pain threshold, while adopting a submissive pose decreases pain threshold. 
+The main goal of this research is to determine if a simple act such as adopting a specific pose can be used as an aid in managing pain. This information can potentially be used in a variety of fields such as medicine and sport. According to previous research we hypothesised that adopting an expansive or dominant pose would increase pain threshold and adopting a constrictive or submissive pose would decrease it. Similarly to some studies, including Bohns and Wiltermuth [1], participants would not be told that we are testing their pain threshold, in order to avoid some subjective noise in our data. 
+To select the most effective dominant and submissive poses for our main study, we conducted a web based survey in which participants were asked to sequentially adopt and briefly hold six poses and rate their perceived dominance or submissiveness. The six poses were taken from earlier studies [1, 2] and presented to participants in random order. We obtained 100 valid survey responses leading to selection of the most effective dominant and submissive pose. 
+To measure the thermal pain threshold we will be using an IR light source at a fixed distance directed at approximately 3 cm wide circle on participants’ forearm. The participants will be instructed to say when they first detect the thermal stimulus as hot and to say “stop” when the stimulus first reaches the painful intensity. A contact thermometer will be used to measure the irradiated skin temperature with 0,1°C accuracy. We will be measuring pain threshold before and after adopting the randomly assigned pose. To avoid a lowering of pain threshold due to heat-sensitised skin nociceptors, we will switch hands between both measurements. The first hand to be measured and the pose to be adopted will be determined randomly by a program. We will also be measuring blood pressure and heart rate before each pain measurement to cover our primary aim of measuring pain threshold.
+We are expecting to confirm our hypothesis and correlate dominant posing with a higher pain threshold and submissive posing with a lower threshold. These results could prove useful for better understanding of pain and the mind-body connection.
+
+
+
+!!References
+[1] Bohns, V. K. in Wiltermuth, S. S. (2011). It hurts when I do this (or you do that): Posture and pain tolerance. J Exp Soc Psych, 48, 341–345.
+[2] Carney, D., Cuddy, A. J. C. in Yap, A. (2010). Power posing: Brief nonverbal displays affect neuroendocrine levels and risk tolerance. Psych Sci, 21, 1363–1368.
+

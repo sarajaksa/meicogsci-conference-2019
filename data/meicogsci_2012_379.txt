@@ -1,0 +1,23 @@
+... title: 3D TRIANGULATION AS A METHOD FOR EVALUATION OF DYSTONIA IN PATIENTS WITH TORTICOLLIS
+
+
+
+Abstract
+
+Dystonia is a neurological movement disorder which causes involuntary sustained muscle contractions. It may affect the whole (generalized dystonia) or parts of the body (focal dystonia). In our project we had to deal with a special case of dystonia named Spastic torticollis. Torticollis is a focal dystonia of the neck muscles resulting in abnormal postures of the neck, head and shoulders. Dystonia can be primary (unknown cause, often genetic) or secondary (symptomatic, due to other diseases, e.g. cerebral palsy). Pathophysiological mechanisms involve imbalance of neurotransmitters in the basal ganglia. 
+
+The established first line treatment of focal dystonia is the infiltration of affected muscles with botulinum neurotoxin which is the most potent natural toxin that inhibits neurotransmission at the neuromuscular junction through blocking acetylcholine release, resulting in a state of chemical denervation and rendering the muscle unable or less able to contract. These effects last between 2-6 months and then resolve. 
+
+The main goal of this project is to develop an instrumental method which will objectively evaluate the degree of dystonia and the effect of botulinum toxin treatment in patients with torticollis by using a 3D surface measuring method. 
+
+This student project is carried out in the interdisciplinary context of neuroscience (Department of Neurology, University Medical Center Ljubljana) and mechanical engineering (Chair of opt dynamics and laser applications, Faculty of Mechanical engineering, University of Ljubljana) as the part of the LASTRIM (Laser triangulation in medicine) project. The technical part (3D surfaces measurement method) is done by the mechanical engineering faculty researchers. 
+
+We are comparing three methods for the evaluation of torticollis and the effects of torticollis treatment: (1) the Tsui rating scale (a subjective rating scale for evaluating the degree of spastic torticollis); (2) the global scale of improvement; both of them semiquantitative, largely subjective and clinically based; (3) 3D surfaces measurement of the human body as a new method for completely objective evaluation. This method, used in dystonia for the first time in the present study, is gathering a measure for the angle deviation of a patient’s neck position, providing a more objective assessment of dystonia as well as more accurate evaluation of botulinum toxin effects. 
+
+With the development and clinical introduction of the 3D measurement method, we expect to improve medical evaluation of torticollis, enhance the selection of neck muscles that need to be treated with botulinum toxin and provide a more objective study method of the therapeutic and/or adverse effects of botulinum toxin. The main idea is to gather data faster and in a more meaningful way, which will improve the decision making process done by the medical staff. 
+
+References: 
+1. Walker, F.O. (2003). Botulinum toxin therapy for cervical Dystonia. Physical Medicine & Rehabilitation Clinics of North America, 14, 749 – 766. 
+2. Blackie, J.D., Lees, A.J. (1990). Botulinum toxin treatment in spasmodic torticollis. Journal of Neurology, Neurosurgery, and Psychiatry, 53, 640 – 643. 
+3. DAVIS, E.C., BARNES, M.P. (2000) Botulinum toxin and spasticity. Journal Neurology Neurosurgery & Psychiatry, 69, 143 – 149.
+

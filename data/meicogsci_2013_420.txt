@@ -1,0 +1,15 @@
+... title: Tremor Analysis Using Computerized Spirography
+
+
+
+Abstract
+
+!!!! Tremor Analysis Using Computerized Spirography
+
+Tremor is the most common movement disorder [1]. It is described as rhythmic sinuisoidal alternating movement [2] and it is the result of a rhythmic and alternate contraction of agonist and antagonist muscles. Several methods of tremor quantification have been described: electromyography, accelerometry and spirography. Computer-assisted spirography has been used to evaluate tremor in different neurological diseases. The system consists of a computer, a digital tablet and a special pen. The task of the patient is to draw an Archimedean spiral [1]. Besides frequency, several additional parameters can be analyzed by spirography. These parameters, analized by a specific computer program, help to define the tremor more exactly.
+We have tested computer-assisted spirography in 45 subjects (15 patients with Parkinson’s disease, 15 patients with essential tremor and 15 healthy controls). Computer assisted spirography seems to have a high sensitivity (1.00) to detect cases without tremor. The sensitivity of this method for detecting essential tremor (ET) is higher (0.76) compared to tremor in Parkinson’s disease (PD) (0.62). Similarly, computer-assisted spirography has higher specificity (0.95) to detect ET than tremor in PD (0.82). The advantages of computer-assisted spirography compared to other methods of tremor assessment are low costs and simplicity. It can be used as a complementary tool to determine tremor more accurately. The applicability of the method should be tested to evaluate other tremor types: dystonic, functional and cerebellar. Computer-assisted spirography should be compared to other methods of tremor differentiation, e.g. DaTSCAN (dopamine transporter SPECT imaging). 
+
+!! References:
+[1] G. A. A. Miotto et al., “Measurement of tremor using digitizing tablets,” in Proc. V CEEL, 2007.
+[2] N. Quinn et al., “Movement disorders”, in Neurology: a Queen Square textbook, 1st ed., C. Clarke et al., Ed. Singapore: Blackwell Publishing Ltd, 2009, pp. 155-188.
+

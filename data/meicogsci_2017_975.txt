@@ -1,0 +1,18 @@
+... title: Uncertainty in Knowledge Creation Processes
+
+
+
+Abstract
+
+The research of knowledge and innovation creation constitutes itself though an interdisciplinary field of study. Investigations done in the associated Enabling Space Lab are examining under which circumstances knowledge and innovation can emerge. Therefore numerous aspects are investigated, as for example the social and spacial environment of a person that is willing to create something radically new. 
+Besides theoretical and applied research done in the Enabling Space lab, data was collected in seminars on innovation, knowledge creation, and philosophy of science which were held jointly by the University of Vienna and Vienna University of Technology in the summer term (March - June) 2015. Within this seminar, students (N=17) were working together in Knowledge Creation Teams (KCTs). Each KCT was consisting of 4-7 people. Based on the process of “Theory U“[1], every team was working on a collaborative innovation which was chosen freely due to common interests. The final purpose entailed creating a prototype of the innovation. During the seminar different data sets were collected. At seven points in time, students had to fill in diary entries concerning their learning and group processes. 
+The collected data sets of the students are now evaluated within our research process.
+Regarding those datasets the following research question was emerging: “How do members of a group experience uncertainty during the knowledge creation process?“
+The research question could be seen as relevant for serval reasons. Considering different fields of research in Cognitive Science, it becomes clear that the state of uncertainty was investigated rarely. Furthermore, there is a common trend in science to avoid all kind of uncertain states and feelings. Regarding this tendency we argue that specific investigations on uncertainty would contribute in understanding the importance of this ambiguous phenomenon better.[2]
+The qualitative data analysis is guided by the principles of “Grounded Theory“[3] and executed through the data analysis software Atlas.ti. Using “Grounded Theory“ as a analysis method we are able to construct a theory that is grounded on data and therefore not dependent on already established scientific theories. Apart from that, “Grounded Theory“ is a good tool for investigating issues and phenomena that haven’t been haven't investigated thoroughly yet. Therefore “Grounded Theory“ could be seen as perfectly suitable for the our research project. 
+Studying the question of uncertainty in knowledge creation processes could lead to various implications in different fields of Cognitive Science. Investigations could contribute to research of qualitative, empirical approaches that seem to be underrepresented in the field of Cognitive Science. Furthermore, possible results about uncertainty could have various impacts on knowledge and innovation creation processes and on learning in university contexts in general. 
+
+[1] C.O. Scharmer, Theory U. Leading from the future as it emerges. The social technology of presencing, Cambridge, United Kingdom, Society for Organizational Learning, Cambridge, 2007. 
+[2] M.E. Jordan and R. McDaniel, Managing Uncertainty During Collaborative Problem Solving in Elementary School Teams: The Role of Peer Influence in Robotics Engineering Activity, Journal of the Learning Sciences, Volume 23, Issue 4, 2014, pp. 490-536. [30/05/2017: http://dx.doi.org/10.1080/10508406.2014.896254]
+[3] K. Charmaz, Constructing Grounded Theory. A Practical Guide through Qualitative Analysis, London, United Kingdom, SAGE Publications Ltd., 2006.
+

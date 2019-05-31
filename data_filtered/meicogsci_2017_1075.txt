@@ -1,0 +1,8 @@
+... title: Effect of Aging on Functional Brain Networks: A Graph Theoretical Analysis
+
+
+
+Abstract
+
+Decline of cognitive especially memory-related capabilities is a well known manifestation of brain aging. This is even more exacerbated with the onset of Alzheimer disease and its progress. It is also well known that with age, there is a decline in the number of neurons in the brain. In our study, we have focused on creation and analysis of the so-called functional brain networks from the fMRI data and their analysis by means of the graph theory. Thus, the talk will deal with a short introduction into the theory of graphs and will describe our results about the changing characteristics of functional brain networks due to aging and the onset of Alzheimer disease.
+

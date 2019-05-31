@@ -1,0 +1,15 @@
+... title: Can Economic Models Be Epistemic Vehicles?
+
+
+
+Abstract
+
+Scientific models are representations of phenomena or data which function in a relevant sense in the same way as what they aim to explain. The explanatory power of scientific models depends on the nature of the representation itself. The aim of my theoretical project is to present a feasible analysis for the interpretation of economic models, to determine the nature of their explanatory power, and to analyze whether qualitative models utilized in neoclassical economic theory can be used as epistemic vehicles.
+Neoclassical theory has been critiqued as using idealizations, ceteris paribus clauses and modal explanations and in consequence as lacking true explanatory power. However, as the fictional representation view from philosophy of science argues any scientific model can be understood as a fiction that engages interpreters in a make-believe on the truthfulness of a proposition [1]. If this view is correct, models include model explanations [2], where the counterfactual dependence of the model mirrors in relevant respects the counterfactual dependence in the target system. However, a justificatory step is needed to show that phenomena in the real world fall within the domain of the model, unless explanations based on these models are not justified.
+Following Gallegos [3], I believe that scientific models resemble Peirce’s icons: they must bear some similarity to their target, but they can also function as indexes and symbols namely as epistemic or symbolic vehicles for understanding. In the first case, they have a causal connection to their target, whereas in the second, their reference is conventional. I believe, in order for a model to be conceptually fruitful and since models are used primarily because cognitive manipulations and epistemic processes are performed on them only epistemic vehicles can enrich conceptual scientific knowledge. Following the modal view from the epistemology of economics, applied economic models can only explain as long as they refer to real phenomena, to which the neoclassical theory is committed.
+Considering this, my project will be a critical reevaluation of qualitative economic models in the neoclassical theory of economics. The aim of the project is to analyze the assumptions and preconceptions behind the theory and their relations to the proposed explanation from a pragmatic standpoint influeced by Peirce’s semiotics, which reconstructs the line of the applied argumentation and the role played by the economic model. 
+##References
+[1] A. Barberousse and P. Ludwig, "Models as Fictions," in *Fictions in Science*, M. Suárez, Ed. London: Routledge, 2009, pp-56-76
+[2]A. Bokulich, “Explanatory Fictions,” in *Fictions in Science*, M. Suárez, Ed. London: Routledge, 2009, pp-91-109
+[3] Gallegos, S.A., “Models as signs: extending Kralemann and Lattman’s proposal on modeling models within Peirce’s theory of signs,” *Synthese* [online document] https://doi.org/10.1007/s11229-018-1700-4 [Accessed March 13, 2018.]
+

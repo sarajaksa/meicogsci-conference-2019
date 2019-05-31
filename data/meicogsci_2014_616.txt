@@ -1,0 +1,28 @@
+... title: Influence of alternative education on cooperativeness
+
+
+
+Abstract
+
+!!!! "Influence of alternative education on cooperativeness"
+The PISA 2012 (Programme for International Student Assessment) survey organized by OECD every 3 years gives us a basic idea of the extent to which 15-year-old students have acquired key knowledge and skills that are essential for full participation in modern societies. Even though PISA testing methods and the choice of participants are often criticised, the following results should not be ignored:
+* Slovakian students have shown significantly worse literacy level in all 3 tested fields than the OECD average
+* students with the lowest socioeconomic status in Slovakia were the most affected by their social background compared to the other tested countries 
+* students from Slovakia show significantly lower persistency in solving difficult tasks, as well as lower confidence in their own abilities[1]
+Why is Slovakia performing so badly? Could it be caused by current knowledge-driven educational system in Slovakia lacking interest in other components of intelligence (Gardner’s theory of multiple intelligences)? Why do students keep memorising facts without actually learning something useful to prepare them for the future? Does alternative education solve these problems?
+According to the report from the National Centre for Clinical Infant Programs almost all students who do poorly in school lack one or more of following elements of emotional intelligence: confidence, curiosity, intentionality, self-control, relatedness, capacity to communicate or cooperativeness. [2] In my semestral project I decided to do research on cooperativeness, the ability to balance one’s own needs with those of others in group activity.
+
+!! "Experimental design"
+I set up an experiment consisting of 3 cooperative games chosen carefully to be able to measure cooperative abilities of children and keep them motivated to participate at the same time. Those games were presented to 4 main groups of young people:
+* students of traditional educational system, 4th grade (age 9)
+* students of traditional educational system, 9th grade (age 14)
+* students of Waldorf education, 4th grade (age 9)
+* students of Waldorf education, 9th grade (age 14)
+Since Steiner’s pedagogy (Waldorf education) supports the whole person’s development – head, heart and hands and emphasises team work, mutual help and cooperation, my hypothesis was that children influenced by Waldorf education would perform better. [3]
+
+
+!! References 
+[1] M. Šiškovič, J. Toman “PISA 2012: výsledky Slovenska v kocke,”  Inštitút vzdelávacej politiky Ministerstva školstva, vedy, výskumu a športu SR, Slovakia, 2014, pp. 1-10.
+[2] D. Goleman, “The family crucible,” in Emotional intelligence: Why it can matter more than IQ, 1st ed. London, UK: Bloomsburry, 1996, ch. 12, sec. 2, pp. 192–194.
+[3] H. Barnes, “Learning that grows with the learner: An introduction to Waldorf education.,” in Educational Leadership , 1991, issue 49, vol. 2, pp. 52–54.
+

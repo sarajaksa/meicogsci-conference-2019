@@ -1,0 +1,23 @@
+... title: THE INFLUENCE OF VERBAL AND VISUAL PROCESSING RESOURCES IN THE GENERATION AND APPLICATION OF RECURSIVE REPRESENTATIONS
+
+
+
+Abstract
+
+Recursion is a term used to describe the process of embedding a constituent inside another constituent of the same kind, establishing a dependency between two constituents of the same category. The development of the human ability to represent recursion has been described as an important step in the evolution of language [1].
+
+In order to investigate whether recursion may be used independently of language, we developed a method to assess recursion in the visual domain [2]. Since the available literature suggests that visual and verbal working memory are processed independently [3], our results in previous research with this method propose that verbal resources may be more strongly activated in recursion than in simple hierarchical embedding. 
+
+The first goal of this study is to identify whether the ability to process verbal and spatial information (i.e. working memory) correlates with the ability to perform adequately in a visuo-spatial recursion task (VRT) and in a non-recursive embedded iteration task (EIT). The second goal is to assess if the generation and the application of recursive representations dissociate cognitively. The hypotheses are that: i) The ability to perform adequately in a visual recursion task will improve after explicit instructions; ii) the generation of abstract recursive representations (and not its simple application) will be more correlated with verbal working memory than in EIT. 
+
+To address these questions we analysed performance in the above behavioural computerized tasks (VRT and EIT) in two distinct conditions: rule generating (RG) and rule application (RA), where subjects have to choose the correct image following a rule-based (recursive or iterative) sequence of visual stimuli. For the RG condition, subjects perform the 2 tasks without receiving explicit information about the two rules, but only auditory feedback for their choices. Then, for the RA condition, subjects were explicitly informed about the rules and perform both tasks without feedback. Between both conditions they also perform a battery of standardized cognitive tasks which assess different cognitive abilities: Tower of Hanoi (ToH), Corsi Blocks (Corsi), Digit Span (DS) and Wisconsin Card Sorting Task (WSCT).
+
+Preliminary results with 17 participants seem to suggest that RG and RA conditions dissociate cognitively, both for VRT and EIT. While the RG in VRT is more associated with prospective planning and sequential problem solving (ToH), RA in VRT was more associated with verbal working memory (DS). Furthermore, while RG in EIT was more associated with spatial working memory (Corsi) and with modulation of impulsive responding (perseverative errors in WCST), RA in EIT was more strongly correlated with verbal working memory -although less than in VRT. Interestingly, despite equal performance between RG and RA in VRT (93% vs. 93%), the cognitive abilities that predict it in both conditions are different. This seems to suggest that although the usage of explicit rules (more associated with verbal resources) may be used in VRT, it is not a necessary condition for good performance. 
+
+
+References
+
+[1] Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). The faculty of language: What is it, who has it, and how did it evolve? Science, 298, 1569-1579. 
+[2] Martins MJ, Fitch TW (2012). Empirical Approaches to Recursion. In The Evolution of Language - Proceedings of the 9th International conference (Eds. Thomas C Scott-Phillips, Monica Tamariz, Erica A Cartmill and James R Hurfurd), pp.219-225, Singapur:World Scientific
+[3] Baddeley, A. (2003). Working memory: Looking back and looking forward. Nature Reviews Neuroscience, 4(10), 829-839. doi: 10.1038/nrn1201
+

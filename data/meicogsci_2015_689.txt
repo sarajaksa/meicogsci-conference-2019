@@ -1,0 +1,17 @@
+... title: Effects of Visual Stimuli Characteristics to Eye Gaze Fixation Patterns and Information Gain in Children with Autism
+
+
+
+Abstract
+
+!!Introduction
+According to DSM-5 [1], autism spectrum disorder (ASD) is defined as a neurodevelopmental disorder featuring qualitative impairment in social interactions, verbal and non-verbal communication with restricted and repetitive patterns of behaviour and interests. In previous studies, stimuli triggered by a computer screen were used in order to capture and reveal eye gaze fixation patterns. Such eye-tracking studies investigate whether individuals with ASD tend to focus less on communicator’s eyes, but more to the mouth region and to the objects in a background as compared to healthy controls. Inconsistent findings (e.g. [2], [3]) suggest that this could highly depend on the participants’ age and the nature of stimuli that were used. It was found that abnormal eye gaze fixation patterns in participants with ASD occurred only to ecological stimuli (movies and pictures with human actors), but appeared to be normal to less realistic depictions, such as cartoons [2]. However, it remains unknown if a person with ASD, who shows a normal response to stimuli, can make any use of the information available.
+
+!!Research Design
+In our study we present participants with series of human-actor and cartoon situations seen in a video. Two groups will be compared: children with ASD and healthy controls, matched by age and sex. Participants for the control group will be selected from a local community, screened by Bayley III and the Autism Screening Questionnaire. Children with ASD will be recruited from an already running programme of rehabilitation. The goal of this study is (1) to assess whether there are any eye-gaze fixation atypicalities in children with ASD and (2) to examine whether these children are able to make any use of the information available. In order to reach the first goal, data will be collected by using an eye-tracker and two groups will be compared by applying two-way ANOVA. The second goal of the study will be assessed by asking video-related questions. 
+
+!!References
+[1] Diagnostic and statistical manual of mental disorders, 5th ed., American Psychiatric Association, Washington, DC , 2013.
+[2] Saitovitch A., Bargiacchi A., Chabane Nadia, Phillipe A., Brunelle F., Boddaert N., Samson Y., Zilbovicius M., “Studying gaze abnormalities in autism: Which type of stimulus to use?”, Open Journal of Psychiatry, Vol. 3, pp. 32-38, April 2013.
+[3] Van der Geest J. N., Kemner C., Camfferman G., Verbaten M. N., van Engeland H., “Looking at Images with Human Figures: Comparison Between Autistic and Normal Children”, Jour. of Aut. and Develop. Dis., Vol. 32, No. 2, pp. 69-75, 2002.
+

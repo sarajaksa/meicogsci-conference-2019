@@ -1,0 +1,23 @@
+... title: Representation of the Spatial Structure of Visual Scenes in the Primate Hippocampus
+
+
+
+Abstract
+
+!!!! Representation of the Spatial Structure of Visual Scenes in the Primate Hippocampus
+
+Our aim is to find out how the brain translates visual input from the environment into a spatial model of the world. Understanding spatial relations, grasping spatio-visual scenes and switching between local and global frames of reference within an environment are necessary behavior guiding skills. In order to further study the topic, through visually-guided learning, we explore how the primate brain learns to represent the spatial structure of visual scenes.
+
+In particular, some neurons in the primate hippocampus encode information about the position of a visual target within a localized environmental frame of reference regardless of the position of the frame itself [1]. These cell responses have been found in previous single unit recording neurophysiology studies [1, 2, 3] Our goal is to reveal some of the underlying computational mechanisms of representing the spatial structure of visual scenes. 
+
+Using visually guided learning in a self-organized neural network, we show how these cells in the hippocampus could develop. Our model is biologically plausible in that it consists of a hierarchy of competitive neural network layers with associative local learning rules which modify the feed-forward synaptic connections between successive neuronal layers during visual training. More specifically, our model employs trace learning- a modified Hebbian rule that encourages neurons to learn to respond to visual input patterns that tend to appear close together in time. In other words, trace learning, as a biologically plausible synaptic learning mechanism, incorporates a memory trace of recent neuronal activity. Using an idealized two-dimensional visual training environment, a biologically realistic neural network and a trace learning rule, we modeled the basic experimental findings of previous studies [1] which demonstrated the existence of neurons in the primate hippocampus which encode the position of a visual target within a localized frame of reference.
+
+Our computer simulations confirm the assumption that such synaptic learning mechanisms could be responsible for the development of these and similar spatial representations and neural responses. Initial computer simulations have successfully replicated the development of neurons that respond to the presence of a visual target at one particular position within a local reference frame. More importantly, the neuronal responses were invariant as the images of the reference frame and the visual target were shifted across different retinal locations. The simulation results have therefore demonstrated the viability of our principal computational hypothesis.
+
+Finally, we assume that these localized frames of reference, together with reference objects and other representations may form a densely woven tapestry of overlapping spatial representations in the brain, thus building a model of the spatial structure of the world.
+
+References
+[1] E.T. Rolls et al. “Hippocampal neurons in the monkey with activity related to the place in which a stimulus is shown”. Journal of Neuroscience, vol. 9, pp. 1835-1845, Jun. 1989.
+[2] K.M. Gothard et al. “Binding of hippocampal CA1 neural activity to multiple reference frames in a landmark-based navigation task”. Journal of Neuroscience, vol. 16, pp. 823-835, Jan. 1996.
+[3] M.L. Shapiro et al. “Cues that hippocampal place cells encode: dynamic and hierarchical representation of local and distal stimuli”. Hippocampus, vol. 7, pp. 624-642, Oct. 1997.
+

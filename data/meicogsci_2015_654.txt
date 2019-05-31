@@ -1,0 +1,23 @@
+... title: The Difference Between Categorization and Comparison in Metaphor Comprehension
+
+
+
+Abstract
+
+!!Introduction
+Metaphors allow us to speak about one concept in terms of some other concept. For instance, the metaphor “My boss is a shark” allows us to speak about the so-called target term “my boss” in terms of the so-called base term “a shark”. 
+Theories of metaphor comprehension disagree about the question whether and when are metaphors processed as categorizations or as comparisons. In this study I aimed to disentangle the problem.
+It was previously shown that the greater the difference between two vertically aligned concepts, the more likely it is that they will be distinguished by different category names (referred to by different words)  [1]. Inspired by this we proposed that when there is a large difference between the number of properties encoded by the metaphorical base and the target, the sentence will be considered a categorization, but when the difference is relatively small, the sentence will be considered a comparison.
+!!Study design
+The proposal was tested experimentally using the free paraphrase method. Participants were provided with 16 metaphorical utterances in either categorization form (X is Y) or comparison form (X is like Y) and instructed to paraphrase them. To assess the difference between concepts, two predication types were distinguished: a) double predications - properties applicable to both base and target; b) single predications - properties applicable to target only. For example, the sentence “Some ideas are diamonds“ can be paraphrased with double predication as "Some ideas are rare and desirable“ or with single predication as “Some ideas are insightful“ [2]. Single predications were considered indicators of greater difference between the concepts than double predications.
+71 university students participated in the study. 36 participants filled the questionnaire with all metaphors in comparison form and the rest filled the questionnaire in categorization form. Half of the sentences in each questionnaire was conventional and the other half was novel. Conventionalization ratings were obtained from 10 independent raters.
+The hypothesis for both novel and conventional metaphors was that categorization form metaphors will be more often paraphrased with single predications than comparison form metaphors. 
+!!Results
+Since the data from the conventional metaphors showed too large variance, I was able to draw conclusions only for novel metaphors. In accord with the hypothesis, a significant difference between the number of single predication responses as a function of the sentence form was found (t(3.38)=11.13, p < 0.01, d = 2.03), with categorizations being more often paraphrased with single predications than comparisons.
+!!References
+[1] Tenenbaum & Xu. “Word learning as Bayesian inference,” in
+Proceedings of the 22nd Annual conference of the Cognitive Science
+Society, 2000, pp. 517-522.
+[2] Glucksberg & Haught. “On the Relation Between Metaphor and Simile:
+When Comparison Fails,“ Mind & Language, vol.21(3), pp. 360-378, 2006.
+

@@ -1,0 +1,25 @@
+... title: Computational model of olfactory bulb modeled by izhikevich's spiking neurons
+
+
+
+Abstract
+
+Computational model of olfactory bulb modeled by izhikevich's spiking neurons
+Peter Pruzinsky
+
+For years it has been known that when an animal or a person sniffs an odorant, molecules carrying the scent are captured by a few of the immense number of receptor neurons in the nasal passages; the receptors are somewhat specialized in the kinds of odorants to which they respond. Cells that become excited fire action potentials, or pulses, which propagate through projections called axons to a part of the cortex known as the olfactory bulb. The number of activated receptors indicates the intensity of the stimulus, and their location in the nose conveys the nature of the scent. That is, each scent is expressed by a spatial pattern of receptor activity, which in turn is transmitted to the bulb.
+The bulb analyzes each input pattern and then synthesizes its own message, which it transmits via axons to another part of the olfactory system, the olfactory cortex. From there, new signals are sent to many parts of the brain-not the least of which is an area called the entorhinal cortex, where the signals are combined with those from other sensory systems. The result is a meaning-laden perception, a gestalt, that is unique to each individual. 
+The olfactory bulb lies inferior to the basal frontal lobe. The olfactory bulb is a highly organized structure composed of several distinct layers and synaptic specializations. The layers (from outside toward the center of the bulb) are differentiated as follows: glomerular layer, external plexiform layer, mitral cell layer, internal plexiform layer and granule cell layer.
+Mitral cells are second-order neurons contacted by the olfactory nerve fibers at the glomerular layer of the bulb. The glomerular layer is the most superficial layer, consisting of mitral cell dendritic arborizations (glomeruli), olfactory nerve fibers, and periglomerular cells. Periglomerular cells contact multiple mitral cell dendrites within the glomeruli and provide lateral inhibition of neighboring glomeruli while allowing excitation of a specific mitral cell dendritic tree. Each mitral cell is contacted by at least 1000 olfactory nerve fibers.
+The external plexiform layer contains the passing dendrites of mitral cells and a few tufted cells, which are similar in size to mitral cells. Some of the granule cell dendrites in the plexiform layer contact mitral cell dendrites through a specialized dendrodendritic synapse, which also is termed a reciprocal synapse (vesicles seen within both presynaptic and postsynaptic membranes).
+Tufted cells also receive granule cell input through dendrodendritic and dendrosomatic contact. Pyramidal mitral cells are the largest neurons in the bulb and are located in a narrow band between the external and internal plexiform layers. The granule cell layer contains multiple small round neurons that lack axons. Long dendritic processes of the neurons reach the more superficial layers and inhibit mitral cells and tufted cells. Small distal processes make contacts with the exiting mitral cell axons.
+Oscillatory activity is a universal design feature of olfactory systems (Tank et al., 1994), having been demonstrated by Lord Adrian in the olfactory bulb of the hedgehog >60 years ago . Hints as to the computational role of olfactory oscillations have only recently begun to emerge . The effort to understand the role of olfactory oscillations is aided by insights from computational models of olfactory networks incorporating realistic dynamics at the cellular and network levels .
+
+My work is based on izhikewich models of spiking neurons. The model combines the biologically
+plausibility of Hodgkin-Huxley-type dynamics and the computational efficiency of integrate-and-fire neurons. Using this model, one can simulate thousands of spiking cortical neurons in real time (1 ms  resolution) using a desktop PC. The goal is to model a biologically-detailed model of the mammalian olfactory bulb, incorporating the mitral and granule cells and the dendrodendritic synapses between them using  izhikewich's models of spiking neurons. 
+
+References:
+Freeman W J, Di Prisco G V  Relation of Olfactory EEG to Behavior: Time Series Analysis Behavioral.  In Neuroscience 1986. Vol. 100 No. 5. 753-763
+E. M. Izhikevich Simple Model of Spiking Neurons IEEE TRANSACTIONS ON NEURAL NETWORKS, VOL. 14, NO. 6, NOVEMBER 2003
+Davison AP, Feng J, Brown D (2003) Dendrodendritic inhibition and simulated odor responses in a detailed olfactory bulb network model. J Neurophysiol 90:1921-1935 [PubMed]
+

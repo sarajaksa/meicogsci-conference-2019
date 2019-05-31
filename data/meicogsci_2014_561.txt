@@ -1,0 +1,21 @@
+... title: Novel versus identical distractors for P3 assessment in Alzheimer’s disease
+
+
+
+Abstract
+
+!!!! Novel versus identical distractors for P3 assessment in Alzheimer’s disease
+!! Introduction
+Since EEG is a sensitive, noninvasive method of assessing brain function, it is suitable for neurophysiological monitoring in Alzheimer’s Disease (AD) [1]. Using EEG the P3 (also called P300) wave can be measured, which is an event related potential (ERP) [2]. Neural changes and neuronal cell loss, associated with AD, cause lower P3 amplitudes in oddball tasks [1]. The P3 wave can be evoked with the oddball paradigm, where two or three stimuli types are presented with different probabilities in a random order [2]. P3a is a subcomponent of the P3, which reflects frontal lobe function [2]. The aim of our study was to investigate the P3 difference obtained with novel and non-novel (repeating) distractors in a visual oddball task in AD patients. We additionally used two levels of difficulty in discriminating between target and frequent stimuli.
+Our hypotheses were: (a.) Visual oddball with novel distractors will elicit P3a (b.) Visual task with novel distractors will show larger P3a amplitudes (c.) More difficult oddball tasks will produce larger P3a amplitudes compared to easier ones.
+!! Methods
+EEGs were recorded while 12 healthy young adults, performed a three-stimulus oddball task with either novel distractors or non-novel repeated distractors. Visual stimulus categories were defined as the standard (filled small circle), target (filled big circle), repeated distractor (chessboard pattern) and novel distractors (different geometric shapes). P3 amplitude, latency and variability were calculated and compared visually on all topographies of participants.
+!!Preliminary results
+When target/standard discrimination was difficult, the novel distractor stimulus elicited a larger P3a over the frontal-central areas compared to non-novel distractors in both conditions. 
+!! Conclusions / Discussion
+The P3a is generated when attentional focus, engaged for a difficult sensory discrimination task, is disrupted by the occurrence of an infrequent distractor stimulus [3]. The distractor generated P3a reflects the neural operations associated with changes in frontal lobe mechanisms [3]. Suggested applications of the 3-stimulus visual oddball task include the neurophysiological assessment of frontal lobe function in cognitively impaired patients such as AD. Our assumption is that the best oddball to achieve this might be an easy discrimination 3-stimulus oddball with non-repeating distractors. Previous studies reported [3] more significant differences between and therefore better discrimination between healthy participants and patients in easy task condition. While easy oddball produces slightly smaller P3a potentials, this can be compensated by non-repeating distractors, which additionally seem to make the task subjectively less tiresome, an important consideration in cognitively impaired patients. 
+!! References
+[1] C. E. Jackson, P. J. Snyder, “Electroencephalography and event-related potentials as biomarkers of mild cognitive impairment and mild Alzheimer’s disease,” in Alzheimer’s & Dementia, vol. 4, pp. 137–143, Jan. 2008.
+[2] J. Polich, “Updating P300: An integrative theory of P3a and P3b,” in Journal of Clinical Neurophysiology, vol. 118, pp. 2128-2148, Oct. 2007.
+[3] Y. W. Jeon, J. Polich, “P3a from a passive visual stimulus task,” in Journal of Clinical Neurophysiology, vol. 112, pp. 2202-2208, Dec. 2001.
+

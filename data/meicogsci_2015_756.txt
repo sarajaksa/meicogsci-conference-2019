@@ -1,0 +1,20 @@
+... title: Psychophysiological Responses During Blood Pressure Measurements
+
+
+
+Abstract
+
+!!Introduction
+Blood pressure (BP) will always be a variable haemodynamic phenomenon that is influenced by many factors, including the circumstances of measurement itself. The condition in which an individual is hypertensive during repeated conventional blood pressure measurement, but pressures measured outside the medical environment are normal, is called white coat hypertension [1]. Psychological mechanisms, like anxiety are also thought to play an important role in white coat hypertension.  In a study with hypertensive patients, those with white coat hypertension experienced significantly higher levels of anxiety during BP measurement in the clinic [2]. There has been less research on the role of other personality dispositions. We investigated whether individual’s personality and level of anxiety affect white coat hypertension and weather individual's BP drops with each additional measurement. We were also interested, if other psychophysiological parameters such as skin conductance (SC) and skin temperature (ST) correlate with variations in participant's BP.
+
+!!Methods
+Data was obtained in 23 (7 male) participants (22-52, average 25.4 years of age). Recordings of skin conductance and skin temperature were made using Biopac MP150 system. Two electrodes for SC and one for ST were attached to the palm surface of the distal phalanx of the index, middle and ring fingers, respectively. BP was measured using automatic oscillometric device (Microlife BP A200 AFIB) on the left arm and continuous non-invasive arterial pressure (CNAP) on the right arm. Each participant was seated upright for 3 minutes before manual BP measurement began and was instructed not to move or speak during measurement. Each participant had five measurements with automatic oscillometric device, with 1.5 min pause between each measurement. Continuous non-invasive pressure, ST and SC were measured through the whole process. All subjects also filled out a brief version of the Big Five Personality Inventory (BFI-10) and two anxiety rating scales. Data have been collected but not yet analysed.
+
+!!Acknowledgements
+Special thanks to Nina Gržinič Frelih, izr. prof. dr. Gregor Geršak and izr. prof. dr. Anja Podlesek, for help and opportunity to work on this study.
+
+!!References
+[1] E. O'Brien, R. Asmar, L. Beilin, Y. Imai, G. Mancia, T. Mengden, M. Myers, P. Padfield, P. Palatini, G. Parati, T. Pickering, J. Redon, J. Staessen, G. Stergiou, P. Verdecchia, “Practice guidelines of the European Society of Hypertension for clinic, ambulatory and self blood pressure measurement”, Journal of Hypertension, vol. 23, no. 4, pp. 697-701, Apr. 2005.
+
+[2] G. Ogedegbe, T. G. Pickering, L. Clemow, W. Chaplin, T. M. Spruill, G. M. Albanese, K. Eguchi, M. Burg and W. Gerin, “The misdiagnosis of hypertension: the role of patient anxiety”, Archives of Internal Medicine, vol. 168, no. 22, pp. 2459-65, Dec. 2008.
+

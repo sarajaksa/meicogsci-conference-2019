@@ -1,0 +1,16 @@
+... title: Spatial normalization at 3T and 7T and the importance of EPI distortion correction for fMRI group analysis
+
+
+
+Abstract
+
+When studying neural activations that are elicited by the employed fMRI paradigm, it is in most cases necessary to compare the results between multiple subjects in a so called group analysis, in order to make sure that ones finding is not a single-subject phenomenon. Variations in the size and form of the human brain across patients require it, that the brain scans are normalized—that is shifted, rotated, sheared and zoomed—to fit a reference brain template[1]. It is only after this normalization that neural activations in brain scans from different subjects can be compared, as their coordinates now correspond to the same region in the reference brain. Ever since the creation of these reference templates for MR imaging at 1.5 Tesla scanners, there has been a trend to strive for higher field strengths—such as 3T and 7T—to increase the resolution and signal-to-noise ratio of brain scans amongst other benefits. 
+
+In this project, it will be investigated whether these templates are still appropriate for the resolutions and contrasts that can be found in high-field MRI. To examine this, 26 resting-state scans will be normalized. First with the original template and in a separate run with a template that has been created using a 3T MR scanner. Finally, the differences between the two runs will be discussed.
+
+In the second part of the project, the main limitation of the commonly-used Echo-planar imaging(EPI) method will be analyzed. This method is an optimization in the way the image is acquired by the MR scanner and allows for much faster acquisition times. Unfortunately though, it is much more sensitive to inhomogeneities of the magnetic field[3] due to different magnetic susceptibilities throughout the brain, but particularly in the temporal lobes and the basal ganglia. These field inhomogeneities can cause voxels—which is the name of smallest measurable volumetric unit—to be shifted from their actual position, blur out or cause the signal measured for this voxel to differ in strength[2]. Therefore, distortion correction methods should be used to control for this variability. While this effect can be easily seen in single-subject scans, it is not clear whether group comparison studies are also affected by it in a significant way and therefore require a correction for distortion as well. To further investigate the importance of this correction method, the results of a group-analysis with and without distortion correction will be compared and their differences reported.
+
+[1] KJ Friston, CDJ Ashburner, CD Frith, JB Poline, JD Heather, and RSJ Frackowiak. Spatial registration and normalization of images. Human Brain Mapping 2, pages 165–189, May 1995.
+[2] C Hutton. Image Distortion Correction in fMRI: A Quantitative Evaluation. Neuroimage, 16(1):217–240, May 2002.
+[3] Qing X Yang, Jianli Wang, Michael B Smith, Mark Meadowcroft, Xiaoyu Sun, Paul J Eslinger, and Xavier Golay. Reduction of magnetic field inhomogeneity artifacts in echo planar imaging with SENSE and GESEPI at high field. Magnetic Resonance in Medicine, 52(6):1418–1423, 2004.
+

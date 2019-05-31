@@ -1,0 +1,17 @@
+... title: The Effect of Haptic Guidance on Motor Learning of Rhythmic Sequences
+
+
+
+Abstract
+
+We are investigating the effect of proprioceptive feedback on motor learning with haptic guidance. Subjects are physically guided through a haptic interface producing the ideal motion providing them with proprioceptive information about the required position of their joints. Lewiston [1] and Grindlay [2] have used haptic devices such as a keyboard and a drum in motor learning of rhythmic sequences exploring two general properties of the rhythmic sequences. The ordinal property refers to the order of the tones and the temporal property to the time intervals between successive tones. 
+In both of these studies musically naive subjects learned rhythmic sequences with varying temporal, ordinal or both properties. In the training phase, three conditions were used to present the subjects with the target sequences, namely haptic, audio, and audio-haptic. In haptic condition subject fingers were physically moved through required sequence, during audio they listened to the recording of the sequence and   in audio-haptic both stimuli were combined. During testing phase subjects were required to reproduce the target sequences. Results have shown better performance in learning the ordinal property of the sequences when audio feedback was combined with haptic guidance. However, the timing aspects have shown conflicting results. Therefore, use of different types of rhythmic sequences was discussed as a possibility for the further investigation of the temporal property.
+
+We have constructed an electronic haptic keyboard. Fingers of the user are firmly attached to the keys, which can be moved programmatically together with the fingers. We have conducted three experiments (N=15) using the setup from [1]. The first experiment was testing the effect of haptic guidance on the ordinal property and also used as a validation for our device. The second experiment was targeting temporal property of rhythmic sequences where timing performance on more difficult sequences was measured. The third experiment was focused on rhythmic sequences with varying temporal and ordinal property. 
+
+Results of the first experiment have shown that the ordinal property was learned significantly better during the audio-haptic condition. This is consistent with previous studies and this validates our device. Results from the second experiment confirm that the haptic audio condition was better for learning the temporal aspects. In the third experiment, better performance has been reached in both sequence properties. Our results support that this form of haptic guidance is more effective for teaching musically naive subjects to perform new rhythmic sequences, when compared with audio-only learning.
+
+!!References
+[1] C. E. Lewiston, “MaGKeyS: A Haptic Guidance Keyboard System for Facilitating Sensorimotor Training and Rehabilitation,” 2009.
+[2] G. C. Grindlay, “The Impact of Haptic Guidance on Musical Motor Learning,” Sci. York, no. 2005, 2007.
+

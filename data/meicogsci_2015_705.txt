@@ -1,0 +1,22 @@
+... title: Does Age Modulate Neural Networks Underlying Empathy For Pleasant and Unpleasant Touch?
+
+
+
+Abstract
+
+Empathy may be a fundamental mechanism guiding prosocial behavior across the lifespan, however evidence on how the level of empathy is affected across the life span is limited. Neurofunctional studies exploring the effect of age on empathy in response to observing others' pain have shown an age-related decline in neural activity in anterior insula and anterior mid-cingulate cortex compared to younger adults [1]. In a behavioural study, Hühnel et al. [2] reported that while cognitive empathy was reduced in older adults, affective empathy was not affected by aging. 
+
+In a recent study Lamm et al. [3] found that depending on the valence of the experience, distinct neural networks are activated. These networks, activated by both first-hand and vicarious experience of touch, included the medial orbitofrontal cortex for pleasant touch and the right fronto-insular cortex for unpleasant touch. Hence, the aim of this study is to expand the knowledge of empathy by investigating how age modulates the neural and behavioral responses underlying empathy for pleasant and unpleasant touch. 
+
+To this purpose, functional magnetic resonance imaging was employed to scan 100 participants belonging to three different cohorts, adolescents (N=35, age=16-20), adults (N=32, age=25-34) and old adults (N=33, age=59-78). Participants were administered two independent experiments, enabling the joint investigation of first-hand and vicarious responses to pleasant and unpleasant touch. Participants were stimulated by visuo-tactile stimuli and then asked to rate the perceived valence of stimuli for self and for a confederate in different sessions respectively. The expected results would indicate a negative relationship between age and behavioral and functional empathic responses to touch.
+
+Behavioral data showed that all three age groups rated unpleasant stimuli in the first-hand experience as significantly less unpleasant than in the vicarious experience, indicating empathy for touch. Old adults rated unpleasant vicarious experience as significantly less unpleasant than the adolescents and adults, indicating a decline in empathetic response. The functional analysis in addition to these results, will offer greater insight and clarity on empathy in relation to age and how this is reflected in neural and behavioral responses.
+
+!!Acknowledgements
+Special thanks to Dr. Riva and Prof. Lamm for enabling my participation in this project
+
+!!References
+[1] Y.-C. Chen, C.-C. Chen, J. Decety, and Y. Cheng, “Aging is associated with changes in the neural circuits underlying empathy.,” Neurobiol. Aging , vol. 35, no. 4, pp. 827–36, Apr. 2014
+[2] I. Hühnel, M. Fölster, K. Werheid, and U. Hess, “Empathic reactions of younger and older adults: No age related decline in affective responding,” J. Exp. Soc. Psychol., vol. 50, no. 1, pp.136–143, 2014
+[3] C. Lamm, G. Silani, and T. Singer, “Distinct neural networks underlying empathy for pleasant and unpleasant touch,” Cortex, no. February, pp. 1–11, 2015
+

@@ -1,0 +1,17 @@
+... title: At the Intersection of Neurotechnology and Economics: Social Impact and Ethical Questions
+
+
+
+Abstract
+
+Neuroethics is a relatively young field that has from its inception motivated critical discussions about the ethical, moral, and social consequences of the use of neuroscientific findings and cognitive neurotechnologies in our lives[1]. Furthermore, through the prism of regulatory, moral, ethical and legal questions in the field’s discussions, many authors take a critical position in regards to the precipitated implementations of the cognitive neurotechnologies and consequential prompt changes in social structures[2]. One of the fields where such discussions are rarely given attention, although it has been quite influenced by neuroscientific advancements, is the field of economics and its subfield of neuroeconomics. With the incorporation of new research methods – non-traditional for the field of economics –, methodological and conceptual consensus in the field is lacking[3]. Hence, we plan to critically evaluate the use and application of neuroscientific cognitive technologies and neuroscientific findings in the field of economics.
+
+Understanding that both cognitive (neuro)science and economics are fields that have wider social influence[1][3], the broader aim of our research is to present current state of how recent neuroscientific findings and cognitive neurotechnologies are being introduced in the field of economics. Our first aim is to understand how methodological framework of neuroscience and neurotechnology with their findings impact the field of economics, how they potentially change current social structures (e.g. economic markets and institutions) and concepts (e.g. money), relevant to economics. Our second aim is to understand what are the inevitable arising ethical questions that accompany the integration between economics, cognitive neuroscience and neurotechnology.
+
+Our research thus aims at providing a better understanding of the interplay between the fields of economics and cognitive (neuro)science through the prism of discussions, arising in neuroethics. Moreover, we hope to shed light on how neuroscientific findings and cognitive neurotechnologies are subtly changing the social and economic structures and concepts.
+
+##References
+[1] H. T. Greely, K. M. Ramos and C. Grady. “Neuroethics in the age of brain projects”. Neuron, vol. 92, no. 3, pp. 637-641, 2016.
+[2] M. J. Farah, M. J. (2015). “An ethics toolbox for neurotechnology”. Neuron, vol. 86, no. 1, pp. 34-37, 2015.
+[3] R. Fumagalli. “Five theses on neuroeconomics”. Journal of Economic Methodology, vol. 23, no. 1, pp. 77-96, 2016.
+

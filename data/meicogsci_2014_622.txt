@@ -1,0 +1,28 @@
+... title: Generating Problem-Behaviour Graphs of Conceptual Change
+
+
+
+Abstract
+
+!!!! Generating Problem-Behaviour Graphs of Conceptual Change
+
+Newell’s Problem Space Hypothesis states that “[t]he fundamental organizational unit of all human goal-directed symbolic activity is the problem space”, where a problem space is defined as a set of knowledge states together with a set of operators over these states [1]. Proceeding from this hypothesis, he argues that all of cognitive activity is implemented in problem spaces and that the cognitive architecture consists of problem spaces “all the way down” [2].
+
+Psychological research on problem solving in Newell’s tradition employs protocol analysis of verbal reports and subsequent computational modelling, trying to cast human behaviour in terms of problem spaces. However, instead of aiming to corroborate the bold claims about the universality of the problem space concept, this research has largely confined itself to very clear-cut task types and problem domains that arguably do not cover the whole range of cognitive activity.
+This kind of protocol analysis [3], based on generating “Problem-Behaviour Graphs”, assumes the problem space(s) employed by the subject to remain virtually unchanged throughout the experimental session, making it difficult to capture phenomena like conceptual change.
+
+Taking the problem space hypothesis seriously, these phenomena could probably be modelled by assuming a hierarchy of problem spaces, the higher ones being spaces which are about finding or inventing operators for lower ones, or about re-representing the knowledge states of a lower problem space into those of another one. While there are computationally sound conceptualisations of these processes, they have not yet been applied to psychological data from verbal reports.
+
+Over the last few years we developed an experimental paradigm designed to allow for the collection of comprehensive process-level data from introspection about the gradual development of knowledge and domain-specific problem solving skills, using a task in mental paper folding. The project presented proposes to conduct our experiment with several subjects and to apply Newell’s protocol analysis technique to the verbal reports gathered. This will involve inferring the progressive problem spaces involved, tracking their respective changes and generating Problem-Behaviour Graphs for each subject, identifying where the problem space approach might have problems and proposing changes where necessary.
+
+!! Acknowledgements
+This work is being conducted together with Cornell Schreiber and Stefan Schneider.
+
+
+!! References
+[1] A. Newell, “Reasoning, problem solving, and decision processes: the problem space as a fundamental category” in The Soar papers (vol. 1), Paul S. Rosenbloom, John E. Laird, and Allen Newell (Eds.), Cambridge, MA: MIT Press, 1993, pp. 55–80.
+
+[2] A. Newell, “Unified Theories of Cognition” Cambridge, MA: Harvard University Press, 1994.
+
+[3] Van Someren, Maarten W., Yvonne F. Barnard, and Jacobijn AC Sandberg, “The Think Aloud Method: A Practical Guide to Modelling Cognitive Processes” London: Academic Press, 1994.
+

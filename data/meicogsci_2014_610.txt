@@ -1,0 +1,24 @@
+... title: Efficiency of Cognitive Control in Second Language Learners
+
+
+
+Abstract
+
+!!!Efficiency of Cognitive Control in Second Language Learners
+
+Many recent studies on bilinguals report bilingual advantage over monolinguals in cognitive control tasks [1]. In the present study, we focus on context of second language acquisition as a factor influencing language and cognitive processing in bilinguals. There is an evidence suggesting that students in immersion education programs (i.e. programs in which second language is acquired not only by formal instruction, but mainly by content learning in a second language) might enjoy cognitive benefits of bilingualism in a similar way that bilinguals do [2]. Immersion students perform better than their monolingual counterparts in tasks requiring engagement of executive control [3]. Moreover, the length of time spent in an immersion program determines the extent to which executive control is enhanced [3]. 
+
+In the present study, an experimental group consisted of 31 Polish students who were enrolled in a partial immersion English program at high school (i.e. they had some of their classes taught in English;), whereas students from the control group (N=35) attended regular secondary schools and learned English in a normal classroom setting. We tested impact of the intense second language learning on cognitive control functioning in two waves of a longitudinal assessment.  Here, we will report results from participants’ performance in a task that taps onto particular component of cognitive control, i.e. the inhibition of interference. 
+
+We used a modified version of the Flanker task (Eriksen & Eriksen, 1974). Five arrows appeared in a horizontal line at the center of the screen. The participant’s task was to decide whether the arrow in the middle (stimuli) was pointing to the right or to the left. Four other arrows in a line (the flankers) were pointing either to the same direction as the stimuli (congruent condition) or to the opposite direction (incongruent condition). The task was devided into 2 blocks, 36 trials in each (50% incongruent) and lasted approximately 20 minutes. Both reaction times and error rates will be measured. The difference between congruent and incongruent trials in reaction times and in error rates (the flanker effect) as well as the mean reaction time and mean error rate will be compared between the groups and between the two waves of testing.   
+
+We predicted that (1) the experimental group would enjoy smaller flanker effect than the control group (2) and would react faster and (3) more accurately than the control group [2]. We will present preliminary results of our study and will discuss insight into the ongoing debate about the benefits resulting from the intense second language learning.
+
+!!References
+
+[1] E. Bialystok, F. I. Craik, R. Klein, & M. Viswanathan. “Bilingualism, aging, and cognitive control: evidence from the Simon task”. Psychology and Aging, 19, pp. 290–303, Jun. 2004.
+
+[2] A.-C. Nicolay & M. Poncelet. “Cognitive advantage in children enrolled in a second-language immersion elementary school program for three years.” Bilingualism: Language and Cognition, 16, pp 597-607, Jul. 2013.
+
+[3] E. Bialystok & R. Barac. “Emerging bilingualism: Dissociating advantages for metalinguistic awareness and executive control.” Cognition, 122, pp. 67-73, Jan. 2012.
+

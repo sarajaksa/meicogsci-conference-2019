@@ -1,0 +1,20 @@
+... title: !!!!The Influence of Attention on the Pattern Electroretinogram and Visual Evoked Potentials
+
+
+
+Abstract
+
+!!!!The Influence of Attention on the Pattern Electroretinogram and Visual Evoked Potentials
+!!Purpose:
+Pattern electroretinogram (PERG) and visual evoked potentials (VEP) are important tests for diagnostics of visual disorders. They can objectively evaluate the function of the macula (PERG P50 wave), retinal ganglion cells (PERG N95 wave) and visual pathway up to primary visual cortex (VEP P100 wave) [1]. It is well established that head movements, muscle stiffness, changing eye position and poor fixation can contribute to abnormal responses [2], [3], but a technician can observe and correct them while recording. The problem arises when subject’s cooperation and fixation appears appropriate, but their attention on their visual task is actually reduced. They may be daydreaming, concentrating on another task or their eye focus fixation may not be accurate. The aim of the study was to examine, if PERG and VEP might be affected in healthy subjects, when attention is decreased and whether that could lead to abnormal results and misdiagnosis. 
+!!Methods:
+A group of 10 healthy subjects participated in the study. PERG and VEP were recorded simultaneously from one eye, with Espion visual testing system (Diagnosys LLC, MA, USA). The stimulus was presented on a 21.6° X 27.8° screen stimulator, a 50‘ checkerboard pattern with 99% contrast was reversing 1.8 times per second. The recordings were obtained from non-dilated eyes, and 100 responses were averaged and repeated twice. 10 different sets of recordings were made, 8 with different tasks (simulating lack of attention or sensory distraction) and 2 with full attention (one at the beginning and the second one after the fifth test). Latency and amplitude of waves P50, N95 (PERG) and P100 (VEP) were analyzed.
+!!Preliminary Results:
+Our preliminary findings in three subjects indicate that there is a difference in PERG and VEP amplitudes between the tests, obtained with optimal, full attention and those with lower attention. The biggest deviations from optimal recordings were observed, when subjects simulated blurred focus (percentage of the amplitude decrease: P50=35±16%, N95=17±9%, P100=16±5%) and near-distance focus (P50=22±4%, N=20±3%, P100=12±6%), and were most probably caused by a decrease of stimulus contrast. However, a notable deviation of the cortical response was detected also during the auditory distraction (percentage of the amplitude decrease for P100=7±1%), which did not appear with a simultaneous decrease of the retinal response (both P50 and N95 waves increased during that task), indicating an influence of complex interactions of the central nervous system.
+!!Conclusion:
+Lack of attention doesn’t alter the PERG and VEP patterns so significantly, that healthy subjects could deliberately produce abnormal responses. However, it can causes borderline results to exhibit false positive abnormality. In the aspect of cognitive science our results suggest that seeing is not a passive process, happening when the eyes are opened, but it rather reflects a complexity of visual system, which can be influenced by deliberate shifts of attention.
+!!References:
+[1] J. Brecelj. “Vidni evocirani potenciali in elektrofiziološko ocenjevanje vidne poti / Visual evoked potentials and electrophysiological evaluation of the visual pathway.” Medicinski razgledi, 33, pp. 339-359, 1994.
+[2] S. M. Uren, P. Stewart, P. A. Crosby. “Subject cooperation and the visual evoked response.” Invest. Ophthalmol. Visual Sci., pp. 648-652, June 1979.
+[3] C. T. Tan, N. M. F. Murray, D. Sawjers, T. J. K. Leonard. “Deliberate alteration of the visual evoked potential.” Journal of Neurology, Neurosurgery, and Psychiatry, 47, pp. 518-523, 1984.
+

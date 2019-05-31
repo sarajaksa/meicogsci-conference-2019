@@ -1,0 +1,29 @@
+... title: Why do people behave fair ?
+
+
+
+Abstract
+
+Introduction
+
+Decision making is influenced by various psychological and emotional factors and hence is not only a cognitive (rational) process. In my master thesis I try to answer the question, how the presence of people influence our decision making process, especially in economic decision making.
+Game theory provides good tools to study social aspects of economic decision making. One well known paradigm is the so called ultimatum game or the extended version the three person ultimatum game. In this games a proposer has to split a sum of money between himself and the responder. The responder can either accept or reject the proposal. If accepted the money is allocated accordingly. However, if rejected nobody receives anything. Assuming that both players behave rational and do not care about the outcome of the other player, the responder has to accept any positive outcome and the proposer has to offer the smallest amount of money to the responder and keeps the rest to himself. In fact, most of the offers are about 40%- 50% of the total amount and offers under 20% are rejected with a probability of about 50% (Güth et al., 1982). In the extended version a third player (dummy-player) accrues, who has no say in the game, but he has to be included in the division of the money.
+The experimental evidence described above caused several efforts to explain the observed behavior across different experiments. Most economic theories assume that are motivated to reduce differences between theirs and others’ payoffs (“inequity aversion”). Others assume that fairness depends on the fairness of others (“reciprocity”). Culture-gene coevolutionary models assume that reciprocity, reputation and social norms make us behave fairly. And that specific genes allow us to identify people who will cooperate by using specific cues like physical appearance.
+
+Aims and Method
+
+In my master thesis proposed here I try to show how social desirability and justice sensitivity influences economic decision making. 
+Social desirabilty is the urge to present oneself favorably regarding current social norms and standards. Haley and Fessler (2005) showed that just displaying eyespots on a screen forces people to give more money to their partners than the control group does. Justice sensitivity has been descirbed as a personality disposition concerning the reaction to unfair situations. 
+Using a social desirability scale (SES-17; Stöber, 1999)and a justice sensitivity scale (Schmitt et al., 2005) I try to show whether fair offers in the three person ultimatum game are correlated with socially desirable responding or internal fairness standards. Additionally I will try to describe the relation between justice sensitivity and social desirability.
+In a second study I try to find whether we actually have the ability to identify cooperators. For that reason I will make pictures from the proposers who made the offers in the ultimatum game described above. After that this pictures will be rated on a semantic differential with scales like fair – unfair and attractive – unattractive (in sum there will be 6 bipolaric scales). I hypothesize that there will be a correlation between offers in the ultimatum game and the way those proposers have been evaluated.
+
+
+
+
+References:
+
+[1]	Güth, W.; van Damme, E. (1998) Information, Strategic Behavior and Fairness in Ultimatum Bargaining, An Experimental Study; Journal of Mathematical Psychology
+[2]	Haley, Fessler (2005) Nobody´s watching? Evolution and Human Behavior 26, 245-256
+[3]	Schmitt, M.; Gollwitzer, M.; Arbach, D. (2005) Justice sensitivity : assessment and location in the personality space, European Journal of Psychological Assessment, 21(3), 202-211.
+[4]	Stöber, J. (1999). Die Soziale-Erwünschtheits-Skala-17 (SES-17): Entwicklung und erste Befunde zu Reliabilität und Validität. Diagnostica, 45, 173-177.
+

@@ -1,0 +1,26 @@
+... title: Pain Asymbolia and Nature of Pain
+
+
+
+Abstract
+
+At an any given moment, we as human beings are under a specific mental state. Mental state consists of a unity of  mental representations (pain, love..) and propositional attitudes (believing, hoping...).
+
+A "conscious mental state" is a mental state one is aware of being in. It usually has a representational or intentional aspect - it is about a specific object, relates to it or has fulfillment conditions.
+We divide them into perceptual experiences (seeing or hearing…), bodily sensations (feeling pain or an itch…), felt reactions or emotions (feeling anger or love…) and felt moods (feeling happy or depressed…).
+
+Up until recently Pain has been taken as a simple and uniform experience. However, recent discoveries have proven pain to be a more complex emotion than thought. Pain has been shown to posses two distinctive characteristics - the sensory-discriminative (where/what is felt) and the affective-emotional (how it makes us feel). [1] Based on this knowledge we can divide interpretations of pain theories into objective or subjective - depending on which one is the principal characteristic. Therefore Pain can be seen either as, from a physicalists (objectivist) point of view, a purely physical state (C-Fiber firing), or from a dualist (subjectivist) view as a phenomenal (sense-data, qualia).[2]
+
+To help us analyze the nature of pain we will look at a medical case called pain asymbolia - a phenomenon that separates the two aspects. Pain asymbolia has been associated with damage to the insular cortex and the projections to the cingulate gyrus. As the insular cortex doesn't project to the limbic system - the affective component of pain doesn't come into effect.[3] The primary characteristic of this phenomenon is that people afflicted can feel the sensory-discriminative part of pain, but are completely indifferent to it (they lack the affective-emotional aspect).
+
+By using present knowledge of both philosophical sources and hard science, we will try to compliment our findings to analyze the nature of pain and the effect on the theories of consciousnesses. We will try to find out if this knowledge supports one or the other point of view or if it creates new paths of connecting the subjective (sensation or qualia view of pain) and the objective (perceptual, representational) theories.
+
+Apart from the philosophical/psychological aspect, our work might be used to help us understand how the experience of pain could be transposed onto AI or machine understanding of pain (i.e. robotic caregivers).
+
+!!References
+[1] Aydede, Murat. (2013). "Pain". The Stanford Encyclopedia of Philosophy[Online], Available http://plato.stanford.edu/archives/spr2013/entries/pain
+
+[2] Grahek, N, "Conceptual and Theoretical Implications of Pain Asymbolia" in Feeling pain and being in pain. Cambridge, Mass: MIT Press, 2007, pp. 70-89. 
+
+[3] Berthier, M., S. Starkstein, and R. Leiguarda, "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome.", Annals of Neurology 24, 2007, pp. 41-49.
+

@@ -1,0 +1,21 @@
+... title: Slovene compounds: Towards a psycholinguistic approach
+
+
+
+Abstract
+
+Compound words (e.g. blue + berry > blueberry) have been studied extensively, both linguistically and psycholinguistically, for their insight into the combinatorial mechanisms of word formation, as well as their storage and representation in the human processor [2]. From a psycholinguistic perspective, they are especially informative with regard to the listing, interconnectedness, and access of their representations in the mental lexicon [2, p. 292].
+
+Compounds have been the subject of various psycholinguistic analyses in several languages (e.g. Greek [2], English [1], etc.), contributing to our understanding of linguistic representations in the human processor. Although Slovene compounds (Slovene: zloženke) have been extensively analyzed and discussed in theoretical linguistics [3], a psycholinguistic approach hasn’t yet been attempted.
+
+As Slovene is a highly inflected and morphologically rich language, a psycholinguistic examination of its compounds (which also feature elaborate word-formation processes [3]) might highlight the syntactic, morphological, and semantic factors involved in their lexical access and representation. In light of this, a preliminary corpus-based extraction of frequent Slovene compounds (informed by psycholinguistics and theoretical linguistics) was decided upon. Thus, lemmas were collected from the Kres corpus (a balanced corpus of Slovene) and sorted by frequency, followed by a manual extraction of compounds. 20,000 most frequent lemmas were examined, ultimately yielding roughly 200 compounds.
+
+Preliminary examination has revealed a diversity of combinations based on the compounds’ categorization. In terms of semantic transparency (i.e., whether a compound’s meaning can be derived from its constituents [1]), the extracted sample contained few opaque compounds (e.g., hudournik), the transparent instances (e.g., avtocesta) being most frequent. Nouns, followed by adjectives, constituted the most frequent word class, whereby the compounds themselves exhibited a variety of word formation processes, as described by Muha [3].
+
+This preliminary analysis has found several patterns that might be interesting for psycholinguistic analysis (e.g. transparent vs. opaque compounds; compounds with simple vs. derived constituents; compounds featuring stems that cannot appear on their own; etc.). Further analysis is necessary to identify productive homogenous subcategories fit for psycholinguistic experimental evaluation.
+
+!!References
+[1] C. L. Gagne and T. L. Spalding, “Processing English compounds: Investigating semantic transparency”, SKASE Journal of Theoretical Linguistics, vol. 13, no. 2, pp. 2–22, 2016.
+[2] C. Manouilidou, V. Fyndanis, E. Kehayia, and A. Ralli, “Processing Thematic Features: From Derivation to Compounding”, Proceedings of the 8th International Conference on Greek Linguistics, pp. 291–306, 2009.
+[3] A. V. Muha, Slovensko skladenjsko besedotvorje. Ljubljana: Znanstvena založba Filozofske fakultete, 2011.
+

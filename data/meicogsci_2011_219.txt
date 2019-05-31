@@ -1,0 +1,35 @@
+... title: Eye gaze behavior as a measure of social attention
+
+
+
+Abstract
+
+Social attention in real world settings consists of several behaviors with eye direction being one of them. Visual attention is attracted by any stimulus with social meaning which can be encoded in body motion, eye gaze, and other behaviors. This study is a behavioral observation in a natural environment and we will try to find out which factors elicit social attention on subliminal level. As eye gaze behavior can not be reliably coded in our videos, we will focus on other behaviors. It is imperative to study this phenomenon, because previous work on social attention was limited to laboratory studies. 
+
+For the purposes of our study definition of social attention is derived from the theory on joint attention. That is gaze that orients one’s own attention to the direction of another’s gaze (Birmingham & Kingstone, 2009). Birmingham and Kingstone (2009) described social attention as human interest in where other people are directing their attention. Humans constantly make use of social signals to guide their behavior in ambiguous or dangerous situations. This is often done without conscious control or cognitive effort. The ability to detect and understand others’ social signals is essential in order to avoid danger, such as to detect threat from potential predators and to enable social evaluation (Hoehl, Wiese, & Striano, 2008).
+
+Body motion is the basis for human recognition and interpretation of social events. The question is what cues our brains use to interpret an actual social event. Those cues are found on the basic level, such as gender, speed, color, body motion of the people presented in the scene (Shiffrar, 2008). We are also interested in gender differences when studying the perception of social attention. If sex hormones have an influence on social attention, there should be a difference between males and females in what attracts social attention (Kimura, 2004).
+
+We are going to conduct an empirical quantitative study using an eye tracker (electric occulo-graph) and surveillance videos in which social events occur in natural settings. We are going to test 50 male and 50 female participants. Subjects will be selected on random basis.
+
+Four computer screens, arranged in a two by two square formation show simultaneously and randomly different views of surveillance cameras in an underground station. The participants are asked to put themselves in the shoes of an operator. Their task is to monitor the screens simultaneously and to look at the things that capture their attention. Their gaze direction will be measured with the help of an electro-occulograph.
+After a one minute test trial task to familiarize the subjects with the setting, we will start to measure the eye movements. The actual experiment consists of six trials, each consisting of two-minute junks of videos. After completion, subjects fill out a questionnaire about the experiment.
+
+We will annotate the behavior visible in the scenes that attract high amounts of visual attention with a behavior catalogue developed in the course of the VANAHEIM* project. We will test for differences in annotated behavior between high and low attention scenes.
+
+We do not have results from this study yet. However, in a related study we found that attention seems not to be randomly distributed over such surveillance movies. Humans’ cognitive capacity is limited when it comes to handling information in the world. The implication of this limitation is that we must select specific items over others when processing visual information, called selective attention. In the natural social situation experiment described by Birmingham and Kingstone (2009), people centered their attention in the eyes and face, while neglected the rest of the scene. Eyes are unique social stimuli that are prioritized by the human attention system. We expect biological cues carrying social meaning will trigger higher amounts of attention (i.e. visual focus) than biologically irrelevant cues. Participants should pay greater attention to evolutionary relevant cues such as attractiveness (search for a potential mate) or intentions of others (potential threat). 
+
+The disciplines that are included in the study are the following: anthropology, neurology, evolutionary psychology, social psychology and computer vision. Anthropology is going to be incorporated through the behavioral and biological view on the social attention. Neurology is going to be incorporated by the neurological pathways and regions involved in social cognition and gaze.
+Our brain is preoccupied with the determination of whether a social event carries a potential to present danger or not. Therefore, evolutionary psychology is going to show us the importance of social attention from evolutionary perspective.
+
+Reference
+Birmingham, E., & Kingstone, A. (2009). Human Social Attention. A New Look at Past, Present, and Future Investigation. The Year in Cognitive Neuroscience 2009, 118-140.
+
+Hoehl, S., Wiese, L., & Striano, T. (2008). Young Infants’ Neural Processing of Objects Is Affected by Eye Gaze Direction and Emotional Expression. PLoS ONE, 3(6), 1-6.
+
+Kimura, D. (2004). Human Sex Differences in Cognition, Facts, not Predicament. Sexualities, Evolution & Gender, 6.1, 45-53.
+
+Shiffrar, M. (2008). The Visual Perception of Dynamic Body Language in Embodiment of Communication in Humans and Machines, ed. Ipke Wachsmuth, Lenzen M., Gunther K., 95−109. New York: Oxford University Press.
+
+ *The research is part of the European VANAHEIM project (Video/Audio Networked surveillance system enhAncement through Human-cEntered adaptIve Monitoring). We are part of the »Human-centered monitoring using audio/video analysis«. It investigates three levels of human behavior analysis (individual, group and crowd level). Goals of the project can be applied to event detection for safety/security and to environmental reporting for situational awareness.
+

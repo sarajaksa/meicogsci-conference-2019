@@ -1,0 +1,19 @@
+... title: Energy Efficiency and Novelty Processing in the Brain
+
+
+
+Abstract
+
+Energy efficiency has been studied extensively in the brain. Brain structure, connectome, has been specifically favored due to its many interesting features that support energy efficiency. Sparse coding [1], elimination of redundant input, and different interconnectivity degrees in different parts of the brain are all examples of energy efficiency. In addition to physical manifestations of energy efficiency, dynamic processes that operate on and maintain these structures should be identified for a complete understanding of brain functions.
+
+Cerebral blood flow provides the neurons with what is needed for continued activation. It has been shown that there is a correlation between blood flow and activation of neurons [2]. Functional MRI uses one type of these correlations as the basis for its measurements. Despite the extensive effort that has been put into functional mapping of the human brain, a complete map has eluded our grasp until now [3].
+
+We argue that to understand the dynamic processes that preserve energy efficiency, neural network and vascular network should be studied in combination. Since changes in blood flow are costly, this constraint leads to having local areas of activation in different parts of the brain. Although the structure of these areas stay similar, their location might change based on the retrieved information and available brain areas. 
+
+We propose that novel stimuli processing is a unique opportunity to study these processes. As a result of its novelty, localized processing of novel stimuli is problematic. This difficulty provides us with opportunities to observe and study the coupling of neural and vascular networks in localization of activations for future processing. Coupling of information flow (neural network) and energy flow (blood flow) leads to localization of activations during continued brain processes. Study of these two networks together may shed some light on understanding the neurodynamics of the brain.
+
+!!References
+[1]	P Földiák and M Young, "Sparse Coding in the Primate Cortex," The Handbook of Brain Theory and Neural Networks, vol. 1, pp. 1064-1068, 1995.
+[2]	D Attwell and C Iadecola, "The neural basis of functional brain imaging signals," Trends in Neuroscience, vol. 25, no. 12, pp. 621-625, 2002.
+[3]	R Shulman, F Hyder, and D Rothman, "Insights from neuroenergetics into the interpretation of functional neuroimaging: an alternative empirical model for studying the brain’s support of behavior," Journal of Cerebral Blood Flow and Metabolism, vol. 34, no. 11, pp. 1721-1735, 2014.
+

@@ -1,0 +1,15 @@
+... title: Connection of executive functions with the use of reading strategies in primary school students
+
+
+
+Abstract
+
+Executive functions (EFs) are a set of general-purpose control processes that regulate one’s thoughts and behaviour [1]. We are investigating the scale/development of three of the arguably most commonly discussed EFs in literature: automatic responses (inhibition), constant monitoring and rapid addition or deletion of no-longer relevant information of working memory contents (updating), and shifting between tasks or mental sets (shifting) [2]. One of the hypothesis is EFs such as working memory, verbal fluency, inhibition, word recognition etc. are significantly connected with all components of a good summary. The purpose of the following study is to focus on the connection of EFs in fourth grade primary school students with their ability to use reading strategies - summarizing and taking notes. The study includes a new designed course for teaching students with workbook texts and trained teachers for running it. Efficiency in students’ independent ability of text processing has been assessed before, between and after an intervention course with the help of a test battery. The three-part course lasted from 5 to 6 weeks. In the first part, the students were learning to find/highlight essentials and write a summary for short chosen texts. Second, students had to apply this knowledge to summarize longer and more difficult workbook texts. The third part was designed to use skills from the first and second part when taking notes with the help of Pauk’s strategy, known as The Cornell notes. Since the study is currently in the third stage, results are still pending. In the context of the test batteries’ results and the new intervention course that has been developed, this study could provide a better understanding of EFs in connection with the use of reading strategies in primary school students. It could also improve reading skills in terms of speed and understanding, grasping the essential, writing summaries and perhaps even strengthen or improve reading motivation in students.
+
+
+!!References
+
+[1]   A. Miyake and NP. Friedman, “The nature and organization of individual differences in executive functions: Four general conclusions,” Current directions in psychological science, vol. 21, no. 1, pp. 8-14, Feb. 2012.
+
+[2]   N. P. Friedman, A. Miyake, J. L. Robinson and J. K. Hewitt, “ Developmental trajectories in toddlers’ Self-restraint predict individual differences in executive functions 14 years later: A behavioral genetic analysis,” Developmental Psychology, vol. 47, no. 5, pp. 1410-1430, Sep. 2011.
+

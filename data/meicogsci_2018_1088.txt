@@ -1,0 +1,21 @@
+... title: Cognitive Biases in Performance Assessment Processes
+
+
+
+Abstract
+
+The dual theories of cognitive processing [1] suggest that we are not always in full possession of our rationality [2] when it comes to making decisions. Furthermore, recent discoveries in behavioral economics [3],[4], demonstrate that we are constantly subject to several types of biases at any given moment. This research wants to bring the ideas developed in those fields into the realm of management strategies, most precisely the practices and processes of performance management [5]. It aims to explore the kinds of cognitive biases that we are mostly subject to during assessment processes, and what it represents in terms of impact to the people and business involved. 
+This research sits in the merge of social and cognitive sciences. It's relevance lies in the fact that most companies in the world use and subject its employees to a similar model of performance management that presupposes a rational agent [6]. 
+The entire field of behavioral economics itself emerged after the questioning of the presuppositions of the field of economics, in which the humans were viewed as rational, purposeful, capable of statistical inferences, fully aware of their movements and decisions. Now we know it is not quite so [7]. We are mostly responding to our immediate environment, we are prone to influences beyond our capacity of recognitions, and we are not always operating with an engaged consciousness. 
+This research will bring this way of looking into the human agent into the realm of performance management and performance assessment. My hope is to be able to shed some light into the foundations in which those practices are grounded and then, by questioning those assumptions, suggest new possibilities of action.
+I will explore the topic by conducting exploratory interviews with leaders in human resources management, which will give me a panoramic view on the assumptions operating in the systems of performance management. Then, I will conduct a qualitative questionnaire-based investigation with employees and leaders in several companies on the possible biases that operating in those PM processes. The research will be conducted in Brazil, where the author comes from.
+The hypothesis is that we may find misalignment between the assumptions that guide PMPs and the current understanding of human rationality, and also the presence of biases in PM assessments. Hence, the consequent failure of PMPs to deliver what they promise, that is, higher motivation and performances, both for individuals and organizations. 
+
+[1] Kahneman, D. (2011). Thinking, Fast and Slow (1st Editio). New York: Farrar, Strauss and Giroux. 
+[2] Gilovich, T. (1991). How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life. New York: The Free Press. 
+[3] Ariely, D. (2008). Predictably Irrational: The Hidden Forces That Shape Our Decisions. Harper Collins.
+[4] Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving Decisions about Health, Wealth, and Happiness. Yale University Press.
+[5] Armstrong, M. (2009). Armstrong's Handbook of Performance Management: An Evidence-Based Guide to Delivering High Performance. London: Kogan Page. 
+[6] Mercer LLC. (2013). 2013 global performance management survey report: Executive summary, 1-20. 
+[7] Gilovich, T., Griffin, D., & Kahneman, D. (Eds.). (2002). Heuristics and Biases: The Psychology of Intuitive Judgment. Cambridge: Cambridge University Press.
+

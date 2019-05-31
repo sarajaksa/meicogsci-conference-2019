@@ -1,0 +1,35 @@
+... title: ‘The Code Is the Mirror of the Soul’: Profiling Programmers Through Code Analysis.
+
+
+
+Abstract
+
+## Introduction
+
+Research on machine learning assisted psychological assessment has shown that an individual’s traits and characteristics can be decoded from a variety of data, ranging from their use of language to Facebook likes [1].
+Building upon these realizations and merging them with recent methodological advances in text and source code authorship attribution [2], we set to find out how specific attributes of an author could be predicted based on source code they have written.
+Authorship attribution methods use machine learning algorithms to reveal the author of a specific work, based on characteristic features gathered from other works they have authored. 
+In the case of authorship attribution of source code, a range of features can be focused on, such as occurrences of specific keywords, the use of spaces and tabs, or Abstract Syntax Trees, which capture the underlying structure of source code, less dependent on its external form. 
+As machine learning algorithms have shown to be able to learn the characteristic coding patterns for specific individuals, we hypothesised that so can be done for groups. To test the concept, we started by predicting the sex of programmers.
+
+## Method
+
+In our work, we build upon a method described by Dauber et al. [3]. 
+Specific layout, lexical and syntactic features were extracted from 2358 programs, written by 241 students (88% male, 12% female) working on the same assignments. 
+The features of each program were then compiled into a sparse matrix, where each element represented a specific feature. 
+For classification, a random forest classifier with 500 trees without depth limitation was used. The results were verified by 10-fold cross-validation, with the same authors never being in the test and learning set in a trial. Similarly to [3], the results of a particular code sample were averaged for each author. 
+
+## Results
+
+94.6% classification accuracy and an AUC score of 0.79 were achieved. Precision and recall were 1.0 and 0.58, respectively. Further improvements showed to be possible by changing the classification threshold.
+
+## Discussion
+
+As far as we know, this is the first such attempt at profiling based on source code. We showed that a source code author’s sex can indeed be predicted at an above chance level. The method would, of course, have to be tested on different samples before further conclusions on sex-characteristic coding patterns could be reached. However, our results seem to convey a proof of concept which could be tested on similar data with different classification problems.
+
+## References
+
+[1] M. Kosinski, D. Stillwell and T. Graepel, "Private traits and attributes are predictable from digital records of human behavior", Proceedings of the National Academy of Sciences, vol. 110, no. 15, pp. 5802-5805, 2013.
+[2] S. Burrows, "Source Code Authorship Attribution," Ph.D. dissertation, RMIT University, Melbourne, 2010.
+[3] E. Dauber, A. Caliskan, R. Harang and R. Greenstadt, "Git Blame Who?: Stylistic Authorship Attribution of Small, Incomplete Source Code Fragments," arXiv:1701.05681v2 [cs.LG], Mar. 2017.
+

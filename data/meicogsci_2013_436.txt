@@ -1,0 +1,22 @@
+... title: Towards a Test for Self-consciousness in Artificial Agents
+
+
+
+Abstract
+
+!!!! Towards a Test for Self-consciousness in Artificial Agents
+
+Consciousness and our conscious experience of self and the world are considered the most puzzling aspects of the human mind. In addition to interdisciplinary philosophical and empirical work on consciousness, research in the field of Machine Consciousness focuses on engineering conscious robots or software models of consciousness. Although this approach is able to shed light on many aspects associated with the phenomenon, there is no accepted test that could tell whether or in which sense an artificial agent instantiates or simulates consciousness. Therefore, my aim is to develop a test for consciousness that can be applied to artificial agents.
+
+Starting with the premise that consciousness above all concerns ourselves and is therefore also a problem of self-knowledge, I argue that self-consciousness and self of human beings take primacy in approaching the topic. Moreover, self-consciousness and self-knowledge are directly related. Based on the work of Metzinger's self-model theory of subjectivity which already provides a theoretical foundation for interpreting self-consciousness and self in a functionalist-representationalist way [3], I argue that the use of self-knowledge to guide one's actions in social situations should be the relevant criterion for assessing self-consciousness. Furthermore, consciousness seems to come in degrees. For instance, one generally feels self-conscious to a greater degree in everyday waking consciousness than in dream consciousness. This line of thought can be extended to waking consciousness too, so that this may as well be a matter of degree. If this is true, some people could be self-conscious to a greater degree than others.
+
+Inspired by the work of Floridi [2], I aim at developing a game that is played by two human players and won by the player with the greater degree of self-consciousness. The underlying assumption is that the degree of self-consciousness is reflected in the courses of action of each player. An explanation will be provided in terms of information integration [1]. Requirements for an artificial agent's cognitive architecture resulting from the level of abstraction of the game will be derived using a top-down approach. Finally, I will argue that an artificial agent that meets these requirements should have the means to compete against a human player. 
+
+!! Acknowledgments
+Special thanks to Paolo Petta and OFAI for supporting this project.
+
+!! References
+[1] I. Aleksander and H. Morton, “Information Integration: The Key to Consciousness?,” in Aristotle's Laptop: The Discovery of our Informational Mind (Series on Machine Consciousness - Vol. 1). Singapore: World Scientific, 2012, ch. 6, pp. 109-129.
+[2] L. Floridi, “Consciousness, Agents and the Knowledge Game,” Minds and Machines, vol. 15, no. 3-4, pp. 415–444, Nov. 2005.
+[3] T. Metzinger, Being No One: The Self-Model Theory of Subjectivity. Cambridge, MA: MIT Press, 2003.
+

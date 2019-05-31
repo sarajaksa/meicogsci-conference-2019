@@ -1,0 +1,31 @@
+... title: Understanding Enabling Education
+
+
+
+Abstract
+
+## Context
+Following W. von Humboldt, Education is understood as a self-regulated and lifelong process of individualization in response to endeavours for world appropriation [1]. Educational settings differ in how well they enable the process of education. Peschl & Fundneider’s concept of ‘enabling spaces’ offers a theoretical framework for investigating what enabling means in the context of education[2].  
+
+## Relevance
+‘Enabling’ is an attitude that facilitates development rather than controls[2]. It is important to understand how educational settings should be designed to better enable an individual’s education. This research contributes to this question by exploring what enabling means and how enabling factors can be determined in education. In doing so, it opens the discussion for changing education settings by introducing the concept of ‘enabling spaces’. 
+
+## Research Question
+What are ‘enabling spaces’ in the context of education?
+
+
+## Approach
+Children’s playgrounds are common arenas for qualitative and quantitative research not only in psychology, sociology and architecture[3]. Many studies focus on child development and educational purposes of playgrounds[3]. Further, playgrounds are closed spaces that have a fixed technological and built structure, in which social and emotional situations occur. Peschl’s et al. concept of ‘enabling spaces’ understands cognition to be extended, i.e. taking place in intrinsic immersion and interaction with the environment[2]. Thus, this theoretical approach offers a good framework for researching enabling on playgrounds, because emotional, social, cultural, cognitive factors can be considered. 
+
+
+## Method
+(Participatory) observation and ero-epic conversations on playgrounds across Vienna are used to collect material to explore enabling education on playgrounds. This explorative method is a first test in understanding the concept of enabling. In addition, based on a literature review in regard to enabling, a theoretical conceptualization for enabling education is developed.
+
+## Outcome
+It is challenging to gain a practical, precise understanding of enabling. The theoretical approach of ‘enabling spaces’ cannot be transferred into an implementation guide for deisgning enabling educational settings. Reflecting the applied method offers exciting insights for a clearer conceptualization of and suitable method for researching enabling. 
+
+## References
+[1] Gumbrecht, H. U. (2014). Was soll eigentlich “Bildung” heute? Auf#06 - Die Bildung Der Bildung, (6), 5–10. 
+[2] Peschl, M. F., & Fundneider, T. (2014). Designing and Enabling Spaces for collaborative knowledge creation and innovation: From managing to enabling innovation as socio-epistemological technology. Computers in Human Behavior, 37, 346–359.
+[3] Fjortoft, I. (2001). The Natural Environment as a Playground for Children: The Impact of Outdoor Play Activities in Pre-Primary School Children. Early Childhood Education Journal, 29(2), 111–117.
+

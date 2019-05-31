@@ -1,0 +1,14 @@
+... title: Reducing the Variability of Motor Evoked Potentials
+
+
+
+Abstract
+
+Transcranial magnetic stimulation (TMS) is a non-invasive method for the manipulation of neural activity. It has found clinical use in the treatment of a variety of disorders, most notably depression. These treatments are based on the ability to induce long-term changes to the operation of the brain using TMS. Protocols, that is, guidelines for interventions, that induce such changes are called plasticity protocols.
+
+While there has been clinical success with these plasticity protocols, the neurological basis of the observable effects is not yet well understood. A number of scientific studies on the efficacy of plasticity protocols use a series of Motor-Evoked Potentials (MEP), that is, muscle responses due to TMS, to determine cortical excitability before and after application of a plasticity protocol. However, MEPs have recently been found to be problematic as a measure of cortical excitability, since responses are subject to random variation, that make it impossible to determine the effect of plasticity changes. 
+
+This thesis is concerned with reducing this variability, and with improving the validity of MEPs as a measure of cortical excitability, which in turn will contribute to improve the validity of scientific research with TMS in general. The approach that is taken here is motivated by previous literature, which is to use concurrent EEG to determine brain states to allow us to determine whether the brain is, at the moment of stimulation, receptive to magnetic stimulation. 
+
+The task of this thesis is to investigate how exactly EEG can be utilized to reduce MEPs variability. To achieve this, I will, building on existing solutions, develop a highly-specific software package to perform the relevant real-time EEG analysis, mostly in the domain of time frequency analysis, implement a multitude of alternative algorithms, and run a number of experiments to test the performance of these algorithms. Finally, I will publish the resulting code on an open platform so that it can be applied in different lab situations.
+

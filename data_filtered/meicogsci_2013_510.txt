@@ -1,0 +1,10 @@
+... title: The Role of Principles in the Explanatory Practice of Cognitive Science
+
+
+
+Abstract
+
+!!!!The Role of Principles in the Explanatory Practice of Cognitive Science
+
+There is a tendency in recent philosophy of cognitive science, best seen in the writings of  Bechtel et al., to overstate the significance of mechanistic explanations and to neglect the role of explanatory principles in this area of science.  This tendency, it will be shown, creates a distorted picture of what is going on in the field. A careful look into the efforts to find a satisfactory explanation of peculiar cognitive phenomena reveals that appeals to explanatory principles are neither rare nor is their role insignificant. Several examples from the history of categorization research will be discussed in support of the latter claim. It is suggested that those who tend to overlook the explanatory role of principles have been misled by two wrong assumptions: that the deductive-nomological explanations are the only species of principle-based explanations and that mechanisms could be fully analyzed in terms of the ‘entities’ and ‘activities’ which they comprise.
+

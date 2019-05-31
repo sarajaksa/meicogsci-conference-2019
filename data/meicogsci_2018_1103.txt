@@ -1,0 +1,15 @@
+... title: Enaction of Meaning in an Intersubjective Context – from Cognitive Science to Psychotherapy
+
+
+
+Abstract
+
+In my work I will explore intersubjectivity or social cognition and its effects on personal sense-making. The focus will be on a psychotherapy setting and the idea of shared meaning-making, which emerges through social interaction. In recent years, research of social cognition has shifted from observing individual cognizers to focusing on their interaction. In light of this, De Jaegher and Di Paolo [1] propose an interactive theory of intersubjectivity based on enactivism and dynamic systems theory. They claim that through the interaction process, both individuals’ sense-making processes can become linked and allow the creation of novel meanings, which were before unavailable. I will compare their idea of participatory sense-making to the ideas of the Boston Change Process Study Group [2], who emphasize the importance of the unpredictable interactive processes between psychotherapist and patient. They claim that through their interactions, the two exchange personal meanings and co-create new emergent meanings and intentions, the creation of which steers the psychotherapy process towards desired goals [2]. For example, even when the psychotherapist replies with a simple phrase such as “uh-huh”, the patient can interpret this in various ways based on intonation, context, relationship history, etc. It can be interpreted as confirmation, rejection, boredom, etc., which profoundly affects the patient’s reactions and consequently the psychotherapy process itself.
+
+I wish to discover whether such instances of intersubjective meaning-making are observable during systemic psychotherapy. To research this, I will first define what intersubjective meaning-making is and then analyze and partially transcribe recordings of a number of psychotherapy sessions with two different patients. The sessions will be coded on three levels of analysis: the content of the session, the interaction process between therapist and patient, and the instances of intersubjective meaning-making. The main focus will be on the moment-to-moment activity between patient and therapist, through which they struggle to understand each other, build a relationship and co-create new meanings and goals [2]. The research has yet to be started, but I expect to find that emergence is ubiquitous in the psychotherapy process and that personal interpretations and meaning-making are critical for the psychotherapy process. 
+
+## References
+
+[1] H. De Jaegher and E. Di Paolo, "Participatory sense-making", Phenomenology and the Cognitive Sciences, vol. 6, no. 4, pp. 485-507, 2007. 
+[2] Boston Change Process Study Group, "The “Something More” Than Interpretation Revisited: Sloppiness and Co-Creativity in the Psychoanalytic Encounter", Journal of the American Psychoanalytic Association, vol. 53, no. 3, pp. 693-729, 2005.
+

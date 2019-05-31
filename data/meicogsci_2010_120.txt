@@ -1,0 +1,21 @@
+... title: A Two-Dimensional Simulation of Cooperation in Palaeolithic Societies
+
+
+
+Abstract
+
+Cooperation has been common throughout the history of mankind. Since cooperative behaviour can have a high individual cost, the question of how cooperative behaviour can emerge and prevail in a human society can arise.
+
+In order to provide a possible answer, we will introduce an agent-based social simulation of a Palaeolithic human society, where cooperation is necessary for successful hunting. The agents act in a two-dimensional environment containing human agents, hunting prey, plants for foraging, and landscape possibly obstructing line of sight (which results in the agents receiving incomplete information, unlike in most existing models of the evolution of cooperation). Individual humans follow one of four strategies - they can be cooperators, helping during a hunt and receiving large rewards; defectors, taking from the hunt's rewards but not cooperating; punishers, cooperating and punishing defectors; or loners, abstaining from the hunt and surviving by foraging. Initially, the strategies are assigned randomly with equal probabilities, but they can change after each step, either through mutation or through learning about better strategies. The Darwinian fitness the agents can achieve will largely depend on their chosen strategy. 
+
+Agents have basic cognitive capabilities, which are equipped with simple finite state machine based control architectures. Their chosen actions depend on their current state, as well as their chosen strategy. Agents can get injured (implemented as subtracted payoff) or even die if they actively participate in a hunt (cooperators and punishers). Agents can also die if they are denied food from foraging or hunting long enough; or, eventually, they can die due to natural causes. However, they also have the ability to reproduce - provided their payoff (which corresponds to Darwinian fitness) is high enough - which results in children having the same strategies as their parents.
+
+Agent strategies can permanently change after every step of the simulation, in two ways. On the one hand, there is a low probability for random mutation, which accounts for experimenting behaviour. On the other hand, agents can observe other agents and adopt foreign strategies if they perceive them to be more successful - to yield higher payoffs - than their own. The individual agent fitness, and thus the chance of reproduction and of death, depends on the achieved payoff (gained either by hunting or by foraging). We believe that the influence of the cooperativeness on the individual fitness, as well as the incomplete information flows and the necessity for movement and coordination in a spatial environment, will result in a more accurate model of Palaeolithic human societies as compared to previous models.
+
+Using this simulation, we will show that a majority of cooperative individuals can prevail in our simplified society. We will also describe the reasons for its emergence and the circumstances (or parameters) it requires in order to become reliably stable.
+
+References:
+[1]	Axelrod, R. & Dion, D., 1988. The further evolution of cooperation. Science(Washington), 242(4884), 1385-1385.  
+[2]	Hauert, C. u. a., 2007. Via Freedom to Coercion: The Emergence of Costly Punishment. Science, 316(5833), 1905-1907.  
+[3]	Gamble, C., 1999. The Palaeolithic Societies of Europe 2. Aufl., Cambridge University Press.
+

@@ -1,0 +1,19 @@
+... title: Decision-making Performance, Satisfaction and Stability in the Context of Adult ADHD
+
+
+
+Abstract
+
+Research shows that children with ADHD have various cognitive difficulties through their life, from the major symptoms of attention deficits, impulsivity and often hyperactivity, to comorbidity with learning disorders and mental disorders like anxiety or depression. These children once become adults and the struggles continue. 
+This master thesis addresses decision-making of adults with ADHD, specifically their intuitive versus analytical solutions to decision-making problems, satisfaction with choice and choice stability. We revise the theoretical and diagnostic background of ADHD, neurological concepts of ADHD, and current research on decision making in ADHD adults [1][2][3]. 
+In our research, the participants were asked to make three pairs of complex choices and to solve three cognitive biases-related decision-making problems (confirmation bias, attribution error and status quo bias). Afterwards, they rated their satisfaction, willingness to change their choice, and subjective decision-making style. We compared two samples of participants (N = 76) - general population and ADHD adults - balanced in gender, age, education level and study discipline.
+We hypothesized that there would be differences on the side of ADHD adults, in means of lower choice satisfaction and stability, and more prevalent intuitive decision-making, therefore greater susceptibility to cognitive biases.
+The two samples did not differ in decision-making performance - thus, ADHD adults were not more prone to the three cognitive biases. Yet, they were constantly less satisfied with their choices and more willing to change them. However, these results were significant only in two out of six cases. This indicates that the differences between general population and people with ADHD in choice satisfaction and stability may depend on the context - for instance, what are people deciding about and how many attributes do they evaluate. 
+Our findings shed light on ADHD adults' decision-making, while empirical evidence on this topic has been missing so far. Besides a base for further research, it might be beneficial for broadening the ADHD neurocognitive profiles. 
+
+# # References
+
+[1]	A. Ibanez et al., “The neural basis of decision-making and reward processing in adults with euthymic bipolar disorder or attention-deficit/hyperactivity disorder (ADHD),” PLoS One, vol. 7, no. 5, 2012.
+[2]	M. Ernst et al., “Neural substrates of decision making in adults with attention deficit hyperactivity disorder.,” Am. J. Psychiatry, vol. 160, no. 6, pp. 1061–1070, 2003.
+[3]	T. Mäntylä, J. Still, S. Gullberg, and F. Del Missier, “Decision Making in Adults With ADHD,” J. Atten. Disord., vol. 16, no. 2, pp. 164–173, 2012.
+

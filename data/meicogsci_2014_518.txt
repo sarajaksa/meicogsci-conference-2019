@@ -1,0 +1,22 @@
+... title: The Influence of the Language Change on the Effect of Misinformation
+
+
+
+Abstract
+
+!!!!The Influence of the Language Change on the Effect of Misinformation
+The misinformation effect consists of introducing to a memory trace of a witness some false information (a misinformation) that contradict the original event seen/heard by the witness. Moreover, the origin of the misinformation is different than the original event[1]. 
+
+The following experiment was based on the fuzzy-trace theory[2]. According to the theory there are two different memory traces being produced while remembering any information. One is a verbatim trace, that involves information about the formal freatures and the literal meaning of a memory material (e.g. colour, paper, font, language, etc.). The other is a gist trace that stores information about the deep meaning of a unit. Nonetheless, it is the verbatim trace that is responsible for the correct source-monitoring but at the same time it disappears more quickly than the gist trace. The authors of the fuzzy-trace theory state that it is  the verbatim trace's work deficits that lead to source-monitoring failure and hence, make people produce the misinformation effect. If the verbatim trace was somehow enhanced, the functioning of the source-monitoring would be better and then people wouldn't confuse the two different sources of the information.
+
+There have been a lot of studies considering the area of the misinformation effect, but only a few are focused on the problem of protecting the witness against the misinformation effect and none of them included change of the language between the experiment stages. Thus the aim of the following study was to enhance the verbatim trace of a presented information by the language change of the material and hence minimize the effect of misinformation. Language is strictly a formal feature of a text and
+
+The main schema of the experiment was based on the typical experiment plan proposed by Loftus[3]. There was a short written Spanish story presented to 94 trilingual students. Than, after 15 minutes to one group there was presented the same text, but translated into English and including some changed details, and to the other group the same text without language change. In the third part, there were 10 questions regarding some details from the first, original Spanish text. The hypothesis of the study was that in the group with a language change, the amount of responses consistent with the misinformation from the second text would be smaller comparing to the group without the language change. The results though turned out to be quite the opposite, although still statistically significant. 
+
+There are a few explanations suggested by the author that could be helpful to understand the results. Most of them concern on the fact, that the results of many other studies prove, that the language change in memory tests deteriorates the remembering or retrieving the information. The other concerns an interesting aspect of foreign languages that says that the change of a language is not only a change of its form, but also a change of its content, as in every language the mental representations of every word or, at least every sentence might be different. 
+
+!!References
+[1] R. Polczyk, Mechanizmy efektu dezinformacji w kontekście zeznań świadka naocznego, Wydawnictwo Uniwersytetu Jagiellońskiego, 2007.
+[2] V. F. Reyna, C. J. Brainerd, ”Fuzzy-trace theory: An interim synthesis,” Learning and Individual Differences, vol. 7, pp. 1–75, 1995.
+[3] E. F. Loftus, D. G. Miller, H. J. Burns, ”Semantic integration of verbal information into a visual memory,” Journal of Experimental Psychology: Human Learning and Memory, vol. 4, pp. 19-31, Jan. 1978.
+

@@ -1,0 +1,22 @@
+... title: Overlapping communities in functional brain networks
+
+
+
+Abstract
+
+The study of human connectome is a promising way to gain new insights into the overall architecture of the brain. The advances in functional Magnetic Resonance Imaging (fMRI) enabled the study of the architecture of cerebral cortex not only anatomically, but also functionally. Connectivity metrics like correlation or coherence of the BOLD signal are used to compute the strength of functional connections between different areas. By analyzing the connections and clusters within this network, it is possible to identify areas with similar function [1]. 
+
+The majority of current methods assume that each location only participates in single function and parcellates the network into discrete non-overlapping subnetworks (clusters). This work proposes the symmetric non-negative matrix factorization (symNMF) algorithm [2] that can be extended to enable the formation of overlapping subnetworks (communities). 
+
+We first compare the output of symNMF to results from existing literature to measure its utility. We then examine the effects of overlaps by evaluating the test-retest reliability on eighty single subjects from the Human Connectome Project (HCP) dataset. Finally, we examine the properties of overlaps in an exploratory fashion and speculate on their possible role in the cortical architecture.
+
+We successfully replicated results from literature [1,3], thereby proving its utility in connectivity research. Results from test-retest reliability experiments show that introduction of overlaps increase the reliability when deployed on single subjects in contrast to traditionally used non-overlapping approaches. However, the overlaps also moved the individual parcellations closer to the average solution, which is not a desirable effect in personalized medicine. We then attempt to visualize the complex spatial and temporal relationship between communities and overlaps, experiment with different number of communities and speculate on possible roles of the overlapping regions. In the end, however, it remains unclear whether the existence of overlaps in functional cortical networks is an actual property of the brain architecture or whether it is only an artifact of chosen preprocessing steps, clustering algorithm and evaluation metrics.
+
+
+!!References
+[1] Yeo, B. T., Krienen, F. M., Sepulcre, J., Sabuncu, M. R., Lashkari, D., Hollinshead, M. & Fischl, B. (2011). The organization of the human cerebral cortex estimated by intrinsic functional connectivity. Journal of neurophysiology, 106(3), 1125-1165.
+
+[2] Kuang, D., Ding, C., & Park, H. (2012, April). Symmetric nonnegative matrix factorization for graph clustering. In Proceedings of the 2012 SIAM international conference on data mining (pp. 106-117). Society for Industrial and Applied Mathematics.
+
+[3] Glasser, M. F., Coalson, T. S., Robinson, E. C., Hacker, C. D., Harwell, J., Yacoub, E. & Smith, S. M. (2016). A multi-modal parcellation of human cerebral cortex. Nature.
+

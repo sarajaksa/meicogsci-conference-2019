@@ -1,0 +1,23 @@
+... title: Effects of Stress on Brain Activation
+
+
+
+Abstract
+
+!!!! Effects of Stress on Brain Activation
+
+The purpose of this research project was to investigate the effects of psychosocial stress on brain activation using functional magnetic resonance imaging. This project is part of a study examining the effects of stress on empathy and prosocial behaviour and its neural correlates.
+Data acquisition is still on going, up to this point 53 healthy male subjects (mean age= 25 ± 4 years) were assigned to the experimental (n= 27) or control group (n= 26) and tested.
+
+Psychosocial stress was induced using the Montreal Imaging Stress Task (MIST) which includes mental arithmetic tasks combined with elements of uncontrollability and social evaluative threat. In the original protocol [1], difficulty and time limit of each arithmetic task in the experimental condition adapts to the user performance to yield a 45-50% correct performance. Subjects receive negative feedback throughout the task (via a colour bar showing individual and average performance, where individual is always worse than average performance) and after each scanning run (via the experimenters, informing the subjects verbally about their insufficient performance and the need to improve). 
+In the control condition no time restrictions are set and no negative feedback is given to the subjects.
+In this study, we tried to intensify psychosocial stress by adding a social evaluative threat component: during the briefing, subjects were told that their behaviour will be observed by a scientist. While performing the task in the scanner, subjects saw a real-time webcam transmission showing one experimenter taking notes. 
+Each subject performed the modified MIST three times, each run lasting between five and seven minutes. After testing, subjects in the experimental group were debriefed and told that this task did not assess their mental arithmetic ability and is designed to be impossible to accomplish. 
+Subjects also completed a rating scale measuring their stress level (from 1= "not at all" to 7= "extremely") at eight different time points throughout the experiment.
+
+Preliminary results indicate higher subjective stress ratings in the experimental group compared to the control group for all time points. To investigate the effects of psychosocial stress on brain activation, we compared brain activation maps during stressful versus non stressful mental arithmetic. First results show stress-induced activation in the insula, premotor area, midcingulate gyrus, areas of the primary somatosensory cortex, superior parietal lobule, anterior lobe of the cerebellum and parts of the occipital cortex. Stress-induced deactivation is only found in the left middle temporal gyrus. 
+Before final conclusions will be drawn, data from 27 additional subjects will be analysed. 
+
+!! References
+[1] K. Dedovic et al., "The Montreal Imaging Stress Task: using functional imaging to investigate the effects of perceiving and processing psychosocial stress in the human brain," J Psychiatry and Neurosci, vol. 30, pp. 319-315, 2005.
+

@@ -1,0 +1,24 @@
+... title: Quandaries of Life – Phenomenology of Decision Making. A First Person Inquiry in the Field of Decision Making
+
+
+
+Abstract
+
+!!! Quandaries of Life – Phenomenology of Decision Making. A First Person Inquiry in the Field of Decision Making
+
+Decision making is one of the topics which has received a great deal of attention from most of the modern cognitive sciences. However, it would appear that the phenomenon has only been studied from a 3rd person perspective, fact which encourages the current paper to investigate the phenomenon within the relatively newly emerged research area: the study of experience (phenomenology). Within the thesis, decision-making will be studied from a 1st person perspective by gathering experiential data through in-depth explicative interviews, with the aim of putting together a map of experiences related to decision making. The acquired data will be coded and examined for potential similarities and patterns and analyzed through specific experiential methodologies. Based on the findings, conclusions will be drawn as to whether significant commonalities have been registered among the experiencers, and such commonalities will then be integrated in a topology of decision making related thoughts and experiences.
+
+The topic arose from the observation of some discrepancies between the described models of decision-making from the literature and the personal systematic observation of the experience and thoughts occurring when taking a decision. This observation later lead to the question whether individuals experience similarly or not the process of decision making. There is an abundance of literature supporting the idea that making a decision is (supposedly) preceded by a sense of anxiety/difficulty which in some cases leads to the avoidance or adjourning of the decision [1]. This is of great interest for the purpose of this topic, for on an experiential level, there is, with no doubt, an entire palette of possibly perceived nuances [2].
+
+From the methodological point of view, the current study will be a qualitative research, namely a comparative case study. The number of participants will be 5-6, and the research plan might change/get adjusted according to the preliminary results. 
+
+In the selection of participants, the first phase will comprise of the completion of a questionnaire related to the maximization/optimization theory, as well as a detection of self-reports, in which the participants would be asked to explain how they decide what to wear in the morning and how they decided which university to attend/which life partner they chose. Out of the participants who will fill in the pre-tasks, 5 or 6 will be selected for further inquiry. These subjects would be trained in Descriptive Experience Sampling for 24h, in which they would need to write down on paper, and later be interviewed about what they were experiencing at random points throughout the day, signaled with an App. 
+
+The method used will attempt a modification of the experience sampling method and/or the explicative interview technique. The subjects will be asked that in a 3 days period, whenever consciously encountering a decision, that they would write it down in as much detail as possible. They would then be interviewed and the data acquired would be analyzed through qualitative text analysis methods [3].
+
+
+!! References:
+[1] Greifeneder, R., Bless, H. & Pham, M. T. (2011), When Do People Rely on Affective and Cognitive Feelings in Judgment? A Review, Personality and Social Psychology, 15: 107, DOI: 10.1177/1088868310367640
+[2] Bayne, T, (2006), Phenomenology of Agency, Journal for Disorders of Volition. Cambridge, MA: MIT Press, 49-68
+[3] Flick, U. (2007), Designing Qualitative Research, SAGE Publications Ltd, London
+

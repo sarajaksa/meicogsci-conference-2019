@@ -1,0 +1,17 @@
+... title: !!!! Visualising fMRI Data for Brain Surgery
+
+
+
+Abstract
+
+!!!! Visualising fMRI Data for Brain Surgery
+
+Functional magnetic resonance imaging is useful in planning brain tumour surgery of motor and language areas [1]. To optimize the results of surgery and keep postoperative loss of function to the minimum, speech dominance is usually assessed and the locations of primary motor and language areas established prior to surgery. At the moment fMRI analysis and brain mapping are performed with the help of different software programmes, which provide surgeons with imaging maps that help them plan brain surgery. Although scientific visualisations used for presurgical planning visualize data accurately and efficiently, they are not particularly user-friendly. Therefore, we have decided to examine the current trends in fMRI visualisation techniques concentrating on the fMRI data user.  While previous studies dealt with accuracy and sensitivity, we will try to offer suggestions for improvement by focusing on easily comprehensible visualization of data, though still maintaining accuracy. 
+
+Functional magnetic resonance imaging data may be visualized with various purposes and users in mind. First, it can be used to familiarize the user with either spatial or temporal properties of the fMRI signal, or both. For brain mapping in presurgical planning spatial properties are of particular interest because fMRI imaging is used primarily as a functional localization technique. Second, the type of display medium is another important factor for the choice of visualization technique as final results can be presented either on a computer display or in print, the latter having serious limitations in terms of interactivity. Visualizations range from simple 2D images, sliced 2D images, 2D images from multiple views, 3D images, sliced 3D images to interactive visualizations [2, 3]. As neurosurgeons can make use of printed images as well as computer screen displays, each of the above techniques will be evaluated on the basis of data comprehensibility, i.e. the ease with which a user can understand and utilize data. An additional 3D technique using transparency, Maximum intensity projection, which is typically not used in fMRI data results presentation, will also be assessed. An especially important factor for the evaluation of these techniques will be the visualization of the primary motor and language areas relative to the tumour location as proximity or overlap of those areas influence surgery decisions and procedure.
+
+!! References
+[1] G. J. Rutten, N. F. Ramsey, "The role of functional magnetic resonance imaging in brain surgery" in Neurosurgical Focus, 2010, Vol. 28, No. 2, pp. 1-11.
+[2] V. L. Morgan, B. M. Dawant, Yong Li, M.S.,  D. R. Pickens “Comparison of fMRI statistical software packages and strategies for analysis of images containing random and stimulus-correlated motion”, in Computerized Medical Imaging and Graphics, 2007, Vol. 31, No. 6, pp. 436-446.
+[3] W. Aigner, S. Miksch, W, Muller, Heidrun Schumann, Christian Tominski, "Visual Methods for Analyzing Time-Oriented Data”, in IEEE transactions on visualisation and computer graphics, 2008, Vol. 14, No. 1, pp. 1-13.
+

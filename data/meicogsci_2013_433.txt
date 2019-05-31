@@ -1,0 +1,33 @@
+... title: Towards a Model of Juggling: A Comparison of Sensori- and Ideo-motor Theory
+
+
+
+Abstract
+
+!!!! Towards a Model of Juggling: A Comparison of Sensori- and Ideo-motor Theory
+
+This paper is meant as a point of departure towards a better understanding of juggling and thereby the link between perception, action and cognition. In order to begin exploring this topic current research in the sensorimotor approach is compared and contrasted with ideomotor theory, in terms of a complex motor task: Juggling. The goal is to demonstrate that through consideration of a practical example, advantages and disadvantages of a given approach can more easily be brought to light and that two opposing paradigms need not be mutually exclusive. 
+The sensorimotor paradigm suggests that perception guides action, whereas ideas/intentions make use of actions for their realization in ideomotor theory[1]. Both approaches come with a different idea of representations, as well as different intuitions on how perception, action and cognition come together. In order to discuss the implications of these paradigms, this paper first outlines the main points of sensori- and ideomotor theory and highlights some of the ongoing research. Subsequently research and personal experience from juggling is accessed in order to investigate the explanatory power of these approaches for specific examples:
+
+1)	learning of three-ball juggling [2]
+and learning of blind juggling (juggling against your body)
+2)	synchronous/asynchronous pattern stability in 4-ball juggling [3]
+
+In 1) individual differences in learning need to be accounted for, as well as the relatively easy transition to blind juggling. This suggests a similarity between representations of information from different modalities. Concerning 2), studies have shown that contrary to previous research on bimanual coordination, synchronous and asynchronous patterns in 4-ball juggling are equally stable. Both the learning of three-ball cascade juggling and 4-ball pattern stability have been studied previously whereas data for blind juggling is gathered in the form of interviews. 
+
+In continuation ongoing research that incorporates ideas from both paradigms is considered and evaluated. In conclusion two implemented systems that make use of the aforementioned approaches are discussed in order to evaluate how the theory can be put into practice. 
+
+Finally, in the conclusion, findings are summed up and further possible steps towards a model of juggling are suggested. The expectation is, that neither approach can exhaustively account for the different phenomena examined, possibly not even between them, yet a tendency towards the ideomotor approach will be revealed. 
+
+
+!! Acknowledgments
+I would like to thank my supervisor Paolo Petta for his help in finding appropriate research and his constant inspiration.
+
+
+!! References
+[1] Y. K. Shin, R. W. Proctor and E. J, “A review of contemporary ideomotor theory,” Psychological Bulletin, vol. 136, no. 6, pp. 943–974, 2010.
+
+[2] J. M. Bebko, J. L. Demark, P. A. Osborn, S. Majumder, C. J. Ricciuti and T. Rhee, “Acquisition and Automatization of a Complex Task: An Examination of Three-Ball Cascade Juggling,” Journal of Motor Behavior, vol. 35, no. 2, pp. 109–118, 2003.
+
+[3] J. C. Dessing, A. Daffertshofer, C. Lieke, E. Peper and P. J. Beek, “Pattern Stability and Error Correction During In-Phase and Antiphase Four-Ball Juggling,” Journal of Motor Behavior, vol. 39, no. 5, pp. 433–446, 2007.
+

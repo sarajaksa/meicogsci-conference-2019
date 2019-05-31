@@ -1,0 +1,8 @@
+... title: Set-Shifting and Place-Keeping as Separable Control Processes
+
+
+
+Abstract
+
+A great deal of research has explored the mechanisms underlying the control of cognitive processes in complex tasks. Typically, that research has focused on the operation of individual hypothesised control functions such set-shifting or response inhibition, but in complex tasks it is likely that behaviour will depend on the coordinated action of multiple control functions. I will present three experiments and a model that explore the relationship between two proposed cognitive control functions: set-shifting and place-keeping (i.e., keeping track of one’s place within a sequential task). The experimental task involves switching from one stimulus-response mapping to another across a series of trials, according to a predefined sequence and in the face of occasional brief interruptions. Response-stimulus interval, interruption length and interrupting task were varied. In all experiments, varying response-stimulus interval led to standard effects attributable to set-shifting, while varying interruption length led to standard effects attributable to place-keeping, but in no cases did the factors interact. The results support the view that set-shifting and place-keeping are achieved by separable control processes. This view is illustrated with a computational model of performance on the task that extends an existing model of set-shifting through the addition of a separate place-keeping mechanism.
+

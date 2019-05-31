@@ -1,0 +1,23 @@
+... title: Mindfulness, Knowledge Management and Collaboration
+
+
+
+Abstract
+
+The project is aiming to investigate the relationship between mindfulness and knowledge management, as well as implementations of mindfulness techniques into a corporate and business environment. 
+
+Mindfulness represents an “attention, paid in a particular way, on purpose, in the present moment, and nonjudgementally”, or detailed and objective awareness or self and the world. One of the means of achieving the state of mindfulness is mindfulness meditation, which, for example, could be accomplished by focusing one’s awareness on the physical sensation of breath [1].
+
+Knowledge management in a broad sense is a method, used to simplify and improve the process of creating, sharing, distributing and understanding knowledge within a company. One of the key aspects of knowledge management is a collaboration, making KM an activity which enables people to create value through sharing physical and virtual space. In this research we will investigate whether the mindful meditation could improve a shared collaborative activity, helping to solve some collaboration issues and make the knowledge sharing and creation more effective.
+
+The positive effect of mindfulness meditation has already been explored in a business context: mindfulness is able to decrease a current focus on the future and past, influencing decision-making, increasing performance and a worker’s resiliency in the face of challenges. We will try to find out if how those or similar effects also emerge in a context of collaboration.
+
+In the first stage the main focus would be put on everyday situations within a company, such as business meetings or workshops. We include a several minutes of mindfulness meditation in a working day, which co-workers will share in time and space, preferably before the next important collaborative event we are going to focus on. The control group will be assigned to another task. The meditation experience of the participants will be assessed by means of a questionnaire, and  experience meditators will be excluded.
+
+To analyze the effect of meditation on the performance, we are planning to consider such output variables as an average duration of the meeting, the amount of topics that has been covered, the average score of the mini-quiz, checking how well the new information is understood, the level of satisfaction with the workshop measured by a questionnaire, etc. To make such values comparable, we are taking into consideration only the workshops conducted separately with a main and control groups on the same or similar topics. The specific methods will be developed in the next stage.
+
+While the workshops are mainly focused on knowledge sharing, our next goal would be to reflect upon the influence of mindfulness on knowledge creation, which could be potentially used for a further research.
+
+!!References 
+[1] T. N. Hanh, “What is mindfulness?” in The miracle of mindfulness: An introduction to the practice of meditation,” Boston, MA: Beacon Press, 1999.
+

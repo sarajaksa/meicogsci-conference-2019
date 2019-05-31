@@ -1,0 +1,20 @@
+... title: Has the new EU Directive (legal framework) influenced the recognition of Sleep Apnoea Syndrome?
+
+
+
+Abstract
+
+Report of the European Union Obstructive Sleep Apnoea Working Group [1] states Obstructive Sleep Apnoea (OSA) as one of the highest risk factors for motor vehicle accidents. This issue was addressed by the new EU directive [2] - the drivers, both professional and amateur, suspected of excessive daytime sleepiness are temporarily forbidden to drive. The aim of the present study was to examine if these new regularities had any effect on the diagnosis of the Sleep Apnoea in Slovenia, comparing patients diagnosed with Sleep Apnoea Syndrome in 2009 and 2014. Clinical features, risk factors and polysomnographic characteristics of patients will be described and analysed. 
+
+Data was collected at the National Sleep Disorder Centre at the Institute of Clinical Neurophysiology, Ljubljana UMC, for the entire year of 2009 and 2014. There was a different sample of patients each year. Comparison of these two periods includes the clinical features of patients, variables, recognized as most important for the diagnosis of Sleep Apnoea, and characteristics of their polysomnography recordings. 
+
+In 2009, 55 patients were diagnosed as having Sleep Apnoea while in 2014 this number increased to 96. In 2009, family physicians appropriately referred 10,9% of all patients discharged with the diagnosis of Sleep Apnoea. This number increased to 91,7% in 2014. Comparison of categorical distributions of the two periods for the Epworth sleepiness scale (ESS) has shown statistically significant difference (p = 0,007). The differences in categorical distributions of the duration of sleep related problems (p = 0,053) and average decrease in saturation (p = 0,100) were statistically significant at 0,10 significance level. 
+
+
+Our study shows that the EU directive had effect on the number of referrals by the family physicians. The indication of OSA was better among family physicians and the number of patients diagnosed as having Sleep Apnoeas in these two years had increased. The duration of sleep related problems was shorter in 2014 compared to 2009, indicating that problems were more properly recognized. Furthermore, the categorical distribution of the ESS could imply that the subjective evaluation of sleepiness in 2014 is less pathological than 5 years prior. On the other hand, the average saturation while sleeping indicates a reverse trend compared to subjective reports.
+Further analysis of patient’s risk factors for Sleep Apnoeas for both periods will be conducted.
+
+!!References
+[1] W. McNicholas et al.. (2013)."New Standards and Guidelines for Drivers with Obstructive Sleep Apnoea syndrome: Report of the Obstructive Sleep Apnoea Working Group", European Commission, Brussels, BE.
+[2] European Commission. (2014). Commission Directive 2014/85/EU of 1 July 2014 amending Directive 2006/126/EC of the European Parliament and of the Council on driving licences, Brussels, Belgium [Online]. Available: EUR-Lex - 32014L0085 - EN.
+

@@ -1,0 +1,24 @@
+... title: Serious games and dementia
+
+
+
+Abstract
+
+!!!! Serious games and dementia
+
+Serious games are considered games, which main purpose of design is not an entertainment, so serious games can be used in education, health care, and management. However, some digital games which were primarily designed as an entertaining have been adopted to serious gaming on account of their good gaming experience [1]. Games for health represent an important subfield of serious games and its application in the health domain could significantly influence the quality of elderly people’s lives. Several studies have been documenting the use of serious games in the health domain and these games are designed with the intention of improvement player’s cognitive, social and physical abilities.
+
+The research in this project consists of literature review, with the research question being the considerations in game design and benefits of the use of serious games in dementia patients. There is a variety of risk factors for Alzheimer’s disease (AD) and at least some of them (e.g. cardiovascular disease) could be taken into account in design of serious games [2]. Thus the games could support physical activity and educate people about fitness and healthy lifestyle in general (including diet). Such games represent a pleasant leisure activity for elderly people and could have a positive impact on the overall well-being of institutionalized elderly. Moreover, playing physically engaging games may reduce the risk of depression among elderly.
+
+Current research suggests that serious games could help patients to cope with the symptoms of the brain deterioration and compensate for certain losses because of the plasticity of the nervous system which denotes the possibility of nervous system to create and modify neural connections [3]. With exercises which enhance attention, orientation, memory, and reasoning, elderly could benefit and have their quality of life improved.
+
+As in any other research field, more research in serious games for dementia is needed and since the world’s population is aging, there arises a market opportunity for game developers. Different experts have to contribute and cooperate in such a project so that games are as beneficial as possible. In the field of cognitive science serious games for dementia represent an important area of research concerning a great amount of the population.
+
+!! References
+
+[1]	S. McCallum and C. Boletsis, “Dementia Games: A Literature Review of Dementia-Related Serious Games,” in Serious Games Development and Applications, vol. 8101 , M. Ma, M. F. Oliveira, S. Petersen, and J. B. Hauge, Eds. Springer Berlin Heidelberg , 2013, pp. 15–27.
+
+[2]	W. Thies and L. Bleiler, “2013 Alzheimer’s disease facts and figures.,” Alzheimers. Dement., vol. 9, no. 2, pp. 208–45, Mar. 2013.
+
+[3]	C. Reitz, C. Brayne, and R. Mayeux, “Epidemiology of Alzheimer disease.,” Nat. Rev. Neurol., vol. 7, no. 3, pp. 137–152, Jan. 2011.
+

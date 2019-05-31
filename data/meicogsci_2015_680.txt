@@ -1,0 +1,15 @@
+... title: Movement mental imagery to groovy and non-groovy music in dancers and non-dancers
+
+
+
+Abstract
+
+Many experts would like to understand movements and actions of people that are expressed as a way of generating rhythm to music [1]. The aim of our project was to explore possible differences in dance mental imagery between professional dancers and non-dancers to groovy and non-groovy music. The main research question was: are there differences between dancers and non-dancers in mental representations of movements to music. 
+
+We recruited 17 healthy young volunteers professional dancers and 18 non-dancers. We combine two different methods to acquire the data: (1) functional magnetic resonance imaging to capture the BOLD signal during blocks of spontaneous and dictated movement mental imagery to music, and (2) self-assessment of participant experience to music during mental visualization tasks. Three diﬀerent conditions were created with instructions preceding each mental imagery task to test (1) participants’ spontaneous mental imagery response to blocks of music, (2) participants’ passive mental imagery response to blocks of music (when instructed to ignore the music), and (3) participants’ active mental imagery response to blocks of music. Groovy (with Latino-inspired tunes) and non-groovy (with parts of the national anthems) music clips were instrumental and were combined into random pairs for every listening condition in every participant. Immediately after each listening task participants used a joystick and a non-graduated linear scale to express the degree to which they mentally respond to music during diﬀerent listening conditions.
+
+Due to ongoing data analysis only preliminary behavioral results are reported here. Our behavioral results suggest some potentially signiﬁcant diﬀerences between professional dancers and non-dancers in responses to music. The listed result suggests that the pattern of movement visualization to music during spontaneous and instructed maximal response (in active condition) to music differed according to training experiences. Overall, non-dancers reported more emotional engagement in all music but comparable dance-visualization responses to dancers. When instructed to respond maximally, non-dancers surprisingly reported differentially increased emotional and movement-visualization responses to both blocks of music. On the other hand, dancers reported low emotional engagement across all listening conditions, more spontaneous response to non-groovy music with a pronounced differential increase in dance-visualization to groovy music when instructed to respond to music maximally. Further research of dance and dance mental imagery can enrich our understanding of music induced generation of movement and dance. 
+
+!!Reference
+[1] B. Bläsing, B. Calvo-Merino, E. S. Cross, C. Jola, J. Honisch, C. J. Stevens, “Neurocognitive Control in Dance Perception and Performance,” in Acta psychologica, vol. 139, Germany: Bielefeld University, no.2, 2012, pp. 300-308.
+

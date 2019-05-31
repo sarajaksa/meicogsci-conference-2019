@@ -1,0 +1,18 @@
+... title: Economic Decision-making in Neuroeconomic Knowledge Production, an In-depth Analysis
+
+
+
+Abstract
+
+!!!! Economic Decision-making in Neuroeconomic Knowledge Production, an In-depth Analysis
+When the global financial crisis hit its peak in September 2008, great debate about possible causes broke loose. Interdisciplinary research of neuroscience and economics debated the role of emotions in the decision-making process due to past research findings[1] and pointed at the biological make-up of human kind determining gendered brain processes such as “the male rationality” versus “the female emotionality”[2]. In consequence, neuronal processes involving rationality and emotionality in economic decision-making were heavily focused on in neuroeconomic brain research studies. However, results of this field seem to be very controversial. Some research groups determine structural differences in the brain of females and males[2] which seem to be the reason for causing difference in behavior and decision-making while other research groups report individual variation in empathy, a form of emotionality, among the same gender[3].  
+This project researches whether and what discrepancies in findings among different brain research studies on emotionality and rationality in decision-making can be found via comparative analysis of articles and research findings which emerged in the last ten years in neuroeconomic research. Four specifically chosen published articles, namely on the neural basis of economic decision-making[1], on the empathy for pain[2,3] and on genetic determinants of financial risk taking, were analyzed in depth following specifically chosen categories according to past article-analysis research. Some of the categories include the experimental set-up, subject criteria, result presentation and interpretation and the result validity and reliability. 
+The results of this analysis uncovered discrepancies not only among other research groups but also within one study as displayed in detail in this poster. In conclusion, the state of the art in these issues can greatly be identified indicating that the results currently presented by neuroeconomic research are by no means conclusive, in particular with reference to gender aspects. This is important as currently concepts of neuroeconomics take great influence on not only politics and economics but also on the society. 
+!!  Acknowledgments  
+Special thanks to Professor Sigrid Schmitz for supporting this project. 
+
+!! References
+[1]	A. G. Sanfey, J. K. Rilling, and J. A. Aronson, “The Neural Basis of Economic Decision-Making in the,” vol. 300, no. June, pp. 1755–1758, 2003.
+[2]	T. Singer, B. Seymour, J. P. O’Doherty, K. E. Stephan, R. J. Dolan, and C. D. Frith, “Empathic neural responses are modulated by the perceived fairness of others.,” Nature, vol. 439, no. 7075, pp. 466–9, Jan. 2006.
+[3]	T. Singer, B. Seymour, J. O’Doherty, H. Kaube, R. J. Dolan, and C. D. Frith, “Empathy for pain involves the affective but not sensory components of pain.,” Science (New York, N.Y.), vol. 303, no. 5661, pp. 1157–62, Feb. 2004.
+

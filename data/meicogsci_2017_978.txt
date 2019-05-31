@@ -1,0 +1,17 @@
+... title: A Methodological Proposal on How to Use the Analytic Hierarchy Process Technique to Improve Need-based Solution Knowledge Strategies
+
+
+
+Abstract
+
+Developing knowledge about hidden needs of an organization appears to be crucial for organizational learning processes, such as innovation and strategy development. As illustrated by Kragulj [1] a need-based solution knowledge strategy encompasses three ontological dimensions: the capacity to identify needs (Ci), to judge a satisfier's potentiality (Cj) and to design alternative (innovative) satisfier (Cd). To identify (hidden) needs of a social system like an organization Kaiser and Kragulj [2] introduced “Bewextra”, a method to assess implicit need knowledge of organizational members. However, being aware of our needs does not tell us how to meet them. A need can be satisfied by different concrete solutions (satisfiers). The relationship between needs and satisfiers is reflected by the principle of Equifinality [1]. The same final state (satisfaction of a need) can be reached from different initial conditions and by different means (satisfier). As illustrated by Thomas L. Saaty [3], the Analytic Hierarchy Process technique (AHP) provides means for analyzing and organizing such complex multi- criteria decisions.
+
+Our main goal is to use the analytic hierarchy process technique to improve the practical application of need-based solution knowledge strategies. The first required step is to identify all relevant components of the network: the goal, the criteria and the alternative elements. We use Bewextra to identify the goal (needs) of organizational members (Ci). The resulting catalogue of needs will be evaluated to define the prioritized, focal needs of a social system. After identifying the focal needs, we assess in two separate steps the criteria (indicators) of a given need (Cj) and the potential elements (satisfiers) corresponding to the criteria (Cd), by questioning the systems members. Finally, the members systematically evaluate the elements by comparing them to each other two at a time, with respect to the defined criteria. By converting these judgements into numerical values, AHP measures the weighted priority of each element of the network. As a result of this process, we expect prioritized need-satisfier relations to emerge, which will improve the development of need-based solution knowledge strategies. 
+
+As a second goal, we plan the application of creativity techniques to improve the mental process of creating new potential satisfiers. We assume that the process of designing potential alternatives to known satisfiers requires a creative atmosphere (Cd). Creativity techniques have not yet been examined. 
+
+!!References
+[1] F. Kragulj, “Conceptualising Needs to Enhance Organisational Learning and Enable Knowledge-based Innovation,” in Procedia Computer Science, vol. 99, pp.195-212, 2016.
+[2] A. Kaiser and F. Kragulj., “Bewextra: Creating and Inferring Explicit Knowledge of Needs in Organizations,” in Journal of Futures Studies, vol. 20, no. 5, pp. 79-98, 2016.
+[3] T. L. Saaty, “The Modern Science of Multicriteria Decision Making and Its Practical Applications: The AHP/ANP Approach,” Operations Research, vol. 61, no. 5, pp. 1101–1118, 2013.
+

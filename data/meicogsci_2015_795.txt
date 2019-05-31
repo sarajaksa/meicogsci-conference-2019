@@ -1,0 +1,21 @@
+... title: 16 Million Shades of Gray: Calculating, Simulating and Visualizing Total Color Blindness
+
+
+
+Abstract
+
+When it comes to total color blindness, it is very hard for a regular, color-seeing people to imagine the world, where the color information is missing. Because we can not see through the eyes of the other person, we can only assume based on feedback and biological studies. There had been numerous studies with the goal to create the simulation of color blindness, but as we explain in this paper, most of them are not accurate. Moreover, with the help of participants suffering from achromatopsia (one form of total color blindness), we propose our technique for simulating this phenomenon.
+
+The basis of this research is that if a perfect simulation exists, achromatopic (i.e. totally colorblind) person should not distinguish between a normal, colored picture and a grayscaled version of it [1]. This is also the argument, why we think that the current approaches to this problem do not produce correct results – the subjects see a marginal difference and the pictures based on such algorithms look very unnatural to them.
+
+To harness this idea, we have created a simple computer program, which can calibrate the color-to-grayscale algorithm based on the input from the colorblind person. The calibrating phase consists of a series of tests in which the application goes through a set of colors (red, green, blue, etc.) and the subject has to match the provided color with a shade of gray that, from his point of view, corresponds to that color. The data is then fed to an algorithm (weighted average with non-linear weights) that creates the simulation. It can be then applied to either pictures, or visualized on a RGB cube. This particular way of describing colorblindness has advantages, such as selecting the regions that look uniform to an achromat – an area that has constant gray levels (slice of the cube).
+
+We believe that this research will lead to eradication of false and not accurate simulations of colorblindness. Also, it will be great if it can spark more interest in the study of color vision disabilities. 
+
+!!Acknowledgments
+
+Special thanks to my tutor RNDr. Kristína Rebrová PhD. for her advice, guidance and valuable insight into the topic of color vision.
+
+!!References
+[1] M. Osrman, "Assistive software for people with color vision disabilities" (in Slovak), Bc. thesis, FMFI, Comenius Univ., Bratislava, Slovakia, 2014.
+

@@ -1,0 +1,20 @@
+... title: Social Foraging in the Carrion Crow, Corvus Corrone
+
+
+
+Abstract
+
+In all living beings, the evolutionary development of cognition is a way to process information in a complex environment. Not only has this process brought human intelligence to the level it stands today, but recent discoveries on mental capabilities in non-human animals demonstrate that cognition and complex reasoning are not unique to our own species. Among avian species, corvids constitute a very suitable object of study: They live in groups all of their life. The hippocampus and midbrain of crows have a size far above average compared to other birds.1 Bot regions are strongly associated as neural correlates for learning and social cognition.
+Even though there are many studies on mental flexibility of corvids, relatively little is known about their everyday activities, namely what role does social foraging play in corvid populations. Is social foraging/scrounging behavior biased by environmental factors, and if so, what factor triggers which behavior? Given the degree of complexity of social cognition in crows, we additionally pose the question whether there might be something as a finder's share among social groupings of crows, a feature commonly known amongst some monkey species2 but thought to be absent in other animals.
+
+For the present study, our hypotheses stand that social foraging is a core element of the everyday life of crows. Furthermore, they pay attention to food-dependent changes in their environment dynamically, resulting in adaptive behavior; for example: if there are more predators around, it might be a better idea to scrounge food of conspecifics than to search for it, because getting penalized for stealing is less worse than getting eaten.
+Our methods are as follows: we are evaluating focus protocols of ringed (i.e. registered with a bracelet around their feet) crows located at Tiergarten Vienna. Focus time lies at four minutes, the most relevant factors (eating, drinking, approaching, etc) are being recorded while observing the behavior of one animal at a time. Secondly, we conduct an experiment where pieces of bread were split up into equally-sized parts and placed at locations in the zoo that were less frequented by visitors. In a randomized set-up, they were split into two pieces and five pieces. Since this changes the amount of total pieces to get, we expect a significant change in foraging, scrounging and sharing with each other.
+
+Preliminary results show that crows are very sensitive to changes in group dynamics and their environment in terms of feeding and social behavior, thus suggesting that similar evolutive pressures may trigger rise of complexity in social behavior. Despite the simple paradigm, first samples suggest that crows make use of what is known as finder's share. This would be the first display of this feature in a non-mammalian species. Despite obvious biological diversity, manifestations of mathematical 'risky theories'  seem to arise spontaneously where ever cost-benefit analysis produces better profit.3
+
+(1) Nathan J. Emery (2006). Cognitive Ornithology: The Evolution of Avian Intelligence. Phil. Trans. R. Soc. B 2006/361, 23–43.
+
+(2) Mario S. Di Bidetti & Charles H. Janson (2000). Social foraging and the finder’s share in capuchin monkeys, Cebus apella. Animal Behaviour, 2001/62, 47–56.
+
+(3) Alex Kacelnik & Melissa Bateson (1996). Risky Theories—The Effects of Variance on Foraging Decisions. Amer. Zool., 1996/36, 402–434.
+

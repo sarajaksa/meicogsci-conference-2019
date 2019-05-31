@@ -1,0 +1,16 @@
+... title: Prosodic and Musical Abilities in English Language Pronunciation Learning
+
+
+
+Abstract
+
+Learners of English as a second language show considerable differences in their ability to acquire a native-like accent. While some imitate foreign accents with ease, others struggle to achieve this goal despite intensive training. This variance has been linked to several factors, for instance age of learning, motivation, anxiety, and auditory working memory. The structural similarities between music and language and observations of shared neuronal networks [1] have sparked interest in the role of musical abilities in the context of foreign pronunciation learning. Indeed, several results indicate associations between the two abilities [2]. However, the previous focus has been on segmental phonology, whereas studies on supra-segmental prosodic features such as intonation and stress are scarce. 
+
+The present study aims at identifying potential links between perceptive musical abilities and the acquisition of perceptive and productive English prosody skills. It is hypothesized that perceptive musical abilities correlate positively with prosody skills. The sample consists of advanced Austrian university students of English who complete a four-month English pronunciation training course. The experimental design includes the measurement of perceptive musical abilities, as well as repeated measurements of English prosody skills at the beginning, in the middle and at the end of the course. Perceptive musical abilities (discrimination of rhythm, melody, pitch and volume) are tested with the Profile of Music Perception Skills (PROMS) test. English prosody skills (discrimination, imitation and free production of English stress and intonation patterns) are operationalized by native-speaker ratings of subjects’ recorded listening and speaking tasks. In addition, potentially modulating variables (age of learning, general speech imitation talent, prior experience with playing instruments and singing, motivational and attitudinal factors, and auditory working memory) are measured with psychological performance tests and questionnaires. 
+
+The results of the present study are expected to show positive correlations between perceptive musical abilities and English prosody skills. The findings will be integrated with neuroscientific and linguistic theories of language and music processing and will contribute to theoretical models of prosody perception and production. From an application-oriented perspective, support for a connection between musical aptitude and prosodic abilities could inspire research on the usage of music exercises in the English pronunciation classroom.    
+
+!!References 
+[1] D. Schön, G. Reyna, A. Campagne, C. Magne, C. Astesano, J. Anton, M. Besson, “Similar cerebral networks in language, music and song perception,” Neuroimage, vol. 52, pp. 450-461, 2010. 
+[2] M. Christiner, S. M. Reiterer, “A Mozart is not a Pavarotti: singers outperform instrumentalists on foreign accent imitation,“ Frontiers of Human Neuroscience, vol. 9, article 482, 2015.
+

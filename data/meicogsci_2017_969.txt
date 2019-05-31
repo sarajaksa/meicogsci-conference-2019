@@ -1,0 +1,17 @@
+... title: Mobile Parkinson's Disease Monitoring
+
+
+
+Abstract
+
+!!Introduction
+Parkinson's disease (PD) is, among other symptoms, accompanied by tremor and a change of gait pattern. The course of PD can be assessed and evaluated using classical clinical methods. This entails a visit to a physician and going through diagnostic tests. Due to population ageing and an increase in neurological disorders, there is a need for improvement in more efficient disease monitoring. Progressive data processing methods make a constant analysis of parameters linked directly to PD possible. The goal of our research is to assess the possibility of implementing an already developed platform, which enables ubiquitous, cheap and simple attainment of data on its user's gait and tremor using a smartphone, in clinical practice. When compared to classical methods, the advantage of the platform is a more precise monitoring of the progress of PB in a domestic environment throughout a longer time period.
+!!Methods
+Research approach is based on an already developed platform that enables the analysis of accelerometer signals gained from inertial sensors (IS) found in smartphones [1]. A study will be carried out on 20 PD patients, evaluated using standard clinical testing procedures, and 20 healthy individuals serving as a control group (CG). Gait will be assessed on the basis of symmetry, regularity and stride length and duration parameters, that will be measured using IS data. Tremor will be assessed on the basis of data from frequency amplitude of IS signals. The gait assessment tasks are walking on a 4 x 10 m level surface, a stop and go test, and rising from a chair. The tremor assessment tasks are holding a mobile phone sitting down with arms stretched out in front and holding it sitting down with arms resting on the chair's armrests. Data processing will be implemented using methods based on signal processing, machine learning, statistical analysis, and blind source separation. The gathered results will be directly compared to clinical test results. IS signals will be compared between PD and CG. We can further compare our results with results from similar studies.
+!!Results
+Modularity of the platform makes possible the implementation of different statistical methods suggested by neurologists. It is impossible to predict the exact metrics at this time, since they are to be settled on in collaboration with the Department of Neurology of the University Medical Centre Ljubljana. We expect significant differences between the PD and CG groups and a higher precision in comparison to other similar methods in correlation with clinical tests.
+!!Discussion
+With our research, we wish to improve entire neuroscientific practice with the help of modern methods of artificial intelligence. Our vision of the platform includes different levels of healthcare. A paradigm that could be used to additionally improve on the neuroscientific experience is the Internet of Things, which allows for more frequent long-term disease monitoring and dislocated monitoring of patient condition. Assisted by the platform, research personnel could follow the progression of the disease in real time and more efficiently.
+!!References
+[1] S. Sprager and M. Juric, "An Efficient HOS-Based Gait Authentication of Accelerometer Data", IEEE Transactions on Information Forensics and Security, vol. 10, no. 7, pp. 1486-1498, 2015.
+

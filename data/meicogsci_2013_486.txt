@@ -1,0 +1,27 @@
+... title: !!!!Control of a Robot Movement by Non-invasive Brain-Computer Interface (BCI)
+
+
+
+Abstract
+
+!!!!Control of a Robot Movement by Non-invasive Brain-Computer Interface (BCI)
+
+In our research we deal with the usage of an action invoked potential p300 to command a movement of a mobile robot. 
+
+We use the traditional model of P300 BCI Speller from the application BCI2000 that we modified for our purposes. We modified the size of a functional decision matrix to 3x3, its 8 boundary fields we used to determine the directions of robot movement and the middle one as “start/stop” activator of movement. This matrix is displayed on the screen and the subject is supposed to concentrate on the field with the direction he wants the robot to move. The application rapidly highlights random rows and columns of the matrix and when subject’s field is highlighted, the p300 action potential is to be recognised. When the application has enough data it moves the robot in the most supposedly accurate way.
+
+The robot is itself a simple SBot with two servo motors and CPU unit which uses a compass (HMC6343). We use the compass to monitor the current position of the robot in the context of global directions, and from it we calculate robot’s next movement. 
+We solved the problem with higher voltage used by SBot (5V) and compass that is only able to work with 3V, by creating and adding a new circuit that changes the voltage. Furthermore we added another CPU unit (ATMEGA 232P) to communicate between the CPU of the SBot and CPU of the compass. Accordingly we programmed the necessary registers for the communication between them.
+
+At the beginning of startup of our program the robot detects the global direction in which it is turned to and from this information it calculates the other 7 directions in which it would turn later. The movement of the robot is secured by two servo motors that are situated opposite each other, so the servos are moving in different directions when the robot is moving forwards. Their operation was not identical, therefore they needed to be calibrated to move with the speed as similar as possible.
+
+Even though for the forward movement we also use the data from the compass. During the change of direction the robot rotates by an angle and then moves forward for few steps. 
+Our application is to be tested in laboratory conditions and also in the public place to determine its usability under normal conditions. We believe that the results could contribute to wider usage of general purpose robotics.
+
+!!References:
+[1] Schalk G., McFarland D.J., Hinterberger T., Birbaumer N., and Wolpaw J.R.. “BCI2000: A General-Purpose Brain-Computer Interface (BCI) System,” in Proc. IEEE Trans Biomed Eng, 2004, pp.51(6)
+
+[2] Bozinovski, S.; Sestakov, M. and Bozinovska, L. "Using EEG alpha rhythm to control a mobile robot," in Proc. Annual International Conference of the IEEE, 1988, pp.1515-1516.
+
+[3] Finke A., Lenhardt A. and Ritter H. “The MindGame: A P300-based brain–computer interface game,“ in Neural Networks, Volume 22, Issue 9, 2009, pp 1329-1333
+

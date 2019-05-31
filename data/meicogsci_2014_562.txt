@@ -1,0 +1,21 @@
+... title: Effects of TMS Protocols on the Neuroplasticity of the Primary Motor Cortex
+
+
+
+Abstract
+
+!!!! Effects of TMS Protocols on the Neuroplasticity of the Primary Motor Cortex
+
+The study is a part of an ongoing project focused on transcranial magnetic stimulation (TMS) and depression (“Influence of different transcranial magnetic stimulation protocols on biomarkers and symptoms of depression”). This project is concerned with TMS acting as an alternative treatment (besides electroconvulsive therapy (ECT)) mostly in cases of treatment-resistant depression (TRD). Since ECT, highly effective, but associated with various adverse effects, is considered as a last-resort treatment, emphasis has been put on exploring TMS as a safer, less invasive, but on the other hand also (yet) less effective treatment [1].
+
+One method of administration of TMS in major depressive disorders (MDDs) is the application of inhibitory TMS protocols on the right dorsolateral prefrontal cortex (DLPFC) [2]. Our study focuses on the partial goal of comparing various inhibitory TMS protocols in their efficiency in inducing neuroplasticity of the primary motor cortex (M1), which would indicate (assuming the possibility of a generalization of the M1 response also to other brain structures) its applicability and efficiency as an MDD treatment.
+
+The activation of the M1 will be assessed by means of motor-evoked potentials (MEPs), short (SICI) and/or long intracortical inhibition (LICI). We will employ a serial experimental design, introducing all participants to all experimental conditions (standard 50 Hz continuous theta burst stimulation (cTBS) and modified 30 Hz cTBS) sequentially [3]. The measures of M1 activation of a certain muscle by means of electromyographic (EMG) electrodes will be elicited through the application of single or paired TMS pulses before and after the application of the inhibitory protocols. The EMG data will be then analyzed in a within-subject form.
+
+To conclude, we would like to state some of the perceived potential limits. First of all, it should be noted that our experiment is going to make use of healthy subjects, whose response may be different from that of potential TRD patients due to differences in their brains and possible age mismatch. The practical problems associated with carrying out this experiment may include our general inexperience and placement issues of the TMS coil and EMG electrodes, recruitment of participants and the threat of subjects dropping out of the experiment (since multiple sessions during a prolonged period of time will have to be scheduled).
+
+!! References:
+[1] Allan, C. L.; Ebmeier, K. P. (2011): The Use of ECT and MST in treating depression. International Review of Psychiatry, 23(5), 400–412.
+[2] Blumberger, D. M. et al. (2013): What Is the Role of Brain Stimulation Therapies in the Treatment of Depression? Curr. Psychiatry Rep., 15:368, 1-10.
+[3] Goldsworthy, M. R. et al. (2012): A comparison of two different continuous theta burst stimulation paradigms applied to the human primary motor cortex. Clinical Neurophysiology, 123, 2256–2263.
+

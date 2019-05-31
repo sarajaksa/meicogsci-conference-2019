@@ -1,0 +1,26 @@
+... title: A Web-Based Intervention in Existential Therapy:  Development of an Interactive Online Program to Guide Self-Help
+
+
+
+Abstract
+
+Psychotherapy is a discipline in which know-how and understanding have grown immensely since the beginning of the 20th century. Expertise however is gained by relatively few individuals and forwarded only to small subsets of all the people that could benefit from it. 
+
+With the Internet a new medium of communication has risen and with it, almost inescapably, the field of E-Mental-Health. Self-guided web-based interventions are applications that allow for psycho-education, interactive exercises, psychological testing and forums over online platforms. They operate without direct support of a human therapist [1].
+
+We are developing a web-based intervention on the basis of Existential Analysis, a humanistic therapeutic approach established by the Austrian psychiatrist Viktor Frankl and further developed by Alfried Längle, head of the Society for Logotherapy and Existential Analysis (GLE). While many web-based interventions have been devised on the basis of Behavioral Therapy, the possibility of offering humanistic online support still lacks exploration and thorough researching.
+
+Our intervention is designed for students who experience existential frustration, a state characterized by the felt meaninglessness of a person's life or work [2]. Even though it is not a pathology it may cause students to experience problems to concentrate, procrastination, anxiety or depressive tendencies. Furthermore, whether a person has a self-transcendent purpose for studying was found to strongly influence their determination of conducting given tasks  [3].
+
+Assistance in overcoming episodes of existential frustration is one of the crucial strengths of Existential Analysis.  Our intervention is designed to guide self-help of students who do not visit a counselor by providing interactive questionnaires and exercises that follow psychotherapeutic methods. 
+
+Through the depicted process we want to research interdisciplinarily how expertise from Existential Analysis can be implemented as a web-based intervention. The work combines the areas of Psychotherapy Research, Pedagogy, E-Mental-Health, Human-Computer-Interaction and Computer Science. The intervention is implemented and improved in a fashion of rapid prototyping. For a first evaluation a pre-and post-test study with the "Test for Existential Motivation" (TEM) is conducted.
+
+!!Acknowledgments
+I want to thank Prof. Alfried Längle, Prof. Jaka Sodnik and Daniel Boandl for their meaningful and dedicated collaboration in this project!
+
+!!References
+[1]         A. Barak, B. Klein, and J. G. Proudfoot, “Defining internet-supported therapeutic interventions,” Ann. Behav. Med., vol. 38, no. 1, pp. 4–17, 2009.
+[2]         V. Frankl, Ärztliche Seelsorge. Deuticke, 1982.
+[3]         et al. Yeager, “Boring But Important - Self-Transcendent Purpose in Learning Fosters Academic Self-Regulation,” vol. 107, no. 4, pp. 559–580, 2014.
+

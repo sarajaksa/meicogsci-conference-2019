@@ -1,0 +1,20 @@
+... title: An Interdisciplinary Research Study Linking Depression, Platelet Function and Cardiovascular Disease
+
+
+
+Abstract
+
+Depression is an acknowledged risk factor for cardiovascular morbidity and mortality and studies have found a high prevalence of depression in patients with cardiovascular disease [1].  Platelet function has been found associated with both depression and cardiovascular disease and may be a potential link [2]. However, the exact mechanism linking depression and cardiovascular disease remains poorly understood [2].
+
+This project is part of a clinical study performed at the Johns Hopkins Medical Institution which included 300 patients with stable coronary artery disease (155) and with acute coronary syndrome (145) whose level and symptoms of depression were assessed by Beck Depression Inventory Second Edition (BDI-II) and Structured Clinical Interview for DSM III-R. For this project, the relationship between specific cognitive and psychological aspects of depression and serotonin related platelet function among cardiovascular disease patients is investigated. The 2-factor analysis method is used for the analysis grouping symptoms into a cognitive-affective factor and a somatic factor [3]. The cognitive-affective factor is composed of 14 items including pessimism, suicidal thoughts, indecisiveness, and feelings of worthlessness among others. The somatic factor is comprised of 7 items including changes in sleep pattern, appetite change, and fatigue among others. SigmaPlot Version 12 is used for the statistical investigation, considering p ≤ .05 as significant. 
+
+This research study is of high clinical relevance for patient treatment especially the treatment of acute coronary syndrome patients with psychiatric comorbidity such as depression. Furthermore, this research study is important for improving our knowledge in the mind-body mechanism linking depression and increased cardiovascular risk. 
+
+!!Acknowledgements
+This study was supported by the NHLBI RO1 5R01HL096694 Grant and the KWA Grant. Many Thanks to Dr. Marlene S. Williams for supervising and supporting this project. 
+
+!!References
+[1]	B. D. Thombs, E. B. Bass, D. E. Ford, K. J. Stewart, K. K. Tsilidis, U. Patel, J. a Fauerbach, D. E. Bush, and R. C. Ziegelstein, “Prevalence of Depression in Survivors of Acute Myocardial Infarction,” J. Gen. Intern. Med., vol. 21, no. 1, pp. 30–38, 2006.
+[2]	M. S. Williams, “Platelets and depression in cardiovascular disease: A brief review of the current literature.,” World J. psychiatry, vol. 2, no. 6, pp. 114–23, 2012.
+[3]	B. D. Thombs, R. C. Ziegelstein, L. Pilote, D. J. a Dozois, A. T. Beck, K. S. Dobson, S. Fuss, P. De Jonge, S. L. Grace, D. E. Stewart, J. Ormel, and S. E. Abbey, “Somatic symptom overlap in beck depression inventory-II scores following myocardial infarction,” Br. J. Psychiatry, vol. 197, no. 1, pp. 61–66, 2010.
+

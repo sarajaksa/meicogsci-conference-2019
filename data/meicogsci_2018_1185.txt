@@ -1,0 +1,24 @@
+... title: Natural Human Reasoning Abilities and Visual Matrix Puzzle Solving
+
+
+
+Abstract
+
+## Context
+
+Raven’s Progressive Matrices and similar matrix problems have been used in research and intelligence testing for decades. The matrix puzzles are nonverbal and are thought to measure analytical intelligence. They are based solely on visual representations and challenge one’s ability to recognize patterns that consist mainly of visual similarity and analogy [1]. In our research we will address natural human reasoning abilities in the case of the Raven’s progressive matrices-like puzzles of varying difficulty.
+
+## Goals
+
+Our first goal is to analyze the underlying structures in Raven’s original Standard Progressive Matrices to determine what types and combinations of relations were used. Within the matrix sets two basic types of problems have been identified: object transformation problems, and logic problems. The object transformation problems are primarily zero-, one-, or two-relation problems, and describe the number of pattern changes in the matrix problem. The logic problems consist of operations such as addition, conjunction, disjunction, or exclusive disjunction [2]. Our next goal is to generate a large set of matrix problems that have properties similar to those of Raven’s original matrices. This way we will create a bigger and more diverse set of puzzles that will still correspond to the same underlying structure of Raven’s original matrices. It will allow us to have control over the surface features and difficulty of the matrix problems, as well as expand the underlying rules of puzzles for the purpose of our research. Our final goal is to present a developed matrices test to participants in the form of a questionnaire and the results will enable us to determine natural properties of human reasoning abilities.
+
+## Results
+
+We hypothesize that the difficulty of the matrices will increase in the following order: one-relation, two-relation, three-relation problems, and logic problems. The latter should be the most difficult to solve because it involves inference from the patterns of surface features to a specific underlying rule. The puzzles in each of these sets consist of different underlying structure, the complexity of which corresponds to increasing difficulty of the puzzles. The difficulty of the developed matrix problems will be determined on the basis of a criterion that is yet to be selected. Success rates of solved puzzles will  enable us to determine the properties and the limits of natural human reasoning abilities.
+
+## References
+
+[1] M. Kunda et al., “Addressing the Raven’s Progressive Matrices Test of “General” Intelligence,” *Multirepresentational Architectures for Human-Level Intelligence: Papers from the AAAI Fall Symposium*, pp. 22-27, 2009.
+
+[2] L. E. Matzen et al., “Recreating Raven’s: Software for systematically generating large numbers of Raven-like matrix problems with normed properties,” *Behavior Research Methods*, vol. 42, no. 2, pp. 525-541, 2010.
+

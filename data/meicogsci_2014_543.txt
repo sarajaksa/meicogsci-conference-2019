@@ -1,0 +1,20 @@
+... title: Unconscious Processing of Human Faces. A Subcortical Pathway for Disgust?
+
+
+
+Abstract
+
+!!!! Unconscious Processing of Human Faces.  A Subcortical Pathway for Disgust?
+
+Visual processing of human faces is believed to take place through two major pathways: a slower, more detailed cortical pathway and a faster, less detailed subcortical one. The cortical pathway receives its input via the parvocellular fibers and is thus more sensitive to high spatial frequency (HSF) information. As opposed to this, the subcortical pathway receives input via the magnocellular fibers which are more sensitive to low spatial frequency (LSF) information [1]. The subcortical pathway involves the superior colliculus, the pulvinar and the amygdala in the brain. Because of the involvement of the amygdala, fearful facial expressions seem more likely to activate this pathway. Nonetheless, there are studies that indicate that the subcortical pathway might respond to a wide range of emotional stimuli, especially negative facial emotions that might suggest a potential danger, such as anger, disgust or contempt [2] as well as stimuli presented in the periphery [3]. In order to investigate the hypothesis that the subcortical pathway might be involved in the processing of various negative emotions, not only fear, we tried to see in the present study whether the subcortical route is also involved in the subliminal processing of disgusted faces. 
+
+In order to test this hypothesis we used a psychophysical approach with a masked prime paradigm in which the participants of the experiment had to discriminate between neutral and disgusted target faces. Prior to these target faces, prime faces that were either congruent (having the same emotional expression as the target) or incongruent (having the opposite emotional expression from the target) were presented in the periphery. The primes were either unfiltered (carrying both high spatial frequencies and low spatial frequencies), or filtered in order to contain only LSF or only HSF information. Because the LSF face primes should be processed regardless of whether they are attended or not, we also manipulated spatial attention by either cueing the target or the prime. We tested an equal amount of participants, in two blocks, one for HSF primes and one for LSF primes and measured the prime-target congruence effect which refers to the difference in discrimination speed between congruent and incongruent pairs. In order for the hypothesis to be validated, if the disgust emotional expression is processed via the the subcortical route, we expect an extension of the gender face priming of Khalid et al. (2013) to the disgust emotional expression. In this case the masked LSF filtered face primes should produce a congruence effect on the subsequent target face regardless of where spatial attention is focused, whereas the masked HSF filtered primes should not produce a congruence effect over the subsequent target face categorization.
+
+!! Acknowledgements
+I would like to thank my supervisors, Ulrich Ansorge and Shah Khalid, for the opportunity of working on this project and for their support. 
+
+!! References
+[1] M. H. Johnson, “Subcortical Face Processing”, Nature, vol. 6, pp. 766-774, Oct. 2005.
+[2] S. R. Staugaard, “Threatening faces and social anxiety: A literature review”, Clinical Psychology Review, vol. 30, pp. 669-690, 2010.
+[3] S. Khalid,  M. Finkbeiner, P. König, & U. Ansorge, “Subcortical Human Face Processing? Evidence from Masked Priming”, Journal of Experimental Psychology: Human Perception and Performance, vol. 39, no. 4, pp. 989-1002, 2013.
+

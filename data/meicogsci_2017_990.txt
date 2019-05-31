@@ -1,0 +1,17 @@
+... title: Explaining the Divergent Effects of Socioeconomic Status on Prosocial and Antisocial Behaviour in Economic Decision Making
+
+
+
+Abstract
+
+Socioeconomic status (SES) has been described as a relative measure of person’s economic and social standing in society, based on their income, occupation and level of education. Previous studies have revealed links between SES and bargaining behaviour. Specifically, Piff and colleagues [1] found that higher SES predicts “unethical decision-making tendencies” as it induces selfish preferences and stronger feelings of entitlement, furthering antisocial behaviour. It has been postulated that different attitudes toward greed are responsible for such divergence, as higher SES individuals tend to see greed in a positive light. In order to delineate the specific mechanisms at play, the study is the first to investigate the link between different facets of SES (subjective, objective) and economic judgment when retaliation is possible, i.e. in an ultimatum game (UG).
+
+!!Methods
+A baseline questionnaire was administered to ascertain objective and subjective SES levels, as well as personality traits such as dominance, prestige, grit and self-efficacy. Participants’ monthly income was the measure of objective SES, while subjective SES was assessed by subjects’ comparison to other individuals. Two subsets of subjective SES were distinguished: comparison to society at large, and to other students within the local environment. Next, participants played the UG and dictator game (DG), while being presented with two alternating sets of faces (high vs. low-threat). The stimulus set was the same across the two tasks within subjects, but randomized across our sample of 80 male subjects. In investigating the relationship between different facets of SES and bargaining behaviour within subjects, the ANOVA test was applied to measure the change in offers from the UG and DG. The difference was computed by subtracting DG from the UG score. Finally, a correlation analysis was applied across two sets of faces, to measure the effects of high vs. low-threat circumstances on bargaining behaviour. 
+
+!!Results
+Analyses revealed a significant positive relationship between high subjective SES for society and higher offers in the UG game, showing that subjects who perceived themselves higher in status, offered more when retaliation was possible. Inconsistent with previous findings [1], objective SES in the high group was found to predict prosocial behaviour in the DG game, as offers were higher despite the low-threat circumstances. Overall, these findings could help elucidate the nature of the link between specific facets of SES and UG vs. DG tasks, thus resolving the existing disparate evidence in the literature.
+
+!!References
+[1] Piff, P.K., Stancato, D.M., Cote, S., Mendoza-Denton, R., & Keltner, D. (2012). Higher social class predicts increased unethical behaviour. Proceedings of the National Academy of Sciences of the United States of America, 109, 4086-4091.
+

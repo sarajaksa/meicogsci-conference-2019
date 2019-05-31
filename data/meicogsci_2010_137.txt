@@ -1,0 +1,22 @@
+... title: Biologically based simulation of human locomotor neural circuits activated by spinal cord stimulation
+
+
+
+Abstract
+
+Locomotion in animals as well as in humans is usually a periodic repetition of stereotyped movements. Neural control of locomotion is organized such that autonomous neural networks in the spinal cord generate the basic rhythmic patterns necessary for locomotion [1]. Higher control centers interact with the spinal circuits for posture control and accurate limb movements. 
+
+These circuitries, referred to as locomotion or central pattern generators, can be activated by continuous, constant (i.e. 'tonic') pharmacological or electrical stimulation in order to generate coordinated rhythmic outputs that can produce locomotion. In invertebrates and in primitive vertebrates with less complex nervous systems the function and structure of these pattern generators have been extensively researched from molecular to network level. In higher vertebrates, the same methods that led to successful investigation in simpler animals cannot be directly applied. Many properties of these spinal interneural circuitries are not known in mammals (like cats) and in humans. However, spinal cord stimulation in patients with severe spinal cord injuries allowed for new knowledge on the locomotor centers in humans [2]. Further insight can be facilitated by interdisciplinary approaches integrating these electrophysiological studies with novel accomplishments in computational neurosciences.
+
+The proposed research shall utilize computer modeling based on the conceptual knowledge gained from human studies to study locomotor circuit functions of the human spinal cord isolated from higher control levels. 
+
+The model proposed builds upon previous computer simulations in animal locomotion research [3]. It consists of different spinal interneurons and motoneurons, modeled in the Hodgkin Huxley style, and is set into action via large-diameter afferent fibers tonically stimulated by epidural spinal cord stimulation. Each functional type of neuron will be represented by a population of neurons, with their parameters being statistically distributed. The main functionality is based on the classical 'half center' concept [1]. This concept shall be extended to incorporate following functionality observed in the human studies: (i) the human spinal pattern generator is set into action only with specific input frequencies (range 25-50 Hz); (ii) the operation of the pattern generator is on a subliminal basis, modulating stimulation-triggered segmental synaptic effects rather than directly driving the motoneuron pools; (iii) the flexor half center of the network model is more complex than the extensor one and produces more delayed segmental outputs.
+
+The model will serve as a testbed for the hypotheses that have emerged from observations in humans and in turn is expected to create new knowledge on structure and function of the neural circuitries involved in human locomotion.
+
+References:
+
+[1]	Brown, T. G. (1911) The intrinistic factors in the act of progression in the mammal. Proceedings of the Royal Society of London. SeriesB, Containing Papers of a Biological Character, 84, 308-319.
+[2]	Dimitrijevic, M. R.; Gerasimenko, Y.; Pinter, M. M. (1998) Evidence of a spinal pattern generator in humans. Annals of the New York Academy of Sciences, 860, 360-376.
+[3]	Rybak, I.; Shevotsova, N.; Lafreniere-Roula, M.; McCrea, D. (2006) Modelling spinal circuitry involved in locomotor pattern generation: insights from deletions during fictive locomotion. Journal of Physiology, 577, 627-639.
+

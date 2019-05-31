@@ -1,0 +1,19 @@
+... title: Serious Game Design Patterns: Contributions from the Affective Sciences
+
+
+
+Abstract
+
+Abt [1] first introduced the notion of Serious Games (SG). He presented them as a means for improvement in education. SG are safe game environments intended to make users aware of behavioural influences through cognitive conflicts [2]. In the development of SG, game designers have to work with stakeholders and experts, in order to make a game, or some specific aspects of it, instructive. There is a need of a solution to help make game designers and other experts share a common vision about processes and artefacts essential for this purpose. 
+
+I was a part of a design pattern research regarding SG. The main focus of our research was on the improvement of effectiveness of SG development by offering a functional repository of game design patterns. In this regard, we started an investigation on the Serious Game Design Pattern Canvas (DPC) as a possible solution to the identified issues. The DPC is a unified game design tool for improving the state of the game design. Further, we researched the relevance of affect in learning, within and beyond the scope of SG (e.g., motivation, learning proficiency, engagement), and studied the concrete example of a specific SG („Re-Mission“) and its key design elements. 
+
+First, we presumed the game forms a single pattern, so that we could easily identify the games' key parts for affective learning. Affective learning being defined as „an increasing internalization of positive attitudes toward specified content“ ([3], p.63). After we identified the key parts we tried to „map“ them into specific sections of the DPC. This was done as a preliminary first attempt of applying tha basic analytic dimensions at a simplified and highly abstracted level.
+
+From the studied example of a specific SG and the identified key design elements of affective learning which we have mapped into specific sections of the DPC, we have demonstrated that the canvas is easy to use and a promising tool for improving SG development. 
+
+!!References: 
+[1] C. A. Abt. “Serious games”. New York, NY: Viking, 1970.
+[2] H. Mouaheb, A. Fahli, M. Moussetad, and S. Eljamali. “The Serious Game: What Educational Benefits?”, Procedia - Social and Behavioral Sciences, vol. 46, pp. 5502-5508, 2012.
+[3] P. Kearney, T.G. Plax and N.J. Wendt-Wasco. “Teacher Immediacy for Affective Learning in Divergent College Classes”, Communication Quarterly 33(1), 61-74, 1985.
+

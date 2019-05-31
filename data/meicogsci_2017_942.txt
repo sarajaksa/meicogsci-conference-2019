@@ -1,0 +1,21 @@
+... title: The Dark Side of Technology: Qualitative Insights Into Our Use of Information and Communication Technologies
+
+
+
+Abstract
+
+New information and communication technologies (ICTs) have become part of our private, social and work life. In the European Union, almost all (96%) young people and individuals with a higher level of education use the Internet regularly [1]. But how does the use of ICT affect us? And are we in control of our usage behaviour and its effects?
+
+Previous research has tried to determine whether the use of the Internet, social media and cell phones has positive or negative effects on our psychological and physiological well-being, but contradictory results have been reported [2]. Moreover, to my awareness no study has taken a holistic approach to explain ICT use by taking into consideration what drives ICT use, how it affects the users as well as the users’ awareness and perceived control of these factors. 
+
+The present study makes a first step to close this gap in research. In this interdisciplinary project I take a qualitative approach from the social sciences in order to explore the psychological aspects of ICT use. Students represent young and highly educated regular ICT users. Therefore, 14 semi-structured interviews with students aged 20-28 (50% female) were conducted. They were asked to think about the advantages and disadvantages of ICTs and changes they would like to make with regard to their own and other people’s ICT use as well as the ICTs themselves. The resulting interview transcripts are analysed with Mayring’s qualitative content analysis [3], whereby categories are developed in an inductive way from the qualitative data. The resulting set of categories serves as the basis for interpretation with regard to the research question. 
+
+Preliminary results reveal that students see advantages of ICTs (e.g., for their student life) but also negative effects (e.g., sleep deprivation). Some of their suggestions for improving ICT use focus on technological restrictions or legal regulations (e.g., no Internet after 9 p.m.), hinting that their perceived control of ICT use is limited. 
+
+Final results will be presented once the content analysis is completed. I will interpret the results and discuss the role of ICTs within a broader framework, drawing on theories offered by the philosophy of technology.
+
+!!References
+[1] Eurostat. (2016). Internet access and use statistics - households and individuals [Online report]. Available: http://ec.europa.eu/eurostat/statistics-explained/index.php/Internet_access_and_use_statistics_-_households_and_individuals
+[2] P. Best et al., “Online communication, social media and adolescent wellbeing: A systematic narrative review”, Child Youth Serv Rev, vol. 41, pp. 27–36, Mar. 2014. 
+[3] P. Mayring. (2014). Qualitative content analysis: Theoretical foundation, basic procedures and software solution. Available: http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173
+

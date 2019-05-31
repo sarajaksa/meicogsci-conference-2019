@@ -1,0 +1,23 @@
+... title: Serious Games in Child Psychotherapy: Ethical Considerations
+
+
+
+Abstract
+
+!!!! Serious Games in Child Psychotherapy: Ethical Considerations
+
+In the last decade game industry experienced exponential development. It expanded also into other directions outside the entertainment industry. With the development of technology and its accessibility, novel affordances and potential of games came forward. Some of newly established fields of research in computer game application are education, advertisement, politics, health care and training for serious purposes e.g. training of soldiers for their missions on the battlefield [1], [2] [3]. One of newly proposed applications, are serious games (SG) used in psychotherapy for children. The aim is to present the current position of SG applications in child psychotherapy and to reconsider possible ethical challenges of its use.
+
+The field of SG is still in its developmental phase. The term itself was broadly recognized with the emergence of the Serious Game Initiative in 2002. There have been different attempts of taxonomies that are congruent in the definition of differences between entertainment games and SG. Latter represent the gaming agency that offers also entertainment components, but their primary purpose is of more “serious” nature and therefore represented by e.g. education, prevention, rehabilitation, advertisement etc. [1], [2], [3]. 
+
+The majority of pro arguments for the use of computer console in child psychotherapy collide in  the common property of games: the entertainment factor. This, as reported, ensures good communication with the psychotherapist, the maintenance of patient’s awareness and the agency that enable positive outcomes of the therapy [1], [2]. Serious games in psychotherapy represent a connecting link between a psychotherapist and his patient. In this mediator form the computer program holds the possibility to interfere in their communication in a way that depends on the game design. 
+
+The psychotherapy itself in practice represents a sensitive matter. Its consequences can represent as much as successful as destructive outcomes. Before an implementation of a novel method it is necessary to foresee possible negative outcome(s) and provide suitable preventive measures. Ethical standards from classical psychotherapy in broader aspect determine the beneficence of psychotherapist’s interferences, his relationship with the patient and further with his relatives.  They determine standards for record keeping, privacy, confidentiality and many other aspects that in any perspective protect patients well being. 
+
+I will try to answer what are the ethical considerations, beside ones from classical psychotherapy, that rise from the uniqueness of the applied method. The goal is to provide a list of guidelines to support efficient and successful development and application of serious games for child psychotherapy.
+
+!!! References
+[1] C. Gaudet-Blavignac and A. Geissbuhler, “Serious games in health care: a survey.” Yearb. Med. Inform., vol. 7, no. 1, pp. 30–3, 2012.
+[2] T. Susi, M. Johannesson, and P. Backlund, “Serious games: An overview” Elearning, vol. 73, p. 28, 2007.
+[3] V. Wattanasoontorn, I. Boada, R. García, and M. Sbert, “Serious games for health” Entertain. Comput., vol. 4, no. 4, pp. 231–247, 2013.
+

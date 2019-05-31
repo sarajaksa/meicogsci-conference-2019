@@ -1,0 +1,19 @@
+... title: In Time with Rhythms – Beat Perception and Sensorimotor Synchronisation Investigated with EEG
+
+
+
+Abstract
+
+Rhythmical sounds are ubiquitous. When we listen to music or speech, how exactly is the temporal structure of the sounds we are hearing represented in our brains? Further, music and beat perception are strongly connected to movement, a phenomenon known as sensorimotor synchronisation (SMT).  Movements can range from simple finger tapping to more complex sequences of movements while e.g. dancing. How are we able to synchronise movements to external events, given perceptual processing and action planning delays?
+
+Nozaradan [1] has recently shown that beats are represented in the brain in form of entrained oscillations which are tuned directly to the beat frequency. In other words, the brain synchronises its electrical activity to the beat, so that brain waves oscillate with the same frequency as the beat frequency. Notably, so far only metronome-like beat sounds have been used for acoustic stimulation.
+In behavioural experiments concerned with SMT a common finding is that synchronisation accuracy is decreasing for increasing inter-beat-intervals (IBIs). However, additional explicit metrical levels (MLs) or metrical structures in general eliminate this effect [2]. 
+
+From these basic notions, the current study seeks to examine how more complex rhythmical sounds are creating temporal expectancies and how multiple explicit metrical structures are represented in the brain. During the experiment, participants listened to beat-sounds varying in metrical complexity (1 ML, 2 MLs-ternary, 3 MLs-quaternary, 3 MLs, random; higher MLs were presented with decreased loudness) and IBI (short vs. long). Their task was to synchronise finger movements to the first-level beat while EEG was recorded. It was hypothesised that 1) regarding the behavioural performance, multiple MLs will increase synchronisation accuracy, and 2) these multiple levels will be represented in the brain in form of entrained oscillations tuned to the beat frequency of each ML. Results from 15 participants (mean age = 22 ± 3 years) indicate that additional MLs increase synchronisation accuracy for longer IBIs and that entrained oscillations, tuned to the beat frequency of each metrical level, emerge.
+
+The usefulness of being entrained to multiple metrical structures lies in the increased accuracy of predicting crucial future events (e.g. the next beat). Further, neural oscillations offer an explanation of how distant brain areas communicate with each other and coordinate their activity (as the auditory cortex and motor areas during beat perception and SMT).
+
+!!References
+[1] S. Nozaradan, “Exploring how musical rhythm entrains brain activity with electroencephalogram frequency-tagging,” Phil. Trans. R. Soc. B, vol. 369, no. 1658, pp. 20130393, Nov. 2014.
+[2] G. Madison, “Sensori-motor synchronisation variability decreases as the number of metrical levels in the stimulus signal increases,” Acta Psychologica, vol. 147, pp. 10–16, Mar. 2014.
+

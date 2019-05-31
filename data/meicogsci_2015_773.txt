@@ -1,0 +1,17 @@
+... title: Cognitive aspects of StarCraft 2
+
+
+
+Abstract
+
+In this study author tried to determine how is obtained expertise during playing strategy video game StarCraft 2 in order to verify and expand results of Thompson, Blair, Chen, Henrey [1]. Since importance of variables is not constant across levels of expertise [1] author is using machine learning tools for data mining to define them.
+
+StarCraft 2 is real-time strategy video game that is played at astonishing speed. Players select one of three races and to be successful in game he must command his units, prepare defenses, build base expansions to gather more resources while build bigger armies to outmanoeuvre his opponent. Players experience involves rapid mental and physical coordination, strategic thinking on the fly, and planning. The GUI of the game environment creates a game of incomplete information where efﬁciently distributing one’s attention is paramount. Optimized attention to the environment allows for proper navigation and the coordination of global and local information for real-time decision making. Playing RTS games stresses rapid and simultaneous maintenance, assessment, and coordination between multiple information and action sources was sufficient to improve cognitive flexibility [3].
+
+Data for this study was obtained by analyzing the replay files of game expansion set SC2: Heart of the Swarm. Every replay file creates a lots of behavioral data – most of the games contained more than 1000 moves per player. Using measures of attentional (etc. perception-action-cycles), cognitive-motor (hotkey usage), and perceptual processing of players at 7 different levels of expertise author can show that variable importance is not static across these levels. Author is incorporating fact that, each of playable races have unique design, so they are played differently and produce different kinds of data. This is done by creating statistical classificators to distinguish players from different leagues for each race. Author tries to introduce at least two new types of variables that focuses on ability to divide task into sub-tasks in order to expand previous work in field. Furthermore author is introducing different approach of computing variables than was used in previous researches [1]. Author is applying his previous work in field, game experience and research of predecessor of StarCraft 2 – StarCraft: Brood War [2]. In results author assumes to confirm previous results from this field of study, expand it and introduce new separate results for each playable race. If study will be successful then author is planning to release results and parser for classifier in form of web application, so player community can compare their own replays with these results.
+
+!! References
+ [1] Thompson JJ, Blair MR, Chen L, Henrey AJ (2013) Video Game Telemetry as a Critical Tool in the Study of Complex Skill Learning. PLoS ONE 8(9): e75129. doi:10.1371/journal.pone.0075129
+ [2] Lewis JM, Trinh P, Kirsh D (2011) A corpus analysis of strategy video game play in StarCraft: Brood War. In expanding the space of cognitive science: Proceedings of the 33rd annual conference of the cognitive science society. L. Carlson, C. Hoelscher, T. F. Shipley, Eds. Austin, TX. 687–692.
+[3] Glass BD, Maddox WT, Love BC (2013) Real-Time Strategy Game Training: Emergence of a Cognitive Flexibility Trait. PLoS ONE 8(8): e70350. doi:10.1371/journal.pone.0070350
+

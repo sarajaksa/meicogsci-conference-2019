@@ -1,0 +1,17 @@
+... title: On the Very Idea of a Constructivist Master Program
+
+
+
+Abstract
+
+The goal of the present collaborative project is to reflect on our educational experience as students of cognitive science. In a field as diverse as cognitive science, common philosophical concepts between researchers and a sense of shared history seems essential to the community. We reflect on our experience by referring to concepts from Zimmermann et al. [1], which describes the philosophical background and the practical experiences the authors encountered in setting up the MEi:CogSci master program. The core philosophical concepts from the paper that we discuss are the following: (i) the idea that many fundamental challenges in cognitive science have common roots in paradigms as formulated by Kuhn [2], and (ii) constructivism as a theory of knowledge and the vision of teacher-student relations that it implies (according to the authors).
+
+In our discussions, we identified discrepancies between these philosophical concepts as they are described in [1] and how they are implemented in the master program. First, we aim to argue that, although the authors claim to analyse cognitive science in terms of Kuhn’s paradigms, their usage of this concept appears to be essentially different from Kuhn’s. It is difficult to extend Kuhn’s paradigms to real-world problems of linguistic or disciplinary divides, which are in most cases not problems of incommensurability [2]. Second, we aim to show that using constructivism as an epistemological foundation for a curriculum risks introducing preconceived notions. The authors claim that their intention is to allow students to form their own perspectives and that constructivism provides a basis for this activity. However, constructivism itself relies on specific notions of what knowledge is, while, at the same time, the question ‘what is knowledge’ is an explanandum of cognitive science. Additionally, asserting constructivism’s basic tenets, as the authors do with: “[students] are supposed to understand knowledge to be not an (static) object, a product, or a result, but a process and activity” [1:153] is at odds with the aim to stimulate students to form their own opinion by not forcing on them a conception of what is truth.
+
+The MEi:CogSci program presents an original design with many benefits. However, there might be a gap between the philosophical ideals of the program and its actual implementation. This gap becomes apparent in some rigid aspects of the resulting framework.
+
+!!References
+
+[1] E. Zimmermann, M.F. Peschl, & B. Römmer-Nossek. “Constructivist Curriculum Design for the Interdisciplinary Study Programme MEi: CogSci--A Case Study”. Constructivist Foundations, Vol. 5, No.3, pp.144-157, 2010.
+[2] T.S. Kuhn. The structure of scientific revolutions. Second edition. Chicago: U. of Chicago Press, 1970.
+

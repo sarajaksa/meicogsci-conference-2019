@@ -1,0 +1,32 @@
+... title: Toward a Simulation Theory Inspired Computational Model of Theory of Mind in Storytelling and Story Generation Systems
+
+
+
+Abstract
+
+The Austrian Research Institute for Artificial Intelligence, Vienna, Austria
+University of Vienna, Vienna, Austria
+
+
+During the last years, there has been an increasing interest in research on storytelling and story generation systems that can be used in entertainment and learning environments and allow users to participate in a dynamical story as a character or as a director. While storytelling systems try to maintain a consistent story-line, story generation systems do not assume a backbone story[1]. Since stories in almost all cases are the retelling of events in social groups, implementation of the cognitive ability to describe others in terms of their beliefs, desires, emotions, intentions, goals and personalities and explain their behaviors in terms of these and other similar states, which is called "Theory of Mind (ToM)", plays a key role in storytelling and story generation systems.
+
+In this project after an investigation of philosophical backgrounds of the ToM, including theory theory, modularity theory, rationality theory, and simulation theory, we researched in the current literature on computational models of ToM in storytelling and story generation systems and made an online annotated bibliography of the field. Afterwards, we chose the following three models for a detailed investigation:
+
+* Improv[2], in which the properties of all characters are written on a public shared "blackboard" and any of the characters can access and modify the data on the blackboard to coordinate the others’ behaviors and simulate the ToM.
+
+* PsychSim[3], in which each of the characters has its own decision-theoretic model of its beliefs about the environment and recursive models of other characters.
+
+* Chang & Soo’s Model[1], which proposes a planning technique called "social planning" to implement ToM in characters. 
+
+Based on what we learned from the investigation of the above-mentioned philosophical theories and computational models, we tried to determine the general requirements, specifications and evaluation metrics of a computational model of ToM in storytelling and story generation systems. The proposed model is based on simulation theory because of a large number of empirical findings that support this theory.
+
+As a future work, we will design, implement and evaluate a software based on the proposed specifications.
+
+! References
+[1] H. M. Chang and V. W. Soo. Simulation-based story generation with a theory of mind. In Proceedings of the fourth Artificial Intelligence and Interactive Digital Entertainment conference, AIIDE 2008, pages 16—21, Stanford, California, 2008. The AAAI Press.
+[2] K. Perlin and A. Goldberg. Improv: a system for scripting interactive actors in virtual worlds. In Proceedings of the 23rd annual conference on Computer Graphics and Interactive Techniques, SIGGRAPH’96, pages 205—216, New York, NY, USA, 1996. ACM.
+[3] D. V. Pynadath and S. C. Marsella. Psychsim: modeling theory of mind with decision-theoretic agents. In Proceedings of the 19th international joint conference on Artificial intelligence, IJCAI’05, pages 1181—1186, San Francisco, CA, USA, 2005. Morgan Kaufmann Publishers Inc. 
+
+---
+The Austrian Research Institute for Artificial Intelligence is supported by the Austrian Federal Ministry for Transport, Innovation, and Technology.
+

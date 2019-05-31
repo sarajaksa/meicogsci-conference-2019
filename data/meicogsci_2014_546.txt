@@ -1,0 +1,19 @@
+... title: Reading Between the Lines: a Vector Space Model of Language Using Semantic Role Structures
+
+
+
+Abstract
+
+!!!Reading Between the Lines: a Vector Space Model of Language Using Semantic Role Structures
+
+A Vector Space Model (VSM) is a mathematical method of representing text that has been widely used for tasks such as topic detection, information extraction, text generation, and the modeling of language acquisition [1]. Traditionally these models have either used a bag-of-words approach that ignores word order such as Latent Semantic Analysis (LSA) or incorporated some measure of word order (ie. HAL or BEAGLE) [2]. By representing the association of words with where they occur, VSMs are able to leverage latent contextual relationships to learn semantic information. Our hypothesis is that it is possible to improve on these models by using Semantic Role Labeling (SRL) to encapsulate a richer representation of natural language. 
+
+We are presenting a new type of Compositional VSM that is capable of representing semantic role structures, rather than just single words or phrases as a vector. A semantic role is the relationship each verb has to the syntactic constituents of a phrase, such as the agent performing the action of the verb and the patient, which receives the action. We use a deep convolutional neural network trained on the Wall Street Journal corpus to extract these semantic relationships from natural language [3]. The result is a structured representation of how each verb relates to the arguments associated with it.  Unique to our method, we perform a mathematical transformation to create a semantic vector for every semantic role structure in a target corpus.  As inputs, the function uses word vectors for each token (provided by a generic LSA model trained on the entire English Wikipedia) as well as the structured semantic relationship between each word. This transformation takes into account the specific semantic role of each word vector to preserve the semantic relationships in the vectorized output.
+
+To test this model, we are training a generative classifier to differentiate between classes of ideologically divergent text. For example, the classifier can learn the decision boundary between transcribed speeches from two different politicians. It will be possible to measure the performance of the model based on the generation of new text based on each of the learned classes, or by classifying new natural language input. We will compare the performance of our model against a traditional LSA model as a benchmark to validate our hypothesis. The applications of this model extend to all the traditional applications of VSMs such as  supervised classification and unsupervised topic detection, with the additional advantage of being able to generate new data in the form of a semantic role structure. 
+
+!! References
+[1] P. Turney and P. Pantel, “From frequency to meaning: Vector space models of semantics,” J. Artif. Intell. Res., vol. 37, pp. 141–188, Mar. 2010.
+[2] M. N. Jones, W. Kintsch, and D. J. K. Mewhort, “High-dimensional semantic space accounts of priming,” J. Mem. Lang., vol. 55, no. 4, pp. 534–552, Nov. 2006.
+[3] R. Collobert, J. Weston, and L. Bottou, “Natural language processing (almost) from scratch,” J. Mach. Learn. Res., vol. 12, pp. 2493–1537, 2011.
+

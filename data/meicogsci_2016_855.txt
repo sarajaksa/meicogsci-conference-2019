@@ -1,0 +1,32 @@
+... title: Regret in Three Great Ape Species: A Comparative Approach
+
+
+
+Abstract
+
+!!Background
+In humans, regret is a negative emotional reaction that occurs when a decision maker selects between two options and realizes that a selected action has led to an outcome that is less favourable than the alternative one [1]. It is important to distinguish regret from disappointment: both deal with the realization that an outcome is worse than expected; regret, however, entails the additional awareness that a less valuable outcome is the result of one's own erroneous actions, whereas disappointment is not based on a decision maker's fault [2].
+There has been relatively little research on regret in non-human animals and it is not known whether they are capable of experiencing regret. In this study, differing results in the three great ape species could give an explanation about the evolutionary development of humans' closest living relatives. 
+
+!!Methods
+Twenty-eight great apes (fifteen chimpanzees [Pan troglodytes], seven bonobos [Pan paniscus], six orangutans [Pongo abelii]) were tested. All subjects live in stable groups in the Leipzig Zoo. The apes' internal state of arousal was measured via changes in their pupil dilation by using an eye tracker. This method has proved successful in non-verbal infants [3], therefore it seems suitable for great apes as well. Subjects were presented with two cups and a food reward hidden from view under one of the cups. They were tested in four different conditions:
+(i)	Choice – ape: Subjects had full access to the cups and could choose either one.
+(ii)	No-Choice – ape: Subjects were not able to choose a cup (control condition).
+(iii)	Choice – human: Subjects were watching a human choosing a cup.
+(iv)	No-Choice – human: Subjects were watching while a human was unable to choose a cup.
+The conditions were chosen to separate regret from disappointment: the apes should show less arousal in the two human conditions than in the two ape conditions.
+
+!!Results
+Testing is still in progress and preliminary results will be shown. We expect significant differences in the apes' arousal responses between the choice and no-choice control condition. We also presume significant differences between the ape and the human condition.
+
+!!Conclusion
+The study is trying to demonstrate that great apes are capable of showing regret when realizing that their chosen action has led to a less valuable outcome. It can contribute knowledge to the origins of humans' cognitive abilities in general and the field of emotional research in primates in particular. 
+
+!!Acknowledgements
+Special thanks go to Michael Tomasello and Ropert Hepach, as well as all the test subjects.
+
+!!References
+[1] M. Zeelenberg, "Anticipated regret, expected feedback and behavioral decision making," J Behav Decis Making, vol. 12, no. 2, pp. 93–106, 1999.
+[2] D. Bell, "Disappointment in decision making under uncertainty," Oper Res, vol. 33, pp. 1–27, 1985.
+[3] S. Sirois and J. Brisson, "Pupillometry," Wiley Interdiscip. Rev. Cogn. Sci., vol. 5, pp. 679–692, 2014.
+

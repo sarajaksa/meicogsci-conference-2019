@@ -1,0 +1,18 @@
+... title: Camera system for measuring emotion by capturing physiological parameters
+
+
+
+Abstract
+
+Most humans seem to share the ability to understand the emotional state of others. In recent years, there has been huge progress in the development of automatic systems that can measure human emotion for different purposes. There are different ways to get information about the emotional states. Many algorithms make use of Ekman’s Facial Action Coding System to retrieve information about basic emotions. Another way would be to analyze the autonomic nervous system, which is seen by many as one that responds to changes in emotion[1]. We are developing a system for measuring the six basic emotions according to Ekman by using a camera. Images of faces are analyzed by our algorithm which is still under development. In this work we focus on the methods for extracting physiological information [2]. We plan to test our system by executing a pilot study, where seven to ten subjects would watch a series of video clips with strong emotional content. The baseline for their emotional responses would be formed by combining a questionnaire and measurements of physiological responses using a Biopac system. The subject’s faces would be recorded on video. Our system would analyze this video data, and its results would be compared to our baseline. These results would also be compared to those produced by Noldus FaceReader, which is a prominent application used by researchers interested in measuring emotion. In case our system achieves good results, it could be used in different areas, providing researchers a more accessible alternative for researching emotion.
+
+!!Acknowledgements
+Special thanks to Gregor Geršak for supervising this project.
+
+!!Literature
+[1] F. Nasoz and C. L. Lisetti, “Using Noninvasive Wearable Computers to Recognize
+Human Emotions from Physiological Signals”, EURASIP Journal on Applied Signal Processing 2004:11, 1672–168, April 2004
+
+
+[2] M. Poh, D. J. McDuff, and R. W. Picard, “Advancements in Noncontact, Multiparameter Physiological Measurements Using a Webcam”, IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING, VOL. 58, NO. 1, 7–11, JANUARY 2011
+

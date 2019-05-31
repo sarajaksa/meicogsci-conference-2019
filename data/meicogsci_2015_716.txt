@@ -1,0 +1,28 @@
+... title: Gaze on Pose - the Pose as Embodied Memory and Its Function for the Readability of Images
+
+
+
+Abstract
+
+How do we recognize visual patterns, read images and ascribe meaning to them? Cognitive Science has embraced the idea of situatedness and embodiment. It seems just consequent to study the “body” in art, the representation of it as figure and line, and the pose as the assuming or holding of a physical attitude exhibited by a figure in a picture or painting [1]. 
+
+In order to investigate the correlations between pose, perception, gender and affect we employed the method of Eye Tracking. As part of the research strand “The Cultural Eye / The Gendered Eye[2]” the project investigates the depiction of human figure, pose and line via four questions regarding their perception:
+- What relevance does image context have for the perception of pose/figure? 
+- Is there a gender bias in perceiving figure and pose? 
+- What kind of emotions are elicited in the beholder by poses?
+- What impact does a figure or pose have on the navigation of gaze?
+
+First a pre-survey was created with a set of 14 images where subjects were able to freely associate terms. Based on this pre-study we devised sets of categories in correspondence with the NEO-Personality Inventory. For the study subjects will view a set of 20 full-body standing poses (half female, half male) selected from art works. The stimuli are presented either as the original painting/photography, as a technical tracing of the original or as a simplified line drawing produced by an artist as a first-person perspective on a phenomenological level. Subjects tag the images with semantic differentials based on categories developed from the pre-study (e.g. threatened – threatening). Their gaze patterns and fixations on the images are recorded. As the majority of stimuli depict nudes, a Sexual Opinion Survey questionnaire is attached to assess openness and exclude possible bias [3].
+
+First results will be presented that help in clarifying the construction of gender categories as well as the associations of incorporated knowledge with pose. Understanding figure representation (as a large projection field of non-verbal behavior) can help explain human cognition. The goal of our research is to determine the function of poses as emotionally charged visual tropes in the meaningful transference of embodied concepts and the readability of images.
+
+!!Acknowledgements
+Special thanks to Prof. Dr. Raphael Rosenberg, Mag. Mario Tadzio Thalwitzer, Carolin Kallert and the Laboratory for Cognitive Research in Art History, University of Vienna for supporting this project.
+
+!!References	
+[1]M.  Coulson, 'Attributing Emotion to Static Body Postures: Recognition Accuracy, Confusions, and Viewpoint Dependence', Journal of Nonverbal Behavior, vol. 28, no. 2, pp. 117-139, 2004.
+
+[2] FWF-Project Nr: P25821-G21
+
+[3]H.  Rupp and K.  Wallen, 'Sex differences in viewing sexual stimuli: An eye-tracking study in men and women', Hormones and Behavior, vol. 51, no. 4, pp. 524-533, 2007.
+

@@ -1,0 +1,39 @@
+... title: Social attention and cognitive processing: observation and real
+
+
+
+Abstract
+
+Although quite some work has been done on social attention, much of our knowledge stems from laboratory experiments that were conducted under controlled conditions. In this study, we thus want to explore social attention (describes human interest in where other people are directing their attention) and cognition using real life data. 
+
+Popular press has a lot to say on how body posture can communicate lying or sexual interest but these findings have not been tested in methodologically rigorous experiments. 
+
+Questions of why do people look at this and not that, or what is it that stirs the brain into activity in noticing a particular event in the natural environment over and against a different event, continue to perplex us. 
+
+Presented work will focus on low social cues in order to answer the question of what attracts our attention. Some of the cues that will be taken into consideration in order to answer the research question are (for example): body posture, sex, speed and motion.
+
+As mentioned, Social attention in general, has been widely researched phenomenon. In the past a lot of interest has been given to the traditional models where Visual System was described. Visual system was taken as a general-purpose processor. Such models originate, for example, in the classical work of Marr (1982 in Shiffrar 2008) where he describes how description of the outside world is processed through retina images. 
+
+Contemporary research on social attention is making use of rapidly developing Social Neuroscience. As a counter theory to traditional models of visual systems, Brothers (1997 in Shiffrar 2008) argued for the brain being primarily a social organ. In his opinion, research on brain, its functions, neural development and evolution has to take into account social constraints. The brain is supposed to be optimized machinery to comprehend social behavior. Therefore in order to be able to fully explain social behavior we need to take into account social context (Blake and Shiffrar 2007).
+
+From the literature review, motion is known to be an important and well researched cue when it comes to interpreting social events. It is the beginning point for individuals interpreting and decoding social events - humans tend to put every motion they see into a context. 
+
+Motion is an important cue when assessing threat. An example of what literature suggests regarding motions is that “angry walkers”  tend to attract the most attention. This is worthy of consideration because appraisal of the dangerous events is crucial in terms of (evolutionary) survival.
+
+Findings on the topic of social attention have been presented also from the view of embodied perception, which states that perception is body dependent. Observers use their own experience to assist in the examination of the outside word (Shiffrar 2008). Other research findings report that social information can be visually communicated through bodily action. Examples of this are findings from studies where observers could accurately assess a person’s attractiveness or potentially reproductive fitness from motion pictures only (Brown et al 2005).
+
+In order to implement the findings from the contemporary literature, author will futheron present a pilot study on social cues. The pilot study is currently being carried out at the University of Vienna. A “virtual operator”  shows surveillance videos from an urban environment. Videos from various underground stations are being displayed - on a 2 by 2 setup of screens.  Each of four screens show a shot from a different surveillance camera. Every two minutes (repeating four times) a new shot is randomly brought up to each of the screens (4 monitors x 4 rounds = 16 movies in total). Subjects are instructed to watch at all of four screens (displaying four videos in total) - simultaneously. Whenever subjects see something on one of the screens that attracts their attention, they have to press a button indicating the respective monitor. Marked data is recorded in real time. The participants have to fill out the questionnaires (for demographics, diopter, and mood) prior to and after the experiment. The subjects in the study are 50 male and 50 female participants. 
+
+These behavioral events will then be connected to a behavior catalogue that has been developed within the FP7 project VANAHEIM (www.vanaheim-project.eu). VANAHEIM aims to investigate human behavior in public settings on 3 levels: individual, group and crowd level. One of the goals of this project is to develop an event detection application that can be employed for security and environmental reporting to increase situational awareness and prevent critical situations.
+
+If prediction regarding the assessment of social stimuli holds true, the marking of attention-worth events should not be distributed randomly over the shown movies. Participants should show an agreement on which behavioral events are worth noting. Preliminary data show that (some) buttons were pressed at the (exactly) same time, when the probability of two subjects hitting the same button at the same time is 0, 0016. These results demonstrate that the buttons subjects pressed at social cues are not distributed randomly over the shown movies.
+
+The research will engage different views from the field of Cognitive Science. The social attention phenomenon will be presented from social-anthropology (behavior), cognitive psychology (motion, visual system) and neurology (theory from the literature: neural correlates of social attention and emotions (threat evaluation in “angry walkers”). The aim of interdisciplinarity is for each science to contribute the knowledge regarding social attention. The view each science has to offer could contribute to achieve new insights regarding social attention and real word data.
+
+Refferences: 
+
+1.	Shiffrar, M. (2008). The Visual Perception of Dynamic Body Language in Embodiment of Communication in Humans and Machines, ed. Ipke Wachsmuth, Lenzen M., Gunther K., 95−109. New York: Oxford University Press.
+2.	Brown WM, Cronk L, GrochowK, Jacobson A, Liu CK, et al. (2005). Dance reveals symmetry especially in young man. Nature, 438, 148−50.
+3.	Blake, R., & Shiffrar, M. (2007). Perception of Human Motion. Annu. Rev. Psychol., 58, 47-73.
+4.	VANAHEIM: Video/Audio Networked surveillamce system enhAncement through Human-cEntered adaptIve Monitoring (2010). Retrieved from www.vanaheim-project.eu .
+

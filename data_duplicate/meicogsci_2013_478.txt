@@ -1,0 +1,24 @@
+... title: !!!!In Search for a Middle Way: An Intersection Between Descriptive Experience Sampling and Just Ask Approach
+
+
+
+Abstract
+
+!!!!In Search for a Middle Way: An Intersection Between Descriptive Experience Sampling and Just Ask Approach
+
+Our goal is to develop a middle way of qualitative phenomenological (experiential) data gathering, between the Descriptive Experience Sampling method and the Just Ask approach, in order to improve and optimise research process for participants and researchers. 
+
+DES (Descriptive Experience Sampling) is a method developed by R. T. Hurlburt, in which a DES investigator gives a beeping device (a beeper) to a chosen subject, who then uses the device in her natural environment. The device beeps on random occasions throughout the day (5-7 times per day), while the subject's task is to write down her ongoing experience from the moment right before the beep. A DES investigator then meets with the subject for an interview on collected beep notes within 24 hours. The investigator's task is to get a thorough and detailed knowledge on the subjects' noted experience. DES offers insights into experiential cognitive processes by enabling high fidelity and methodologically consistent reports of pristine inner experience [1]. Another popular alternative to DES is a so-called Just Ask approach, where the subject is given a series of questions (e.g. How are you feeling?, What were you thinking when...?, etc.) and answers accordingly [2]. 
+
+There are certain problems of data gathering with both mentioned methods. Descriptive experience sampling can be quite time-consuming giving that the researcher and the subject or subjects have to meet on many occasions and go through the interview process lasting up to a couple of hours [1]. On the other side, the Just Ask approach lacks depth and thus doesn't provide a thorough and realistic report on experience as most people have a weak knowledge of their own experience and lack systematical training in acquiring the appropriate way of observing that experience [3].
+
+The main goal is thus to develop ecologically valid environment that doesn't require researcher on daily basis, is not so time consuming and allows an in-depth insight to one’s experiences. For this purpose we developed a new mobile application that enables the user to describe her experiences on many occasions throughout the day, as it combines DES (Descriptive Experience Sampling) with beneficial aspects of the Just Ask approach. The participants may describe their experience in various ways: by taking a photograph of their face at the moment of a beep, by open text and/or by creating new key words. Furthermore, the user with no prior knowledge of qualitative data gathering does not need to give a thorough phenomenological report on his collected beeps and there is no need for a time-consuming interviewer’s guidance in a dialogue, for this task is done by the mobile application itself.
+
+!!References:
+
+[1] C. L. Heavey, R. T. Hurlburt and N. Lefforge. (2010). »Descriptive experience sampling: Exploring moments of inner experience.« Qualitative Research in Psychology. [On-line]. 7, pp. 345-368. 
+
+[2] R. T. Hurlburt, C. L. Heavey. (2001, September). »Telling what we know: describing inner experience.« Trends in Cognitive Sciences. [On-line]. Vol. 5 No. 9, pp. 400-403. 
+
+[3] U. Kordeš (2011). »Sledite svojo srečo … z iPhone.« eSinapsa. [On-line]. 2011-1.
+

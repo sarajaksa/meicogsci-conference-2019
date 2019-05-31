@@ -1,0 +1,25 @@
+... title: NEUROPHYSIOLOGICAL MECHANISMS OF WORKING MEMORY FOR RHYTHM  (PART 1)
+
+
+
+Abstract
+
+NEUROPHYSIOLOGICAL MECHANISMS OF WORKING MEMORY FOR RHYTHM 
+(PART 1)
+Department of Neurology, Ljubljana, Slovenia
+
+The following abstract is an introduction to a study research presented in Neurophysiological mechanisms of working memory for rhythm (Part 2), and it presents theoretical basis and  concepts relevant to the study.
+
+The memory system is the basis of many cognitive functions and has been as such studied by different disciplines of cognitive science.  According to the theoretical framework the main function of working memory is maintaining and storing information with the aim of providing an interface between perception, long-term memory and action (1). The role of working memory has been especially examined in relation to our everyday capabilities of information processing and completing cognitive tasks. Distinct cognitive processes support verbal and nonverbal working memory. Baddelley’s model of working memory consists of a central executive, visuospatial sketchpad (inner eye), a phonological loop (inner voice) and an episodic buffer; all four components have limited capacity and are relatively independent among themselves (2). The model assumes that verbal materials are processed within the phonological loop, which maintains the phonemic information and consists of two parts. The first part is the passive phonological store that allows direct access to auditory stimuli (2.) and is directly concerned with speech perception. It acts as a temporary holding center for speech-based information. The second part is the active articulatory control process, linked to speech production that gives access to phonological store. This process phonologically codes visual stimuli and is responsible for sub-vocal repetition (1). 
+
+Auditory presentation of words allows direct access to the phonological store, regardless of whether the articulatory control process is used, while visual presentation of words only permits indirect access to the phonological store through subvocal articulation (2). However, the Baddelley’s model does not explain how rhythm, being one of the basic elements of speech and music, is related to or processed within working memory. Rhythm pattern consists of various combinations of two elements – the tone part and the silent part.Tempo is the speed or frequency of the tactus, a measure of how quickly the beat flows. This is often measured in 'beats per minute' (bpm): 60 bpm means a speed of one beat per second, a frequency of 1Hz. A rhythmic unit is a durational pattern that has a period equivalent to a pulse or several pulses (4). 
+
+Saito’s behavioral experiments (3) investigated the link between working memory for rhythm and the phonological loop. Experiments showed that there is a relation between memory for rhythm and digit span task scores, which is a reliable measure of the phonological loop functioning.  Experiments indicated the existence of a third component in the phonological loop, which is responsible for the regulation of timing mechanisms in immediate memory tasks and mediates that relation. Therefore it would be interesting to know what are the neurophysiological correlates of this relationship, especially whether rhythm is processed in a similar way as verbal materials. According to Saito some researchers have suggested that an articulatory component might serve to carry out phonological or sound tasks, even when the tasks do not involve phonemic processing (3).
+
+The research design based on these concepts is presented in Neurophysiologic correlates of working memory for rhythm (part 2).
+References: 
+(1) Baddeley, A.D. (2003). Working memory: Looking back and looking forward. Nature Reviews Neuroscience 4, 829-839;
+(2) Eysenck, M. W., Keane, M.T (2010). Cognitive psychology, 6th edition. Psychology press, Hove and New York, 211-223; 
+(3) Saito, S. (2001). The phonological loop and memory for rhythms: an individual differences approach. Memory, 9 (4/6/5), 313-322;
+(4) Winold, A. (1975). Rhythm in Twentieth-Century Music. In: Aspects of Twentieth-Century Music. Wittlich, Gary (ed.). Prentice-Hall,  Englewood Cliffs, New Jersey.
+

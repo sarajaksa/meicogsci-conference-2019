@@ -1,0 +1,20 @@
+... title: Serious games as self-help therapeutic tool for treatment of depression
+
+
+
+Abstract
+
+Depression, sub-threshold depression, mild depression and other depressive disorders are very common psychological condition in today's society and are among top five leading causes of disability worldwide [1]⁠. Apart from different causes of depressive disorders, prevention and early treatment is current research topic of many psychologists and specialist from different fields. Although evidence-based treatment exists, majority of people never really seek any treatment or specialized help. There are several different reasons e.g. clinical treatment often provides limited capacity for its services and expansion would require substantial funding. In addition available treatment is often expensive, ill-suited or in other way inconvenient. Last but not least professional psychological help is quite often considered not appealing for those who are in need of it [2]. As possible solution to this problem we propose computerized therapy by use of the Serious games, more specifically CCBT (computerized cognitive behavioral therapy)⁠. 
+
+Games and Gamification are nowadays one of the most important trends in e-learning and therapy. Serious games have become genre of its own and there are several promising examples of the computer-based cognitive behavioral therapies implemented into the Serious games helping people with mild depression anytime they feel suitable, without fear and embarrassment and without essential need for therapist to be present [3]⁠. Cognitive behavioral therapy offers wide variety of implementation into the game environment and is considered well balanced for treatment of depressive disorders. 
+
+We propose a Serious game that utilizes classic aspects of CBT and benefits form possibilities that only game environment provides. Our game's target audience are teenage children up to high school suffering from mild depressive disorder induced by wide variety of situations  starting with school problems, family or relationship problems upto long-term hospitalization. 
+
+Our current work will provide detailed description of suggested game with all its mechanics and aspects with possible realization and technological background. Also we will try to compare our game with other similar well-established Serious games and estimate its effectiveness. This work serves as theoretical foundation for master thesis.
+
+
+!!References
+[1]	J. M. Newby, C. Twomey, S. S. Yuan Li, and G. Andrews, “Transdiagnostic computerised cognitive behavioural therapy for depression and anxiety: A systematic review and meta-analysis.,” J. Affect. Disord., vol. 199, pp. 30–41, Mar. 2016.
+[2]	T. Fleming, S. Hetrick, C. Cheek, H. Bridgman, H. Thabrew, S. Merry, Y. Perry, K. Stasiak, and M. Shepherd, “SERIOUS GAMES FOR THE TREATMENT OR PREVENTION OF DEPRESSION: A SYSTEMATIC REVIEW,” Rev. Psicopatología y Psicol. Clínica, vol. 19, no. 3, Jan. 2014.
+[3]	H. W. Giessen, “Serious Games Effects: An Overview,” Procedia - Soc. Behav. Sci., vol. 174, pp. 2240–2244, Feb. 2015.
+

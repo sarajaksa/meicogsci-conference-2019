@@ -1,0 +1,15 @@
+... title: Distribution of Information Under Conditions of Uncertainty Or What We Really Think About Wolves
+
+
+
+Abstract
+
+In our work we have attempted to bring anthropology and its methods back to awareness of cognitive science. Firstly, we present an overview of possible influences which cultural and environmental factors could have on cognitive processes, e.g., gender-sensitive language accelerates gender identification in children. We explained cognitive and cultural niche, cultural models, and socially distributed cognition in more detail to illuminate shared cognition. We paid special attention to folkbiology as an intuitive method for gaining information about nature [1] and myths as incorrect but effective transmitters of information [2]. Secondly, we discussed the position of anthropology within cognitive science and introduced a method, which could be an important link for closer cooperation of these disciplines - Cultural Consensus theory (CCT). It obtains cultural truths about certain topic from a group of people [3]. CCT is used for ethnographic studies, and studies of opinions or knowledge, e.g., what Americans think that are the most often causes of death in the US.
+
+Our aim was also to support cooperation of anthropological and psychological research with practical application of two methods.. We have tested 120 hunters, shepherds, and animal activists about their beliefs about wolves. Then, we applied CCT model on data to divide the respondents according to consensus in shared knowledge into groups. Subsequently, we applied Cognitive Diagnosis Assessment (CDA) which divided the same respondents according to true or false knowledge they believed to. CDA is primarily used for a diagnostic feedback on proficiency level in learners. We have investigated that the groups identified in analysis overlapped, which means that one group consistently believes in truth, while the other group consistently believes in false information. Further, we expected that shared cultural consensuses from CCT assessment will correlate with groups of hunters, shepherds, and animal activists, because of their different perspective in work, but this hypothesis was not confirmed. 
+
+!!References
+[1] D. L. Medin & S. Atran. Introduction. In Folkbiology. Cambridge, MT, USA: Mit Press, 1999, pp. 1-15.
+[2] K. M. Hodge. What Myths Reveal about How Humans Think: A Cognitive Approach to Myth.  PhD. dissertation, Univ. of Texas, Arlington, TX. 2006.
+[3] S. C. Weller. Cultural Consensus Theory: Applications and Frequently Asked Questions. In Field Methods,  19 (4), 2007, pp. 339-368.
+

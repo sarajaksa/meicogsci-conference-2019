@@ -1,0 +1,20 @@
+... title: Can Technology Aid Interpersonal Skills Training? A Comparison of Reflective Processes in Psychotherapy Education
+
+
+
+Abstract
+
+Psychotherapists need to hold a variety of interpersonal skills to appropriately support their clients. In order to develop these skills students of psychotherapy actively review and explore their therapeutic experiences. During psychotherapy education such reflective processes are institutionally supported by different kinds of supervision. In recent years however, possibilities have been examined to facilitate the development of interpersonal skills with technological tools that guide and scaffold reflection.  Our research compares reflective processes of psychotherapy students with and without a software tool called “mPath”. It is aimed at increased understanding of possibilities and limitations to support reflection in psychotherapy education by means of technology.
+
+mPath provides a framework for psychotherapy students to analyze video recordings of practice-sessions. It was developed to help students focus on individual aspects of the therapy setting and enables feedback from other students in the role of clients [1].  mPath is the first technology to support the development of interpersonal skills and reflection during counseling education and so far no studies have been conducted on whether or how the software can aid the development of interpersonal skills. In our study we identify ways in which mPath scaffolds reflection of psychotherapy students by gathering and analyzing observations of reflection, retrospective reports and interviews.
+
+As a first step we conducted semi-structured interviews with experts from the Centre for Logotherapy and Existential Analysis (GLE) in Vienna to examine how students learn to reflect at this institute. In a second step we asked pairs of students from the institute to conduct therapy-sessions and reflect on them with and without using mPath. We qualitatively analyzed reports and interviews about their experiences during reflection in order to bring to light similarities and differences in the thought processes and outcomes initiated with and without using mPath. We will extract criteria for the quality of individual reflective processes in psychotherapy education in order to find possibilities of evaluating the qualitative differences of methods employed. 
+
+As a whole our research shall outline possibilities and limitations of technology to support reflection in psychotherapy and act as a starting point for further studies in the field.
+
+!! Acknowledgements
+We especially thank Petr Slovák and the HCI group for enabling and most helpfully supervising this project, the GLE for kind cooperation and the participants for bringing the theory to life.
+
+!! References
+[1]	P. Slovák and A. Thieme, “On Becoming a Counsellor: Challenges and Opportunities To Support Interpersonal Skills Training,” in Proc. CSCW’15, 2013.
+

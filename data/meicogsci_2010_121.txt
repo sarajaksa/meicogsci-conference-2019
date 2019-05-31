@@ -1,0 +1,37 @@
+... title: The relation of elaboration and liking in aesthetic perception: Aesthetics as the pleasure of enacting meaning
+
+
+
+Abstract
+
+Aesthetic perception
+
+The relation of elaboration and liking in aesthetic perception: Aesthetics as the pleasure of enacting meaning
+
+Within this master-thesis it shall be examined if active elaboration of an ambiguous artwork is crucial for liking it. 
+This is a view on aesthetics that concentrates on the process itself not on features of the artwork or attitudes of the subject. While it is worked theoretically on different ways in which artworks provide challenges to the perceiver and arguments against and in favor of a view on aesthetics as "the pleasure of enacting meaning", an experiment shall clarify how liking is dependent on elaboration.
+
+Some reports of aesthetic experience are compared to flow-experiences because they include notions of immersion. Douglas and Hargadon [1] assume flow-experiences to be a connection of immersion and engagement which elicits pleasure. Immersion is meant as being absorbed by a familiar schema, engagement as recognizing contradictory schemata without being absorbed. The difference between immersion and engagement could be seen paralleled in two interactionist theories of aesthetics: 
+One is assuming that the fluency of processing is responsible for liking an object: The easier the processing, the more pleasure we gain [2]. This could be the reason why liking a picture increases with the number of presentations (Mere-exposure-effect) or why prototypes are preferred. But the predictions of the model cannot be fit by some experiments linking a certain amount of ambiguity with pleasure or expectation of novelty with reward. Besides this one can state that popular artworks sometimes provide unsolvable contradictions. 
+The second approach points to the specific challenge that the perceiver faces. It can be observed that there are at least four kinds of ambiguity in art: "Switching" (Multiple interpretations are equally probable but we can only perceive one at a time), "Association" (No final interpretation is possible but associations come up), "Evolving" (An interpretation evolves after some time) and "Blending" (we are constantly irritated because of unusual combinations of materials or ideas). It seems plausible that through these irritations reflection on ones own perceptual processing could occur. An approach that proposes aesthetics to be linked to ,,pleasure out of engagement" points to aha-experiences after a kind of struggle like when we recognize an object within seemingly unstructured dots. The struggle - the creation and manipulation of sense - itself would be rewarding [3]. Assuming the processing itself to be pleasing explains why we like challenging stimuli but why can we enjoy an artwork again and again?
+
+Research questions
+One can ask if it is the familiarity or challenge of schemata, immersion or engagement, fluency of processing or the elaboration itself that elicits pleasure in aesthetic perception. Is this influencing how we evaluate the artwork?
+
+Model
+Within this thesis it is assumed that elaborating ambiguous artworks means reducing ambiguity. This fits in a special way to the notion of cognition as "making sense" and perception as active meaning enaction and questions the fluency-approach. Nevertheless familiarity could be included because enacting meaning can be described as "making something familiar". 
+The model proposes two main claims: Liking an ambiguous artwork requires elaboration and elaboration means ,,reducing novelty" and therefore ,,creating fluency".
+The question is in which way elaboration could be pleasurable and how it is linked to liking-ratings.
+
+Experiment
+An experiment shall test the hypothesis that the pleasure of elaboration can influence liking because insights during the process are rewarding. While this assumes a progress of mastering to be necessary for liking an object, it opposes the idea that it is the fluency of processing that is determining liking-ratings.
+In the first experiment 16 non figurative stimuli (abstract forms in black and white) and 16 figurative stimuli (forms that reveal a figure after some looking-time) will be used. A pre-study will help to choose pictures representing the whole range of liking-ratings and guarantee that the non-figurative group excludes highly associative pictures. Each picture is shown to the subject for half a second. The subject then rates how much he or she likes the picture. In the next block containing the same randomized pictures it is asked after each picture if subjects recognized something within the picture. There will be 11 blocks alternating between these two tasks. Within the 12th block it is asked which figure was identified. 
+The dependent variable Liking is operationalized via Rank 1-7, Insight via Yes/No answers in the recognition rating and Difficulty of successful mastering via the number of presentations until the Insight is reported. Independent variables are Presentation-time and Figurativeness of the stimuli. 
+The selection of the stimuli enables a comparison of the effect of having an Insight on Liking (ratings for figurative stimuli) with that of Mere-exposure (ratings for nonfigurative stimuli). An analysis of changes in Liking-ratings directly after the Insight-statement will reveal if the Insight has a direct effect on Liking. Difficulty of successful mastering could be as well related to Liking. If the struggle is rewarded then higher efforts should lead to higher liking-ratings. In further experiments artworks that are ambiguous in different ways (as already discussed above) could be used as stimuli.
+
+References:
+
+[1] Douglas, Y., & Hargadon, A. (2000). The pleasure principle: immersion, engagement, flow. In Proceedings of the eleventh ACM on Hypertext and hypermedia (S. 153-160). San Antonio, Texas, United States: ACM. 
+[2] Reber, R., Schwarz, N., & Winkielman, P. (w.y.). Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver's Processing Experience? SSRN eLibrary.  http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1295305
+[3] Ramachandran, V., & Hirstein, W. (1999). The Science of Art - A Neurological Theory of Aesthetic Experience. Journal of Consciousness Studies, 6(6-7). Retrieved from: http://www.imprint.co.uk/rama/art.pdf
+

@@ -1,0 +1,30 @@
+... title: The Slovene Lexicon Project
+
+
+
+Abstract
+
+Written words are probably the most studied stimuli in experimental psychology. The most commonly collected data are measurements of word-recognition response time, influenced by a myriad of factors.
+The Slovene Lexicon is a project aimed at providing standardized behavioral and descriptive data for 2250 words and 2250 nonwords. Data from 90 participants are being collected in a lexical decision task (participant decides whether a string of characters is a word or not) and speeded naming task (participant is recorded reading a string of characters out loud).
+
+Following The English Lexicon Project [1], we attempt to construct a database of naming and lexical decision latencies for slovene mono- and multisyllabic words for use in further research.
+
+The studied variables are word length, word frequency based on the FidaPLUS corpus of Slovene language, orthographic neighborhood (various measures), word structure, mean latency, mean latency according to word properties.
+
+Our participants are native Slovene speakers, who participate in both the naming and decision task.
+We measure response latencies for the tasks. Accuracy of word recognition in the decision task and self-evaluated pronunciation accuracy in the naming task are noted. 
+Our stimuli are a set of words (content words in their basic forms) and pronounceable nonwords.
+
+We expect our results to conform to the partial analysis by Mencinger and Repovš [2]. This includes:
+A significantly longer response time to nonwords than words.
+A shorter naming than decision response time.
+The logarithm of individual word frequency being a predictor of response time for both tasks.
+OLD20 orthographic neighborhood measure being a better predictor of response time than Coltheart’s N [3].
+Word length being a significant predictor of response time, even when controlling for other variables.
+
+The data collected in our project will be used to create an important instrument for various studies of word recognition, selection of specific word stimuli, and psychological models based on word effects. Researchers from other disciplines, outside of word processing, that use words as a primary stimulus, will be able to use our database.
+!!References
+[1] Balota, D. A., Yap, M. J., Hutchinson, K. A., Cortese, M. J., Kessler, B., Loftis, B., Neely, J. H., Nelson, D. L., Simpson, G. B., Treiman, R. The English Lexicon Project. Behavior Research Methods, 39(3). 2007, 445-459.
+[2] Mencinger, L., Repovš, G. Factors influencing speed of lexical decision and word naming task for Slovenian words. MEi:CogSci conference, 2010.
+[3] Mencinger, L. Prepoznavanje in branje besed: pregled modelov. Not submitted for publication, 2009.
+

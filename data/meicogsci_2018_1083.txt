@@ -1,0 +1,15 @@
+... title: Prosocial Behavior in Japanese Macaques (Macaca fuscata)
+
+
+
+Abstract
+
+Prosocial behavior can be generally defined as any voluntary action that benefits another. Prosocial behaviors can be either reactive, in which case the behavior occurs in response to a signal from another, or proactive, in which case the behavior occurs in the absence of an eliciting signal [1]. Prosociality has been explored in a number of different animal species and its evolutionary origin is a hotly debated issue within ethology [2]. At present, the best supported explanation for the evolution of proactive prosociality is the cooperative breeding hypothesis (CBH). The CBH predicts that proactive prosociality in a species is linked to shared infant care, and analyses within the primate order have thus far supported this explanation [2]. 
+Recent studies seeking to extend the CBH beyond primates have tested prosociality in various corvid species and found the same pattern previously found in primates [3]. In order to test prosociality in corvid species, the typically used paradigm needed to be modified to accommodate their specific anatomy. To ensure the comparability of these findings to the conclusions reached in primate species, the modified paradigm must be tested in previously examined primate species with a known rate of prosociality.
+The present study will use the corvid-modified prosociality paradigm in Japanese macaques, a species previously demonstrated to display a low rate of prosocial behavior [1]. If their rate of prosocial behavior remains low while using this paradigm, it will demonstrate that it is roughly equivalent to the paradigms previously used in primates. The results of the primate and corvid studies will then justifiably be able to be compared to one another. Through allowing for this comparison, the present study will contribute to exploration of the CBH outside of primate species. Further tests of the CBH may wish to extend usage of the prosocial paradigm presented in this paper to additional avian species, or other phyla entirely. Ultimately, large-scale cross-species research of this sort can help to shed light upon the evolutionary development of human psychology and answer what, if anything, makes us truly unique. 
+
+## References
+[1] J. Burkhart, and C. van Shaik, "Group service in macaques (Macaca fuscata), capuchins (Cebus apella) and marmosets (Callithrix jacchus): A comparative approach to identifying proactive prosocial motivations", Journal of Comparative Psychology, vol. 127, no. 2, pp. 212-225, 2013.
+[2] J. Burkhart, et al., "The evolutionary origin of human hyper-cooperation", Nature Communications, vol. 5, no. 47472, 2014.
+[3] L. Horn, C. Scheer, T. Bugnyar, and J. Massen, "Proactive prosociality in a cooperatively breeding corvid, the azure-winged magpie (Cyanopica cyana)", Biology Letters, vol. 12, no. 20160649, 2016.
+

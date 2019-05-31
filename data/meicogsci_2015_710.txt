@@ -1,0 +1,19 @@
+... title: Manipulation of balance in Tai Ji Quan and changing reflex muscle response by using MM method
+
+
+
+Abstract
+
+TJQ (Tai Ji Quan) is a Chinese martial art that is performed individually or as a training in pair. The ideal of effectiveness in TJQ is to control the opponent’s balance with as little force as possible and can be described with the well-known metaphor that “4 ounces can defeat 1000 pounds " [1]. This metaphor usually stands for a special effect in TJQ called fajing. We talk about fajing effect when we prepare our partner to lose balance, or to bounce to maintain the balance, with very little force on our part. In this study, we focus on the muscular activity associated with the fajing effect. This will help us understand how and why a fajing effect is different from ordinary pushing or punching. On the basis of this understanding could be made further research and understanding of other basic TJQ principles as “attention” and “softness”.
+
+The study has two phases. In the first phase of the study, which is based on the demonstration of renowned Tai Ji Quan teacher, we tried to discover what muscle reflex reaction is necessary to reach the fajing effect and how this response differs from the usual pushing or pulling. In the second phase, which is in progress, we want to find out if regular person can achieve at least transitory fajing effect, which usually takes a lot of years of regular exercise, with very short massage intervention in the form of MM (Modulation of Motoric Processes) method [2]. MM method is an intervention massage that uses TJQ learning principles and movements to modulate motoric processes. We are measuring the muscle reflex response before and after the intervention. For this study we used a measurement system with double plates to measure the forces on the ground (left and right leg), EMG (Electromyography) system to measure muscle reflex responses, and program for capturing data developed by S2P d.o.o..
+
+Our hypothesis is that the fajing effect do not need to be described in abstract terms such as word Qi, but it can be described in terms of reflex muscle reactions. The ability to manipulate the opponent's reflex muscle responses, enables TJQ combatant to destabilize the opponent with very little power. In case that the participants in this study will be able to successfully produce fajing effect even after 15 minutes of intervention with MM method, we will confirm hypothesis. At the level of TJQ exercise, this means that during the practice the participant learns to push in a new and different way, and that he must therefore create a new movement pattern.
+
+!! Acknowledgements
+Special thanks to Jernej Sever and Center premik d.o.o..
+
+!! References
+[1] M. C. Ching. Cheng Tzu's Thirteen Treatises on T'ai Chi Ch'uan. Blue Snake books, 1992.
+[2] J. Sever. “Modulation of Motoric Processes on the Basis of Taijiquan Movement Prinicples,” Interdisciplinary Description of Complex Systems, Vol.12, No.4, pp. 305-313, Oct. 2014.
+

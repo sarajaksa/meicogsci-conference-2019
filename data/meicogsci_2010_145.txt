@@ -1,0 +1,36 @@
+... title: Computational models involving mirror neurons as their inspiration to achieve learning by imitation in autonomous robots.
+
+
+
+Abstract
+
+Our work aims to overview some architectural computational models that draw inspiration from functional properties of mirror neurons [1], We go through an explanation of the mirror neurons' background from their discovery to the latest studies that have been done in the field. Later on we focus on two computational model architectures that draw inspiration from the concept of mirror neurons' functional properties, and review the methodology used for the implementations of these model architectures to embodied autonomous robots. 
+
+There is a big attention from academics to research on robot teaching by demonstration. That is why recently investigations focus on a new direction to robot learning from interacting with other agents. If one could teach the robot to perform complex tasks that require complex skills by simply demonstrating them how to perform the task, then it would greatly reduce the programming cost of the robot's construction and facilitate the grounding of social skill interaction on them.
+
+These connectionist models are more focused on the imitation level. What we do is to review these two models, the Recurrent Neural Network with Parametric Bias (RNNPB) [2] and Dynamical Recurrent Associative Memory Architecture DRAMA [3], and remark some possible ambiguities presented in their implementations into embodied autonomous robots. Empirical evaluations and experiments on the implementation of these models illustrate the effectiveness and applicability of them by demonstrating learning of motor actions by imitation in embodied robots. We would like to analyze these models in the level of imitation and how can they be implemented into the communication level.
+
+One of the main challenges in robotics and artificial intelligence is to approach more human-like properties into autonomous robots. One of these properties to achieve is to design social skills on autonomous robots, which can enable them to interact with other animated agents, either humans or other robots that are also part of the world.
+
+It is very difficult to design autonomous robots that can easily interact with the world. One of the possible approaches or first steps toward the solution to this challenge is to design robots that can learn motor tasks triggered by imitation of perceived tasks provided by a demonstrator. In other words: learning by imitation. This approach is inspired by the functional properties of mirror neurons.
+
+There is neurophysiological evidence that suggests the presence of the so called mirror neurons [1], which are a group of neurons that were first found in macaque monkeys while they were performing a study on the motor area of the monkey's brain, the rostral part of inferior area 6 (F5) to be exact. These neurons would exhibit activity when the monkey performs an action, as well as when the monkey observes the same action being performed by another individual or demonstrator. These neurons were also activated when the monkey hears a related sound that can recall cues of the performed action.
+
+Since the discovery of the mirror neurons in monkeys, many scientists have paid attention to this concept and focused on studies to prove whether these neurons are also present in humans. According to indirect empirical data obtained by brain image techniques, a mirror neuron's system is also present in different parts of human brains. The mirror neuron concept seems to be a core system that makes us uniquely social because of the functionalities that they seem to be involved in including context understanding, imitation, etc. One of the main functions of these neurons is to aid in learning by imitation.
+
+The concept of the mirror neurons has been an inspiration for computational models to focus on the realization of human-like properties on robots, opting for a connectionist alternative of using artificial neural networks (ANN) architectures as an algorithm to enable learning in autonomous robots. The computational models that we review assume the existence of mirror neurons and confirm the inspiration on their properties. 
+
+We analyze the RNNPB and DRAMA models, highlighting some possible ambiguities on the implementation of the reviewed models. In the end we suggest a possible methodological improvement that could be applied in the implementation of these models in an embodiment of autonomous robot for the approach of modeling language abilities binding the behavioral patterns (gestures) and the language processes for communication skills. 
+
+Communication is one of the most important social skills, and is fundamental for a society. It plays an important role in the transmission of knowledge among others and is the basis for the interactions between individuals. If we could achieve communication on robots in a bidirectional way to enable multi-agent interaction, it will facilitate the interaction with other individuals, either robots or humans. This could yield at least two advantages: Imaging a robot that could explain its own behavior, which would make the robot to be more trustable for its user. Another advantage is that the robot could be commanded easily in a more natural way, using verbal commands.
+
+These approaches would need for a more extensive scientific research and creativity for better results in the coming future; however, despite the efforts of many scientists and professionals dedicated to this area, there are still some technological boundaries at the moment. Therefore, it is important to try to search for more simple solutions in this field which would contribute more and more in making humanoids' behavior more realistic and improve human-robot interaction.
+
+
+
+[1] Rizzolatti G, Fadiga L, Fogassi L, Gallese V. 1996. Premotor cortex and the recognition of motor actions. Cogn. Brain Res. 3:131
+
+[2] Tani J, Ito M, Sugita Y. 2004. Self-organization of distributedly represented multiple behavior schemata in a mirror system: reviews of robot experiments using RNNPB. Neural Network 17: 1273-1289
+
+[3] Billard, A. 1998. DRAMA, a connectionist model for robot learning: Experiments on grounding communication through imitation in autonomous robots.  Department of Artificial Intelligence, University of Edinburgh.
+

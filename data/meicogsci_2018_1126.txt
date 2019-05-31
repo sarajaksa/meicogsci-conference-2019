@@ -1,0 +1,15 @@
+... title: Extended Agent Based Simulation of Cipolla’s Model of Stupidity
+
+
+
+Abstract
+
+In 1976 Carlo M. Cipolla, late Italian economic historian wrote an essay entitled The Basic Laws of Human Stupidity[1]. The essay is humorous and written in a playful style. Humor was and is often used as a socially acceptable way of communicating unpleasant truth. In the essay Cipolla formulated a model of stupidity in fundamental laws representing simple economic model of interactions.
+In Cipolla's theory we have four basic types of interactions[1]. Intelligent interaction (win-win) occurs when both agents in interaction have gain with interaction. Altruistic interaction (lose-win) occurs when the active agent in interaction has loss and the passive one has gain. Robbery (win-lose interaction) occurs when the active agent has gain and the passive agent has loss. Stupidity (lose-lose interaction) occurs when both agents have loss with interaction. All agents can be represented graphically on Cartesian plane[1,2]. A point on Cartesian plane is representing agent's average interaction[2].
+In Agent Based Modeling (ABM) a system is modeled as a collection of autonomous entities, agents[3]. Each agent has his own set of rules for shaping its behavior and defining its decisions. ABM is used to study the dynamics of complex systems in social sciences and economics[3]. ABM is a simulation of autonomous interaction resources in evolving systems.
+Tettamanzi and da Costa Pereira[2] carried out an agent-based simulation to test compatibility of Cipolla's theory and Darwin's theory of evolution. Under some parameter setting they got emergent behaviors in line with Cipolla's theory. In our research we intent to reproduce this simulation experiment, extend their simulation model and explain some nonintuitive results, like prevail of the stupid altruists in one parameter setting[2]. In their evolutionary algorithm Tettamanzi and da Costa Pereira used mutation only. We are going to use mutation, recombination and agents with sex. They used three initial populations (all agents, deleterious and stupid), we are going to use more and different initial populations and test different populations against each other. Cipolla's theory assumes that agents are not capable of learning from previous interactions and have no memory of previous interactions. We are going to simulate learning and memory of previous interactions.
+
+[1]Cipolla C.M.  “The basic laws of human stupidity,” Bologna: il Mulino, 2011.
+[2]Tettamanzi A.G.B., Da Costa Pereira C. “Testing Carlo Cipolla's Laws of Human Stupidity with Agent Based Modeling,” Proceeding WI-IAT '14 Proceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT) - Volume 03, 11. August 2014, pp.246-253.
+[3]Bonebeu E. “Agent-based modeling: Methods and techniques for simulating human systems.”  PNAS vol. 99 no. suppl 3 pp. 7280-7287, 2002.
+

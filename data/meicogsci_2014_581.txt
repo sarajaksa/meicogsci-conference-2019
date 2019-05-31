@@ -1,0 +1,17 @@
+... title: Automatic Annotation of Disease Entities from Patient Information Leaflets
+
+
+
+Abstract
+
+!!!! Automatic Annotation of Disease Entities from Patient Information Leaflets
+
+Information Extraction (IE) is applied in computational linguistics to automatically extract relevant information of a specified domain in an unstructured text. The present study applied IE to extract diseases from Patient Information Leaflets (PIL).  Approaches from Artificial Intelligence and Cognitive Science are combined with the aim to support medical professionals in detecting diseases targeted by a drug in a less-time consuming manner than by reading the entire PIL. Previous work applying IE in the medical domain can be categorized in rule-based, Machine Learning and hybrid approaches. Beginning with the extraction of specific drug features, the trend shifted towards working on whole drug characteristics. Studies on drug interactions have been rare but are an increasing trend. Recent work predominantly focuses on extracting information from clinical narratives [1]. This study uses a hybrid approach.
+
+As a platform the General Architecture for Text Engineering (GATE, see gate.ac.uk) was used. Developed as a powerful open source text processing application, GATE provides IE tools and automatic evaluation. In the first step the entries of the most recent German Modification of the International Statistical Classification of Diseases and Related Health Problems (ICD-10 GM) were stemmed to form a gazetteer list. In the second step adjectives related to the disease names were extracted to guarantee completeness, for example “chronische Niereninsuffizienz” (chronic renal insufficiency) required the disease name “Niereninsuffizienz” and the adjective “chronisch”. For this purpose a stemmed list of german adjectives was used. In both steps a stemmer enabled the annotation of all adjectives and names even if they did not appear in their base form. In the final stage a machine learning processor was trained to extract whole disease blocks consisting of adjectives and names. 
+
+The result of the project is a novel GATE application capable of automated annotation of diseases from PIL corpora. Each step in the development process was followed by an evaluation phase.  For this purpose a corpus consisting of 40 PILs was manually annotated and compared with the automatically created annotations to calculate the recall, the precision and the F-score. Improvement in each phase was obtained by tracing back the errors of the application. Categorizing the causes of wrong or missing automatic annotations led to solutions improving the results. Future work could focus on the extraction of indications and contraindications of drugs.
+
+!!References 
+[1] S. Rubrichi, S. Quaglini, “Summary of Product Characteristics Content Extraction for a Safe Drug Usage,” Journal of Biomedical Informatics, vol. 45, no. 2, pp. 231-239, Apr. 2012.
+

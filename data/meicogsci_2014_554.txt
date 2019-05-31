@@ -1,0 +1,33 @@
+... title: Qualitative Vision Recognition of Topological Features
+
+
+
+Abstract
+
+!!!! Qualitative Vision Recognition of Topological Features
+
+Commonly pattern recognition has been revolving around statistical methods such as machine learning and Bayesian algorithms. Our approach differs in the sense that we are searching for qualitative rather than quantitative features from the scenes. 
+
+An interesting question was raised by a reviewer: how can qualitative information be dealt with algorithmically, i.e. isn't that a contradiction in terms? Perhaps a clarifying example is this: imagine a road map of a city. We call a map "connected" if every house can be reached from any other house via a road. Otherwise disconnected. An example of a disconnected map would be a map of a city which includes islands only reachable by a boat. Being connected is -- in my view -- a qualitative property. However, it is an algorithmically detectable feature.
+
+In this research we investigate recent applications of algebraic topology to visual feature recognition. A robot whose task is to lift objects would benefit from recognising handles or objects with handles such as cups, teapots and plastic bags as opposed to handleless mobile phone, glass or box. The robot has a 3D-camera which gives the robot a point cloud in a 3D-space. The algorithm simplifies the data into a form of a simplicial complex, or just a graph (nodes with connections) and tries to find hole-structure in that graph or complex using persistent homology theory. Algebraic topology is a mathematical theory which characterizes geometrical shapes in terms of their qualitative structure (such as holes) and not so much taking into account exact metric properties (such as the shape or diameter of the hole). 
+
+This approach has been taken in [1] and [2]. This is also plausible as a model of (part of) human vision as at least on high cognitive levels we perceive a lot of qualitative and symbolic information in the visual field. There is also evidence [3] that mammalian
+brain maps territory in a topological rather than metric way.
+
+Apart from researching the recent progress in this area we are writing an algorithm in Python for detecting holes in objects in the 3D images provided by a 3D camera. At the time of writing this article, the algorithm is a work in progress and hopefully a decent version of it will be available to present at the conference. The algorithm will be integrated into the long-term project of robotic vision carried out by the Robotics Group at the Vienna University of Technology. In this project only statistical methods have been used so far. The aim of this project is thus to bring this new, qualitative perspective into the robotics project at TU by surveying what has been done and writing a sample code to start with.
+
+!! References
+[1] F. T. Pokorny et al.,
+    "Grasping Objects with Holes: A Topological Approach"
+    IEEE ICRA Karlsruhe, May 2013, pp. 1100 - 1107.
+[2] G. Singh et al.,
+    "Topological Methods for the Analysis of High Dimensional
+    Data Sets and 3D Object Recognition"
+    Eurographics Symposium on Point-Based Graphics, Prague 2007
+    M. Botsch, R. Pajarola (Editors)	  
+[3] Y. Dabaghian et al.,
+    "A Topological Paradigm for Hippocampal Spatial Map
+    Formation Using Persistent Homology."
+    PLoS Comput. Biol. 8(8): e1002581. doi:10.1371/journal.pcbi.1002581
+

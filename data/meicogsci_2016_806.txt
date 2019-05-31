@@ -1,0 +1,19 @@
+... title: Debiasing Logical Reasoning About Meat Eating
+
+
+
+Abstract
+
+Many studies have found emotions to impair logical reasoning. However, veterans have been shown to improve reasoning on syllogistic problems when the content was related to personal experiences, suggesting an attentional effect on cognitive processes through highly emotional topics [1]. It remains to be answered how self-relevant emotional content may cause an improvement in reasoning tasks. 
+
+In this master thesis, two experiments explore deductive reasoning on syllogisms related to different food choice groups. Manipulating logical reasoning variables by means of experimental interventions is assumed to explain the factors that improve resistance to miserly processing, i.e. support people to give the normatively correct response [2]. 
+In line with [1], emotional content that appears to be self-relevant is hypothesised to serve as a signal that directs the appropriate analytic cognitive style, i.e. motivation to engage effortful reasoning processes, towards processing information. Approaching this suggestion in a non-clinical sample, a syllogistic reasoning task about common food choices was designed and pre-tested (N=235) to allow for comparison of divergent effects of emotional content on logical reasoning depending on four groups: meat eaters, meat reducers, vegetarians, and vegans. Each group has been associated with specific responses to stimuli related to meat eating. For example, most meat eaters but fewest meat avoiders endorse rationalisations that meat consumption is "natural", "necessary", "nice", and "normal" to morally justify a dietary practice that is under public debate [3]. 
+
+In the first online experiment (N=402) we used a 20-minute auditory mindfulness meditation intervention to improve performance in logical reasoning variables compared to an audiobook control group. Self-relevant emotional factors are hypothesised to partially moderate effects of analytic cognitive style on boosted resistance to miserly processing, explaining the stronger improvement in reasoning about food choice related syllogisms than in neutral syllogisms. There were both performance based and self-report measures for logical reasoning variables and self-report measures for attitudes towards meat eating. The data has yet to be analysed. 
+In a second experiment we attempt to replicate findings by means of presenting affective pictures to manipulate the level of self-relevance of emotional content in the syllogistic reasoning task.
+
+!!References
+[1] I. Blanchette and M. Campbell “Reasoning about highly emotional topics: Syllogistic reasoning in a group of veterans,” J. of Cog. Psy., vol. 24, no. 2, 2012, pp. 157-164.
+[2] V. Čavojová and R. Hanák “Assessing fluid rationality and its relation to cognitive styles,” in Proc. 5th Int. Conf. Appl. Human Factors and Ergonom. AHFE 2014, Krakow, 2014.
+[3] J. Piazza, M. B. Ruby, S. Loughnan, M. Luong, J. Kulik, H. M. Watkins, and M. Seigerman “Rationalizing meat consumption. The 4Ns,” Appetite, vol. 91, 2015, pp. 114–128.
+

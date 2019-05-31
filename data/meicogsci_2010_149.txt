@@ -1,0 +1,26 @@
+... title: Representation of language corpus for automatic support system communicating in natural language
+
+
+
+Abstract
+
+The goal is to study methods of statistical natural language processing. This work proposes and explores a suitable representation of language corpus and knowledge base for practical implementation of automatic customer's support system, which will communicate in the natural language. The language corpus will be based on records of previous conversation between real agents and customers. Communication will be in English.
+
+This issue comes from a real life. A lot of companies employ many agents to provide the support for their customers. These support agents always(or most of their time) answer to questions that are always repeating. This phenomenon allows us to create an automatic support system (ASS), which will partially substitute real agents in providing answers (help) to the customers[1]. However, a few conditions have to be satisfied. The most important thing is to have a sufficient amount of communication history (chats) between agents and customers archived in the digital form. This data set of old chats will be used as the learning set for ASS. The second important condition is the requirement of a narrowly specified field of the discussion area. So, the goal of the ASS is not to pass the Turing test, but just to provide answers to customers (take them from the old chats) like the real agents do.
+
+The way  ASS will be resolving the requested answers will be built on methods of statistical natural language processing(SNLP). The learning set of old chats must be preprocessed by ASS to a data structure, by which the system will easily know which reply it should choose. This Poster is a  proposal of an eligible representation for this structure. 
+
+When we look into the structure of the archive of conversations we can see that each conversation can be divided into three parts. The first part is short and simple. It consists of greetings and introduction of support and offering help. The second part is the main part and its task is solving customers' problems. Parts of the conversations do that can be divided into the "problem" categories by Unsupervised Categorisation Approaches[2]. ASS has to distinguish and group old conversations by the subject they belong to. Because ASS will not be able to create new answers this method of categorization will help ASS choose one of the most suitable reply. The third part consists of farewell.  
+
+One possibility is to create a stochastic structure  consisting of these three parts. This structure will be a directed graph created by replies as nodes and probabilistic connections as vertices. Each reply will have a probabilistic connection with others replies in the same problem category This will ensure that ASS will not run out of context. From each node, there will always be a probabilistic connection to the begin of the second part category to allow customer to change the subject of the conversation and move on to another problem.
+
+The communication will reflect the underlying stochastic graph structure[3]. It will start in the "first part" nodes, proceed through "second part" nodes, and end in "third part" nodes. For each customer's message, a probability sum value will be calculated according to all possible connections from the current node.
+
+The ultimate goal of this project is to find some suitable methods of creating such statistical structure, evaluation of connections(between nodes) and evaluation of customers' messages. The results of this project will be used for providing a sample implementation.
+
+[1] Acomb, K., Bloom, J., Dayanidhi, K., Hunter, P., Krogh, P., Levin, E., and Pieraccini, R. 2007. Technical support dialog systems: issues, problems, and solutions. In Proceedings of the Workshop on Bridging the Gap: Academic and industrial Research in Dialog Technologies (Rochester, New York, April 26 - 26, 2007). North American Chapter Of The Association For Computational Linguistics. Association for Computational Linguistics, Morristown, NJ, 25-31.
+
+[2] Albalate, Amparo / Dimitrov, Dimitar / Pieraccini, Roberto (2007): "Unsupervised categorisation approaches for technical support automated agents", In INTERSPEECH-2007, 1625-1628.
+
+[3] E. Levin, R. Pieraccini, and W. Eckert, "A stochastic model of human-machine interaction for learning dialog strategies," IEEE Transactions on Speech and Audio Processing, vol. 8, no. 1, 2000.
+

@@ -1,0 +1,31 @@
+... title: The Effect of Letter Order on Word Recognition
+
+
+
+Abstract
+
+The Effect of Letter Order on Word Recognition was central to the work Cambridge study. Original Cambridge study says: 'Aoccdrnig to a rscheearch at Cmabrigde Uinervtisy, it deosn't mttaer in waht oredr the ltteers in a wrod are, the olny iprmoetnt tihng is taht the frist and lsat ltteer be at the rghit pclae. The rset can be a toatl mses and you can sitll raed it wouthit porbelm. Tihs is bcuseae the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a wlohe.' This problem researched Matt Moore and Sarah Pollom, Hannover College [1].
+
+My experiment has several aims :
+o	to repeat the original experiment of Cambridge University [1].
+o	 this experiment was still on the Stroop Effect 
+o	writing color of the word
+o	writing the word [2].
+o	verify or confute the hypotesis whether the first and last letter play a role in word recognition [4].
+
+In my experiment, I focused attention on reading. I looked at the impact of the order of letters in the word. This experiment, I combined with the Stroop Effect [2]. Stroop Effect serves to sidetrack participants. Participants focused on the task (reading the word or reading color word), not the text (not exactly the sequence of letters in the word). Because it is reading without automatic operation that we have focused the attention.
+
+My experiment consisted of two parts.
+
+The first part: Participants were tested on the classical Stroop Effect (reading color of the words, or reading a word). In this section there were offered three types of color (red, green and blue) for  the participants. Next, I checked the participants reaction times.  I can confirm the assumption, that reaction time was faster if word and color of word was same. If the color of the word and word were not same  parcipiants has longer reaction times.
+
+In the second part Participants were tested on the Stroop Effect. Parcipiants should choose from three types of color (yellow, purple and orange), but the letters in the word are not always in the correct  sequence [3]. I contamplated the impact of letters sequence in the word and parcipiants reaction times. The participants in this case should identify a color word or meaning of the word. Participants are able to strictly define signification the word although letters are mixed. It was confirmed the hypotesis, that changed letter position in the word does not affect the reading. They also attested the assumption that,f color and meadning of the word are the same, then reaction time is shorter and so parcipiants were faster. If the color and meaning of the word were different, parcipiants were longer reaction time a therefore they was slower. Parcipiants finish with testing after two days, because every part is time- consuming. In this experiment I used an application that I programmed for these purpose.
+
+Verification of hypotesis pass. Sequence of letters in the word has no effect on word reading but if they read word color then word meaning is ignored.  It is not important if word was written correctly. Also, mixed letters sequence did not influence at reaction time
+
+
+ [1] http://www.docstoc.com/docs/4696388/Effect-of-Letter-Order-on-Word-Recognition
+[2] http://psychclassics.yorku.ca/Stroop/
+ [3] Oliver, W., Healy, A., & Mross, E.  (2005).  Trade-offs in 	detecting letters and comprehending text.  Canadian 	Journal of Experimental Psychology
+[4] McCusker, L., Gough, P., & Bias, R.  (1981).  Word 	recognition inside out and outside in.  Journal of 	Experimental Psychology:  Human Perception and 	Performance,
+

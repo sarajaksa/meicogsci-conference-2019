@@ -1,0 +1,34 @@
+... title: A Socratic-like Problem to Reveal Misconceptions in Fractions
+
+
+
+Abstract
+
+!!!! A Socratic-like Problem to Reveal Misconceptions in Fractions
+
+!! Introduction
+
+Fractions are the stumbling block in understanding qualitative reasoning for many. In our pilot study, we tried to determine the suitability of our research design for the further experiment in fractions diagnosis. When choosing a problem, we were inspired by Liping Ma’s interview question of 1¾:½ and by the Socratic problem of doubling the square [1][2]. Our problem was to find the sides of rectangles which can be obtained by cutting unit squares into pieces and rearranging the pieces, so that they would be all used without overlapping. Hands-on approach was chosen to elicit variability of subjects’ representations of fractions, in accord with Lesh Translation Model [3]. Our hypothesis was that the key misconceptions subjects hold would surface.
+
+!! Method
+
+Five subjects of different level of mathematical background were observed. Author’s intervention (number of guiding questions) varied. Subjects were invited to use scissors, paper, and ruler to solve the problem given.
+
+!! Results
+
+Each subject displayed some misunderstanding of the inverse relationship between the sides of the resulting rectangle (e.g. failure to see it/hardship calculating it). They all erred somewhat during the measurement/calculation (e.g. there was confusion between the number of pieces and the side length and incorrect basic fractions operations). The interplay between the picture/paper aid usage and verbal/symbolic calculation was interesting: the subjects, who had miscalculated the sides of rectangles, usually corrected themselves upon constructing the concrete embodiment of the calculation. 
+
+!! Discussion and Conclusion
+
+Even though many misconceptions surfaced, they could have been problem specific or influenced by the guiding questions. Another con was that the problem lacked Real Life Context interpretation, which negatively influenced the motivation of the subjects. The pros of the problem choice were that it was approachable with different levels of mathematical literacy and that it provided an insight into what modes are the subjects comfortable in. These highlights and drawbacks are to be taken into account in the following experiment, in which we want to find correlations of misconceptions, and subsequently develop a prototype of a diagnostic tool for misconceptions in fractions. 
+
+!! Acknowledgments
+
+I would like to thank Mgr. Barbora Kamrlová, PhD., M.A., and doc. RNDr. Zbyněk Kubáček, CSc. for their advice.
+
+!! References 
+
+[1] M. Liping. “Generating Representations: Division By Fractions,” in Knowing and Teaching Elementary Mathematics: Teachers’ Understanding of Fundamental Mathematics in China and the United States, Anniversary ed.. NY, New York: Routledge, 2010, ch. 3, pp. 47–71.
+[2] Plato. Meno. 380 B.C.E. (Transl.: B. Jowett. (n.d.). Internet Classics Archive [Online]. Available: http://classics.mit.edu/Plato/meno.html.)
+[3] R. Lesh, K. Cramer, et al. “Using a translation model for curriculum development and classroom instruction” in “Beyond Constructivism. Models and Modeling Perspectives on Mathematics Problem Solving, Learning, and Teaching.” R. Lesh, H. Doerr, Ed. Mahwah, NJ: Lawrence Erlbaum Associates, 2003, ch. 24, pp. 3-34.
+

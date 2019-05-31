@@ -1,0 +1,25 @@
+... title: Evaluating and Experiencing Framed Outcomes: Feedback-related Negativity Investigation of Description and Ambiguity Effects
+
+
+
+Abstract
+
+!!!! Evaluating and Experiencing Framed Outcomes: Feedback-related Negativity Investigation of Description and Ambiguity Effects
+
+Framing the same outcome in terms of gains leads to more favorable evaluations than framing it as a loss. Present research investigated differences in framing effect on certain and risky outcomes. Event-related potential (ERP) technique was used to examine analogy between framed and objective gains and losses in evaluative processing indexed by feedback related negativity (FRN). FRN represents rapid motivational and affective outcome valence evaluation [1]. Compared to gains, losses and ambiguity elicit a negative deflection in the ERP waveform [2]. 
+
+Our experiment (N= 17) consisted of 2 similar parts. Trials began with monetary endowments. Subsequently, participants learned how much of the endowment they can keep or how much they lose. In the certain “always something” part, participants kept/lost only a part of the endowment. In the risky “all or nothing” part, they kept/lost the whole endowment or nothing. We utilized the differences between the 2 parts to examine FRN responses to ambiguity in new contexts.
+
+We hypothesized that loss descriptions of objective gains will be reflected in FRN [3]. Ambiguity was previously only examined in situations, where valence of the outcome was unknown. Magnitude related ambiguity in “always something” part was not expected to result in FRN, since the valence of the outcome was known to be positive. 
+
+Results indicated no framing effect on favorability evaluations of known outcomes, while responses to ambiguous outcomes indicated significant framing effect. ERPs in the “always something” part revealed no FRN differences related to outcome descriptions. On the other hand, magnitude related ambiguity resulted in FRN independent from framing manipulation. 
+
+Contrary to our expectations, no FRN effects were observed in the “all or nothing” part. We conclude that the experimental task elicited unexpected processing, rendering it inapplicable for FRN investigation.
+
+Absence of FRN and behavioral differences between framed outcomes of known magnitudes could be indicative of outcome processing unbiased by description. The observed FRN associated with magnitude related ambiguity suggests an unexpectedly profound effect. Significant framing effect consistent responses to ambiguous outcomes dissociated from FRN suggest that other cognitive processes might be involved.
+
+!!References
+[1] W. J. Gehring and A. R. Willoughby, “The medial frontal cortex and the rapid processing of monetary gains and losses.” Science, vol. 295, no. 5563, pp. 2279-2282, 2002.
+[2] C. B. Holroyd et al., “The good, the bad and the neutral: electrophysiological responses to feedback stimuli.“ Brain research, vol. 1105, no. 1, pp. 93-101, 2006.
+[3] Q., Ma et al., “Brain potentials associated with the outcome processing in framing effects.” Neuroscience Lett., vol. 528, no. 2, pp. 110-113, 2012.
+

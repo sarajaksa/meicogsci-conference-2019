@@ -1,0 +1,14 @@
+... title: Neuroimaging of religiosity
+
+
+
+Abstract
+
+Religious convictions in neuropsychological studies are usually evaluated either by complex questionnaires or by simple “grade your belief in God in 1-7 scale”. Both approaches, have advantages and disadvantages, however they display one common weakness - assessment of religious conviction is entirely subjective and therefore can be influenced by respondents willingness to disclose their beliefs, comprehension of assignment and ability to accurately evaluate themselves. 
+
+Goal of  our research is to find an objective method for one’s beliefs appraisal. Possible alternative measures will be discussed with emphasis on neuroimaging. N400 potential is proposed as marker of convictions. Normally it is elicited in response to semantic violation, although it has been proven to appear after stimuli conflicted with subject moral values system. Amplitude of N400  is  postulated as religious beliefs indicator.
+
+References
+1. P. Hill, L. Maltby, "Measuring religiousness and spirituality: Issues, existing measures, and the implications for education and well-being.", International handbook of education for spirituality, care and wellbeing, p: 33-50,  New York: Springer, 2009.
+2.J. Van Berkum, B. Holleman, M. Nieuwland, M. Otten, J. Murre, "Right or wrong? The brain's fast response to morally objectionable statements.", Psychological Science 20: 1092 -1099, 2009.
+

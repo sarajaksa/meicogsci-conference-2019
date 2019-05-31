@@ -1,0 +1,19 @@
+... title: Understanding and assessing Bullshit Receptivity
+
+
+
+Abstract
+
+Frankfurt defines the essence of bullshit (BS) as having a “lack of connection to a concern with truth”, stating that it is not false but phony [1]. BS is described as a ubiquitous phenomenon in society, having a major negative impact on our interactions. Pennycook et al. [2] switched the focus from defining the characteristics of BS to those of the bullshitees and the interindividual differences that are associated with the ability to detect BS. This transition generated several problems, most relevant being that the developed instrument (BRS – Bullshit Receptivity Scale) has disconnected BS from the contextual elements that naturally accompany it. Moreover, due to focusing solely on pseudo-profound sounding BS, the types of BS to which receptivity is assessed are severely limited and detection is biased towards people with religious or spiritual interests.
+
+Our main goal is the development of a broader, more ecologically valid measure of bullshit receptivity. It requires participants to rate the reliability of 9 news articles. Each article exists in three forms: the standard form, which contains only reliable information; the added BS form, which adds a couple of biased paragraphs to the standard form; and the alternative BS form, which presents only biased, unreliable information. Each participant randomly receives 3 articles in each form. Scores will be determined by subtracting added BS and alternative BS ratings from the averaged standard form and, respectively alternative BS form ratings. This approach is based on the way fake news sources operate: having actual news articles with added paragraphs containing slightly related, biased information that link to their previous articles, which lack concern for the truth. The BS forms refer to popular topics, which require little to no expertise, such as the dangers of microwaving food, the use of overripe bananas in cancer therapy and the human body’s ability to detoxify without external aid.
+
+The psychometric characteristics of the new scale will be investigated as well as the convergent validity with the BRS and differential validity regarding variables such as verbal intelligence and ontological confusion.
+
+As a secondary objective, we plan to interview participants about how they made sense of the items in our scale and those of the BRS. Subjective interpretation of BS has not been investigated and therefore little is known about the cues that determine its classification [3]. Results are expected to highlight the importance of contextual factors.
+
+!!References
+[1] H. G. Frankfurt, On Bullshit. Cambridge: Cambridge University Press, 2005.
+[2] G. Pennycook et al., “On the reception and detection of pseudo-profound bullshit,” Judgment and Decision Making, vol. 10, no. 6, pp. 549-563, Nov. 2015.
+[3] C. Dalton, “Bullshit for you; transcendence for me. A commentary on "On the reception and detection of pseudo-profound bullshit"”, Judgment and Decision Making, vol. 11, no. 1, pp. 121-122, Jan. 2016.
+

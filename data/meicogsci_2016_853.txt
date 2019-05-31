@@ -1,0 +1,20 @@
+... title: Multi-agent Model of the Influence of a Population's Spatial Structure on the Emergence of Cooperation
+
+
+
+Abstract
+
+!!Introduction
+Cooperation is a fundamental factor in many systems, including human society. Cooperation plays an important role in different mechanisms, so it is not surprising that it is an active area of research in a variety of fields like Sociology, Economy, Biology, Philosophy and Computer Science. Game theory has become a powerful framework for investigation of this social behaviour. Commonly well known Prisoner's dilemma [1] is the game that attracted the most of attention. In this game, two players have to decide if they are going to cooperate or not. Players are rewarded with R = b - c in mutual cooperation, where b represents benefits to the recipient and c represents cost that incurs to the cooperator. Otherwise, in mutual defection, both players get P = 0. Unilateral cooperation results in profit T = b for defector and S = -c for cooperator. The ranking of the four payoff values is T > R > P > S. However, it is often difficult to assess the proper ranking of the payoffs for different behavioural patterns in real life situations. This has led to a considerable gap between theory and experimental evidence, and to an increasing discomfort with the Prisoner’s Dilemma as the only model to discuss cooperation [2].
+
+!!Model
+In order to investigate the cooperative behaviour in every possible situation we, prepared our model which consists of a square lattice 10 x 10 in the form of a torus where every site is occupied by a single individual. Each agent engages in a pairwise interaction with one of the agents within Moore neighbourhood. They play one of the five social games namely the Prisoner's Dilemma (T > R > P > S), the chicken game (T > R > S > P), the assurance game (R > T > P > S), the altruist's dilemma (T > P > R > S), and the privileged game (R > T > S > P) based on Heckathorn's definitions [3].
+
+!!Results
+We tested our model with different parameters in total 1800 simulations. Results suggest that initial density of cooperation in population has a big influence in Prisoner's Dilemma. Similarly, beyond certain threshold of costs parasites persist in the population. The ability to form clusters enables cooperators to persist, that is same as in assurance game. The ability to give rise to compact clusters lacks in the chicken game, on the other hand there exist filament-like clusters and cooperative individuals. The altruist's dilemma strongly favors defectors and, to the contrary, the privileged game favors cooperative behaviour.
+
+!!References
+[1]G. Bravo, "Imitation and cooperation in different helping games", Journal of Artificial Societies and Social Simulation, 11(1):8, 2008.
+[2]C. Hauert and M. Doebeli, "Spatial structure often inhibits the evolution of cooperation in the snowdrift game", Nature, 428(6983):643–646, 2004.
+[3]D. D. Heckathorn, "The dynamics and dilemmas of collective action", American sociological review, pages 250–277, 1996.
+

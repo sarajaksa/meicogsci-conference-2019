@@ -1,0 +1,19 @@
+... title: Golden Rule and Tit for Tat Simulation Scenario
+
+
+
+Abstract
+
+!!Introduction
+Computational ethics is a computer simulation mechanism that incorporates the ethics theory. The aim of computational ethics is to generate populations of artificial agents which are capable of adopting patterns of behavior. There are two types of norm implementations into an agent's environment. They are either the central control where emergence of norms is under the coordinator's control, or the open systems which are more autonomous [1]. There are three phases of norm creation and spreading: the norm formation, propagation and emergence. This three-stage model is called the life-cycle of the norm. There are numbers of ways how to implement it [2].
+
+The ethics is a moral framework defined by duties like obligation [3]. We can illustrate this with a situation where an agent has no other moral choice than the one represented by obligation, not to perform this specific action in contrary to morality. The other duty is responsibility. The agent does not have to act on the specific action, but he performs actions contributing to the desired results. In addition to duties, ethics is defined by the set of rights and liberties, and these determine the level of the agent's freedom. But it is important to distinguish the differences between norms, conventions and laws [2].
+
+!!Aim of the Project
+The aim of this work is gaining knowledge of computation ethics and prepare a scenario for multi-agent based simulation in NetLogo (modeling environment). Compiling of the scenario consists of definition of agent's types, their cost functions, properties and strategies. This simulation reflects the societal behavior controlled by norms of Golden Rule and Tit for Tat. Golden Rule, or Ethic of Reciprocity is a norm essentially claiming the following [3]: If the agent likes the action to be done to it, then the agent may perform the action towards another agent. The other norm - Tit for Tat - is similar. The agent's attitude is based on experience with another agent - simply he returns exactly what he gets. The scenario must reflect interaction of both norms and their changes in the society with “parasites”- those who violate the norms. The interaction between students and their tendency to sharing their homework is the suitable scenario. We are exploring the average agent's costs and percentage of sharing which are the important factors. This scenario and theoretical findings will be used by the author in his master's thesis.
+
+!!References
+[1] H. Verhagen, "Simulation of the Learning of Norms," in Social Science Computer Review, vol. 19, no. 3, pp. 296-306, 2001. 
+[2] B. T. R. Savarimuthu and S. Cranefield, "Norm creation, spreading and emergence: A survey of simulation models of norms in multi-agent systems," in Multiagent and Grid Systems – An International Journal, vol. 7, pp. 21–54, 2011.
+[3] A. I. Ruvinsky, "Computational Ethics," in Encyclopedia of Information Ethics and Security, pp. 76-82, 2007.
+

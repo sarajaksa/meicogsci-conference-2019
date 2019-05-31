@@ -1,0 +1,32 @@
+... title: Recognition of Emotional Valence Using EEG
+
+
+
+Abstract
+
+!!Introduction
+
+Studies made in the field of affective neuroscience of emotions are  changing the neoclassical view on Homo Economicus who is making decisions in accordance with rational maximization of expected values. Along with the advancement of  EEG technology, new opportunities on studies of emotions are emerging, mostly in the field of modern marketing.
+
+The assumptions on which our study was conducted are based on the cerebral asymmetry, specifically on the frontal EEG asymmetry [1], [2]. The approach-withdrawal model proposes the asymmetry of the left and right anterior hemispheres, where the activation of the left hemisphere is linked to the approached or positive affective perception of stimulus and the right side is linked to the withdrawn or negative perception of stimulus.
+Davidson [2] acknowledges the fact that the main weakness or deficiency of his approach-withdrawal interpretation is that it is not necessarily true that all positive affective states contain the approach component, thus he saw the main reason that he did not successfully detect the activation of the left anterior hemisphere. The main goal of  fundamental research is to find out if the approach-withdrawal model could be the method of the potential analysis of emotional valence using the audio-visual stimulus.
+
+!!Methods
+
+Our research involved 30 participants, 15 men and 15 women. Age varied from 15 to 65. The EEG was recorded with a 64-channel amplifier ANT Neuro EEGO RT and dry electrodes  mounted in a cap using 10/20 montage. The subjects were  exposed to various audio-visual stimuli. As the positive stimuli we used the clip which contained ski jumping. We expected the stimuli to have a strong approach component as the clip was showing a Slovenian jumper winning a competition. We believe if stimulus exhibits feelings like nationalistic proud, excitement, satisfaction etc. it can have a strong approached perception. At the beginning the subjects were exposed to the calibration section in which the various combinations of pictures were used. Pictures contained extremely positive and negative aspects, which had approach or withdrawal response. Along with EEG, Eye Tracking method was also used. EEG signal processing was made using BrainVision Analyzer 2.02 (Brain Products GmbH) and MATLAB 13b (Mathworks, Inc.). 
+
+!!Results
+The research results can only be displayed in the audio-video format (see Appendix A). Video in Appendix 1 without graphs  is also the main audio-visual stimulus. Lower graphic line in the appendix video contains the results from this study.
+
+!!Discussion
+
+From the video (see Appendix A) it is possible to discern that the parameters of emotional valence coincide with positive reactions to the stimuli, thus we can assume that the usage of approach-withdrawal model can be used as a help to analysis of approach or withdrawal of various stimuli. The potential of the presented method is in various fields. Currently it is the most visible in the field of marketing.
+
+!!References
+
+[1]J. Coan and J. Allen, "Frontal EEG asymmetry as a moderator and mediator of emotion", Biological Psychology, vol. 67, no. 1-2, pp. 7-50, 2004.
+
+[2]R. Davidson, P. Ekman, C. Saron, J. Senulis and W. Friesen, "Approach-withdrawal and cerebral asymmetry: Emotional expression and brain physiology: I.", Journal of Personality and Social Psychology, vol. 58, no. 2, pp. 330-341, 1990.
+
+Appendix A: https://www.youtube.com/watch?v=l_ftmIaSB0Y
+

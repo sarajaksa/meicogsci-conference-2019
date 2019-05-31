@@ -1,0 +1,29 @@
+... title: !!!! Choice-Predictive Neural Activity Associated with Movement and its Temporal Relation to the Subjective Awareness of Perceptual Decisions
+
+
+
+Abstract
+
+!!!! Choice-Predictive Neural Activity Associated with Movement and its Temporal Relation to the Subjective Awareness of Perceptual Decisions
+
+We employ a novel approach for measuring cortical preparation of movement, with respect to the timing of a decision to react in a perceptual decision-making task. We avoid methodological problems of other relevant studies (for example, see [1]) through: (i) using other Electroencephalography (EEG) signal analysis technique to compensate for the non-specificity of the commonly used Readiness-Potential (RP); (ii) employing behavioral measures that differ from the problematic introspective reports of decision-awareness; (iii) performing the experiments on a greater number of participants, thus allowing for more reliable conclusions. 
+
+We use Event-Related Desynchronization and Event-Related Synchronization of neural oscillations (ERD/ERS), which represents a change of cortical rhythms to external and internal events. In contrast to the RP, ERD/ERS of β-band oscillations (13-30 Hz) appears to reflect a broader physiological aspect of motor execution and control [2]. 
+
+A homogenous group of 20 healthy volunteers is recruited for a set of electrophysiological and behavioral experiments.
+Firstly, we replicate a pilot EEG study, which showed that signal dissociation in β-band ERD/ERS predicted left/right hand responses linked with binary decisions in a random dot motion (RDM) global direction discrimination task much earlier than did the RP [3]. In this task, participants observe pseudo-randomly moving dots for 2 seconds and are then asked to decide on their global direction, which can be either left or right, by using their left or right hand, accordingly. Our scope is to confirm, including control conditions, that the motor outcome of the task (response with left or right hand) can be predicted significantly earlier by β-band ERD/ERS. 
+
+Secondly, by behavioral means, we further address the second scope of the study: to investigate the temporal relationship between the onset of this distinct neural activity, predictive for a future motor act, and the timing of subjective awareness of the dots’ global direction that leads to decision to perform a left or right hand response. We ask participants to respond in the RDM task openly, i.e. as soon as they know the global dot direction. We will then infer the timing of their mental decision (awareness of global motion direction), which presumably preceded their overt response. If this time comes after neural prediction, we will also perform an additional experiment where we interrupt the task at a time between neural prediction and subjective awareness, and see if participants respond as to the global dot direction at chance levels.
+
+We expect to find that movement-related ERD/ERS signal dissociation: (i) predicts the specific motor outcome of a decision in the task approximately 500 ms after dots start moving; (ii) precedes subjective awareness of the dots’ global direction that leads to a decision for left or right hand response. 
+
+!! Acknowledgements
+
+We would like to thank Simon Brezovar for sharing the pilot study, Jure Bon and Anka Slana for their support, and Grega Repovš for his methodological suggestion.
+
+!! References
+
+[1] B. Libet, C. A. Gleason, and D. K. Pearl, “Time of conscious intention to act in relation to  onset of cerebral activity (readiness-potential). The unconscious initiation of a freely voluntary act,” Brain, vol. 106, no. 3, pp. 623–642, 1983.
+[2] I. Rektor, D. Sochůrková, and M. Bocková, “Intracerebral ERD/ERS in voluntary movement and in cognitive visuomotor task,” Prog. Brain Res., vol. 159, pp. 311–330, 2006.
+[3] S. Brezovar, J. Dreo, N. Bizovicar, G. Repovš, and B. Koritnik. “Tracking mental decisions in a motion discrimination task: A comparison of Readiness Potential and Event-Related Synchronization/Desynchronization methods,” Proceedings of the 2012 8th Conf. of Federation of European Neurosciences, FENS 2012, 14-18 July 2012, Barcelona, Spain. Available: http://fens.ekonnect.co/FENS_331/poster_32405/program.aspx. [Accessed: 24 April 2013].
+

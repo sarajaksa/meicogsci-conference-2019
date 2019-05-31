@@ -1,0 +1,17 @@
+... title: Gender Differences in Executive Functions in Children with Conduct Disorder
+
+
+
+Abstract
+
+Conduct disorder (CD) is one of the disorders which includes problems in emotional and/or behavioural regulation. It refers to a pattern of severe antisocial and aggressive behaviour manifested in childhood or adolescence, which violates either the rights of others or major societal norms [1]. Though CD is a common psychiatric diagnosis among children of both genders, gender differences in executive functions (EF) of CD have been little studied. 
+
+There is no global agreement regarding the nature and number of processes that are EF. Nonetheless, there is consensus that such processes facilitate self-regulation necessary to achieve goals successfully and their malfunction can increase the risk of CD. Therefore, the deficits in EF could explain certain characteristics of individuals with CD, such as disinhibition, poor moral development, aggression, impulsivity, reckless conduct and sensation seeking [2]. Since neuropsychological impairments are involved in the etiology of CD [3], we need to fully understand them in order to provide children with CD with better examination process and treatment designs. 
+
+I want to determine whether EF deficits are common between children with CD and whether they are gender specific. In the study, my goal will be to employ different tasks that are designed to measure different EF, such as verbal fluency (e.g. oral word association test), working memory (e.g. self-ordered pointing task), planning (e.g. Tower of Hanoi), inhibition (e.g. Stroop task), set-shifting (e.g. trail making test) and problem solving (e.g. mathematical tasks). The experiment will be conducted with 20-30 school children between the ages of 8-12 years with CD and the results will be compared at a general level and by sex with a sample of children without the disorder with similar characteristics. In accordance with the recent research [2, 3], I anticipate that task performance will differ between the sexes and the control group. I hypothesize that results will give us further insight into the executive and cognitive functioning of children with CD.
+
+!!References
+[1] American Psychiatric Association. Diagnostic and statistical manual of mental disorders, 5th ed. Arlington, VA: American Psychiatric Press. 2013.
+[2] G. R. Urazán-Torres et al. “Cognitive and executive functions in Colombian school children with conduct disorder: sex differences,” Rev Colomb Psiquiat., vol. 42, no. 4, pp. 324-332, Dec. 2013.
+[3] R. F. Eme. “Sex differences in child-onset, life-course-persistent conduct disorder. A review of biological influences,” Clin Psychol Rev., vol. 27, no. 5, pp. 607-627, Feb. 2007.
+

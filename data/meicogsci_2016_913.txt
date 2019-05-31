@@ -1,0 +1,22 @@
+... title: Learning the Instructions How to Reach with a Simulated Robotic Arm
+
+
+
+Abstract
+
+Reinforcement learning (RL) is a branch of machine learning concerned with agents learning to take actions that maximize the overall received reward [1]. CACLA (continuous actor-critic learning automaton) is a RL  algorithm used in continuous state spaces [2]. It is an actor-critic method in which both the actor and the critic are implemented as neural networks that serve as function approximators. The critic approximates the utility function for the whole state space and the actor learns the policy by choosing an optimal action  in each state. Our study is relevant also for human-robot interaction which is a vivid line of research proposing numerous ways how to enhance learning in robots under human guidance [3].
+
+We are using the CACLA algorithm in a context of simulated robotic arm with 6 degrees of freedom learning to reach a given point in space. The agent receives smaller reward (only to speed up the learning) when it makes an action that moves the tip of the arm closer to the given point and bigger reward when the tip of the arm gets near enough to the given point (as if touching a small sphere placed in that point). We extended the CACLA algorithm by adding a teaching signal into the actor’s input. The teaching input (in  a localist code) serves as a cue in which direction (up, down, left, right, forward, backward) the arm should move in order to reach the given point. The given point is static and after reaching it, the arm is set into a new random position. In this way the actor is progressively going to experience all the possible cues. 
+
+In this framework the agent at first has to learn to interpret the teaching signal and move according to the cues. We study how well the agent learns to interpret these cues and utilize them in the reaching task. We propose that once the agent learns to use the teaching signal, it will be  able to reach the original (used in the learning process at first) and also any new point faster. The agent should be constantly improving in interpreting the teaching signal, further speeding up the reaching. We suppose that this kind of an algorithm can also be used in more complex problems facilitating the learning speed in various tasks.
+
+!!Acknowledgments
+Special thanks to prof. Igor Farkaš and Peter Kovács for supporting this project.
+
+!!References
+[1] R. Sutton and A. Barto, Reinforcement learning. Cambridge, MA.: MIT Press, 1998.
+
+[2] H. Van Hasselt, "Reinforcement learning in continuous state and action spaces," in Reinforcement Learning: State-of-the-Art (Adaptation, Learning, and Optimization), M. Wiering and M. van Otterlo, Eds. Berlin: Springer, 2012, pp. 207-251.
+
+[3] K. Dautenhahn, "Socially intelligent robots: dimensions of human–robot interaction," Philosophical Transactions of the Royal Society of London B: Biological Sciences, vol. 362, pp. 679-704, Apr. 2007.
+

@@ -1,0 +1,16 @@
+... title: Human Brain Neuronal Activation While Playing Tetris
+
+
+
+Abstract
+
+This project is being realized as part of a larger clinical investigation that will assess neuronal plasticity induced by regular playing of the game Tetris. Tetris was chosen as the cognitive paradigm because it is a challenging task, which demands planning, mental rotation, problem solving as well as rapid visuo-spatial and motor coordination from the participant. Previously, it has been shown that Tetris evokes changes in neural activation [1] and can enhance the performance of related tasks involving mental rotation [2]. Still, the question remains how the brain adapts to cognitive training and how imaging of such neuroplastic adaptations can improve the clinical diagnosis of patients with e.g., traumatic brain injuries or mental disorders, which is currently based on the assessment of cognitive abilities. The aim of this project was to implement and test a version of TetrisⓇ, which can be used for neuroimaging applications.
+The game of TetrisⓇ consists of 2D bricks falling from the top of the screen. The aim is to rotate and move the bricks to form rows without gaps, which then disappear and yield points. The cognitive paradigm was implemented as functional MRI block design. Each task block consists of one of three versions of TetrisⓇ: easy, hard or control, which are picked randomly in groups of three. The easy version of the game initially has just two filled rows on the screen with a few empty blocks so the player can easily fill a row. The hard version initially has 1/3 of the screen filled and random empty blocks, and the speed of the falling bricks is 7 times faster than in the easy version. The control condition has two gray columns with a space between them and the subject simply has to navigate the bricks through that space, without the need to fill the rows.
+To test the paradigm 9 subjects (right-handed, 2 women) were examined on a PET/MR scanner. Data processing was carried out in SPM12 and included slice timing and motion correction, spatial normalization and modeling of the neuronal activation.
+For this pilot study, the expected results are differences in the neuronal activation between the different conditions. Hence, there should be more activation for the hard version then for the easy one and the control condition. The results of study will finally be combined with further imaging parameters such as structural MRI and PET as well as cognitive performance metrics to assess neuronal plasticity on a multimodal level.
+
+!!Reference:
+[1] R.B. Price et al. "Neural Correlates of Three Neurocognitive Intervention Strategies: A Preliminary Step Towards Personalized Treatment for Psychological Disorders." in Cognitive Therapy and Research 37, no. 4 (2012): 657-72.
+
+[2] A.C. Oei,, and M. D. Patterson. "Are videogame training gains specific or general?" in Frontiers in Systems Neuroscience 8 (2014).
+

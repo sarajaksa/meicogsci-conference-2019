@@ -1,0 +1,23 @@
+... title: Differences in EEG and Autonomic Nervous System Activity as a Potential Biomarker in Depressive Disorders
+
+
+
+Abstract
+
+!!Introduction
+Depression is a mood disorder, characterised by sad mood and loss of interest in daily activities [1]. It commonly affects many patients with neurodegenerative diseases such as Parkinson's disease (PD) or Alzheimer's dementia (AD). In those disorders, depression might be the first symptom before any other clinical abnormalities are detected which makes it difficult for clinicians to assess the underlying aetiology of the depressive disorder [2]. It is broadly recognised that a degree of cognitive decline and EEG abnormalities are present in neurocognitive disorders. However, in patients with depression recent research reports have shown also a dysfunction in autonomic nervous system (ANS) activity [3], which is most often measured through skin conductance (level of perspiration) and heart rate. Comparing EEG patterns and ANS activity might therefore be a useful biomarker to differentiate neurocognitive diseases in the early stages when depression is the only clinically evident symptom. 
+
+!!Aim
+The aim of our study is to determine, whether there is a significant difference in patterns of central nervous system activity and ANS activity between patients with depressive disorders of different aetiologies. Potential differences could subsequently be the basis for developing software able to detect them and could help with differential diagnosis and choosing course of treatment. 
+
+!!Materials and methods
+Approximately 40 patients of each group with clinically diagnosed classical depression with no underlying neurocognitive disease, depression in Parkinson's disease and depression in Alzheimer's disease will be recruited at Neurological Clinic Ljubljana outpatient service and examined upon agreement to participate. We will measure a quantitative resting EEG, skin conductance, heart and breathing rate. Control group will be selected based on gender and age composition of the patient group. Same measurements will be performed on control group and compared between each other. 
+
+!!Expected results
+We expect to find significant changes in ANS activity connected to depression and to find EEG abnormalities in patients with underlying neurodegenerative disease. We don't expect to find EEG changes in patients, where only depression without underlying neurodegenrative disease is present. These findings might contribute in differentiating  between the aforementioned neurocognitive disorders and diagnosing them with higher accuracy.
+
+!!References
+[1] Handbook of Psychophysiology, 3rd ed., Cambridge University Press, Cambridge, UK, 2007, pp. 157 - 181. 
+[2] J. L. Cummings, "Depression and Parkinson's disease: A review.",  Am J Psychiatry, vol. 149, no. 4, pp. 443-454, 1992.
+[3] X. L. Jiang et al., "A blunted sympathetic and accentuated parasympathetic response to postural change in subjects with depressive disorders.", J Affect Disord., vol. 175, pp. 269-74, 2015.
+

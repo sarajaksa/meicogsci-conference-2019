@@ -1,0 +1,35 @@
+... title: Step up Your Talk: The Effect of tACS on Verbal Fluency.
+
+
+
+Abstract
+
+## Prospect
+
+Transcranial alternating current stimulation (tACS) is a non-invasive brain stimulation technique that exposes outer cortical areas to alternating current. The theory is that the frequency, amplitude and phase of such current can interact with natural neural oscillations of functionally connected brain areas, effectively strengthening or interrupting their synchronization.
+
+Electroencephalography patterns during verbal fluency (VF) tasks show a simultaneous increase in theta power (4 - 7.5Hz) in the frontal lobe and the temporal lobe [1], implying a resultant functional connectivity.   With tACS showing promising results in past attempts to manipulate cognitive function [2], we seek to apply such findings to VF.  In this study, we focused specifically on the temporoparietal region and the left dorsolateral prefrontal cortex, hypothesizing that a synchronised theta stimulation on these two areas would enhance VF while desynchronization will disrupt the connectivity, thus having a detrimental effect. 
+
+
+## Method
+
+12 healthy adults participated in a double blind within-subject experiment with 3 stimulation conditions; synchronized, desynchronized and sham on weekly intervals. An Association Chain Task (ACT) was employed during 6Hz online stimulation. The task was divided in 4 stages, all time dependent.  Stage 1 required listing nouns within a category, stages 2 and 3 required a list of associated and disassociated nouns respectively while stage 4 alternated between association and disassociation within the list.
+
+For desynchronization, 5x5cm rubber electrodes were centred on F3 and CP5 while for synchronization, an additional 7x5cm reference electrode was centred over Cz and CPz. Currents of 1.5mA and 3mA were used respectively.
+
+##Preliminary Results
+
+Synchronized stimulation was found to significantly enhance category fluency and word association during the alternating association stage of the ACT task while desynchronization significantly impeded these two conditions. 
+
+Interestingly, desynchronization significantly increased the performance of the association stage. The possible mechanism for such results will be further discussed in the poster. 
+
+## Acknowledgements
+
+This pilot study was performed in association with the Slovak Academy of Sciences. Special thanks go to Dr. Martin Marko and Dr. Barbora Cimrová, without whom, this project would not have been possible, and to Dr. Igor Riečanský for supplying the equipment and the premises. 
+
+## References
+
+[1] Brickman, A. M., Paul, R. H., Cohen, R. A., Williams, L. M., MacGregor, K. L., Jefferson, A. L., ... & Gordon, E. (2005). Category and letter verbal fluency across the adult lifespan: relationship to EEG theta power. *Archives of Clinical Neuropsychology*, 20(5), 561-573.
+
+[2] Polanía, R., Nitsche, M. A., Korman, C., Batsikadze, G., & Paulus, W. (2012). The importance of timing in segregated theta phase-coupling for cognitive performance. *Current Biology*, 22(14), 1314-1318.
+

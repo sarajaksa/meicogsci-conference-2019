@@ -1,0 +1,19 @@
+... title: Intrinsic and extrinsic motivation in autonomous agents
+
+
+
+Abstract
+
+Organisms tend to perform various actions in response to similar stimuli. Taking a domestic cat as an example - if it has constant access to a food source, sometimes it will feed itself, while other times it will pass by the resource seemingly uninterested. Motivation has been defined as a reference for a set of needs that activate, direct and sustain goal-directed behavior (Nevid, 2013). There is a difference between motivation for actions like eating or sleeping compared to reading. When eating, we are motivated extrinsically, while our motivation for reading is intrinsic (Oudeyer & Kaplan, 2008).
+
+A model combining intrinsic and extrinsic motivation as needs in internal state space has been proposed (Pileckyte & Takáč, 2013). The main aspect of the model is based on representing the current state of needs as a point in a multidimensional need space. The satisfaction level is determined by the distance from homeostatic equilibirum - needs set to 0.
+
+We implemented the model using neural networks integrated in an actor critic architecture. The agent learns by performing actions and retrieving reward signals from the environment. If, after performing an action, the agent's internal need point is closer to equilibrium, the reward is positive. Learning to perform an action in a given state means the action has a higher priority for being chosen. When the agent is bored, the priority is being distributed across all available actions causing the agent to perform a potentially surprising action and lowering the boredom value. We built an application enabling researchers to create an unlimited number of model configurations. Using the application a researcher prepares a custom environment, configures an agent to place in this enviornment and logs data from the experiment for further analysis. The application runs on www.actorcritic.sk.
+
+Preliminary results show that the agent is able to learn to cycle between actions in order to satiate its needs in simple scenarios. In scenarios where the agent moves around in order to find food - without intrinsic motivation being integrated - it is only able to learn to sleep in all states despite being increasingly hungry. After integrating intrinsic motivation in the agent in such a scenario, it is able to remain close to homeostatic equilibrium and portrays complex behavior.
+
+References:
+Nevid, J. (2013). Psychology: Concepts and applications (4th ed.). Belmont.
+Oudeyer, P. Y., & Kaplan, F. (2008). How can we define intrinsic motivation. proceedings of the 8th international conference on epigenetic robotics: modelling cognitive development in robotic systems. lund university cognitive science.
+Pileckyte, I., & Takáč, M. (2013). Computational model of intrinsic and extrinsic motivation for decision making and action-selection. Technical report TR-2013-038. Faculty of Mathematics, Physics and Informatics Comenius University, Bratislava.
+

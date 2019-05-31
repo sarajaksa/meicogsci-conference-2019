@@ -1,0 +1,23 @@
+... title: Enhancing Sensorimotor Rhythm with the Use of Neurofeedback
+
+
+
+Abstract
+
+===============
+It has been shown that stroke patients with hemiparesis have significantly impaired sensorimotor rhythm (SMR) and its desynchronisation over contralateral hemisphere. This correlates well with ability to use the affected arm [1]. Thus it is reasonable that enhancement of this component might contribute to overall improvement.
+
+Neurofeedback is a technique commonly used for operand conditioning of various EEG components. The exact mechanism of brainwave modulation is not clearly understood but it has been proven to be effective in treatment of diseases like attention deficit hyperactivity disorder or epilepsy [2][3]. 
+
+Goal of this project is to verify whether neurofeedback training with our device setup is able to improve SMR on healthy subjects. We aim to find and test a suitable protocol in at least 10 subjects, which are being recruited mostly from our faculty. However, first step data collection is in progress and we work hard to obtain positive results in a near future. Later, after the effective protocol will be verified on healthy subjects, we aim to train SMR in stroke patients.
+
+!!References
+
+[1] M. Stępień, J. Conradi, G. Waterstraat, F. U. Hohlefeld, G. Curio, and V. V Nikulin, “Event-related desynchronization of sensorimotor EEG rhythms in hemiparetic patients with acute stroke”, Neurosciience Letters, vol. 488, pp. 17–21, Jan. 2011.
+
+[2] R. S. Monderer, D. M. Harrison, and S. R. Haut, “Neurofeedback and epilepsy”, Epilepsy and Behaviour, vol. 3, pp. 214–218, Jun. 2002.
+
+[3] M. Holtmann, E. Sonuga-Barke, S. Cortese, and D. Brandeis, “Neurofeedback for ADHD: a review of current evidence”, Child and adolescent psychiatric clinics of North America, vol. 23, pp. 789–806, Oct. 2014.
+
+===============
+

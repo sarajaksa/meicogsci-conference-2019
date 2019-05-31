@@ -1,0 +1,24 @@
+... title: GABA-A Receptors in Anxiety and Fear
+
+
+
+Abstract
+
+Elisabeth Engl (1), Ivan Milenkovic (2), Werner Sieghart (2)
+
+(1) Department of Philosophy (Cognitive Science), University of Vienna, Dr.-Karl-Lueger-Ring 1, 1010 Vienna
+(2) Department of Biochemistry and Molecular Biology, Center for Brain Research, Medical University Vienna, Spitalgasse 4, 1090 Vienna
+
+Anxiety and fear are reactions to a threatening situation that are crucial for harm avoidance and survival of an individual. Exaggerated and chronic anxiety, however, is a hallmark of anxiety disorders. Many studies have shown that corticolimbic structures such as the amygdala and the hippocampus play a central role in regulating anxiety and fear. These structures contain major networks of GABAergic interneurons as well as, in certain cases, GABAergic projection neurons. Most of the actions of GABA are mediated via GABA-A receptors. These receptors are chloride ion channels composed of five subunits that can belong to different subunit classes. The function of GABA-A receptors can be enhanced by benzodiazepines, the most widely prescribed anxiolytic drugs. It is thus possible that anxiety could be caused by an altered expression or subunit composition of GABA-A receptors.
+This research project aims to identify differences in the expression of GABA-A receptor subunits in genetic mouse models of high (HAB), normal (NAB), and low (LAB) anxiety behavior. This distinction has been made in accordance to their behavior in elevated plus maze tests. Such a maze consists of two open and two closed arms. Anxiety-prone mice spend the majority of their time (> 90%) in closed arms and display symptoms similar to human patients suffering from anxiety disorders, such as susceptibility to stress and depression-like behavior. To generate HAB mice, those effects are then enhanced by selective breeding. By investigating these mouse models, we expect to obtain relevant insight into the largely obscure pathophysiologic mechanisms underlying anxiety as well as the possible role of GABA-A receptors in anxiety disorders.
+Variations in the distribution of GABA-A receptors in the amygdala will be investigated using classical immunohistochemical reactions. Additionally, subunit co-localizations will be investigated using fluorescence microscopy. Possible changes would be of great clinical importance for the future treatment of patients, as potential drug targets for anxiety related disorders could be defined.
+In the last few months, we selected GABA-A receptor subtype-specific antibodies by testing their specificity through immunohistochemical techniques. Techniques available vary in many details, but the main mechanism of all methods consists of letting subunit-specific antibodies bind to receptor subunits in the tissue and then making the antibody binding sites visible. We mostly used the following protocol: First, the primary antibody to be tested (generated in rabbit) is added to a buffer solution containing free-floating sections of pre-fixed mouse brains (sliced on a vibratome with a section thickness of 50 um). If specific, the antibody binds selectively to the structures it should recognize, for example a certain GABA-A receptor subunit. Then, a secondary antibody (goat anti-rabbit) is added and binds to the primary antibody. The secondary antibody is labeled with a reactive agent (for example, horseradish peroxidase). The reaction is then developed using diaminobenzidine and a colored precipitate can be detected which, if the antibody is specific, is an indication that a structure such as a receptor subunit is present in a certain area or not.     
+So far, we have tested the specificity of the antibodies in the respective knock-out mice. In addition, we have shown the distribution of GABA-A receptors in wild-type mice. We use light microscopy and statistical methods for data analysis. 
+In the next weeks, we will extend this preliminary testing to our main research question and compare the distribution of GABA-A receptors in HAB, NAB, and LAB mice. Thus we hope to soon know more about possible differences in the distributions of the investigated receptor subunits.
+
+References:
+
+[1]	Pirker, S.; Schwarzer, C.; Wieselthaler, A. et. al. (2000) GABA-A receptors: immunocytochemical distribution of 13 subunits in the adult rat brain. Neuroscience 101, 815-850
+[2]	Salome, N.; Landgraf, R.; Viltart, O. (2006) Confinement to the open arm of the elevated-plus maze as anxiety paradigm: behavioral validation. Behavioral Neuroscience 120, 719-723 
+[3]	Sieghart, W.; Sperk, G. (2002) Subunit composition, distribution and function of GABA-A receptor subtypes. Current Topics in Medicinal Chemistry 2, 795-816
+

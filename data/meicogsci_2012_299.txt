@@ -1,0 +1,52 @@
+... title: Investigation of differences in large-scale network connectivity  between healthy and schizophrenia subjects related to cognitive control processes
+
+
+
+Abstract
+
+!Introduction
+
+Schizophrenia is a mental disorder manifesting itself through impairments in various cognitive realms such as (self-)perception, emotions and memory performance. Investigation in the nature of the disease is taking part on various levels - from molecular to psychological approaches. 
+Through the advent of modern brain imaging techniques another approach has emerged.
+The term of “disconnection syndrome” has been coined (Friston & Frith, 1995)  building on the notion and empirical findings that schizophrenia is associated with disrupted neural circuits.
+
+Embedded in this theory-framework is a recent study investigating the performance of schizophrenia patients on a  phonological delayed-matching-to-sample-task (J. Kim, Matthews, & Park, 2010)  which aimed at further elucidating the relationship between cognitive components of working memory and brain activation patterns.  
+The study shows that there are different neural activations in schizophrenia subjects
+and is suggesting that there is a “wider network of frontal and parietal regions” involved in the support of working memory maintenance. Working memory deficits are considered as a potential marker for schizophrenia. Combined with the aforementioned “disconnection theory” this opens up a broader perspective on the topic. In what way do the interconnections between brain areas responsible for working memory and others play a role in explaining the symptoms and underlying causes of schizophrenia.
+Connectivity analysis of functional brain imaging data  is a appropriate framework of methods for this kind of questions. (Rowe, 2010).
+
+
+!Material and Methods
+
+Preprocessing
+
+In order to process the data in a reasonable way the first step was to preprocess and transform the brain-voyager (http://www.brainvoyager.com) data in a adequate data structure. For this purpose  
+the matlabtoolbox “BVQXTools” was used . The toolbox allows to access the proprietary data structure of the “brain voyager” software suit through Matlab and further processing. As an appropriate data structure for the subsequent analysis an 2D Array/Matrix representation has been chosen. For this the given 4D data gets unfolded into a row/column organization where each row represents a certain voxel with the columns representing the time-series over the time-range of the experiment. Column n is here the n-th time point in the experiment. Furthermore to be later capable of referring back to the coordinates in the original dataset a mapping has been computed while building up the 2D representation.
+
+Analysis
+
+To enhance the flexibility and ensure the unbiasedness a model free approach was chosen.
+Independent Component Analysis (ICA) as an unsupervised method was chosen for this task.  ICA is a computational method for separating a signal into maximally independent components and can thus be used to detect functional networks in fMRI data (Calhoun, Eichele, & Pearlson, 2009). The FastICA Matlab package was used for this. FastICA is an ICA implementation using an fixed-point iteration scheme which has been found to be 10-100 times faster than conventional algorithms.
+
+In order to prepare the data for further analysis the data was variance filtered. By setting an empirical reasonable threshold (found out through investigation of the sorted histogram over all variances) rows which did not comply to this constraint where deleted out of the data-matrix. This “screening step” makes certain computations (e.g pairwise correlation of all voxels)  more computational tractable as it dramatically decreases the dimensions of the data-matrix.
+
+In order to to be able to decide how many computed components should be considered for further processing the singular value decomposition (SVD) was computed on the variance-filtered dataset. 
+After an examination of the result of of the SVD trough an visual heuristic (scree plot) this value was fed as an input-parameter to the ICA algorithm.
+
+From the computed mixing matrix of the ICA algorithm each voxel was assigned 
+to the component where the relevant coefficient is largest thus each component can be considered a temporally coherent network (Calhoun et al., 2009). 
+
+Building up on this, distance-maps has been computed to measure how far the voxels of one component are off from each other using the 3D Manhattan-distance. The intention behind this is to have a metric which can be deployed as a measure on whether a voxel pair can be seen as in separate physical locations which is important to find clusters.
+
+!Outlook
+
+From this basis there are several options on how to proceed on deeper analysis either through drawing from methods belonging to the “functional connectivity” approach or using methods from the “effective connectivity” approach which can shed more light on the underlying causal structures.
+
+
+
+[1]Calhoun, V. D., Eichele, T., & Pearlson, G. (2009). Functional brain networks in schizophrenia: a review. Frontiers in human neuroscience, 3.
+
+[2]Friston, K. J., & Frith, C. D. (1995). Schizophrenia: a disconnection syndrome. Clin Neurosci, 3(2), 89–97.
+
+[3]Kim, J., Matthews, N. L., & Park, S. (2010). An event-related FMRI study of phonological verbal working memory in schizophrenia. PloS one, 5(8), e12068.
+

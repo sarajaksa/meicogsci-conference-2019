@@ -1,0 +1,28 @@
+... title: Readability Model Based on ccGigafida and Šolar Corpora
+
+
+
+Abstract
+
+## Introduction
+
+Readability can be defined broadly as an effective communication of ideas. More precisely, the readability studies can be defined as the analysis and determination of those properties of written texts that help or inhibit the effective transmission of information [1]. Readability models can be used by writers or they can help in assessment of the textbook difficulty in an educational process. The traditional approach to determining the readability of text are readability formulas, e.g., Dale-Chall Formula, Flesch Reading Formula, The Fry Graph, etc. They provide a numerical value that reflects the degree of difficulty of the text.
+
+## Method
+
+In our research, we were interested in whether ccGigafida and Šolar corpora can be used to determine the degree of text readability using machine learning methods. The texts from both corpora were tokenized, lemmatized and turned into a bag-of-words form. From metadata we determined four readability categories in the following progressive order: 461 elementary school texts from Šolar (from 6th to 9th grade), 1489 secondary school texts from Šolar, 1485 general newspapers from ccGigafida (mostly from Delo, Dnevnik and Dolenjski list) and 1210 technical texts from ccGigafida (DZS, Krtina, Studia humanitatis, Študentska založba and many others). Within each class, each word was weighted with tf-idf weights. This value determines the "importance" of the word for the document within the corpus [2]. The following machine learning algorithms were then applied: Logistic Regression, k-Nearest Neighbors, Support Vector Machine and Naive Bayes. The task of the learning algorithms was to predict the readability category based on their tf-idf transformed bag-of-words vectors. Results were evaluated by their classification accuracy on the test data (33% of all data).
+
+## Results
+
+Although all models perform relatively well (above 90% accuracy), it is dubious how well they generalize to completely unrelated texts. For example, very important words in corpus Šolar are exclusively proper names. This indicates that models might not generalize well for data obtained from other sources. Important words from the newspapers indicate general political, sport and economic topics, while in the technical literature there are many page references, which is demonstrated by the abbreviation "str." (Slovenian abbreviation for English word "page"). 
+
+## Conclusion
+
+Based on this, we can conclude that in our classification approach we can use the ccGigafida corpus for constructing readability models, while the Šolar corpus is probably too specific and therefore not appropriate.
+
+## References
+
+[1]	A. Bailin and A. Grafstein, Readability: text and context. Basingstoke; New York: Palgrave Macmillan, 2016.
+
+[2]	S. M. Weiss, N. Indurkhya, and T. Zhang, Fundamentals of predictive text mining. London; Heidelberg: Springer, 2010.
+

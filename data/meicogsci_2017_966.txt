@@ -1,0 +1,18 @@
+... title: Neural Correlates of Visuospatial Working Memory: An fMRI Study
+
+
+
+Abstract
+
+Using functional magnetic resonance imaging (fMRI), we attempted to locate neural correlates of visuospatial working memory. Working memory is a cognitive process that enables people to maintain a certain amount of information. We are interested in finding out where visual and spatial information is stored and if a different system is involved when maintaining a combination of the two.
+
+We relied on a number of assumptions. The first is based on an article by Vogel and Machizawa [1]. They used electroencephalography (EEG) to test the capacity of visuospatial working memory, which is said to be between 3 and 4 objects. They found that what correlates with this capacity in the brain is the so called CDA – contralateral delay activity, which is crucial to further research on the topic of working memory. Another assumption is based on the idea of functional localization. Sala and Courtney [2] used fMRI to detect different areas of the prefrontal cortex, responsible for processing different aspects of visual working memory. Our prefrontal cortex tends to be domain-general when we are required to memorize a unified stimulus, for example an object in a location, and domain-specific if the task demands either the identity of an object or its location. 
+
+This study was the last in a series of three, testing where and how working memory is stored. 34 participants (mean age = 20.3, 82.4% female) were asked to perform a task while in the fMRI machine, where they had to maintain a series of visuospatial stimuli in their working memory. The stimulus was a colored square on a 5 by 5 grid. They either had to remember their location (anywhere on the grid), their identity (one of 25 different shades of color), or a combination thereof. These tasks came in two levels of difficulty; either the subjects had to memorize two unique stimuli, each repeated twice, or four, where each stimulus only occurred once. 
+
+We expect to find similar results to the previous studies. Specifically, this means finding that working memory capacity for visual information is found in a cognitive system independent from where spatial information is found, but when maintaining integrated information, both systems are active, though to a lesser extent. The brain areas that we expect to represent working memory are the frontal and parietal regions.
+
+!!References
+[1] E. K. Vogel and M. G. Machizawa, “Neural activity predicts individual differences in visual working memory capacity,” Nature, vol. 428, no. 6984, pp. 748-51, Apr. 2004.
+[2] J. B. Sala and S. M. Courtney, “Binding of what and where during working memory maintenance,” Cortex, vol. 43, no. 1, pp. 5-21, Jan. 2007.
+

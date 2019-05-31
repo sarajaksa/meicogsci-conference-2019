@@ -1,0 +1,26 @@
+... title: Emotions and Decision Making – A Case for a New Framework
+
+
+
+Abstract
+
+!!!!Emotions and Decision Making – A Case for a New Framework
+
+The ultimate goal of our research is to improve the consideration of the relation between cognition and emotion in (computational) models of decision-making. While the debate about this relationship dates back to the ancient Greek philosophers, much of modern decision-making research has been carried out within behavioral economy. Today, the psychology of judgment and decision-making is predominantly concerned with heuristics, biases, and their relation to dual-processing theories of reasoning [1].
+
+These often competing views only encompass a rather narrow piece of a much larger phenomenon, as they are for instance predominantly concerned with decisions under risk and/or uncertainty. Moreover, decisions have traditionally been viewed as single events, isolated from the general intentions of a person. The practical and conceptual consequences of decisions form another virtually unexplored area in empirical psychological research. Our broader view on decision making does build on the seminal research by Gigerenzer and Kahneman (see e.g. [1]), but also considers emotions as a constituent element of reasoning, as they are hypothesized to play a key role in managing cognitive resources [2].
+
+We propose a principled framework that relates and integrates previous research along two dimensions. The first dimension considers a decision’s situatedness: While decision situations as described by Kahneman are disconnected from temporo-spatial, and usually factual, reality (i.e. are not situated), Gigerenzer’s situated decisions pertain to the here and now. A second dimension addresses pro-active vs. reactive decisions, considering the temporal relation of decisions to their (anticipated) consequences, relating for example deliberation and means-ends reasoning.
+
+We discuss how within this framework tasks such as those used in classical behavioral research can be (re)classified, what advantages this approach offers (e.g. the ability to model decisions depending on previous ones and/or general intentions, or enabling experimental designs to potentially have higher explanatory power), and explain how it aids the study of the relationship between cognition and emotion. Moreover, we explore how mechanisms underlying existing models (such as dual-processing theories [1]) can be adapted into this new framework, and where and how existing models and research paradigms fit in. Finally, we provide an outlook on pending work relating this framework to the developments in the formal BDI (Belief-Desire-Intention) modeling [3] of practical reasoning.
+
+!!References
+
+[1] J. S. B. T. Evans and K. E. Stanovich, “Dual-Process Theories of Higher Cognition: Advancing the Debate,” Perspectives on Psychological Science, vol. 8, no. 3, pp.223–241, May 2013
+[2] L. Pessoa, “Emergent processes in cognitive-emotional interactions,” Dialogues in Clinical NeuroSciences, vol. 12, no. 14, pp. 433–448, December 2010
+[3] R. H. Bordini, J. F. Hübner, and M. Wooldridge, “The BDI Agent Model,” in Programming Multi-Agent Systems in AgentSpeak using Jason, West Sussex, England: John Wiley & Sons Ltd, 2007, ch. 2, pp. 15–29.
+
+!!Acknowledgements
+
+Thanks to Paolo Petta at OFAI for supervising this project.
+

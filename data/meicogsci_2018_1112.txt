@@ -1,0 +1,17 @@
+... title: A hypothetical mechanism for subneuronal change in brain networks of mindfulness meditators
+
+
+
+Abstract
+
+Living organisms emit photonic radiation which is dependent on the metabolic rate. The coherent phase of photons might also account for an electromagnetic field guiding synchronous activity[1]. Since long-term meditators exhibit increased neural synchrony and a reduction in overgeneralized memory[2], they will serve as an exemplary model for substantiating a photon-mediated mechanism of neuronal change.
+Meditators enter metabolically superfluous brain states, which should increase photon density and the prospect for interactions with fluorescent molecules (e.g. tubulin, DNA, glutamate). Abundant simultaneous encounters could restructure architectures so that reactions require minimum energy consumption. The fact that glutamate perfusions increase photon transmission along axonal fibers[3], speaks in favor of this claim.
+When photons are coupled with electrons in tubulin units, they change its electric dipole and the disposition toward coordinated, temporo-spatially delayed photon emissions. The claim that microtubules(M) encode information has been earlier proposed by Penrose and Hameroff. By causing electrical fluctuations, the emission of photons from microtubules or neurotransmitters could affect the activity of gap junctions(J), which have been shown to enable synchronous activity by changing local solute gradients. Conflating the two ideas, one could argue that the increased efficiency of photon transmission between neurons is a result of a decreased distance between M and J, found in minimum-synapse pathways connecting synchronous circuits.
+The myelin sheath would limit stochastic photon kinetics, so that neurons in the immediate proximity become less prompted for spontaneous action potentials, manifested as a reduction in overgeneralized memory. Meditators should exhibit increased myelination of neurons in marginal layers of DMN and temporal regions.
+DNA translation is susceptible to light exposure. The transcription factor that regulates myelinogenesis should have more potentially active copies in the related oligodendrocytes - this potential being proportional to the spatial exposure of these sequences. A similar mechanism may induce gene expression connected to neuronal growth within networks intended for cognitive control. 
+In order to elucidate the possibility of this neuroplastic mechanism, we should aim to apply pertinent methods for measuring the relevant features of discussed subneuronal elements.
+
+[1] R. Hammerschlag et al., "Biofield Physiology: A Framework for an Emerging Discipline," Global Advances in Health in Medicine, vol. 4, no. suppl., p. 35-41, Nov 2015. 
+[2] Y.Y. Tang, B.K. Holzel, and M.I. Posner, "The neuroscience of mindfulness meditation," Nature Reviews Neuroscience, vol. 16, p. 213-225, March 2015.
+[3] R. Tang, and J. Dai, "Spatiotemporal imaging of glutamate-induced biophotonic activities and transmissions in neuronal circuits," PLoS One, vol. 9, no. 1, p. e85643, Jan 2014.
+

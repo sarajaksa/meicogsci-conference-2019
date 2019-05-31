@@ -1,0 +1,22 @@
+... title: False memory
+
+
+
+Abstract
+
+False memory
+
+Abstract
+
+Memory is made up of interrelated systems, organized structures of operating components consisting of neural substrates and their behavioral and cognitive correlates. Memory is the ability of living organisms to retain and to utilize acquired information or knowledge. 
+It is common experience that human memory may be unreliable to some degree, whether by failing to remember at all or by remembering incorrectly – we remember events that never happened. Reason of memory incorrectness could by caused by any type of amnesia when some areas of our neural networks in the brain are impacted by damage and memory show gaps in the recollections or disability to acquire new knowledge. False memory syndrome is the next type of memory incorrectness when our memories are implanted by other person for example repressed memories brought out in therapy by psychotherapist.
+For the theories of cognition is important how well we remember things. It is crucial because almost every aspect of cognition depends on memory to some degree. Important role is distinguishing between reproductive memory – accurate output of information from memory and reconstructive memory – emphasizes the active process of filling in missing components with frequently occurring errors. It generally has been assumed that the act of remembering information rich in meaning (stories and real-life events) gives rise to reconstructive processes and therefore errors, whereas the act of remembering more simplified information (word lists) gives rise to reproductive (accurate) memory. For example, a vivid and detailed memory may be based upon inaccurate reconstruction of facts, or largely self-created impressions that appear to have actually occurred. Likewise, continuity of memory is no guarantee of truth, and disruption of memory is no guarantee of falsity.
+Recognition experiment to investigate false memory used in this work demonstrates one methodology that biases people to recall things that did not occur. This method was used by H. L. Roediger and K. B. McDermott. A sequence of 15 words is presented with frequency 1,5 sec. per word in 6 cycles and the observer is to subsequently classify a set of words as either in the sequence (old) or not in the sequence (new). The main point of this experiment is that the sequences are specially designed to bias observers to report a particular word that was not included in the list (example of words from the list words “thread, pin, eye, sewing, sharp, point, pricked, thimble, haystack, pain, hurt and injection” are associates and closely connected with nonpresented word “needle”). When people report that nonpresented word was in the sequence, but it really was not, they are having a false memory. Participants in this experiment are divided into the two groups. The first group (noninformed group) is going through this experiment without any explanation about the meaning of the experiment. The second group (informed group) is going through the experiment with explanation what the false memory is and how this experiment is built up and what is the main aim. 
+
+
+References:
+
+[1]	Henry L. Roeddiger III and Kathleen B. McDermott, (1995) Journal of Experimental Psychology: Learning, Memory and Cognition, Vol. 21, No. 4, Creating false memories: Remembering words not presented in lists.
+[2]	David A. Gallo, (2006), Psychology Press, Associative Illusions of Memory: False Memory Research in DRM and Related Tasks.
+[3]	Daniel L. Schacter, (2002), Houghton Mifflin, The Seven Sins of Memory: How the Mind Forgets and Remember.
+

@@ -1,0 +1,15 @@
+... title: Examining the Relationship Between Hearing and the Sense of Touch
+
+
+
+Abstract
+
+In this theoretical work I challenge the view that hearing and touch should be considered as separate senses. My goal is to propose two ways in which this separation, proceeding from the traditional Aristotelian notion of five senses, can be challenged. The first involves leaving out one of the five senses, namely hearing, and bundling it up together with the sense of touch. I challenge the widely accepted notion of touch as a contact sense. Touch may perceive a wide range of sources and involves different kinds of receptors on and in different parts of the body. The sense of touch is therefore a very distinctive perceptual system, involved in a wide range of perceptual abilities. Cochlear hearing can be simply understood as one of them. The second way calls for the additional sense of vibration detection (cf. [1], [2]) that involves hearing and certain, but not all, types of tactual achievements. My attempt is to identify the sense of vibration as a somehow graspable sensory modality that cannot be fully explained by the sense of touch or sense of hearing alone, but rather as a means of sensory integration that encompasses both. If touch and hearing work together so closely that they cannot be distinguished, they may be understood as a singular form of perception. Perhaps some of these achievements of perception through vibration are unified, for example, the low-frequencies are perceived using the skin and the ear combined. I concur with Katz’s [3] proposal that the vibration sense represents a bridge between the pressure sense and hearing. I conclude that the two explanations of the relationship between hearing and touch that I propose in this work are not exclusive. Claims that one sense is an integral aspect of the other, or that both are composites of an additional unitary sensory modality, will obviously not be resolved. Hearing and touch represent two fairly distinct senses, but at the same time it is very hard to determine where one ends and the other begins. Such claims suggest that in studying perception, the individuation of the senses may not be the best starting point, and that other approaches, such as the integration of the senses, might be preferable. 
+
+!!Acknowledgements 
+I would like to thank Professor Matthew Ratcliffe for his expert advice and support, as well as Sara Heitlinger and Žiga Boršič for proofreading.
+
+[1] D.B. Calne and C.A. Pallis, Vibratory sense: A critical review. Brain 89 (4). 1966, 723-746. 
+[2] F.A. Geldard, The Perception of Mechanical Vibration: IV. Is There a Separate “Vibratory Sense”? The Journal of General Psychology 22(2). 1940, 291-308.	
+[3] D. Katz, The World of Touch, trans. L. E. Krueger. London: Lawrence Erlbaum Associates, 1925 (1989).
+

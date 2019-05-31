@@ -1,0 +1,20 @@
+... title: Balancing of virtual figure while moving arms
+
+
+
+Abstract
+
+!! Balancing of virtual figure while moving arms
+
+In my project I focused on learning to sustain balance to virtual humanoid robot iCub. It was unbalanced by raising arms upward or stretching arms sideways. Robot cannot do steps for balancing. 
+For learning experience I used reinforcement learning approach with punishment and also with reward. It is obvious that punishment is received after not sustaining balance and falling on floor. Reward is rising with longer time of successful balancing. The point when balancing is considered as unsuccessful is when misalignment overruns constant variance. This variance is critical boundary of angle in balancing organ towards angle of floor.
+I designed monitoring of balance as it is in human. Human balancing organ is in head and balance in managed by motor cognition and body. In case of robot I consider global position of head as his balancing organ.
+The longer robot keeps variance inside critical boundary, the higher reward it gets. According to reward value he can reveal moment when his decisions were fine and then manage angles of joins in sequence. Change of previous decisions will spread from latest (as major change) to earliest (as lowest change). Some of the decision may become stable. After successful balancing all decision become stable.
+During learning algorithm, arms and one of the balancing joins are changing. In every time unit, angles of arms are changed constantly and angles of other pair joins are changed randomly according to weights.
+Which joins are used during balance? One of my hypotheses is: the lower number of active balancing joins is, the shorter time is needed to learn sustain balance. I tested ability to learn sustaining balance with various conditions (various numbers of active joins) and analyzed its fruitfulness, velocity in reaching optimal result and similarity of solution with human balancing. In case of human balancing are most important ankles, knees and hips.
+
+!! References 
+[1] Russell, Norvig, Reinforcement Learning, Artificial Intelligence: A Modern Approach, Pearson Education Inc., 2003, pp. 649-785
+[2] Winter, Human balance and posture control during standing and walking, Gait & Posture, 1995, December, Vol. 3, pp. 193-214
+[3] Karlsson, Lanshammar, Analysis of postual sway strategies using an inverted pendulum model and force plate data, Gait & Posture, 1995, Vol. 5, pp. 198-203
+

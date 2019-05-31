@@ -1,0 +1,16 @@
+... title: The Role of Eye-movements in Perceptual Switching in Ambiguous 2D and 3D Figures
+
+
+
+Abstract
+
+Multistability refers to the brain’s ability to switch between several alternative interpretations (percepts) of perceived ambiguous objects (e.g., seeing a duck or a rabbit in the rabbit-duck illusion). Previous eye-tracking studies investigating this phenomenon are inconsistent. While studies on the perception of ambiguous 3D objects (mainly using the Necker cube illusion) seem to confirm a correlation between eye movements and perceptual switching [1], research on 2D objects, such as the rabbit-duck illusion, are not as conclusive.  Researchers have, for instance, both argued that eye movements are not critical for perceptual switching [2], and that they constitute an indispensable visual mechanism preceding a perceptual switch [3].
+In this study, we use eye-tracking to address the gaps in the inconsistent literature. We explore the need of eye-movements preceding a change of interpretation of a multistable figure, with respect to dimension (2D or 3D). The presented stimuli are seven (three 3D and four 2D) well-known ambiguous figures. Two conditions are introduced: free viewing, in which subjects can freely change their eye fixations, and fixed gaze, in which participants are asked to maintain their gaze on a fixation point located at the centre of the figure. We investigate following hypotheses: (a) figure dimensionality (2D or 3D) impacts whether one changes her eye position to switch between percepts, and: (b) there is a correlation between particular fixation locations and perceived interpretations of a multistable object.
+We expect our results to provide additional evidence for the role of eye-movements in reversing interpretations of ambiguous 3D figures. However, we predict this effect to diminish in 2D figures. These results would contribute significantly to the existing literature by addressing the inconsistencies in an controlled and extended way, which will be ensured by combining two types of stimuli (2D and 3D) and two conditions (free viewing and fixed gaze).
+
+References:
+
+[1] S .R. Ellis, L. Stark, “Eye movements during the viewing of Necker cubes,” Perception, vol. 7, no. 5, pp. 575-581, Oct. 1978.
+[2] M. Wimmer, M. Doherty, “Investigating Children’s Eye-Movements: Cause or Effect of Reversing Ambiguous Figures?,” 29th Annual Meeting of the Cognitive Science Society, Nashville, TN, 2007, pp. 1659-1664.
+[3] M. Pomplun, H. Ritter, B. Velichkovsky, “Disambiguating complex visual information: Towards communication of personal views of a scene,” Perception, vol. 8, no. 25, pp. 931-948, Feb. 1996.
+

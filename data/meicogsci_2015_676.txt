@@ -1,0 +1,18 @@
+... title: A Taxonomy of Language Games: Methodological Differences and the Influence of Feedback
+
+
+
+Abstract
+
+The field of language evolution is marked by interdisciplinarity and immense methodological variety. Within the last decade, a new paradigm has been used extensively to investigate potential mechanisms which underlie the origin of language: language games. Language games are laboratory experiments in which human or robotic participants are confronted with a task whose solution requires cooperation and communication, as explained by Scott-Philips and Kirby [1]. As the use of conventional forms of language is prevented, subjects are required to generate novel systems of communication.  
+
+Numerous language game designs have been developed and applied so far (for instance by Galantucci [2],  and by Smith, Fehér and Ritt [3]), but due to the high number of factors which potentially contribute to the outcome of the language game and the general methodological diversity of the research designs, a comparison and integration of the results is often challenging. It is the aim of the present review to identify the principal paradigmatic and methodological differences of a broad selection of language games, and to create a taxonomy. Of particular interest are contrasts in feedback processes and other social dynamics observed in the different language games. The resulting classification serves as a basis for unveiling now hidden or neglected factors, for relating and interpreting the obtained results and for creating new and improved language game designs in the future.  
+
+The results obtained so far show that language game designs exhibit a number of crucial methodological differences. These are found in particular with respect to the assumed motivation of subjects to create a communication system, and with regard to whether the experimental set-up allows for feedback to be exchanged between participants. The fact that certain designs enable or encourage feedback, sometimes by resorting to pre-established signs, while feedback is impossible in other set-ups might have an effect on the results of the experiments. It can be concluded that the development and use of language game designs requires keen awareness of the influence of the specific method, and that motivation and feedback processes in the creation of communication systems represent an important area for future research, which might be conducted using further language game experiments.  
+
+!! References 
+
+[1] T. Scott-Phillips and S. Kirby. “Language evolution in the laboratory”. Trends in Cognitive Science, 14, pp. 711-714, Dec. 2010. 
+[2] B. Galantucci. “An experimental study of the emergence of human communication systems”. Cognitive Science, 29, pp. 737-767. Sept.-Oct. 2005. 
+[3] K. Smith, O. Fehér and N. Ritt. “Eliminating unpredictable linguistic variation through interaction”. In Proceedings of the 36th Annual Conference of the Cognitive Science Society, 2014, pp. 1461-1466.
+

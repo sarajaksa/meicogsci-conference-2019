@@ -1,0 +1,27 @@
+... title: The Effect of Social Status and Testosterone on Individuals Time Preferences
+
+
+
+Abstract
+
+!!Introduction
+
+It has been consistently proven that most of our decisions are malleable through informational and normative influence that individuals exert over us. Social status is known to play an important role in this. Those with high social status may influence those in a low status position, but not vice versa [1]. The role of hormones in this has so far been neglected. Herein the hormone testosterone seems particularly relevant, given its role in a host of social behaviors, via its proposed role in promoting an individual's motivation to seek and maintain a high social status (for a review, see [2]). 
+
+Therefore, we would like to test whether a manipulation of social status (high, low), and  of testosterone levels (via administration of testosterone or a placebo), will influence an individual's decision making in a delay discounting task; thus effectively modulating time preferences. 
+
+Delay discounting tasks are widely used in cognitive science to determine how strongly a person devaluates future rewards by having participants decide as to whether they prefer a smaller immediate or a larger delayed reward. Research so far has shown that a hyperbolic discounting model is best fitting to actual decisions people make. Because we would like to modulate individuals' time preferences, and expected effects are assumed to be fairly small based on previous research, we will need to develop very precise measurement tools. For that purpose, we will adapt an existing procedure [3] that involves a Bayesian updating approach, which is expected to yield the required precision. 
+
+We predict that participants receiving testosterone will be less strongly influenced in their choices compared to participants receiving placebo. We also predict that the hormone effect is most pronounced in individuals with a high status, and that the hormone effect is reversed in individuals with low status.
+
+!!Results
+
+This master thesis topic is at an very early stage and therefore no data has yet been gathered. Possible caveats of the design will be discussed in the talk.
+
+!!Literature
+[1] R. M. Leary, P. K. Jongman-Sereno & J. K. Diebels, "The Pursuit of Status: A Self-presentational Perspective on the Quest for Social Value" in The Psychology of Social Status, 2014, ch. 8, pp. 169–178.
+
+[2] C. Eisenegger, J. Haushofer & E. Fehr, "The role of testosterone in social interaction", Trends in Cognitive Sciences, 2011, 15(6), pp. 263–271. 
+
+[3] M. M. Garvert, M. Outoussis, Z. Kurth-Nelson, T. E. J. Behrens & R. J. Dolan, "Learning-Induced plasticity in medial prefrontal cortex predicts preference malleability", 2015, Neuron, 85(2), pp. 418–428.
+

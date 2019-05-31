@@ -1,0 +1,23 @@
+... title: Offline Optical Character Recognition for Japanese Alphabets
+
+
+
+Abstract
+
+Offline Optical Character Recognition for Japanese Alphabets
+
+!!Motivation
+For foreign visitors to Japan, it is extremely difficult to find their way through country in less visited areas, as most signs, menus or warnings are written in either Hiragana, Katakana or as a combination of one of the previous alphabets and Kanji. For people with no education in Japanese, it is near impossible to find one's whereabouts, or which way to go to arrive to the intended destination. As there are almost no applications on mobile phones that could translate such signs offline, this application is supposed to fill the gap and translate any sign from Hiragana or Katakana to its phonetic translation (romaji) in Latin alphabet, so any visitor with no knowledge could at least read the signs and type them into a translator. 
+!!Solution
+The programming language, which could be considered most appropriate for this task, was decided to by python, as it can be ported to mobile phones and is free with all the necessary libraries. Kanji has to be omitted, because of extreme amount of “characters” as well as internal complexity of each sign. Generally spraking, as [1] provides acceptable guidelines for a much more complex problem, I decided to use their approach where applicable. 
+The data-set will be created from larger amount of existing computer rendered rasterized Japanese fonts, as there seems to be no usable data-set at the time of writing.
+!!Expected Results
+In this phase, the main goal will be building a sufficiently “strong” machine learning algorithm or neural network that could solve these kinds of tasks and then compare the results and success rates. First steps will lead through the kNN algorithm, as this one has acceptable success rates with the MNIST data-set, continuing with a simple perceptron and depending on the success rates, more complex neural network structures will be used. 
+!!Future Efforts
+After the initial phase, the application could be extended by a text selection from screen and text preprocessing, so the algorithm could identify the characters more precisely.
+In the future, the application should be expanded with character recognition of Kanji as well. This feature will require a different approach [1] as this character set contains 13000-50000 unique characters.
+!!Acknowledgments 
+Special thanks belongs to Kristína Rebrová, Jan Tóth and Matúš Tuna, as without their help, this application would hardly "emerge".
+!!References
+[1] Srihari, Sargur N., Xuanshen Yang, and Gregory R. Ball. "Offline Chinese handwriting recognition: an assessment of current technology." Frontiers of Computer Science in China 1.2 (2007): 137-155.
+

@@ -1,0 +1,16 @@
+... title: Towards a consolidated approach: Overcoming cognitive biases in medical decision-making. Integrating cognitive training for enhancing executive functions into bias-specific de-biasing techniques
+
+
+
+Abstract
+
+!!!! Towards a consolidated approach: Overcoming cognitive biases in medical decision-making. Integrating cognitive training for enhancing executive functions into bias-specific de-biasing techniques 
+
+This work is located at the intersection of the fields of executive functions, medical decision-making, and cognitive biases. It aims at integrating insights from cognitive training for improving executive control into existing techniques for overcoming cognitive biases. The focus will be on diagnosis as cognitive errors are especially costly here [1]. The thesis will consist of three main parts and is purely theoretical. The first step is selecting the prevalent cognitive biases in making diagnoses and outlining the involved cognitive abilities according to pre-set criteria by the author. Second, executive functions relevant to these cognitive biases will be introduced and connected to an existing cognitive training approach for improving executive control. Finally, already proven successful de-biasing techniques will be linked with this cognitive training. The neuroscientific processes of executive functions and cognitive biases will also be outlined in order to support the main claim of this work.
+
+Executive functions such as attention, decision-making, and problem solving are presumably involved in cognitive biases that deter human decision-making from a rational outcome [2]. Further, it is hypothesized that executive functions are related to the ability to diminish the detrimental effects of cognitive biases; i.e., the better executive functions are trained and controllable, the more successful are bias-specific de-biasing techniques. The main line of reasoning is that the underlying cognitive processes between executive functions and the processes involved in overcoming cognitive biases are similar and should thus be trained together in order to achieve better outcomes for decreasing the detrimental effects of cognitive biases. This proposed approach for tackling the problem of cognitive biases that can have an especially negative influence on the process of diagnosis has not been proposed before; traditionally, cognitive biases are attempted to be diminished by developing bias-specific techniques that should be implemented in the ongoing decision-making process step-by-step. Thus, the underlying cognitive abilities that are involved in this task – administered by the executive functions – are left out. However, in order to achieve best outcomes for decreasing cognitive biases, I hypothesize that bias-specific techniques have to be combined with concrete cognitive training for executive functions in order to increase the decision-maker’s abilities to efficiently cope with the detrimental effects of cognitive biases.
+
+!! References
+[1] Graber, M., Gordon, R., & Franklin, N. (2002). Reducing diagnostic errors in medicine: what’s the goal? Academic Medicine, 77(10), 981-992.
+[2] Jurado, M. B., & Rosselli, M. (2007). The Elusive Nature of Executive Functions: A Review of our Current Understanding. Neuropsychology Review, 17(3), 213-233.
+

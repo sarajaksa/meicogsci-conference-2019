@@ -1,0 +1,22 @@
+... title: NEUROPHYSIOLOGICAL CORRELATES OF WORKING MEMORY FOR RHYTHM (PART 2)
+
+
+
+Abstract
+
+The theoretical concepts relevant for this study are presented in Neurophysiological correlates of working memory for rhythm (Part 1). In part 2, we are presenting a research design, based on these concepts. 
+
+Aim of the study: To test the hypothesis that there will be noticeable differences in electrophysiological activity of the brain when comparing verbal working memory task to working memory tasks for rhythm maintenance with two differing types of tempo gradation.
+Hence, we want to compare neurophysiological correlates of working memory for rhythm and verbal stimuli, especially whether rhythm is processed in a similar way as verbal materials. Our goal is to demonstrate the difference and also to show the possible neurophysiological correlates of a third component in phonological loop, which (if Saito’s surveys are correct) is responsible for regulation of timing mechanisms in immediate memory tasks.
+
+Methods: Scalp EEG will be recorded on 15 healthy, adult volunteers of both genders, ranging from 18 to 35, during their performance of working memory tasks. Auditory stimuli will be presented in three different experimental conditions: 1.) a baseline condition with maintenance of a sequence of verbal stimuli presented at the same speed/tempo, 2.) a first kind of tempo gradation with maintenance of two rhythmic sequences with equal number of elements (variable time length of sequences), 3.) a second kind of tempo gradation with maintenance of two rhythmic sequences of equal time length (variable number of elements in sequences). Oscillatory power of EEG activity will be analyzed in theta, alpha, beta and gamma frequency bands (1,2) to identify its similarities and differences during these experimental conditions. A behavioral pilot study will be performed in advance of EEG study to ensure that experimental conditions will not differ significantly in relation to their level of difficulty for the subjects. 
+
+Expected results: We expect to find differences in neurophysiological mechanisms for verbal and rhythm working memory, because we assume that people can use different strategies when performing rhythmic tasks under different timing conditions. We assume that strategies will vary in correspondence with tempo being slow or fast. As Burgess and Hitch (3) already proposed, translation and information implementation of the phonological loop could go “beyond the level of the simple analogy of a tape loop of inner speech used by Baddeley” (3, 552). In maintaining rhythmic pattern in slow tempo people could phonologically recode the rhythmic pattern and use similar strategies to those when maintaining letter pattern. But that could differ when the pattern is presented in a fast tempo because recoding would be less probable due to the lack of time. 
+
+Interdisciplinarity: The study focuses on working memory, which is a classical topic in cognitive psychology. Furthermore, the study is relevant for neuroscience (neurophysiological activation in the brain), linguistics (research on phonological loop and verbal processing) and musical theories (rhythm processing). If the third component in phonological loop actually exists and is responsible for timing mechanisms, it would be interesting to examine in which other processes it also has a role in. That could stand for better comprehension of our working memory that could be used for lessons in musical education or further investigations.
+
+References: 
+1. Hwang, G. et al. (2005). EEG correlates of verbal and nonverbal working memory. Behavioral and Brain Functions. 1:20.
+2. Kahana, M., J.(2006). The Cognitive Correlates of Human Brain Oscillations. The Journal of Neuroscience. 26(6). 1669 –1672. 
+3. Burgess, N, Hitch, G. J. (1999). Memory for serial order: A network model of the phonological loop and its timing. Psychological Review. 106 (3). 551 - 581.
+

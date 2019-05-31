@@ -1,0 +1,32 @@
+... title: Comprehension of Indirect Replies
+
+
+
+Abstract
+
+!!!! Comprehension of Indirect Replies
+
+Search for relevance is the basic feature of human cognition utilized in communication [1]. This allows us to convey more than our words alone seem to express.
+
+Example:
+A: "What did you think of my presentation?"
+B: "It's hard to give a good presentation."
+
+Although the answer in the example is somehow indirect, the listener can still be pretty sure that the intended message is: "I did not like your presentation." The process of indirect replies' comprehension hinges on the listener's realisation that the speaker is avoiding to answer directly. Therefore, he might assume that there is more than just literal meaning present and that the intended message is most likely a negative one [2].
+
+We studied the speed with which listeners arrive at the intended indirect meaning. Holtgraves [3] has shown that the comprehension of an indirect reply takes longer (compared to a direct one) and it involves realisation and rejection of the literal meaning and consequent activation of the indirect one [3]. What is not clear is whether the inferential process takes place during the reading of a reply or only after it is completed.
+
+In order to examine the inferential process underlying the comprehension of indirect replies we conducted two experiments: an eyetracking and a self-paced reading (SPR) study. We used eyetracking to examine the physiological indicators that would suggest increased cognitive effort during the processing of an indirect reply. With SPR, we aimed to see when, during the reading of a reply, readers realise that there is an alternative meaning present.
+
+!! Method
+19 native Croatian speaking (eyetracking) and 32 native Slovak speaking (SPR) participants were presented with short stories describing relationship and interaction between two main protagonists followed by a question-answer pair and a sentence-verification task at the end of each trial. For the eyetracking, we used a reply as a target to the sentence-verification task, whereas for the SPR we used additional probes [3]. In the SPR study, question and answer (the reply) were presented in a word-by-word fashion, where the participants read the individual words of a sentence with the next word presented after pressing a button. We used unconventional excuses to refuse to comply with a request, disclose sensitive information or to provide a negative opinion.
+
+!! Results
+In the eyetracking study we found that people fixate longer and more often when reading an indirect reply. Our results suggest that there is an inferential process present during an on-line indirect reply comprehension.
+Self-paced reading portion of the data shows gradual decrease in reading pace for the indirect replies. We expect this to be a consequence of the inferential process being present during the reading of a reply, not after the reply is fully read. The variability in individual participants' results did not allow us to determine when during the reading of a reply is the inferential process initialized.
+
+!! References:
+[1] D. Sperber and D. Wilson. "Relevance Theory" in G. Ward and L. Horn (eds) Handbook of Pragmatics. Oxford: Blackwell, 2004, pp. 607-632.
+[2] T.M. Holtgraves. "Interpreting indirect replies." Cognitive Psychology, vol. 37, pp. 1–27, Dec. 1998.
+[3] T.M. Holtgraves. "Comprehending indirect replies: When and how are their conveyed meanings activated?" Journal of Memory and Language, vol. 41, pp. 519–540, Nov. 1999.
+

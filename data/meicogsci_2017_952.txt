@@ -1,0 +1,18 @@
+... title: Where Do We Stimulate the Motor Cortex
+
+
+
+Abstract
+
+The motor threshold (MT)  represents the minimum TMS intensity strong enough to produce a predefined motor evoked potential in the contralateral first dorsal interosseus muscle (FDI), in at least 50% of the trials [1]. The MT is used in TMS studies as a reference point for calibrating the stimulation intensities, which makes the FDI area of the motor cortex a crucial site for stimulation. Currently the MT is determined by stimulating the primary motor cortex (M1) fMRI hot spot from a standard finger tapping task that maps the voluntary activation of the FDI on the M1. 
+Tracer studies in monkeys revealed that supplementary motor area (SMA) and premotor cortex neurons show dense axonal projections to the M1 area, more importantly,  between the hand representations of the two areas [2]. These findings and the possibility of improving the TMS MT determination method, inspired us to investigate the existence of a better cortical spot for stimulating the FDI muscle than the M1 hot spot from its voluntary activation. 
+We hypothesized that the electrophysiological hot spot is anterior from the M1 activation map hot spot. To investigate our hypothesis we conducted an experiment consisting of two sessions. In the first session, a simple finger tapping paradigm, consisting of nine blocks of 10 seconds, with 10 seconds of rest in between was used in order to acquire the hot spot of the M1 for activating the right hand FDI muscle. The results acquired from this session were used as neuronavigation-based target in the following TMS session.
+During the TMS session we measured the motor evoked potential, using electromyography (EMG), from the same intensity stimulation, 100% from the stimulator output, on 13 targets positioned in a circular grid of two rings, with a center in the acquired M1 target from the finger tapping task. 
+The preliminary results showed highly significant difference between some of the targets with the highest and lowest average EMG responses. The anterior medial area relative to the M1 hot spot showed highest average EMG response compared to the rest of the targets. This finding offers a possibility for improving the TMS method and further investigating the effective connectivity coupling of the premotor cortex and primary motor cortex with a TMS/fMRI combined approach.
+
+
+!!References
+
+[1] P. Rossini, A. Barker, A. Berardelli, M. Caramia, G. Caruso, R. Cracco, M. Dimitrijević, M. Hallett, Y. Katayama, C. Lücking, A. Maertens de Noordhout, C. Marsden, N. Murray, J. Rothwell, M. Swash and C. Tomberg, "Non-invasive electrical and magnetic stimulation of the brain, spinal cord and roots: basic principles and procedures for routine clinical application. Report of an IFCN committee", Electroencephalography and Clinical Neurophysiology, vol. 91, no. 2, pp. 79-92, 1994.
+[2] R. Dum and P. Strick, "Motor areas in the frontal lobe of the primate", Physiology & Behavior, vol. 77, no. 4-5, pp. 677-682, 2002.
+

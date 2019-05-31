@@ -1,0 +1,19 @@
+... title: Effects of Humor and Laughter Group Therapy on People with Depressive Disorder
+
+
+
+Abstract
+
+In a society where depressive disorder (depression) affects approximately 350 million people worldwide, the demand for its curbing is on the rise globally. According to WHO fact sheet, there are known and effective treatments for depression, however, less than a half of those affected in the world are not provided with such treatments. A lack of financial resources is often one of the barriers to effective care [1]. 
+
+Therapies with humor and laughter are low-cost and have various research supporting its possible preventive and therapeutic values. Most of the interventions focus on treatment with one aspect of humor and laughter (e.g. laughter yoga, watching comedies, telling jokes etc.) and have their frequency usually limited to once per week [2]. The intervention design presented here, will consist of more frequent sessions and will combine three modified interventions. First intervention, used by Gelkopf et al. consists of watching funny movies twice daily (five times weekly) over a 3-month period [2]. In the second one, used by Dolgoff-Kaspar et al., the 20-minute laughter yoga involves breathing and stretching exercises, simulated laughter and consists of 10 sessions over 4-weeks period [3]. In a third, used by Walter et al., the moderator starts the session by telling or reading humorous stories [2]. Afterwards patients are invited to share their happy biographical episodes and memories [2]. This intervention consists of 12, 1 hour sessions, every two weeks [2].
+
+In the following intervention design, sessions would be administered three times per week (every other day), over a 2-month period. First day would consist of watching a funny movie, third day of 30-minute laughter yoga, and fifth day of 1 hour talking session. Talking session would involve moderator telling humorous stories, after which a group members would share their happy biographical episodes and memories as well as tell jokes. I suggest that interventions are done in hospitalized environment, where an experimental group of patients that receive humor and laughter therapy would be compared with a control group without such therapy. Pharmacological treatment in both groups would stay unaltered.
+
+I hypothesise the humor and laughter therapy will reduce depressive symptoms and improve patients well-being. To evaluate its effectiveness, Patient Health Questionnaire-9 would be used pre- and post-therapy.
+
+!!References
+[1] World Health Organization. “Fact Sheet No. 369. Depression. ” Internet: http://www.who.int/mediacentre/factsheets/fs369/en/, Oct., 2012 [May 14, 2015].
+[2] M. Gelkopf, “The Use of Humor in Serious Mental Illness: A Review,” Evidence-Based Complementary and Alternative Medicine, vol. 8, no. 1, pp. 1-8, 2011.
+[3] R. Dolgoff-Kaspar et al., “Effect of laughter yoga on mood and heart rate variability in patients awaiting organ transplantation: a pilot study”, Alternative Therapies in Health and Medicine, vol. 18, no. 5, pp. 61-66, 2012.
+

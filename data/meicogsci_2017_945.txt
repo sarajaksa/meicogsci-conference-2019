@@ -1,0 +1,16 @@
+... title: The Role of Steroid Hormones in Human Social Behaviors
+
+
+
+Abstract
+
+The self-other distinction is an ability to distinguish self from other related mental representation, to take another's perspective and compute their likely emotional state [1] which is an important socio-cognitive ability necessary for successful human interactions. These social interactions can improve our reputation and social status, which leads to better access to limited resources. Internal physiological states of the human body, including the concentration of hormones, can influence status-seeking behavior and empathy [2]. For example, according to the dual-hormone hypothesis, testosterone increases behaviors related to status-seeking, such as overbidding in auctions or decrease of self-reported empathy mainly among individuals with the low levels of cortisol. However, testosterone effects on empathy and its interactions with cortisol levels have not been systematically examined [2]. We addressed these open questions in a double-blind, randomized, between-subject design study, in which 40 healthy male participants received a single dose of 150 mg topical testosterone or placebo. Thereafter, they were subjected to a nonstressful condition (Warm-water test) to control for low cortisol baseline levels. Subsequently, they completed the self-other distinction tasks (Reading the Mind in the Eye Test, Emotion Recognition Task, Perspective-taking Task and Imitation-inhibition Task) that assess the self-other distinction ability. Saliva samples for testosterone, cortisol, as well as continuous blood pressure measures, were taken repeatedly throughout the procedure of the experiment. The results showed participants with the high baseline level of cortisol had higher levels of baseline testosterone. Moreover, participants who received testosterone, were more accurate in recognition of subtle emotional expressions.  
+
+!!Acknowledgments
+Special thanks to Hana H. Kutlikova, MSc. for her continuous support and advice during this project and MUDr. Igor Riečanský, PhD. for material supply and laboratory space.
+
+
+!!References
+[1] de Vignemont, F., Singer, T., „The empathic brain: how, when and why?“, Trends Cogn. Sci. 2006, ch. 10, p. 435–441, sec. b.
+[2] Mehta, P.H. & Prasad, S. „The dual-hormone hypothesis: A brief review and future research agenda.“, Current Opinion in Behavioral Sciences, 2015, ch. 3, p. 163-168.
+

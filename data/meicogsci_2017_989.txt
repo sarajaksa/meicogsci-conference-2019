@@ -1,0 +1,23 @@
+... title: The Experience of Addiction
+
+
+
+Abstract
+
+The research field of addiction is characterised by terminological chaos and a lack of conceptual agreement as to what addiction really is [1]. The predominant view on addiction as a brain disease cannot explain all aspects of the phenomenon [2]. In the meantime, abuse of psychoactive substances remains one of the main causes of mortality and premature death globally [3]. Additionally, the emerging scientific field of behavioural addictions shows that addiction is not limited to drug abuse and may in fact be a more common phenomenon than has been considered thus far [1].
+
+Our endeavour is to shine further light on the chaos prevailing in addiction research. To do that we will focus on phenomenological features of addiction since this seems to be the least represented approach. To answer our research question – what it is like to experience addiction – we will use second-person in-depth phenomenological inquiry. This technique consists of a series of elicitation interviews, within which participants are taken on as co-researchers. Participants will be chosen among individuals who consider themselves as being addicted to something and who are simultaneously not exhibiting criminal or severe medical issues. The research plan predicts two phases. Firstly, the researcher will inquire about the participants’ experience of addiction and familiarise them with the research question. In the second phase the participant will be encouraged to observe the phenomenon in everyday life and keep a diary. Interesting journal entries will be then co-researched in interviews. From specific participant’s data we will select prevailing themes and compare them between subjects. However, due to the nature of selected method we are unable to predict how detailed reports about the experience we will get. 
+
+Since the method presupposes in-depth study of experience of a small number of participants, we will not be able to generalise our results to the whole population of addicts. We rather aim – by employing a method that has so far received little attention – to shed light on potentially unseen aspects of addiction. Hopefully, our results will therefore provide useful insights and open up new lines of addiction research within neuroscience and psychology.
+
+!!Acknowledgements
+Special thanks to M. Černigoj, PhD for his mentorship and invaluable guidance.
+
+!!References
+
+[1] M. Černigoj and J. Podbevšek, "Zasvojenost ali odvisnost? Poskus pojmovne razjasnitve in pomenske razmejitve [Addiction or dependence? An attempt at a conceptual clarification and terminological distinction]", Kairos, vol. 10, no. 1/2, pp. 113–146, June 2016.
+
+[2] S. Satel and S. O. Lilienfeld, Brainwashed: The Seductive Appeal of Mindless Neuroscience. New York, NY: Basic Books, 2013.
+
+[3] L. Degenhardt et al., "Global burden of disease attributable to illicit drug use and dependence: findings from the Global Burden of Disease Study 2010", Lancet, vol. 382, no. 9904, pp. 1564–1574, Nov. 2013.
+

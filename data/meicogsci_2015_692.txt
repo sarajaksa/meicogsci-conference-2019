@@ -1,0 +1,15 @@
+... title: Confrontation of Personal Belief with Technology: a case study of Size Recommendation Agents
+
+
+
+Abstract
+
+Using explicit or implicit preference elicitation methods, Online-shop recommendation agents (RA) reduce consumers search effort by suggesting a small set of items with preferred features from numerous options. Technology Acceptance Model (TAM) has been widely used to model adoption of RAs which considers perceived usefulness and perceived ease-of-use as the most influential factors [1]. Nevertheless there are still more influential factors that are yet to be studied.
+Due to lack of tactile experience in online shops the degree of information asymmetry between the customers and product performance, e.g. size, becomes higher which results in perceived risk of online shopping and its consequences. To enhance risk handling process size-recommendation agents (SRA) have been recently introduced to suggest a size with the highest likelihood of fittedness based on the customer's’ measurements.
+We argue that SRA has distinctive features from other common RAs that provide an opportunity to study other dimensions of technology adaptation, namely confrontation of personal belief with technology. First they are not used to reduce search effort, instead customers actively use them to reduce perceived risk directly. Second customers have  confirmation bias against the suggestion; body size is very central to self-image and through many shopping experiences and social feedback a strong opinion about one’s garment size is constructed and this reference size is frequently used as rule of thumb in further shopping.
+The current research aims at answering when customers find it useful to replace their reference size with SRA and to what extent they rely on SRA more than their rule of thumb? The hypothesis is that overall shopping perceived risk and incongruence level of SRA’s suggestion are two of the interacting determinants in shaping customers’ attitude toward SRA.
+To experimentally test the hypothesis a 2 (Perceived risk-PR-: High vs. Low)  2 (Incongruence level-IL-: High vs. Low) Between Factorial design has been applied and the dependent variable is SRA’s suggestion acceptance. The task for participants  is to choose a size for two items on a hypothetical online shop where a SRA generates a suggestion either incongruent with the participant’s reference size (High IL) or close to it (Low IL). Perceived risk is defined in terms of common return policies in real online-shops. In case of High PR if the chosen size doesn’t participants have to return the garment without any replacement and in case of Low PR participants have the chance to change the size unconditionally. 
+After data collection, Analysis of variance (ANOVA) will be applied for hypothesis testing. Moreover further extension of the project by means of combining personality tests is also being considered.
+!!References
+[1] W. Wang and I. Benbasat, "Trust in and Adoption of Online Recommendation Agents," Journal of the Association for Information Systems, vol. 6, no. 3, pp. 72-101, 2005.
+

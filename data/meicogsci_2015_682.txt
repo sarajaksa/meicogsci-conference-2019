@@ -1,0 +1,17 @@
+... title: Simultaneous Detection of Dopamine and Ascorbic Acid in Organotypic Brain Slices Using Carbon-fiber Microelectrodes
+
+
+
+Abstract
+
+!!Introduction
+Dopamine (DA) is an important neuromodulator, but its ability to form quinones also makes it cytotoxic. Quinones are highly reactive molecules, which inactivate proteins by binding to cysteine groups [1]. As an anti-oxidant ascorbic acid (AA) has a possible neuro-protective role against DA cytotoxicity. Introducing different amounts of AA into the cells, we want to determine its effects on DA auto-oxidation. Therefore the primary goal of this project is to establish a protocol for simultaneous DA and AA measurements utilizing rat nigro-striatal organotypic brain slices (OBC) to study DA and AA functional and dynamic interactions and pharmacology in vitro. 
+!!Method 
+To measure DA and AA we will use overoxydized poly(1,2-phenylenediamine) coated carbon fiber microelectrodes (OPPD/CFME) [2]. OPPD/CFME electrodes will be placed inside the 300-400 µm nigro-striatal OBC maintained in culture medium, while an Ag/AgCl pseudo reference and a Pt counter electrode will be placed inside the culture medium.
+To test the hypothesis of AA preventing the auto-oxidation of DA, we will perform a pharmacological experiment using the above described setup. Organotypic brain slices (OBS) will be treated with reserpine that inhibits vesicular monoamine transporter, which transports DA into the synaptic vesicles. Metabolism of DA will be inhibited by treating the cultures with tranylcypromine and tolcapone that block monoamine oxidase and catechol-o-methyl transferase, respectively. Further production of DA in the OBS will be prevented by α-Difluoromethyl-DOPA. Because of the described treatment of OBC DA will stay in the cytoplasm of the pre-synaptic cells and be therefore auto-oxidized. At this point we will treat the OBS with AA where it will ex hypothesi lower the amount of DA auto-oxidation. Afterwards the OBC will be treated with amphetamine that will reverse the DA transporter which will transport the remaining DA into the extracellular space, so that it can be detected. 
+!!Expected Results and Conclusion
+Treating the slices with different concentrations of AA and measuring DA we will be able to investigate of AA effect on DA auto-oxidation. We expect that higher amounts of AA will decrease DA auto-oxidation, leaving more DA intact. The results of this study will contribute to the further understanding of AA’s neuro-protective role in relation to DA.
+!!References
+[1]	J. P. E. Spencer, M. Whiteman, P. Jenner, and B. Halliwell, “5-S-cysteinyl-conjugates of catecholamines induce cell damage, extensive DNA base modification and increases in caspase-3 activity in neurons,” J. Neurochem., vol. 81, no. 1, pp. 122–129, 2002.
+[2]	J. W. Mo and B. Ogorevc, “Simultaneous measurement of dopamine and ascorbate at their physiological levels using voltammetric microprobe based on overoxidized poly(1,2-phenylenediamine)-coated carbon fiber,” Anal. Chem., vol. 73, no. 6, pp. 1196–1202, 2001.
+

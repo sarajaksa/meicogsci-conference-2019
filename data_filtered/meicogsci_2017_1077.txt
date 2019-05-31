@@ -1,0 +1,8 @@
+... title: The Relational Luring Effect: Retrieval of Relational Information as a Function of Strength, Typicality and Accessibility of Relational Representations in Long-Term Memory
+
+
+
+Abstract
+
+The Relational luring effect (RLE) stands for the false recognition of an exemplar (FLOOR CARPET), which is relationally similar to a previously studied word pair (TABLE CLOTH). Popov, Hristova & Anders (2017) recently demonstrated that false alarms and response times (RTs) to relational lures as well as hits for previously seen exemplars in a continuous associative recognition task increased linearly with the number of different instances of the same relation that were studied beforehand. Moreover, the RLE increases with the typicality of the lure pairs, and with the strength and accessibility of the relational representation in Long-Term Memory.  These results were considered as evidence that semantic relations have abstract representations in LTM that are separate from the representations of their specific instances.  These abstract representations give rise to relational priming, structural priming and relational luring effects. Sometimes this happens unintentionally, without awareness and without involving executive working memory resources.
+

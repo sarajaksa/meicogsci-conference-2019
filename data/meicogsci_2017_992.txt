@@ -1,0 +1,17 @@
+... title: Optimising Interobserver Reliability in Qualitative Studies
+
+
+
+Abstract
+
+The present work aims to develop a standard for maximizing the interobserver reliability in qualitative studies. Qualitative studies examine in detail the object of study, such as a behavior or an interaction. An example of a qualitative study is an analysis of an interaction between two agents, such as between two human agents or a human and a robotic agent. This interaction can be used, for example, as a background research for a design for socially assistive robots.
+
+Qualitative studies are difficult to analyze as there is an open number of categories of an agent’s behavior and thus this behavior eludes a classification into a small number of categories. Because of this, the annotation and analysis done by two independent observers are likely going to differ considerably. However, the reason for this difference can be irrelevant for the analysis and a superfluous amount of categories can be created in this way (for example “passes the salt” and “hands over an object” as referring to the same activity). This effect can be restricted by imposing the categories before the analysis, but this introduces bias and can lead to a loss of valuable data. 
+
+The present work is concerned with finding a set of interdisciplinary guidelines that could help find an optimal solution which takes into account the considerations above. This guideline will consider the limitations on the usage of resources and extra work, such as financial limitations, but also will provide a minimum requirement for a study that can be said to be satisfactorily free from a subjective bias. 
+
+The first step in creating such a guideline is the study of guidelines used in subdisciplines of cognitive science and a close reading of review papers examining the current state of employment of bias minimizing methods in the relevant fields, such as psychology, animal cognition and human-computer interaction. It is expected to be found that disciplines with a longer history of controlling for observer bias, such as child psychology, have a higher percentage of studies that used at least one method of minimizing observer bias than other disciplines [1]. The second step is the acquisition of statistical tools that could be applied used in qualitative studies, for example to measure the interobserver agreement. After this, an interdisciplinary guideline for qualitative studies will be proposed. The final step is a small empirical study, in which an annotation of a behavior collected as a part of the OFAI Corpus [2] will be conducted by two annotators and these annotations will be compared. The guideline and the statistical tools acquired in the first part will be tested on this study.
+!!References
+[1] G. M. Burghardt et al., “Perspectives – Minimizing Observer Bias in Behavioral Studies: A Review and Recommendations,” Ethology, vol 118: pp. 511–517, May 2012 
+[2] S. Gross and B. Krenn, “The OFAI Multimodal Task Description Corpus,” in: Proc. LREC 2016, Portoroz, Slovenia, 2016, pp.1408 - 1414.
+

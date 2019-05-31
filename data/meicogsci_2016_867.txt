@@ -1,0 +1,19 @@
+... title: Eeg Oscillatory Signatures of Auditory Gating
+
+
+
+Abstract
+
+Sensory gating refers to the ability to filter out unnecessary stimuli and prevent the brain from being overloaded by irrelevant information. Research has shown that extroversion-introversion, a basic personality trait, determines how an individual processes sensory stimuli and the motor responses in reaction to these. Extroversion-introversion might, therefore, conceivably, have an effect on sensory gating. However, whilst the latter has been studied in relation to certain mental disorders, such as schizophrenia, and even in relation to schizotypal personality, the effect of personality on sensory gating remains largely understudied. Building upon previous work by Siegl, the goal of the present study is to assess and compare the effect of extraversion and introversion on auditory gating [1]. 
+
+Gating can be operationalized through the mechanism of suppression of mid-latency auditory evoked potentials. It is reflected by the percentage reduction in response to a repeated presentation of auditory click pairs separated by an interval of approx. 500ms. We hypothesize that introverts, due to increased sensory reactivity, will show less efficient sensory gating (ERP), while extroverts will show less efficient sensorimotor gating (blink component of the startle reflex).  
+
+Out of the 88 volunteers that participated in the experiment, 45 were classified as introverts and 43 as extroverts, using the NEO Five Factor Inventory (NEO-FFI). Two different paradigms were used to assess the gating function based on resting-state EEG data collected from both groups. For each subject, P50, N100, and P200 suppression were measured at two different EEG electrode sites. Similarly, PPI was measured with three different pre-pulse lead intervals at two different EMG electrode sites. Following the screening, further questionnaires - the Revised NEO Personality Inventory (NEO-PI-R), the Schizotypal Personality Questionnaire (SPQ-G), and the General Health Questionnaire (GHQ-12) - were administered to the subjects in order to gain a better understanding of their personalities and mental health status. 
+
+Whilst Siegl had examined the inhibition of P50 and concluded that extraverts do not differ considerably in terms of sensory or sensorimotor gating function, the present study goes a step further by employing time-frequency analysis on the same set of data to reveal potential differences that could not have been revealed by the previous method [1]. However, no significant difference was revealed. We thus conclude that extroverts and introverts, indeed, do not seem to differ in terms of sensory gating.
+
+
+
+!!References 
+[1] C. Siegl (2013) Sensory and Sensorimotor Gating Function in Extraversion-Introversion Personality Trait. University of Vienna, 2013.
+

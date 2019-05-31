@@ -1,0 +1,30 @@
+... title: The influence of sleep deficit on false memory phenomenon
+
+
+
+Abstract
+
+INTRODUCTION
+Although people often believe that their memories are accurate reflection of reality, information stored in memory is not always exact image of what occurred in the past. Memories are retrieved using previous knowledge, which are formed together in a way that one believes the event happened. This constructive nature of memory enables faster and more effective retrieval of memories, but also leads to problems, particularly in situations, in which reliability of memory plays critical role, such as an eyewitness testimony. The phenomenon of remembering events differently than they really happened or remembering events that never happened is called false memory [1].
+Even though false memory phenomenon is known for a long time and great progress has been made in this area, question whether and how sleep affects false memory is still unanswered. Based on current research, opposite predictions on how sleep contributes to the development of false memory are formed. From one perspective, sleep might increase false memory. Recent studies suggest that false memory occurrence rises with increasing time between encoding and retrieving [2]. These results are consistent with the presumption that general information decays at a slower rate than veridical memory. Therefore sleep may conserve gist memory. 
+Whereas most studies support assumption that the consequence of sleep is increased occurrence of false memory, sleep might decrease false memory as well. Sleep might improve memory for studied information because sleep minimizes retroactive interference and resultant forgetting. Sleep may also improve source memory. According to the source-monitoring framework, retrieving of memories could be enhanced by unusual aspects of a presentation, which may be strengthen during sleep [3].
+The objective of this paper was to study the influence of sleep deprivation on the phenomenon of false memory. The paper can be seen as consisting of two parts.
+In the first part, we have described not only theoretical background of false memory and its neural correlates, but also sleep and research that has been made in area of the influence of sleep deprivation on the false memory phenomenon. 
+The main goal of second part of our thesis was to experimentally verify the influence of sleep deprivation on the false memory phenomenon and to confirm hypothesis of increased occurrence of false memory after sleep. We also expected that sleep has significant influence on the veridical memory, which should be increased after sleep. Our last hypothesis was that occurrence of intrusions will be significantly higher in sleep deprived subjects.
+
+MATERIALS AND METHODS
+For the aim of this study we have programmed two experiments. 
+First experiment was variation of well known Deese, Roediger-McDermott paradigm, where participants were given to study lists of words semantically connected to critical, but non-presented target word. In the second phase participants were asked to choose items, they have had learned 12 hours earlier, from new lists of words; where each list consisted of studied items, intrusions (new items) and target word.
+In the second experiment participants were watching a video document featuring a real life situation in the first phase and 12 hours later a set of statements was presented to them and they had to decide whether the given statement is correct or not. Each statement could have been correct (presented in the video), target (presented in the video, but important details has been changed) or intrusion (non-presented in the video). 
+Both experiments were conducted on a group of 56 subjects (25 men and 31 women) in age ranging from 20 to 68 years and the frequency of occurrence of target items as well as studied words (correct statements) and intrusions were measured for each of them. Subjects completed experiments with at least 1 week gap between them and were randomly assigned either to perform first phase in the morning (9AM to 10: 30AM) or in the evening (9PM to 10: 30PM). All participants were available for testing 12 hours later. Group participating on the first phase in the morning slept at least 7 hours, while the second group of participants wasn’t able to get sleep.
+
+RESULTS
+After analyzing results of both experiments, statistically significant differences have been found in retrieving veridical, false and incorrect information among the group of sleep saturated participants and the group that was sleep deprived. Significantly better true memory performance (hit rate) was observed in sleep saturated participants in comparison with sleep deprived participants. Importantly, sleep saturated subjects also had higher false-alarm rate for critical (semantically connected) distractors (false memory) than sleep deprived subjects. Finally, lower frequency of occurrence of non-semantically connected (incorrect) information/items was observed in sleep saturated subjects in comparison with the deprived subjects. 
+
+
+[1] Roediger H. L., McDermott K. B., (1995): Creating false memories: Remembering words not presented in lists. Journal of Experimental Psychology: Learning, Memory and Cognition, 21: 803-814.
+
+[2] Payne J. D., Schacter D. L., Propper R. E., Huang L.-W., Wamsley E. J., Tucker M. A., Walker M. P., Stickgold R., (2009): The role of sleep in false memory formation. Neurobiology of Learning and Memory, 92: 327–334.
+
+[3] Fenn K. M., Gallo D. A., Margoliash D., Roediger III H. L., Nusbaum H. C., (2009): Reduced false memories after sleep. Learning & Memory, 16: 509-513.
+

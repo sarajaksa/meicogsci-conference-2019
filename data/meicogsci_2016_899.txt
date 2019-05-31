@@ -1,0 +1,25 @@
+... title: Immunohistochemical Staining of Trpv4 Channels in Rat Parkinson Disease Model
+
+
+
+Abstract
+
+!!Introduction
+TRPV4 is a nonselective cationic channel and is involved in the development of sensory, motor and sympathetic peripheral nerves. TRPV4 promotes neuritogenesis in the process of differentiation of pheochromocytoma (PC12) cells. Furthermore, TRPV4 gene mutations that cause gain of function are linked to some congenital neuropathies of motor and sensory neurons [1], indicating that TRPV4 could play an important role in the degeneration and regeneration of peripheral nervous system. However, its potential role in degenerative and regenerative processes within the central nervous system is not well explored. For example, it is known that in the rat TRPV4 channels are expressed in the dopaminergic (DA) neurons of the substantia nigra pars compacta (SNc) [2] that degenerate in Parkinson disease (PD). 
+
+!!Aims
+We aimed to determine the potential role of TRPV4 in pathophysiological mechanisms of PD. We therefore further explored the localization of TRPV4 within DA neurons of human SNc and their localization within the rat nigrostriatal system. By mimicking striatal dopamine depletion that occurs in PD in a rat model of PD we also examined if the expression of TRPV4 in the postsynaptic striatal neurons may be dependent on the tonus of striatal DA. 
+
+!!Methods
+TRPV4 immunohistochemical staining was performed on human brain slices of SNc and brain sections of the SNc and striatum of hemi-parkinsonian rats that were obtained by unilateral stereotaxic injection of specific DA neurotoxin 6-OHDA in the SNc. The specificity of anti-TRPV4 antibody was analysed by knockout validation, with TRPV4 immunohistochemistry performed on wild type and TRPV4 knockout mice retinas.
+
+!!Results
+Immunostaining indicated that TRPV4 may be expressed in the DA neurons of human SNc, in rat DA neurons of SNc and in postsynaptic striatal neurons. We also found a downregulation of TRPV4 immunostaining in postsynaptic striatal neurons within the DA denervated striatum.  However, the specificity of anti-TRPV4 antibodies in TRPV4 knockout mice showed some degree of nonspecific binding. 
+
+!!Discussion
+TRPV4 expression in DA nigrostriatal neurons and the postsynaptic neurons of the striatum and DA regulation of TRPV4 expression within postsynaptic striatal neurons indicate that TRPV4 could be implicated in pathophysiological processes of Parkinson disease. Additional optimization of TRPV4 immunohistochemistry is needed to determine the specificity of anti-TRPV4 antibodies used in the present study. 
+
+!!References
+[1] Y. Jang et al., “Axonal neuropathy-associated TRPV4 regulates neurotrophic factor-derived axonal growth,” in J. of Biological Chemistry, vol. 287, no. 8, pp. 6014–6024, Feb. 2012.
+[2] E. Guatteo et al., “Temperature Sensitivity of Dopaminergic Neurons of the Substantia Nigra Pars Compacta: Involvement of Transient Receptor Potential Channels, “ in J. of Neurophysiology, vol. 94, no. 5, pp. 3069 –3080, Nov. 2005.
+

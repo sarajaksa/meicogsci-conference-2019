@@ -1,0 +1,26 @@
+... title: The Meaning of Dying
+
+
+
+Abstract
+
+In trying to understand why people act in the way they do, the cultural anthropologist Ernest Becker investigated the relationship between death anxiety and the way people conceive of reality. The social psychologists Solomon, Greenberg and Pyszczynki, while studying Becker’s work, developed the Terror Management Theory (TMT).
+
+TMT can be introduced with two observations. First, humans, like other animals, are striving to survive. Second, the capacity for abstraction gives human beings the awareness of their own mortality. Limited existence combined with the will to survive creates a potential for anxiety. In order to deal with this terror of death, humans developed cultural worldviews that give life a sense of order and permanence [1].
+
+Culture gives humans the possibility to cope with death by pursuing, for example, literal immortality - some religions for instance offer the belief that life is just a transition to eternity - and symbolic immortality, by which people want to be part of something bigger than themselves. In the latter case, the ideas of nation and ideology have a strong appeal in reducing death anxiety. They can be understood as cultural worldviews that will be defended when threatened.
+
+Culture could be seen as a set of beliefs about reality that are able to give the sense that humans are valuable individuals in a meaningful world. However, to what extent does death play a role in giving meaning to life itself? Viktor Frankl argues that human responsibility, the foundation of a meaningful life, rests on the transitory nature of the existence.  Human finitude imposes the need to take the responsibility of utilizing the lifetime to the utmost [2]. 
+
+The methodologies developed in empirical studies with TMT are used then to access what is the role of a meaningful finite existence in the cultural worldview defense. In this study, the participants, after being primed either with reminders of death- also referred to as mortality salience (MS) - or with a pain related control condition, will access two different arguments: one endorsing the belief in mortality, but supporting the meaningfulness of human existence; the second affirming the belief in immortality, but refuting the meaningfulness of life. The hypothesis in this study is that the subjects who were primed with MS, after reading the essay supporting the belief in a meaningful mortality will present a reduced defense mechanism in comparison with the participants who read the essay advocating a meaningless immortal existence.
+
+!!Acknowledgements
+
+Thanks to Alexander Batthyány for supervising this project
+
+!!References
+
+[1] Greenberg, Jeff, and Spee Kosloff. "Terror Management Theory: Implications For Understanding Prejudice, Stereotyping, Intergroup Conflict, And Political Attitudes". Social and Personality Psychology Compass 2.5 (2008): 1881-1894.
+
+[2] Frankl, Viktor. The Doctor And The Soul. From Psychotherapy To Logotherapy , 1st ed. London: Souvenir Press, 1969.
+

@@ -1,0 +1,24 @@
+... title: INVESTIGATION OF PERCEPTUAL LEARNING IN CONTOUR INTEGRATION WITH EYE-TRACKING METHODOLOGY
+
+
+
+Abstract
+
+Background. Despite that both perceptual learning and contour integration are individually intensively researched areas of science the effect of perceptual learning on contour integration has not yet been investigated with eye tracking methodology. 
+
+In the primary visual cortex, cells code information from a certain area of the visual scene in a certain dimension. Orientation specific neurons code the orientation information of the visual percept. Local orientation information is integrated through the horizontal connections of orientation specific cells in order to enable us to see the outlines and edges of the visual scene. 
+
+Visual perceptual learning can be defined as a mechanism in which we learn (through experience) to see parts of our environment that we formerly were unable to perceive [1]. According to current studies, visual perceptual learning can be located (among other areas) in the primary visual cortex. Investigation of perceptual learning is favorable as neural substrates of perceptual learning are well defined, and the effect of perceptual learning is independent of gender, culture, IQ and education. Behavioral correlates of perceptual learning potentially bear information on the topic of the extent to which learning influences adaptive behavior of the organism. 
+
+Aim and Hypothesis. In the present study we addressed a question that has not yet been studied: the effect of perceptual learning on visual scanning patterns in a contour integration paradigm. We assumed to find quantitative and qualitative changes in visual scanning patterns as a result of learning. 
+
+Method and Design. Stimuli in the contour integration test comprised of closed contours of Gabor patches against noisy background also comprised of Gabor patches [2]. The test was introduced in five training sessions on five consecutive days. Eye tracking data were recorded on the first and last day of training. 18 subjects participated in our study. Contour integration performance threshold was calculated for every session. 
+
+Results. Enhancement of contour integration threshold through the training sessions indicates perceptual learning. Number of fixations decrease from Day1 to Day5 under the perceptual threshold of the group, and the amount of fixations increase from Day1 to Day5 above the perceptual threshold of the group.  
+
+Discussion. Results indicate an alteration in visual scanning patterns due to perceptual learning. The decrease in the number of fixations from Day1 to Day5 on the difficulty levels below threshold shows the growing presence of the pop-out effect, i.e. the target pops out more likely from the noise as a result of learning. These results suggest a shift from ‘effortful’ to automatic searching mechanisms. We assume that the increment in the number of fixations above the perceptual threshold from Day1 to Day5 indicate that subjects were able to see more than noise on these above threshold levels by the fifth day, and they tried to enhance their performance by scanning the pictures more extensively. 
+
+ [1] Karni, A., Sagi, D. (1991) Where Practice Makes Perfect in Texture Discrimination: Evidence for Primary Visual Cortex Plasticity. Proceedings of National Academy of Sciences of the USA, 88, 4966-4970. 
+
+[2] Kovacs, I., Julesz, B. (1993): A closed curve is much more than an incomplete one: Effect of closure in figure-ground segmentation. Proceedings of the National Academy of Sciences of the United States of America. 90, 7495–7497.
+

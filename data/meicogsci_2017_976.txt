@@ -1,0 +1,24 @@
+... title: Human-Computer Interaction Overview: Theories & Methods
+
+
+
+Abstract
+
+For my projects and thesis, I have been immersing myself in Human-Computer Interaction literature. HCI is an interesting and very active field with a lot of potential for Cognitive Science. A big part of that potential is its focus on practical applications, which provide exciting possibilities to apply methods and results from Cognitive Science to real-world settings. In this talk, I want to share the results of my investigation. I will give a quick overview over the theories and methods of HCI and try to draw a rough map for other students to find their way into the field.
+
+!! Theories & Terms
+
+This part will present different views on who (or what) does (or should) change when new technology is introduced to humans. Should the machines change to fit the people as best as possible? Or is it always a two-way adaption? Do we look at individuals or whole organizations? Do we care about task performance, people's internal experience, or even their position in society? Each of these questions has been debated at length.
+
+Often, the different positions and their evolution over time has been described as happening in three waves [1, 2]. The first wave was based on Cognitive Psychology. It relies on a positivist epistemology and controlled experiments. In the second wave, focus shifted towards human agency and an understanding of context and user's perspectives. Interpretivist approaches increasingly replaced positivist ones. It is still connected with Cognitive Science through Situated Action and Distributed Cognition. The third (and most recent) wave focuses on non-work scenarios, interaction between multiple devices and user's internal experience.
+
+!! Methods
+
+Here, the methods available to researchers interested in the interaction between people and computers will be discussed. They are very varied, and highly dependent on the questions asked. Additionally, quite a few methods from other fields are applicable here. While some of these will be mentioned, the focus is on methods that have originated in or are characteristic for HCI. However, these are not specific to HCI and could find applications elsewhere, potentially enriching other fields. The methods discussed will be divided into qualitative and quantitative methods. Additionally, prototyping as a scientific method will be mentioned.
+
+!! References
+
+[1] L. Bannon, “From human factors to human actors: the role of psychology and human-computer interaction studies in system design,” presented at the Design at work, 1992, pp. 25–44.
+
+[2] S. Bødker, “When Second Wave HCI Meets Third Wave Challenges,” in Proceedings of the 4th Nordic Conference on Human-computer Interaction: Changing Roles, New York, NY, USA, 2006, pp. 1–8.
+

@@ -1,0 +1,25 @@
+... title: The Impact of Attention Focus on the Activity of Primary Visual Cortex
+
+
+
+Abstract
+
+!!Introduction 
+Attention is one of the variables in most neurological and subjective measurements that experimenter cannot really control. Subjects can be told where and how to focus their attention, but from there onward, experimenter has to trust them that they are following instructions during measurements. In order to find out if and how much attention focus really influences measurements, we conducted an experimental study (extension of study [1]) about attention distractions and their influence on measurements of multifocal visual evoked potential (mfVEP), which is used to measure activation of the visual cortex during visual stimuli. This technique is used to detect any alteration in transmission of a visual signal from eyes to the visual processing system in occipital lobe [2]. As it is an often used in clinical practice, its validity can benefit a lot from our study. 
+
+!!Aim
+Our experimental hypothesis states that distractions of attention will provide statistically significant differences on the results of mfVEP measurements.
+
+!!Methods
+Different kinds of distractions were added to mfVEP measurements: visual distraction (counting blimps in visual field), auditorial distraction (listening to a story) and thinking distraction (solving mathematical equations); and were compared to base measurement without distractions. All of those distractions were carefully controlled and subjects were constantly questioned in order to ensure that their attention had been focused on them, while eye focus remained unaffected as required by mfVEP technique. All measurements were made in four 8-minute cycles (one for each distraction and one for base) on students, aged 20 – 25, in Eye Hospital in University Medical Centre Ljubljana.
+
+!!Results
+Our preliminary findings on 7 subjects suggest that distractions of attention do not cause significant alteration of mfVEP results. However, mild variations of mfVEP waveforms were observed in some individuals and further experiments will be needed to make a relevant conclusion. Additionally, it would be a good idea to extend the study and include other types of attention distractions. 
+
+!!Conclusion
+In case that our hypothesis is rejected, we can conclude that mfVEP measurements are not significantly affected by studied changes in attention focus, which strengthen the validity of the method. In the other case, that our hypothesis is statistically confirmed, deficits of the methods are revealed and before further use, a way must be found to ensure attention focus in future mfVEP measurements.
+
+!!References:
+[1] W. Seiple et al., “The spatial distribution of selective attention assessed using the multifocal visual evoked potential”, Pergamon, Vision Research, 2002, 42, pp. 1513–152.
+[2] D. C. Hood et al., “An Interocular Comparison of the Multifocal VEP: A Possible Technique for Detecting Local Damage to the Optic Nerve”, Investigative Ophthalmology & Visual Science, 2016, May, Vol. 41, No. 6., pp. 1580 – 1587.
+

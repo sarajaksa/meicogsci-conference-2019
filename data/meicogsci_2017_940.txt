@@ -1,0 +1,17 @@
+... title: Gabaa Receptor Subunit Distribution & Variants
+
+
+
+Abstract
+
+!!Introduction
+GABAA receptors are pentameric ion channels, which exert inhibitory effect in the central nervous system. There are 19 subunits with differing regional, cellular and subcellular distribution. GABAA receptor subunit alpha 6 (Gabra6) is mostly expressed in cerebellum and cochlea [1]. Reduced expression of Gabra6 in temporomandibular joint is associated with increased orofacial hypersensitivity [2]. As there are subtle differences in the amino acid sequence of Gabra6 between rat and human variants, it is important to see if and how these influence the pharmacological properties of the receptor [2], [3]. The aims of our research were to (i) compare α6β3γ2 receptors present in rat and human and (ii) compare expression profiles of GABAA receptor subunits throughout the whole brain.
+!!Methods
+To test the pharmacological properties of different receptor variants we expressed them in Xenopus laevis oocytes. We performed two-electrode voltage clamp electrophysiology while simultaneously administering one of the five positive steric modulators with the solution of GABA that elicits 3 – 5 % of the maximal response of the cells. To compare expression profiles of different subunits we created a program, which uses in-situ hybridization data, available on Allen brain atlas to calculate the expression in each anatomical region, specified in the reference atlas.
+!!Results
+The receptors did not show statistically significant difference in GABA response curves (p-value 0.9535) or in response to different positive steric modulators (p-value 0.0721). In the comparison of expression profiles we produced the table containing expression of all GABAA receptor subunits in all the anatomical regions in the reference atlas. This data will provide a basis for further research on co-localization of different GABAA receptor subunits.
+!!References
+[1]	Z. Varagic, J. Ramerstorfer, S. Huang, S. Rallapalli, I. Sarto-Jackson, J. Cook, W. Sieghart, and M. Ernst, “Subtype selectivity of α+β− site ligands of GABA A receptors: identification of the first highly specific positive modulators at α6β2/3γ2 receptors,” Br. J. Pharmacol., vol. 169, no. 2, pp. 384–399, May 2013.
+[2]	J. Puri, P. Vinothini, J. Reuben, L. L. Bellinger, L. Ailing, Y. B. Peng, and P. R. Kramer, “Reduced GABA A receptor ??6 expression in the trigeminal ganglion alters inflammatory TMJ hypersensitivity,” Neuroscience, vol. 213, pp. 179–190, 2012.
+[3]	“Ligands selective to alpha 6 subunit-containing gabaa receptors ans their methods of use,” 2016.
+

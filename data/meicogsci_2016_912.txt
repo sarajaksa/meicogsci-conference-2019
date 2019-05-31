@@ -1,0 +1,20 @@
+... title: Using Foreign Language Reduces Bias in Decision Making
+
+
+
+Abstract
+
+We deal with simple and more difficult decisions in our everyday life. These are mostly based on incomplete information or bounded in certain time intervals. The prospect theory, developed by Daniel Kahneman and Amon Tversky [1], describes the way people choose between alternatives that involve risk, where the probabilities of events or outcomes are known. The theory consists of the framing effect which shows that people tend to avoid risk when a positive frame is presented but seek risks when a negative frame is presented. There is evidence [2] that decision making in contexts which elicit heuristic biases grounded in emotional reactions would be sensitive to the language in which the problems are presented. The another study of the effect of foreign language on the choices [3] has demonstrated that the use of a foreign language dramatically reduces the gain-loss asymmetry in risk preferences, resulting in a frame-independent choice, which is more in line with standard economic theory. 
+
+In our experiment, it is shown whether the framing effect and choices in risky situations disappear when tasks are presented in a foreign language. We divided participants into three groups. In the first two groups, participants answer the tasks in both English and Slovak language. The order of languages is presented differently for these groups. Conditions in tasks are balancing in positive or negative frames in both languages. One additional condition shows whether effect disappears because of language or consequences of cognitive endurance, random choices, etc. The control group consists of Slovak native speakers who answer these tasks in the Slovak language. We assume that these effects would arise because our cognitive and emotional reaction interval in a foreign language is greater than in a native language.
+
+
+!!Acknowledgments
+Special thanks to Mgr. Jana Bašnáková, MSc. and Bc. Nikola Ondríková for their continuous support and advice during this project.
+
+!!References: 
+[1]  D. Kahneman, „Risk strategies“, in “Thinking Fast and Slow“, Brno, Czech Republic: Jan Melvil Publishing, s.r.o., 2011, ch.4, sec.7, pg. 358-365 
+[2]  A. Costa, A. Foucart, I. Arnon, M. Aparici and J. Apesteguia,  ““Piensa” twice: On the foreign language effect in decision making,” Cognition, vol. 130, no. 2, pp. 236–254, February 2014
+
+[3] B. Keysar, S.L. Hayakawa and S.G. An, „The Foreign-Language Effect: Thinking in a Foreign Tongue Reduces Decision Biases,” Psychological Science, vol. 23, no. 6, pp. 661–668, April 2012
+

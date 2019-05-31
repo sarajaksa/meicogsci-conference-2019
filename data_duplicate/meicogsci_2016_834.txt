@@ -1,0 +1,17 @@
+... title: Investigating Functional and Effective Brain Connectivity During Mindfulness Meditation
+
+
+
+Abstract
+
+The practice of mindfulness meditation consists of non-judgmentally monitoring the content of one's experience in the present moment. This practice is related to changes in the structure and activity of the brain. FMRI studies have shown that meditators exhibit both immediate and long term differences in their functional connectivity [1]. Two important networks affected by meditation are the frontoparietal network (related to monitoring and attention control) and the default mode network (related to resting state and mind wandering). The frontoparietal network has been shown to be consistently active during meditation. Conversely, the default mode network decreases its activity significantly [2]. Activation of the frontoparietal network during meditation decreases with advanced levels of expertise, suggesting a decrease in the effort necessary to hold a meditative state [1].
+
+Using TMS/EEG, a combined technique that consists of stimulating a brain area while recording the electrical activity of the brain, it is possible to evaluate effective connectivity (i.e., how brain areas directly influence each other) by observing the time resolved reaction to the stimulus in areas participating in the network. This technique can reveal whether areas that activate at the same time are in fact causally connected to each other, or whether they operate in a more independent fashion [3].
+
+We will target the dorsolateral prefrontal cortex, part of the frontoparietal network, with a TMS pulse below the motor threshold. In this way, we can map the spreading of the activation signal in other nodes of the networks of interest. Two groups of subjects will participate in our experiment: one composed of experienced meditators, and one composed of beginners instructed to perform the same meditation exercise. We intend to compare resting state to mindfulness meditation both within and between subjects. First, we will study connectivity changes in experienced compared to inexperienced meditators during resting state and meditation. Second, we will compare connectivity during meditation against resting state in the two groups. The importance of testing the effective connectivity of these networks is to reinforce previous research findings, test their conclusions, and shed light on the mechanisms of mindfulness meditation.
+
+!!References
+[1] Y.-Y. Tang, B. K. Hölzel, and M. I. Posner, “The neuroscience of mindfulness meditation,” Nat. Rev. Neurosci., vol. 16, no. 4, pp. 1–13, 2015.
+[2] J. A. Brewer, P. D. Worhunsky, J. R. Gray, Y.-Y. Tang, J. Weber, and H. Kober, “Meditation experience is associated with differences in default mode network activity and connectivity,” Proc. Natl. Acad. Sci., vol. 108, no. 50, pp. 20254–20259, 2011.
+[3] M. Bortoletto, D. Veniero, G. Thut, and C. Miniussi, “The contribution of TMS–EEG coregistration in the exploration of the human cortical connectome,” Neurosci. Biobehav. Rev., vol. 49, pp. 114–124, Feb. 2015
+

@@ -1,0 +1,22 @@
+... title: MEASURING CULTURAL DIFFERENCES VIA INTERACTIVE MEDIUM
+
+
+
+Abstract
+
+!!Introduction
+Culture is a complex whole which includes knowledge, belief, art, morals, law, custom and any other capabilities and habits acquired by man as a member of society.It is a complex term – a multi-layered concept composed of: symbols, heroes, rituals, and values. Values contain the essence of national culture; the others constitute a layer of cultural practices.
+This work takes Hofstede's [1] cultural dimensions theory. Originally developed to analyze organizational cultural practices in the working environment, it proved applicable in the field of cross-cultural psychology, including different organization, business and cross-cultural communication environments. The model defines six (sufficiently) independent dominant characteristics-individuality, power distance, masculinity, uncertanty avoindance, long-term orientation, indulgence.
+The original test asks for preferences in a 24-question survey. Our motivation was to find a more natural way of administering the test, through an interactive medium.
+!!Project
+In contrast to a questionnaire directly targeting the inner core of cultural values, requiring people to rationally judge their preferences for certain concepts, we designed and programmed a video-game solution utilizing one’s connection with symbols and heroes. Basis for the claim was Boal’s [2] theory of connection between social order and expected values, which highlight the interconnectedness of myths and drama with the expected values and norms in a given society. We selected a fairytale as medium connected with cultural characteristics.
+We based our project mainly in the digital sphere due to the development of a concept of computer mediated communication (CMC) that enables the researcher to adapt the game flow to suit the subject in a similar fashion to an engaged narrator making the test engaging to a wider audience, while preserving the notion of one’s “personal” adventure. In the course of history, we sacrificed effectiveness to efficiency (the adaptability to one, vs. the ability to reach out to many), the medium allows us to return focus on the individual.
+In the construction of the story we focused on A.J. Greimas’ structuralist approach [3] to narrative creation. 
+We achieved a solid framework and a running prototype. The interactive narrative probe can be administered via PC or a mobile device, and takes us through a 24-question game based on Russian mythology.
+Test will be administered to 3 culture groups and compared to the original Hofstede values. After the administering of the test and the analysis of results, we will draw further conclusions.
+
+!!References
+1. Hofstede, Geert. “Dimensionalizing cultures The Hofstede Model in context.” Online readings psychology Culture 2, no. 1 (2011): 8.
+2. Boal, Augusto. Theater Of The Oppressed. Pluto Press, 2000.
+3. Burzyska, Anna, Michal Pavel Markovski, and Ivana Djokic-Saunders. Književne teorije XX veka. Sluz̆beni glasnik, 2009.
+

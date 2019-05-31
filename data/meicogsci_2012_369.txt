@@ -1,0 +1,32 @@
+... title: Playing and Learning
+
+
+
+Abstract
+
+Playing and Learning
+
+1.	Abstract
+The targeted elementary and middle school player of the logic puzzle game with 2D physics needs to take advantage of the physics rules such as gravity, power, speed, acceleration, centre and balance. The player also improves his aiming and accuracy. 
+In this project we are going to use online flash Fireman Tricks game created by Logamic. The goal is to get water to the fire and extinguish it. The fire is hidden bellow physic obstacles which need to be moved. The hints for the player will be revealed one after another in case the player would be unsuccessful more than five times in the same level and teach the player the rules of physics.
+
+2.	Research analysis 
+The game implements Mochi Media API to analyze the user events such as clicks, trials, length of session... The game was so far played by 50 000 unique users all over the world. From the data we can see how many times the player tried certain level, if he understand the physics behind it which he needed to take advantage of and how hard the puzzle was. According the results the players had the biggest difficulties to grab the following physic issues which we solved via the following hints.
+
+3.	Error Correction
+The player can learn from his previous mistakes and enhance his aiming and accuracy. It means that from the last location of the bird on the screen where the last throw of the water drop from the bucket occurred, stays a stamp of the bird. From the bucket stamp goes trace of the drop fall.  The player can position himself better for next throw and can learn whether he needs to adjust the height, speed or better angle and accuracy of aiming. 
+
+4.	Hint of higher speed
+The speed priming animation before the level, where the bird will be in the position like he is flying fast. There will be drawn wind behind him with distance it needed for gaining the speed. 
+
+5.	Hint of higher height
+People know that if they let fall an object from higher height it's going to have stronger power because of the gravity. Before the level we use priming animation where firstly a stone would fall from1 meter height on the wooden bars and nothing much happens. Secondly we let the stone fall from 10 meters height on top of the same wooden bars and the bars just get smashed. From that the player should understand he needs to take advantage of big height and the gravity.
+
+6.	Hint about centre and balance
+People subconsciously understand what centre and balance is. In case we detect in the game that the player lets the drops fall on top of the stable parts of the objects near the centre which results in failure of throwing away the obstacle then before the level an animation will be shown where will be two wooden bars in shape of letter T. Hammer will be hitting the top close to centre and the wood doesn't fall it would hardly move. But if the hammer hits further from the centre by the edge the top piece falls of.
+
+7.	References:
+1. KOSTER, R., 2004, A Theory of Fun for Game Design, Paraglyph Press; 1 edition, 256 pages, ISBN-10: 193211197
+
+2. SALEN, K. ZIMMERMAN, E., 2003, Rules of Play: Game Design Fundamentals, The MIT Press, 688 pages, ISBN-10: 0262240459
+

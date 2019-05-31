@@ -1,0 +1,18 @@
+... title: Assessing attentiveness based on EDA-synchrony
+
+
+
+Abstract
+
+A possible way of measuring emotional responses in humans is electr-dermal activity (EDA). We are interested in finding out whether and how this may be used in the realm of attention. 
+The current study is designed to assess whether empathic synchrony and skin conductance (EDA) synchrony appear during attentive listening. Prior studies by Marci et al[1] showed that perceived empathy of counselors and skin conductance of patients and counselors showed positive correlation during therapy sessions. 
+Zaki et al[2] showed that verbal information is critical for empathic accuracy (EA). EA is the level in which people can judge the emotional state of another person. 
+EA is positively correlated to attentive listening. I hypothesize that there is a connection between EDA and EA. In the current study participants are required to view audio/visual footage. The control group is distracted in order to evaluate the relationship between EA and EDA.
+
+!! Acknowledgements
+Special thanks to Petr Slovak and IGW for supporting this project
+
+!!References
+[1]	C. D. Marci, J. Ham, E. Moran, and S. P. Orr, "Physiologic Correlates of perceived therapist empathy and social-emotional process during psychotherapy," The Journal of Nervous and Mental Disease, vol. 195, no. 2, pp. 103–111, Feb. 2007
+[2]	J. Zaki, N. Bolger, and K. Ochsner, "Unpacking the informational bases of empathic accuracy," Emotion, vol. 9, no. 4, pp. 478–487, 2009.
+

@@ -1,0 +1,18 @@
+... title: Exploration of Named Entity Recognition with Fuzzy Membership Functions
+
+
+
+Abstract
+
+The main motivation behind this whole project is to build a fully functional text analyzer which would be able to change selected text into a graph, with fully extracted entities and entity relations (ER). The timeframe selected for this project does not allow more than partial fulfillment of the expected roadmap, so only the first part shall be handled by this paper.
+For reasonable understanding of this task, one will need certain amount of knowledge in fields of linguistics and, optionally, also philosophy of language, as it would prove useful in delving deeper into the subject.
+
+Recognizing named entities like Persons, Locations, Organizations, Dates and Times in text is very useful in mining information and data from electronic resources like documents or tweets. The ability to extract these types of data is called named entity recognition (NER). Even though NER is quite well defined and known, it is still not entirely solved, as the current approaches do not provide a perfect effectivity and precision in terms of an existing generic solution that would be able to attain sufficiently high scores on wider range of data sets. The problem currently lies in the very dataset-specific approaches, that makes the final algorithm rigid and not portable through different data sets or languages.
+We propose and test an approach that uses support vector machines (SVM)[1,2] for classification with help of fuzzy membership functions[3], which define the membership in terms of probability and are supposed to remove some of the problems of SVM classification. That being the set of two class classification problems[2]. Also, we compare the ability of our approach to classify correctly the entities with standardly used machine learning algorithms and approaches.
+After we have created a sufficiently generic algorithm capable of classifying entities in text effectively, regardless of the provided dataset, the next step will be to explore the possibilities of entity relation extraction and the optional use of fuzzy approach.
+
+!!References
+[1] Mansouri, Alireza, L. Affendey, and Ali Mamat. "Named entity recognition using a new fuzzy support vector machine." IJCSNS 8.2 (2008): 320.
+[2] Inoue, Takuya, and Shigeo Abe. "Fuzzy support vector machines for pattern classification." Neural Networks, 2001. Proceedings. IJCNN'01. International Joint Conference on. Vol. 2. IEEE, 2001.
+[3] Zadeh, Lotfi A. "Fuzzy sets." Information and control 8.3 (1965): 338-353.
+

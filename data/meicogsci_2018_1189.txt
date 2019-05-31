@@ -1,0 +1,21 @@
+... title: Smarter Together: Interventions to Increase Collective Intelligence
+
+
+
+Abstract
+
+Todays’ complex challenges are no longer manageable by individuals. The need for specialized skills leads to the necessity of effective group actions. Involving stakeholder groups into innovation processes became more relevant. New methods in collaborative innovation were developed to optimize the performance of groups and collective intelligence.
+
+Historically, additionally to the g-Factor, the c-Factor was introduced, to measure the ability of a group to perform in various task disciplines. Hoffmann [1] demonstrated already 1965 that a lack of freedom to express one’s own opinion led to suboptimal group performance. Current research shows, that collective intelligence (CI) is not predicted by and more than the average IQ of the group members [2]. What predicts collective intelligence and how can CI be supported in practical group settings?
+
+Predictors of collective intelligence are social perception and equal distribution of speaking time between the group members. The ability of taking the perspective of the other group members seems to be a central factor for effective group performance (“perspective taking”). In a developmental psychology context this concept is termed “theory of mind” and it is also related to concepts of empathy. When stakeholder work together an important factor is to have a shared mental model as representation of the world. This means it is necessary to exchange knowledge and perspectives. Successful exchange processes with stakeholder will become a core competence of effective organizations.
+
+The project is intended as a explorative work of theory formation. A semi-controlled mixed-method field experimental setting was used to test the effect of “Lego – serious play” on perspective taking, shared mental models, subjective and objective group performance as a preliminary study to improve the materials for the upcoming research project. The context of the experiment was an internal decision meeting of the city of Vienna about current questions of open data use in governmental processes. To conduct the experiment the 50 stakeholders were randomly distributed between 10 groups, which were split into test group and control group, which used normal notes instead of Lego. Statistical analysis of the data is currently conducted.
+
+
+##References
+
+[1] Hoffman, L. R. (1965): “Group problem solving”. Advances in experimental social psychology, 2, 99-132.
+
+[2] Woolley, A. W./Aggarwal, I./Malone, T. W. (2015): “Collective intelligence and group performance”. Current Directions in Psychological Science, 24(6), 420-424
+

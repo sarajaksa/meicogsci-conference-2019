@@ -1,0 +1,18 @@
+... title: Suffix Combinations In English: a Conceptual and Cognitive Semantics Approach
+
+
+
+Abstract
+
+!!!!Suffix Combinations In English: a Conceptual and Cognitive Semantics Approach
+
+The debate concerning the boundary of language and ‘general’ cognition remains to be heated in the field of cognitive science today. This frontier can be explored within the realm of morphology, a discipline where form and meaning combine at an observable level. Take, for example, the words lead and leader. The addition of the morphological affix, -er, indicates that there is a change of syntactic category from verb to noun. The syntactic change also implies a change at the semantic (meaning) level. Does this additional morpheme thus hold the semantic value itself, or is it a mere structural vessel implemented to express the change occurring within the base word? 
+
+To answer this question, we must delve a little further. Consider another pair: open and opener. They fall into the same syntactic categories as before, although here the lexical semantics differ. An opener is an object, whilst a leader intimates a person (or at least something living). Nothing strange so far, however; the -er morpheme can simply indicate the syntactic change from a verb to a noun, independent of the root’s semantic value. The interesting findings occur when we begin to examine second suffix combinations (SUFF2) for both words. It is initially observable that there is a constraint upon which morpheme can assume the SUFF2 position here (we cannot have *leadering / *openering, for example). More interestingly though, is that there are SUFF2 constraints which affect “object-type” but not “person-type” words, such as –ship: lead-er-ship / *open-er-ship. This resembles a conceptual distinction that we humans make when perceiving people or objects. This distinction echoes through our linguistic parsing of the above examples, which in turn intimates that morphological elements themselves also lie at a conceptual level. Thus, from this primary inspection, we can see emerging evidence revealing general cognitive principles at play in language processing. 
+
+The current research project being undertaken concerns precisely this phenomenon. I aim to implement evidence such as the above in an argument for the semantic/ conceptual value of morphological elements under the usage-based framework of cognitive semantics. This school of linguistics defines grammatical elements through their distribution within a given language. The data is collected predominantly from written English, in particular corpus language sites such as Onelook.com, the Oxford English Dictionary and the British National Corpus. I will be disambiguating the semantically homophonous suffixes that derive persons and objects, resulting in a full list of suffix combinations for the data.
+
+!!Acknowledgements 
+
+With special thanks to Dr. Stela Manova for her help and support with this project.
+

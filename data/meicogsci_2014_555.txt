@@ -1,0 +1,35 @@
+... title: Is Beauty Objective? An Experimental Study of Aesthetic Distance
+
+
+
+Abstract
+
+!!!!Is Beauty Objective? A Study of Aesthetic Distance
+
+Dalibor Jurášek [jurasek1@uniba.sk]
+Center of Cognitive Sciences
+Comenius University in Bratislava
+
+!!Introduction
+According to many authors, beauty has an objective component. In order to perceive this component, one must take aesthetic distance. [1] Aesthetic distance is a mental stance where the viewer must screen out subjective prejudices, preferences, desires, etc. and look at the object as objectively as possible. People differ in how well they can do this. 
+
+!!Methods
+I set up a research design to test if taking aesthetic distance enables the viewer to perceive the objective component of beauty. The objectivity of beauty is a metaphysical issue and can not be proved empirically, but the data may indicate it indirectly. Mainly, if beauty were objective, people should independently agree on what is beautiful. If an ability (such as aesthetic distance) is needed to perceive the objective component of beauty, people should agree more if they are better in this ability.
+
+As there is no prior research in this area, I had to make some assumptions. First, there is no direct measure of aesthetic distance. I therefore assumed that the personality trait openness to experience is an indicator of this ability. Open people are generally aesthetically sensitive and less prejudiced, [2] roughly matching the descriptions of aesthetic distance. Second, if aesthetic distance enables to perceive the objective component beauty, people more apt in this ability should agree more on what is beautiful. Therefore, more open people should have a smaller variance in their beauty ratings, which was my hypothesis.
+
+I created an online questionnaire in which I asked the participants to:
+* rate the beauty of 30 pictures (classical art, modern art and popular culture)
+* fill in the Big Five Inventory (a personality test measuring openness and 4 other traits)
+
+!!Results
+I evaluated data from 182 participants (73 % female; ages: 15 – 58 (M = 26, Mdn = 24, SD = 6.85)). Openness to experience significantly correlated with beauty ratings (r = -.31, p < .01). People more open tended to rate the pictures as less beautiful. People in the top quantile of openness had a significantly greater standard deviation in their beauty ratings (SD = 2.55) than other people (SD = 2.34; F = 12.14, p < .01). Such relationships were not found for any other of the Big Five traits. 
+
+!!Discussion
+The results contradicted the hypothesis and can be interpreted variously. Perhaps more open people tend to be more independent in their opinion forming. Maybe openness is only  a prerequisite of aesthetic distance, and this ability has to be specifically trained (similarly, more intelligent people do not necessarily agree more, though they have a better disposition to reveal scientific truth). It is possible that a different set of pictures would yield different results (no preliminary research was done).
+
+!!References
+[1] C. Sartwell. "Beauty." Stanford Encyclopedia of Philosophy.
+Online: http://plato.stanford.edu/entries/beauty/ [accessed 2014-05-02]
+[2] O. John, L. Naumann and C. Soto. "Paradigm Shift to the Integrative Big-Five Trait Taxonomy: History, Measurement, and Conceptual Issues," in O. John, R. Robins and L. Pervin (eds.), Handbook of Personality: Theory and research (pp. 114-158). New York, NY: Guilford Press, 2008.
+

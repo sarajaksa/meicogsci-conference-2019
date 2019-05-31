@@ -1,0 +1,17 @@
+... title: Reconstruction of Perceived and Imagined Music from EEG Recordings with Deep Neural Networks
+
+
+
+Abstract
+
+The neurological basis underlying music cognition has been extensively researched in recent years and several studies within the cognitive neuroscience of music indicate the existence of shared neural representations within music perception and imagination [1]. The reconstruction of musical stimuli from brain activity represents an important step towards researching higher-level processes, such as subjective or aesthetic music experience. Methods like multi-source semantic embedding and multi-variate regression, mostly based on functional Magnetic Resonance Imaging (fMRI) and Electroencephalography (EEG), have been proposed to reconstruct perceived auditory stimuli [2]. Most of these approaches focus on the amplitude envelope or on the onsets of musical events. However, there is still a lack of approaches able to reconstruct perceived as well as imagined stimuli while managing to cope with cross-subject differences. 
+
+Inspired by recent successes in stimulus classification using deep artificial neural networks [3], an assortment of neural network architectures is presented and evaluated for the ability to perform continuous reconstruction of the amplitude envelope within single subjects and multiple subjects from EEG recordings. The planned approaches include a convolutional network organized as stacked denoising autoencoders (SDA) and a recurrent neural network (RNN) to incorporate global temporal features. Special focus is paid to spatial aspects of brain activity based on the signal overlap between 64 EEG channels. A network with exchangeable input layers for each subject is proposed to cope with the complex subject-specific differences. Next to envelope reconstruction, the feasibility of a simultaneous reconstruction of other spectrogram characteristics, such as stimulus frequency, is tested.
+
+The networks are trained on EEG recordings from subjects listening to and subsequently imagining looped sequences of tones and speech in different rhythms that are super-imposed on a constant metronome click. To evaluate the performance on complex natural music, the best performing architecture is furthermore evaluated on the OpenMIIR dataset of perceived and imagined excerpts of well-known natural music pieces, both with and without the presence of lyrics.
+
+!!References
+[1] O. Ferry, "Eeg differences between music imagery and music perception," in 15th Twente Student Conference, Enschede, NL, vol. 6, 2011, pp. 1-4
+[2] I. Sturm et al., “Multi-variate EEG analysis as a novel tool to examine brain responses to naturalistic music stimuli,” PLoS ONE, vol. 10, no. 10, 2015, pp. 1-23
+[3] S. Stober et al., "Using Convolutional Neural Networks to Recognize Rhythm Stimuli from Electroencephalography Recordings," in Advances in neural inform. process. syst., 2014, vol. 27, pp. 1449-1457
+

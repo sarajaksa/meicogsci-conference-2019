@@ -1,0 +1,26 @@
+... title: The Importance of Hand Images as Stimuli
+
+
+
+Abstract
+
+##Context
+A reaction of arousal systems is a key indicator of the importance of stimuli. We are especially sensitive for face stimuli [1]. Hands seem to be an important stimulus as well, for example for gaining knowledge about manipulating tools or in interpersonal communication. Research about gestures is conducted [2]. However, there is a lack of studies covering electrodermal activity in response to hand images and there is no clarification about how important hands are as a stimulus in general or if they are significant at all.
+
+##Purpose
+Our hypothesis was that if hands are indeed important stimuli for gaining our knowledge about world and also for communication, then there should be a greater response for hand picture stimuli than for photos of daily use objects (such as a can, keys or a fork). Answer to this rudimentary, but still not resolved question is non trivial and could lead to new insight into research about gestures, nonverbal communication or even sign language.
+
+##Method
+To test this assumption, we measured skin conductance and heart rate using AdInstruments PowerLab T26 while exposing subjects to pictures of hands and regular objects. GSR (Galvanic Skin Response) data was prepared for further analysis using deconvolution [3].
+Participants were looking at each photo for 10 seconds, everyone was presented with full set of stimuli (both - photos containing hands or daily use objects). We presented these images via computer projector. The images of daily use objects contained only group of things we could grab and use freely with one hand.
+
+##Findings
+Our results suggest a higher sensitivity in GSR peak value for hand images than for regular items (p < 0.05), which might indicate that this stimuli is indeed important in our lives. Furthermore, a variation of response on specific images in both groups (hand and non-hand images) also riveted our attention. 
+We assume that images in non-hand category, which caught our attention were too detailed and subjects reacted to them so highly, because of the number of things they wanted to pay attention to. We decided to eliminate those photos from further experiments. 
+When it comes to specific images of hands we noticed that reaction to photos which contained gestures with possible pejorative connotation is lower (lower peak value) than the reaction to the rest of presented gestures.
+
+## References
+[1] M. H. Johnson, S. Dziurawiec, H. Ellis, J. Morton, “Newborns' preferential tracking of face-like stimuli and its subsequent decline”, *PNAS*, vol. 102, no. 47, pp. 17245–17250, 2005.
+[2] Gregory Króliczak, “Representations of transitive and intransitive gestures: perception and imitation”, *Journal of Neuroscience and Neuroengineering*, vol. 2, n. 3, pp. 195-210, 2013.
+[3] D.M. Alexander, et al., “Separating individual skin conductance responses in a shortinterstimulus-interval paradigm”, *Journal of Neuroscience Methods*, 146, pp. 116–123, 2005.
+

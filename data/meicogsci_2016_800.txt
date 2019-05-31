@@ -1,0 +1,21 @@
+... title: Life-satisfaction in Old Age: Exploring a harmonious ageing approach
+
+
+
+Abstract
+
+There are numerous life satisfaction theories and concepts in philosophy as well as in psychology. Moreover, there are differences in how Western and Eastern cultures conceptualize life-satisfaction and successful ageing. Specifically, the Western concept is grounded in a “curative” approach to ageing, where old age is seen as an extension of middle-age [1]. Recently, some philosophers have started questioning this, favoring a more Eastern approach which regards life-satisfaction in old age to be characterized by harmony and the importance of social bonds [1]. Additionally, the Western whole-life satisfaction psychological concept seems to be a misguided construct which does not reflect how people truly evaluate their lives. 
+
+This study will explore which factors play an important role in current and overall life-satisfaction, and whether this supports more the Eastern philosophical approach. Furthermore, we will examine differences in temporal perspectives and their possible influence on current and overall life-satisfaction. Some studies have found differences in how young and old adults rate their life-satisfaction in relation to different time perspectives [2]. However, within the elderly population, the factors which drive this difference have not been established. Pursuant to this, the hypotheses are as follows:
+1) The quality of social relations and bonds is the main factor that drives overall life satisfaction;
+2) Participants who evaluate their past life and future prospects in a positive way will be more satisfied with current and overall life.
+
+This is a cross-sectional population-based study, where the data was acquired from an established database in the Swedish National study on Aging and Care (SNAC)- Kungsholmen in Stockholm (n=3363, age= 60-104), through nurse interviews and self-reported questionnaires. Life Satisfaction Index-Z is a 13-item scale developed with the purpose of portraying life-satisfaction in old age [3]. Scores on the LSI-Z will be related to participants’ social network as well as covariates such as demographics, life-style, cognitive function, functional capacity and self-rated overall health. The hypotheses will be investigated using chi-squared test and regression analysis.
+
+This study will shed light on which factors influence life satisfaction in old age and indicate whether an Eastern approach to life-satisfaction, focused on maintenance of social bonds, is appropriate in research on aging. 
+
+!!References
+[1] J. Liang and B. Luo, “Toward a discourse shift in social gerontology: From successful aging to harmonious aging,” J. Aging Stud., vol. 26, no. 3, pp. 327–334, 2012.
+[2] B. G. Loos, M. T. L. Roos, P. T. A. Schellekens, and U. Van Der Velden, “Lymphocyte Numbers and Function in Relation to Periodontitis and Smoking,” Pyschology & Aging, vol. 18, no. 1, pp. 15–17, 2004.
+[3] B. L. Neugarten, R. J. Havighurst, and S. S. Tobin, “The measurement of life-satisfaction,” J. Gerontol., vol. 16, no. 2, pp. 134–143, 1961.
+

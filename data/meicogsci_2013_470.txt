@@ -1,0 +1,24 @@
+... title: Interaction of Emotion of Disgust and Fear
+
+
+
+Abstract
+
+!!!!Interaction of Emotion of Disgust and Fear
+!!Hypothesis
+If an object that activates disgust in an agent is detected, fear is activated as well.
+
+!!Method
+In the experiment, series of photos will be shown. Apart from neutral pictures, it will include also photos of disgusting objects and photos of disgusting objects in relation to humans or animals. According to hypothesis, in addition to disgust, also fear activation is expected in the latter, but not in the former case. Physiological changes associated with fear and disgust represent dependent variable of experiment. Manipulated independent variable will be presence/absence of human or animal morphological features.
+
+Visual stimuli consist of photographies from 3 categories: neutral, inducing disgust without picturing humans or their bodyparts, inducing disgust with picturing humans or their bodyparts. Objects inducing disgust include rotten food, bodily fluids, insuffiecient hygiene, bodily deformieties and injuries. Pictures will be presented in random order, with exception of pair pictures from 2nd and 3rd category will not be presented immediately after each other. Presenting order will be different for each participant. During the experiment pulse, skin conductance and facial muscle activity will be recorded by EMG [1][2]. 
+
+After the experiment, participants will see pictures one more time, with a purpose of finding subjective evaluation. Pictures will be presented in random order.
+Participants will mark magnitude of fear and disgust, they were experiencing, looking at particular picture.
+
+!!Acknowledgement
+Project is part of research and under supervision of Mgr. Vladimir Bahna, PhD. and RNDr. Barbora Cimrova, PhD.
+!!References
+[1] A. van Boxtel, "Facial EMG as a Tool for Inferring Affective States," Proceedings of Measuring Behavior, pp. 104-108, 2010.
+[2] C. Huang et.al., "The Review of Applications and Measurements in Facial Electromyography," Journal of Medical and Biological Engineering, vol. 25, pp. 15-20, 2004
+

@@ -1,0 +1,27 @@
+... title: The Knowledge Level in Cognitive Architectures
+
+
+
+Abstract
+
+The philosophical questions studied in epistemology and metaphysics have contributed to insights in the domain of Artificial Intelligence (AI) through frameworks, structures, and terminology essential to articulate challenges and characterize achievements (e.g., in the development of the BDI model of practical reasoning for multi-agent systems); on the other hand, the results of AI’s empirical inquiries have proven of interest also for philosophers (cf. Dreyfus’ involvement in Heideggerian AI). Our examination of the metaphysical status of the _Knowledge Level_ lays a bridge from our own philosophical background into the field of AI and provides the opportunity for a first hands-on acquainting with cognitive architectures.
+
+Allen Newell’s hypothesis of the Knowledge Level: _“There exists a distinct computer systems level, lying immediately above the symbol level, which is characterized by knowledge as the medium and the principle of rationality as the law of behavior.”_ [1, p.99] has catalyzed the debate on the nature and place of knowledge in AI systems and promoted awareness of key challenges and deficiencies of cognitive architectures to date [2].
+
+The key questions we aim to address in this project are:
+- Is the introduction of the Knowledge Level a necessary development in AI?
+- How has it shaped the development of Cognitive Science?
+- What are particular contributions contemporary epistemology and metaphysics can make?
+
+To obtain a working understanding of the current state of the matter, we conduct a critical analysis of key publications, complemented with the empirical study of concrete exemplars (ranging from basic problem solving to social/teamwork scenarios) in cognitive architectures (including Newell et al.’s Soar [3]). Equipped with the answers to the first two key questions, we try to bring in our philosophical expertise to bear on the third one.
+
+Beyond the personal opportunity to improve our transdisciplinary grasp of the matter and to get acquainted with interdisciplinary challenges and cultures in practice, we do expect our snapshot of the current situation on this standing question, exposing scientific as well as social motivations and delivering a critical summary of key results of the debates, to be useful to a broader audience: Next to supporting and orienting our student peers, we hope to spark interest for collaborations, based on the formulated proposals for further investigation.
+
+## Acknowledgments
+Many thanks to Dr. Paolo Petta at OFAI for supervising this project.
+
+## References
+[1] A. Newell, “The Knowledge Level,” _Artificial Intelligence_, vol. 18, no. 1, pp. 87-127, 1982.
+[2] A. Lieto, C. Lebiere and A. Oltramari, “The knowledge level in cognitive architectures: Current limitations and possible developments,” _Cognitive Systems Research_, vol. 48, pp. 39-55, 2018.
+[3] J.E. Laird, _The Soar Cognitive Architecture_, Cambridge, Massachusetts and London, England: A Bradford Book, The MIT Press, 2012.
+

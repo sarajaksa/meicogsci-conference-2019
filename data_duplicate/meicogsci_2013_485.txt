@@ -1,0 +1,28 @@
+... title: Effects Of Different Breathing Patterns On The Cognitive Performance
+
+
+
+Abstract
+
+Introduction	
+
+Lately, much research has been done with topics concerning biofeedback and the effects it has on the overall physical and cognitive functions. Many proposed hypotheses state that there is a particularly strong correlation between rhythmic breathing and cognitive abilities. Thus, the focus of our research is to test those claims, in particular how do breathing rhythms affect cognitive abilities. In addition, we are monitoring various physiological parameters and looking for possible correlations between the breathing rhythms and other parameters governed by the autonomous nervous system. We would also look for the correlation between cognitive performance under stress and different breathing patterns.
+
+The broader context of our research is the experimental psychology. More specifically, how do the changes induced on the physiological level affect the cognitive state.   
+
+The main goal of the project is to examine the effects of controlled breathing on cognitive abilities measured by a psychological test. By testing different breathing patterns we want to examine proposed claims that state the positive correlation between coherent breathing and cognitive abilities. Additionally, we would like to examine the effects of hyperventilation on cognition. Since it also introduces rhythmic breathing, but in the contrast to coherent breathing it is not synchronized to the heart rate and induces a chemical disbalance in the body as well. In order to expand the examining context of the research, we also decided to include the monitoring of the overall physiological factors during different breathing patterns. 
+
+We hope to contribute to the overall understanding of how changes of certain physiological parameters governed by the autonomous nervous system, can affect the entire physical and psychological state.  
+
+Methods
+
+Creation of an experiment consisting of two cycles. First cycle consists solely of monitoring the physiological parameters and their changes under different breathing patterns. The second cycle is the same as the first one, but in addition we introduced the testing of cognitive abilities. Each cycle consists of three parts. In the first part of the cycle the subject is breathing normally. In the second part we induce coherent breathing techniques inside the regulated pattern presented on the screen which the subject is following. Finally in the third part of the cycle, the subject is told to follow the breathing rhythms that are inducing during hyperventilation.  In the second cycle after each part has been completed, cognitive abilities of the subject are tested.  In order to properly measure cognitive abilities and their potential change we chose to use the stroop test. The physiological parameters we are measuring are heart rate, respiration, temperature, skin conductance, and EMG.
+
+Results
+
+Firstly, we expect to find a positive correlation between rhythmic breathing, particularly coherent breathing, and cognitive abilities. Further, we expect to observe synchronization between respiration and heart rate variability. We also assume that the effects of induced stress factors after coherent breathing will minimize the negative effects of the stress on cognitive performance.
+
+Conclusions
+
+During the research we stumbled upon some challenges such as finding the right timeframe for the induction of different breathing patterns as well as finding a cognitive test, which would measure cognitive performance in a representable way. Despite all the difficulties we assume that the collected results will support our hypothesis and provide guidelines for further research. The direction of possible further research would be the use of biofeedback for regulation pf the physical and mental states that are in correlation with physiological parameters.
+

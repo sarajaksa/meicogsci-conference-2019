@@ -1,0 +1,29 @@
+... title: An fMRI-based breath-holding experiment to validate a susceptibility effect compensating RF-pulse
+
+
+
+Abstract
+
+! Background and Purpose:
+Signal dropouts and artifacts caused by field inhomogeneties induced through air-tissue susceptibilities are a major problem in fMRI-based brain studies. One region particularly affected is the (medial) orbitofrontal cortex (OFC). Therefore, gaining new insights about these brain regions through fMRI experiments is often a challenging endeavor and the expected results are inherently limited.
+Hence it is a desirable objective for the brain imaging community to come up with a efficient method to resolve this problem. One innovative solution to tackle this problem has been recently presented by [1]. They developed a new RF-pulse to compensate for the aforementioned irregularities. 
+In order to validate the method and measure the degree of improvement compared to former approaches we conducted a breath-holding (BH) experiment. We chose the BH-experiment because it reliably increases the BOLD signal as well as the cerebral blood flow [2] which leads to an overall activation-like signal increase throughout the brain [3] while keeping the paradigm very simple.
+! Material and Methods:
+For the paradigm we used the following setup: 
+Two runs with different RF excitation pulses per session, every run included 40 seconds of normal (free) breathing, 5 seconds for an attention cue to make sure the subject exhales before breath-holding (breath in/ breath out) and 30 seconds of breath holding. This was repeated four times and a final 40 second free breathing period completed every single run.
+The paradigm was implemented in Cogent (Wellcome Laboratory of Neurobiology, UCL), a Matlab (MathWorkss, Inc.) based toolbox for well-defined stimulus presentation.
+The experiments were carried out at 3Tesla (Siemens Tim Trio) as well as on 7Tesla (Siemens MAGNETOM 7T).
+In order to keep track of the physiological data of the subjects we used a respiratory belt as well as a finger pulse oximeter.
+In addition, we acquired T1-weighted MP-RAGE images as anatomically reference.
+! Results:
+All data analysis was performed on a linux workstation running SPM8 and MATLAB 2009a. The data was first converted from DICOM to the NIFTI format. Subsequent preprocessing included segmentation (yielding white and grey matter maps),  realignment (correction of motion artifacts), re-slicing, coregistration with the structural image, spatially normalization as well as spatial smoothing.
+For analyzing the data a general linear model (GLM) was applied to the time series of voxels where the breath holding blocks were modeled as regressor functions, convolved with the canonical haemodynamic response function. Furthermore we applied t-statistics to find significant voxel activation. The results were then plotted as a statistical activation map as overlay to the T1-weighted structural image which clearly depicted the significant signal change due to breath holding.
+For the data acquired with the new artifact/signal dropout compensating RF-pulse the relevant areas showed an additional increase in signal quality and less dropouts.
+! Conclusion:
+We have demonstrated the usefulness of the BH-experiment as means to test the BOLD sensitivity in the whole brain while keeping the requirements on the paradigm as minimal as possible. By utilizing this effect we yielded an empirical validation of the compensation approach for the signal dropouts due to air-tissue inducted inhomogeneities.
+
+
+1.	Chung, J., Yoon, H.W., Kim, Y., Park, H.W. & Cho, Z. Susceptibility compensated fMRI study using a tailored RF echo planar imaging sequence. J Magn Reson Imaging 29, 221-228 (2009).
+2.	Kastrup, A., Krüger, G., Neumann-Haefelin, T. & Moseley, M.E. Assessment of cerebrovascular reactivity with functional magnetic resonance imaging: comparison of CO2 and breath holding. Magnetic Resonance Imaging 19, 13-20 (2001).
+3.	Kastrup, A., Li, T.Q., Takahashi, A., Glover, G.H. & Moseley, M.E. Functional magnetic resonance imaging of regional cerebral blood oxygenation changes during breath holding. Stroke 29, 2641-2645 (1998).
+

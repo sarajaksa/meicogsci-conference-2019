@@ -1,0 +1,21 @@
+... title: Can Girls with Rett Syndrome Speak with Their Eyes? A Case Study Using Eye-Tracking Technology
+
+
+
+Abstract
+
+!!!! Can Girls with Rett Syndrome Speak with Their Eyes? A Case Study Using Eye-Tracking Technology
+
+Rett syndrome (RS) is a severe neurodevelopmental disorder, caused by mutations of the MECP2 gene located on the X chromosome, therefore almost exclusively effecting females. It is characterized by normal early growth and development followed by a slowing of development where loss of purposeful use of the hands, distinctive hand movements, slowed brain and head growth, problems with walking, seizures, and intellectual disability can be seen. Profound impairments in the ability to speak and use of hands severely limit the abilities of girls with RS to communicate with the environment. However, a few studies using eye-tracking technology [1, 2, 3] have shown that these girls demonstrate strong and intentional eye gaze and eye contact, which is considered as the most important way in which girls with RS relate to the world.
+
+In our case study, performed with a 12 year old girl with genetically confirmed RS, we used eye-tracker to determine if she can use her eye-gaze intentionally and to assess whether she could potentially use this to express her preferences. Specific aims of the study were to determine whether 1) she rather looks at herself and some of the closest family members than at other unknown people, 2) she rather looks at preferred stimuli than at neutral ones, 3) she prefers looking at socially weighted stimuli.
+
+Eye tracker EyeLink1000 was used to measure the duration of eye fixations of stimuli displayed on the screen.The equipment was calibrated using 3 point calibration. To minimize her body movements, she was seated in her teacher’s lap, 50 cm away from the monitor and was presented with pairs of images, each with duration of 4 s. No verbal instructions were given. In the first task, 44 pairs of images including faces of her family members and visually similar unknown faces and 14 pairs of images of her face and similar unknown faces were presented on a left and right side of the computer screen in random order. The second task comprised of 32 pairs of images that included her likes (food, drink) and similar neutral stimuli. To determine her preferences we interviewed her mother and a special education teacher beforehand. In the third task she was presented with 24 pairs of images that were either socially weighted (which included a person using a certain object) or not (the image contained that object only).
+
+The results show, that she spent more time looking at her face than other similar faces, indicating she recognized herself. However, this was not observed for other family members. She exhibited a preference for preferred stimuli and socially weighted stimuli. These results suggest that she can intentionally use her eye gaze and that eye tracking technology appears to have a potential of bypassing the severe impairments in expressing preferences. We wish to expand our study and use the eye-tracker as a feasible method of communication for people with RS.
+
+!! References 
+[1] A. Djukic, M. V. McDermott, K. Mavrommatis, C. L. Martins, “Rett Syndrome: Basic Features  of Visual Processing-A Pilot Study of Eye-Tracking,” Pediatric Neurology, vol. 47, pp. 25-9, Apr. 2012.
+[2] A. Djukic, M. V. McDermott, “Social Preferences in Rett Syndrome,” Pediatric  Neurology,  vol. 46, pp. 240-2, Jan. 2012.
+[3] R. Velloso, C. A. de Araújo, J. S. Schwartzman, “Concepts of color, shape, size and position in ten children with Rett syndrome,” Arq Neuropsiquiatr, vol. 67, pp. 50-54, Apr. 2009.
+

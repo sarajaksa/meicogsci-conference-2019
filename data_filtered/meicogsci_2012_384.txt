@@ -1,0 +1,20 @@
+... title: Mechanistic and Non-Mechanistic Paradigms in Cognitive Science
+
+
+
+Abstract
+
+According to a widely accepted view cognitive science was produced by the “cognitive revolution” which had taken place in the 1950-1960 years. There are many recollections on the revolutionary feeling of that age e.g. in Miller and Boden (2006), and several interesting attempts to characterize the intellectual changes. But how is it possible to identify the cognitive revolution?
+
+Moreover, if we have a scientific revolution, then in a Kuhnian framework – perhaps – there can easily be identify a paradigm shift. But the problem is that we can not speak about revolution within cognitive science, and a related paradigm shift - without an existing discipline. So the cognitive revolution was perhaps a revolutionary change of something else. There is a candidate: “If there was a cognitive ’revolution’ … it consisted in the overthrow of the core assumptions of behaviorism” (Boden 2006). Miller also reported on the fundamental significance of cognitive revolution in psychology in the formation of cognitive science. However, accepting these suggestions it is not really clear why and how did these revolutionary changes in psychology influence the state of so many another disciplines and get a leading role in the formation of an integrated theory of knowledge. 
+
+Otherwise, observing the simultaneous appearance of significant changes in many different disciplines, it is natural enough to suppose revolutions in linguistics, computer science, anthropology, etc. In this case cognitive revolution could be characterized as a complex of simultaneous revolutions. However, instead of such a parallel revolutions – perhaps – would be better to speak about significant changes within a more universal context, of which has simultaneous and parallel impact on many scientific disciplines and even the interrelations, separations, and integrations of disciplinary matters. 
+First of all philosophical or cultural views can have such universal impacts. It is possible to identify a universal paradigm shift within the Western culture (or philosophy) leading to the emergence of more specific paradigms within scientific disciplines: the modern-postmodern shift generated those “simultaneous revolutions” of which a collection should be considered as cognitive revolution.
+
+A significant expression of the modern-postmodern paradigm shift is the mechanistic-non-mechanistic paradigm shift. The modern/mechanistic paradigm and the postmodern/non-mechanistic paradigm in cognitive science represented e.g. by computationalism and connectionalism. The postmodern turn does not destroy the modern paradigm, just creates alternatives. So, the cognitive revolution produced a non-modern and non-mechanistic science. In other words: cognitive science has a basically postmodern nature. Both mechanistic and non-mechanistic paradigms have role in cognitive science, but none of them have an exclusive one. 
+
+Some references
+Boden, Margaret A.: Mind as Machine: A History of Cognitive Science. Volume 1&2. Clarendon Press, Oxford, 2006.
+Dupuy, Jean-Pierre: On the origins of cognitive science: the mechanization of the mind. MIT Press, Cambridge, Mass. 2009.
+Gardner, Howard: The Mind’s New Science. A History of the Cognitive Revolution. Basic Books, New York, 1985.
+

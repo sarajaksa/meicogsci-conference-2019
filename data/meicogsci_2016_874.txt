@@ -1,0 +1,26 @@
+... title: Data Analysis for BCI Robot-assisted Training for Rehabilitation
+
+
+
+Abstract
+
+Over 750,000 people suffer a stroke every year, of which about 80% suffer some degree of hemiparesis. It has been shown that the (so-called) mirror box therapy can improve the performance of the paretic limb [1].
+
+Furthermore Pichiorri and collective [2] have shown that the use of brain-computer interface (BCI) improves paretic limb performance. Immediate changes the in functional network organization while performing imagined movement in a BCI was also shown [3].
+
+Inspired by these results we designed training paradigm using BCI, EEG and mirror box for hemiparetic patients trying to perform real or imaged movement. We have two patients (male, 40 and 57 years old) with right arm paresis that were first trained using only mirror box and later using BCI with EEG in conjunction with mirror box.
+
+This training yields an enormous amount of data. My work is a part of this ongoing research conducted at Slovak Academy of Sciences and I develop and implement data analysis tools in Matlab. So far we have shown improvement in the mu rhythm after training as well as both subjective and objective improvement in patients arm movement. In future we plan to analyze changes in multiple frequency bands during training with BCI and mirror box and possible improvements in paretic limb performance.
+
+Even though the use of BCI and neurorehabilitation is widely used with paretic patients, we plan to use multiple frequency bands during training and observe possible correlation between these bands and  mu rhythm which has not been done before.
+
+!!Acknowledgments
+
+Special thanks to Roman Rosipal for his continuous support during my bachelor thesis and this project.
+
+!!References
+
+[1] 	J. A. Stevens and M. E. P. Stozkov, "Using Motor Imagery in the Rehabilitation of Hemiparesis," Archives of Physical Medicine and Rehabilitation, vol. 84, no. 7, pp. 1090-1920, 2003. 
+[2] 	F. Pichiorri, G. Morone, I. Pisotta, M. Secci, F. Cincotti, S. Paolucci, M. Molinari and D. Mattia, "Randomized Controlled Trial to Evaluate a BCI-Supported Task-Specific Training for Hand Motor Recovery after Stroke," Coverging Clinical and Engineering Research on Neurorehabilitation, vol. 1, pp. 501-505, 2013. 
+[3] 	B. Jarosiewicz, S. Chase, G. Fraser, M. Velliste, R. Kass and A. Schwartz, "Functional network reorganization during learning in a brain-computer interface paradigm," Proceedings of the National Academy of Sciences of the United States of America, vol. 105, no. 49, pp. 19486-19491, December 2008.
+

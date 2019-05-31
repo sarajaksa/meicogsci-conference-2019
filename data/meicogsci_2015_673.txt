@@ -1,0 +1,17 @@
+... title: How Does Breathing Affect Willpower?
+
+
+
+Abstract
+
+Willpower has been found to be reflected by increased heart rate variability (HRV) [1][2]. Since it has also been shown that HRV can be modulated by respiratory rate [3], it stands to reason that breathing affects willpower. However, this has not directly been empirically investigated so far. Therefore, this Master project experimentally tests the hypothesis that brief voluntary respiratory patterns have immediate short-term effects on people’s capability of resisting distraction through voluntary attention.
+
+The experiment mainly consists of an executive-function task in which participants are asked to perform a breathing exercise and subsequently focus their attention on a monitor in front of them where a boring screensaver is displayed, while to its right a second monitor shows distracting video clips including audio output (their appropriateness for this task was verified in a prior rating study). Subjects are recorded with a video camera, and their heart rate and respiratory frequency are measured. Willpower is quantified by the amount and duration of subjects' looking toward the attention-grabbing stimuli coming from the distractor screen.
+
+A slow-paced breathing exercise is predicted to lead to better and a fast-paced breathing exercise to worse willpower performance as compared to the control group with no breathing exercise. Further, better willpower performance is expected to positively correlate with increased HRV, greater heart rhythm coherence, higher conscientiousness, more experience with breath-focused activities as well as regular physical exercise.
+
+!!References
+[1] S. C. Segerstrom and L. S. Nes, "Heart Rate Variability Reflects Self-Regulatory Strength, Effort, and Fatigue," Psychological Science, vol. 18, no. 3, pp. 275–281, 2007.
+[2] A. Reynard, R. Gevirtz, R. Berlow, M. Brown and K. Boutelle, "Heart Rate Variability as a Marker of Self-Regulation," Applied Psychophysiology and Biofeedback, vol. 36, pp. 209–215, 2011.
+[3] H.-S. Song and P. M. Lehrer, "The Effects of Specific Respiratory Rates on Heart Rate and Heart Rate Variability," Applied Psychophysiology and Biofeedback, vol. 28, no. 1, pp. 13–23, 2003.
+

@@ -1,0 +1,33 @@
+... title: !!! Patterns of Verb Recovery and Their Influence on Sentence Production in Broca’s and Wernicke’s Aphasia
+
+
+
+Abstract
+
+!!! Patterns of Verb Recovery and Their Influence on Sentence Production in Broca’s and Wernicke’s Aphasia
+
+!! Introduction
+
+Specific grammatical class impairments are reported in the literature of aphasia. Investigating verb retrieval patterns in aphasics reveal several impaired parameters. These verb structures affect the establishment of the thematic and syntactic grid and play a role in the clinical classification of grammatical disorders. For this reason, interest in selective verb impairments is highly guided by the co-occurrence of such difficulties in sentence production. However, the relationship between oral sentence production and verb retrieval is not yet resolved. Furthermore, the different impaired aspects of verb usage as primary deficit are still under discussion [1].
+In this paper, qualitative and quantitative analysis of verb production patterns produced by a Broca’s and a Wernicke’s aphasic in an oral sentence production task at two test times are discussed and the ramifications of these verb processing difficulties in terms of their hypothesized underlying cause are reported.
+
+!! Methods
+
+! Participants
+
+EB, a 70-year old retired engineer, suffered an intra-cerebral hemorrhage left temporo-parietal. Standardized language assessment (i.e. the Aachener Aphasia Test) revealed Wernicke’s aphasia with a moderate degree of severity. 
+AD, a 30-year old restaurant owner with 13 years of schooling, suffered a cerebral insult left temporo-parietal. Initial testing revealed Broca’s aphasia with agrammatic sentence production.
+
+! Procedure
+
+Both patients received comprehensive language testing longitudinally past onset. An oral sentence production task to picture stimuli consisting of 80 items varying in verb valency and semantic reversibility was administered before and following provision of language therapy. The audio recordings were transcribed and their productions were analyzed mainly to selective variables from the "Quantitative Production Analysis" [2]. Various verb aspects and their relation to the overall sentence production are analyzed and compared within the time course of rehabilitation for the two patients.
+
+!! Results & Discussion
+
+This investigation aims to provide further data to the discussion if verb retrieval problems affect sentence production in first place by impaired access to different verbs aspects within the time course of establishing the syntactic frame. Preliminary results of EB’s data reveal an increase in well formed sentences due to a recovery of verb argument structures and morphological and lexical aspects (e.g. the higher use of main verbs). Analysis of AD’s verb production across time reveals a marked decrease in the use of the auxiliary verb “tut” and an increase in correct production of adequate main verbs. Comparison of EB’s and AD’s data partially reveals similar difficulties in accessing correctly inflected verb. Further analysis will determine whether the origin of the difficulties stems from the same or different processing mechanisms within the language system.
+
+!! References
+
+[1] R. S. Berndt et al., ”Verb retrieval in aphasia. 2. Relationship to sentence processing.” Brain and Language, vol. 56, pp. 107–137, 1997.
+[2] E.M. Saffran et al., “The quantitative analysis of agrammatic production: procedure and data.” Brain and Language, vol. 37, pp. 440–479, 1989.
+

@@ -1,0 +1,26 @@
+... title: ERP Measure of Automatic Number Processing
+
+
+
+Abstract
+
+BACKGROUND
+Number cognition is a topic of growing interest in the field of cognitive science. Recent investigations have shown that humans, both pre-linguistic children and adults, as well as animals, possess a special intuition of numerals called number sense [1].
+Generally, two systems of number representation have been identified in the literature: the former dealing with approximate representations and the latter - with precise representations of numerical magnitude [2]. Different mathematical operations are associated with different number systems: subtraction employs the approximate representation of numerical magnitude and relies on online strategies, while multiplication uses the precise representation of numbers and is believed to retrieve the information replying on multiplication tables stored in long-term memory. However, the case of addition is slightly more complicated because it can rely on both core systems. It is suggested that single-digit additions are retrieved from the memory, while more complex operations with multi-digit Arabic numbers rely on the approximate number system [3]. 
+Our project aims at exploring the automaticity of number processing in humans by analysing behavioural data and comparing event-related brain potentials (ERPs) during comparison and addition tasks of one-digit Arabic numerals. Our hypothesis suggests that adults automatically process one-digit numbers by adding them. This has been tested in two separate EEG experiments. 
+
+MATERIALS AND METHODS
+20 female right-handed students, aged between 21 and 27 years old, were recruited for the study and took part in both experiments on two separate days. All participants had no history of neurological or psychiatric disorders and they were asked to give informed written consent. 
+In both experiments, two numbers A and B were shown consecutively, followed by a third target number. The same stimuli were used for the two experiments, only the task was different. In the comparison task, participants had to decide if the third number was either A or B, while in the addition task, whether the target number was the sum of A and B. Experimental conditions varied the target numbers; they were the following: A's or B's (comparison condition), their sum (addition condition), sum+-1 (approximate addition condition), or unrelated prime numbers (unrelated condition). A total of randomly selected 144 trials were shown in every experiment and each experiment lasted for about 30 minutes, with 2 pauses in between. The stimuli were presented using E-Prime (2009 Psychology Software Tools, Inc.) and behavioural data have been collected and analysed using SPSS.
+ERPs were derived from the EEG recordings using a cap with 32 electrodes (actiCAP 32 channels). The ERPs from the two experiments were compared in order to define an electrophysiological trace of automaticity of addition.
+
+PRELIMINARY RESULTS
+Reaction time and accuracy of responses were analysed. The participants had accuracy ranging between 93 % and 100 %. They were divided into two groups, depending on whether they have started with the first or second experiment. The behavioural analysis showed no significant effect on group and task alone, but a significant interaction between group and task, which suggests that the RT of the second group during the comparison task was influenced by the addition task executed beforehand.   
+The EEG data was pre-processed using ocular corrections, filters (low pass 30 Hz, high pass 0.1 Hz), editing of channels (excluding ocular electrodes detecting for blinks), raw data inspection (excluding corrupted data), and segmentation of the four stimuli. ERP grand averages from experiment 1 and experiment 2 for both groups were compared separately. The following factors have been selected: lobe (frontal, central, parietal), hemisphere (left, central, right), task (experiment 1, experiment 2), and conditions (the four conditions mentioned above). 
+The preliminary results suggest a significant difference between frontal, central and parietal activation. There was a positive effect observed for addition at 200 ms, as well as late parietal positivity. All in all, the current results confirm an activation specific for the addition condition which is different from all other conditions. 
+
+References
+[1] Dehaene S (2011) The number sense. How the mind creates mathematics. New York: Oxford University Press.
+[2] Feigenson L, Dehaene S, Spelke E (2004) Core systems of number. Trends in Cognitive Sciences 8 (7): 307–314.
+[3] Dehaene S (2004) Arithmetic and the brain. Current Opinion in Neurobiology 14 (2): 218–224.
+

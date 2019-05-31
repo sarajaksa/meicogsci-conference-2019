@@ -1,0 +1,28 @@
+... title: Labour, Its Coercion, and How Cognitive Science Has Engaged with Them
+
+
+
+Abstract
+
+## Context
+
+Labour assumes a central position in the life of almost all humans alive today. Given cognitive scientists' contributions to technological advances in automation, one might expect labour to take a similar position in their work, especially considering the origins of the discipline (cf. [1]). In fact, labour, eschewed in favour of 'work', appears rarely addressed explicitly, despite the deep ramifications cognitive science research into process management, expert systems and other technologies has had for it. Here, Norbert Wiener's warning of "the large-scale replacement of labour by machine on the level not of energy, but of judgment" [3] may be a remarkable exception. 
+
+## Purpose
+
+Following Wiener, the proposed analysis focuses on the automation of cognitive labour. Specifically we investigate whether and, if so, how labour was addressed throughout the history of cognitive science as a distinct discipline. This focus on labour also provides the basis for the second theme of the current work; namely, the possibility of a role for Marx’ concept of ‘Arbeitszwang’ [2]. In contrast to a theoretical analysis in economic terms, we conduct an inquiry of the psychological dimension of this ostensible coercion. We establish a true interdisciplinary credential by repurposing a concept from economics as a tool for a psychological analysis intended to deepen our understanding of labour as cognitive scientists.
+
+## Method
+
+The investigation consists of extensive literature research. Divided into two sections, the project is equal parts historical and exploratory. Throughout, we aim to channel the critical approach exemplified by authors in Science and Technology Studies. In this sense, the analysis will also include ethnographic studies from across the globe. This combination of methods and sources leads us to take it to be vital that few assumptions are made about the outcome our research. Moreover, the present work will participate in a self-reflective process directed towards understanding cognitive scientists' obligations with respect to the consequences of their academic work.
+
+## Implications
+
+The goal is to make explicit the role of labour to cognitive science. Exploring how previous, particularly defining, publications have engaged with labour opens the door to an immanent consideration of the broader economic, political and social ramifications of research in cognitive science. Their consideration is beyond the scope of the present work, but a crucial element the discipline.
+
+## References:
+
+[1] M. Boden, Mind as Machine. Oxford, UK; Oxford University Press. 2006
+[2] K. Marx, Ökonomisch-philosophische Manuskripte. Geschrieben von April bis Aug. 1844. Karl Marx. Nach der Handschrift. Leipzig, DE; Reclam, 1968.
+[3] N. Wiener, "Letter to UAW President Walter Reuther", libcom.org, para. 6, August 13, 1949 [Online] Available: https://libcom.org/history/father-cybernetics-norbert-wieners-letter-uaw-president-walter-reuther. [Accessed April 12, 2018]
+

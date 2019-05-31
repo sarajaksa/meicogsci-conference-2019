@@ -1,0 +1,21 @@
+... title: Mirror neurons and empathy: what is neuroscience to theory?
+
+
+
+Abstract
+
+Three theories predominate in contemporary discussions about empathy: theory of mind theory (or theory theory, TT), simulation theory (ST) and the theory of direct access/perception (DP). In the last two decades, interest in ST has surged due to the discovery of mirror neurons. The interpretation of mirror neuron activity as support for simulation theory, however, has raised objections from some philosophers who believe that the neurological picture is better explained with reference to DP. In my thesis, I will explore these approaches, detailing their explanatory powers and weaknesses.
+
+Mirror neurons were discovered in the 1990s by the Parma group in the premotor cortex (area F5) of macaque monkeys. By use of single cell experiments, the group found that the cells fire not only when the monkey subject performs an object-directed action itself, but also when observing another perform the same kind of action. These findings were interpreted as support for ST, which posits that we grasp the mental states of others by using a process of inference; we see the actions of another person and refer to an internal simulation in order to understand the mental states behind them. The Parma group believed that they had found the neural substrate responsible for this simulation process [1, Ch.1,3].
+
+Defenders of DP dispute the simulationist interpretation because, for them, the neurological evidence points toward a different picture of how empathy, and the mind in general, works. DP is grounded in an embodied conception of mind, which means that  mental states are believed to be expressed in a person’s bodily actions and are therefore directly accessible to the similarly embodied observer. Mirror neuron activity is, therefore, interpreted as being integral in the process of social perception rather than being one module in a system of inferential reasoning [2].
+
+We then have two interpretations of mirror neuron activity which rest on very different philosophical assumptions. Both are defended in part with reference to neurological evidence. This then raises the question as to what is the place of neuroscientific evidence in empathy research? Can it provide clear, irrefutable evidence of the functional contribution of mirror neurons, or is it always coloured and constrained by the philosophical presuppositions of the researchers?
+
+!!Acknowledgements
+Many thanks to Assist. Prof. Sebastjan Vörös for supervising this project.
+
+!!References
+[1] G. Hickok. The Myth of Mirror Neurons: The Real Neuroscience of Communication and Cognition. New York: W.W. Norton & Co, 2014.
+[2] S. Gallagher, “Simulation trouble”, Social neuroscience, vol.2, no.3, pp.353-365, 2001.
+

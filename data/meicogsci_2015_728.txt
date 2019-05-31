@@ -1,0 +1,17 @@
+... title: Measuring Direct Effect of cTBS over Right DLPFC on Processing Cognitive-emotional Tasks and Its Efficiency as a Depression Treatment over Time
+
+
+
+Abstract
+
+Transcranial magnetic stimulation (TMS) is a noninvasive method that uses electromagnetic induction through which we can manipulate brain activity and alter cortical excitability. There has been more than 15 years of research on the use of repetitive form of TMS (rTMS) for the treatment of patients with depression. High frequency (10 Hz) rTMS applied to the left dorsolateral prefrontal cortex (DLPFC) is a FDA approved treatment for adults with resistant depression [1].
+
+A newer form of rTMS protocol, theta-burst stimulation (TBS), has been shown to produce similar if not greater effects on brain activity than standard rTMS, while administration duration is reduced. There are two commonly used patterns of TBS, designed to mimic the endogenous theta rhythms of the brain, continuous (cTBS) and intermittent (iTBS). Hypoactivity of the left DLPFC and hyperactivity of the right DLPFC are common explanations for the occurrence of major depression. Intermittent TBS applied to the left DLPFC or a combination of iTBS plus cTBS applied to the left and right DLPFC, respectively, were shown to be more effective than cTBS or sham TBS in treatment-resistant depression [2].
+
+The aim of our study is to test and optimize one cTBS protocol. We will choose between two protocols (30 Hz and 50 Hz) that are under research at the moment. We will use the one that will prove to be more efficient in changing brain plasticity in primary motor cortex over time. We will also try to improve the protocol by using neuronavigation system (combined with fMRI) in order to accurately localise the target area on right DLPFC individually on each subject. We will use depressed patients and sham controls, and during 10 sessions we will evaluate change in depression severity measured by the 21-item Hamilton Depression Rating Scale (baseline versus end of treatment). The aim is also to measure whether this cTBS protocol has any direct effect on execution of tasks which will be specially designed to induce cognitive-emotional interactions. The hypothesis is that over time subjects will report being less depressed (lower scores on depression scales) and that there will be an observable and significant immediate effect following each cTBS session - we expect the responses on tasks to be less emotional.The results will give us a better insight into depression treatment with TMS and will help us to optimize the procedure for the future implementation of treatment of drug resistant depression.
+
+
+!!References
+[1]  S. Rossi et al., “Safety, ethical considerations, and application guidelines for the use of transcranial magnetic stimulation in clinical practice and research”. Clinical Neurophysiology, 120(12), pp. 2008-2039, 2009.
+[2] C. Li et al., “Efficacy of prefrontal theta-burst stimulation in refractory depression: a randomized sham-controlled study”. Brain, 137(7), pp .2088-2098, 2014.
+

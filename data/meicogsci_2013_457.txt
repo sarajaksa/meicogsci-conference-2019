@@ -1,0 +1,23 @@
+... title: !!!Associative Memory for Multimodal Representations
+
+
+
+Abstract
+
+!!!Associative Memory for Multimodal Representations
+
+Multimodal representations are distributed and dispersed in multiple specific modalities. This representation includes visual, proprioceptive or other modality. According to Barsalou[1] information travels from sensors up to neurons in feature modules, which produce a modality specific representation. Conjunctive neurons in association area then capture representations from multiple modalities and connect them in one. In absence of input from particular modality, conjunctive neurons can partially reactivate representations in feature modules and reenact or simulate earlier sensory inputs. As a means for sensorimotor simulation might be used Common coding theory [2], which suggests that there is a common representational base for perception and action (motor performance). The perception of action automatically activates its motor component (motor resonance) and vice versa.
+
+In this project we implemented artificial neural network(ANN), which simulates the behavior of conjunctive neurons in association area and works as associative memory(AM). Our hypotheses is that such AM could be used to simulate missing sensory inputs, which were presented to it earlier. In our case, the network received information from two modalities at once, visual and proprioceptive(motor) and integrated it. This information was produced by two feature modules. To test our implementation, we presented the trained AM with input from just one modality and expected it to complete the missing part of the representation for other modality. Particularly, we were interested in reproducing motor resonance.
+
+For our AM we chose Restricted Boltzmann Machines (RBM) [3]. The RBM is an ANN which uses a biologically plausible algorithm similar to Hebbian learning. We used its pattern completion ability. RBM was chosen also for its good performance when storing so called "sparse" representations, in which just small set of neurons carries the information. RBM received sparse representations generated from two separate ANN modules. These modules consisted of ANN which are able to process temporal data. One module was processing input from visual and second from proprioceptive modality. Representations generated from these modules were acquired during execution of three types of tasks in iCub robotic simulator.
+
+Our RBM was able to successfully complete the missing parts of learned representations. This supports our hypotheses.
+
+!! References
+[1] L.W. Barsalou, "Perceptual symbol systems", Behavioral and Brain Sciences, vol. 22, pp. 577-609, 1999.
+
+[2] B. Hommel, J. Müsseler, G. Aschersleben, and W. Prinz, “The Theory of Event Coding (TEC): a framework for perception and action planning”, The Behavioral and Brain Sciences, vol. 24, no. 5, pp. 849–78; discussion 878–937, Oct. 2001.
+
+[3] R. Salakhutdinov, A. Mnih, and G. Hinton, “Restricted Boltzmann machines for collaborative filtering”, Conference on Machine learning, pp. 791–798, 2007.
+

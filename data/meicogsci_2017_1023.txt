@@ -1,0 +1,14 @@
+... title: Fetal Testosterone and Autism
+
+
+
+Abstract
+
+There is a significant prevalence of autistic traits in population towards men and it has lot to do with sexual hormones (testosterone in particular).  For this reason in year 2002 Simon Baron-Cohen[1] came out with a theory which elevated correlation of these two as an effect on the development differences that cause autism. Derived from Systemizing-empathizing theory, but with the testosterone effect in the mix, Baron-Cohen created Extreme male brain theory.
+Where it began with the Extreme male brain theory, this project continues to explore ways how to prove it. In addition we try to explore and find new connections between the  autism and its biological and cognitive correlates to figure better ways to diagnose people within autistic spectrum. The theory mentioned above puts the effect of higher fetal testosterone levels exposure in relationship to autistic traits occurrence. Therefore one of the markers that can be studied and indicates who was exposed to the testosterone during their prenatal phase is the ratio of the index and the ring finger, known as 2D:4D. 
+The data were collected of the 2D:4D ratios(scanning palms and calculating ration in a computer program) and  screening tests for autism and aggressivity(as a tendency to aggressive behaviour; which is almost always present in autistic people; towards themselves or the others)  of students of Faculty of Mathematics, Physics and Informatics. In this faculty there we assume a higher concentration of people with more autistic traits due to the school´s programmes dedication to the computational, analytical and mathematical direction. Participants to the project were students of studying programmes: Mathematics, Applied Informatics, Physics and Cognitive Science. We divided these into two groups; first one being more technical/analytical (Informatics,Physics) and the second as social technical(Management Mathematics,Cognitive Science; as having social subjects in school beside the technical ones).We believe to find the difference in correlations between the biological and the cognitive markers in the two groups. 
+This project serves also as a part of a major study conducted by the Institute of Physiology and the Faculty of Medicine of Comenius University in cooperation with other institutions whose dedication is to study, diagnose and treat autism. The data collection for this study are currently happening on other faculties of Comenius University. Together to have unique perspective about distribution of autism and the correlates that relate one to another, and in compare to neurotypical population. 
+
+References
+[1] S. Baron-Cohen,“ The extreme male brain theory of autism,“ Trends in cognitive sciences, vol.  6(6), pp. 248-254, 2002
+

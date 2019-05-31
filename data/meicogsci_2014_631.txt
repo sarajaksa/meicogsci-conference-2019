@@ -1,0 +1,17 @@
+... title: Can EDA Synchrony Differentiate Between Attentive and Non-attentive Listening?
+
+
+
+Abstract
+
+!!!! Can EDA Synchrony Differentiate Between Attentive and Non-attentive Listening?
+
+The current study is designed to assess whether empathic synchrony and skin conductance (EDA) synchrony appears during attentive listening. Prior studies by Marci et al[1] showed that perceived empathy of counsellors and skin conductance of patients and counsellors showed positive correlation during sessions. Zaki et al[2] showed that verbal information is critical for empathic accuracy (EA). EA is the level in which people can judge the emotional state of another person. I hypothesize that there is a connection between EDA and EA. In the current study participants are required to view audio/visual footage, while being distracted in order to evaluate what effect distraction has on EA and EDA.
+
+!! Acknowledgements
+Special thanks to Petr Slovak and IGW for supporting this project
+
+!!References
+[1]Carl D. Marci MD, Jacob Ham PhD, Erin Moran, BA and Scott P. Orr PhD, Physiologic correlates of Perceived Therapist Empathy and Social-Emotional Process During Psychotherapy. The Journal of Nervous and Mental Disease, 195., pp.103-111, 2007
+[2]Jamil Zaki, Niall Bolger, and Kevin Ochsner, Unpacking the Informational Bases of Empathic Accuracy. Empathy, 9, pp. 478-487, 2009
+

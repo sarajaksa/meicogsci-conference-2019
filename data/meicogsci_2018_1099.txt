@@ -1,0 +1,21 @@
+... title: An Attempt At a First-person Account of Languaging
+
+
+
+Abstract
+
+## Context
+Languaging, as understood by Cuffari, Di Paolo and De Jaegher [1], is a form of participatory sense-making that emerges from a coupling between two or more autonomous agents. Because the interaction itself gains a form of autonomy, a primordial tension emerges between the individual and the interactional levels. One such tension relates to norms, which may differ between the two levels. An agent must in this case forego their own norms to the benefit of the interaction or suffer its breakdown. Similarly, at the level of social agency, the agents must accept that the mutual coupling be co-regulated by the other. Different acts by the agents can thus catalyse or frustrate the interactional processes. Pertaining to coordination there is another kind of tension -  a tension between creative and rule-based frameworks. Different acts can take the form of novel, exploratory moves or revert to learned, habituated ones. In total, there are 7 levels of tensions that offer predictions on behavioural and experiential levels during the interactional process (such as experiencing a pull away from the individual towards the interactional at the level of social agency).
+
+## Purpose and Method
+The aim of the present study is to explore how this model of languaging relates to actual social situations involving the use of language. We are most interested in the experiential aspects - do the different tensions relate to observable phenomena?
+The experiment will be set up as a spontaneous conversation between two interlocutors that have not met before. The exact configuration of the experiment is to be determined during the pilot study, however the first part will concern the setting up and filming of the conversation. We will then conduct elicitation interviews with the participants as developed by Petitmengin [2]. Next, we will perform thematic analysis on the video so as to determine categorical codes [3]. Based on the conversation, we will try to construct an historical experiential account of the interaction and compare it to the theoretical predictions set forth by the model [1]. The experimental setup will also allow for other forms of analysis, such as that of nonverbal communication. 
+
+## References
+
+[1] E. C. Cuffari, E. Di Paolo, and H. De Jaegher, “From participatory sense-making to language: there and back again,” *Phenomenology and the Cognitive Sciences*, vol. 14, no. 4, Dec., pp. 1089-1125, 2015.
+
+[2] C. Petitmengin, “Describing one’s subjective experience in the second person: An interview method for the science of consciousness,” *Phenomenology and the Cognitive sciences*, vol. 5, no. 3-4, Dec., pp. 229-269, 2006.
+
+[3] U. Flick, *An Introduction to Qualitative Research*. London: Sage, 2009.
+

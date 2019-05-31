@@ -1,0 +1,27 @@
+... title: Performative Acts: “Let There Be Reality!”
+
+
+
+Abstract
+
+!!!! Performative Acts: “Let There Be Reality!”
+
+The following abstract represents a preliminary exploration of a constructivist framework that will serve as a basis for further investigation of construction and regulation of meaning and problematisation of the notion of agency.
+
+There can be little doubt that constructive processes of some kind underlie the creation of social reality, e.g., institutions such as money or private property.  Searle [1] identifies the basic mechanism for the creation of institutional facts in declarative speech acts or, short, declarations. Declarations differ from other speech acts in not having an analogue of pre-linguistic intentionality. The peculiarity resides in their reflexive intentional structure, that is, declarations install ontological facts in reality, by representing them as existing or, in theatrical terms, through performance. “I pronounce you man and wife” is a declarative exemplar par excellence.
+Additionally, Searle claims that once there is language, there is already a fully blown social reality. Indeed, the conventional nature of language becomes obvious as soon as one realizes that there is nothing natural about the ascription of meaning to particular signifiers, be it words, symbols, sounds or images.
+Crucially, the social conventions underlying the structure of language imply a set of commitments. In the most trivial case, a user of language is committed to tell the truth. However, institutional facts exceed such examples, by involving commitments, which go far beyond the truth. For instance, private property installs a much more complex system of rights, duties, prohibitions, etc. It follows that social reality, at its purest, is about the distribution of (social) power.
+
+Despite advocating a similar stand on the nature of social reality, Butler [2] differs in problematising the notion of agency. Whereas Searle sees agency as a locus of declarations, Butler’s famous statement “There is no doer before the deed” establishes agency as the effect of performative acts. In other words, the actor is always already on a stage.  The subject, instituted through performance, is therefore an illusion masking its own origin.
+The performative acts then create the illusion of essence, as if things expressed their inner nature. For instance, by behaving as if money had inherent value, we get to experience it as such. Indeed, performances are enactments of possibilities in a given historical moment that get reified and sedimented through repetition. However, the enactment is always regulated by punitive processes, thus a subject is a subject under coercion. In a given historical moment, there are limited ways of performing a role, be it the role of a female or a professor.
+
+Social reality can then be conceived of as subjectivized objective social structures (which themselves change through time). It is the way we objectively perceive reality. That is, it is as if we observe the reality through some kind of conceptual filter, which produces a particular meaning, but if we were to take the filter away, we would lose the meaningful reality itself. As Žižek [3] puts it, by destroying appearances, we destroy the thing behind the appearances as well.
+
+!! References
+
+[1] J.R. Searle, “Language and Social Ontology.” Theory and Society, vol. 37, (5) pp. 443-459, 2008.
+
+[2] J. Butler, “Performative Acts and Gender Constitution: an Essay in Phenomenology and Feminist Theory.” Theatre Journal, vol. 40, (4) pp. 519-531, 1988.
+
+[3] S. Žižek, How to Read Lacan. New York: W.W. Norton & Company, 2007.
+

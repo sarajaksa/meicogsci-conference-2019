@@ -1,0 +1,27 @@
+... title: !!!! Towards a Framework for Understanding the Adoption of Innovations in the Context of a Social Setting.
+
+
+
+Abstract
+
+!!!! Towards a Framework for Understanding the Adoption of Innovations in the Context of a Social Setting.
+
+Innovation as being defined as a product or process that incorporates a feature that is new to the perceiver constitutes a well-researched topic in various scientific fields including economics and cognitive science. The need for innovation becomes increasingly important for organizations in order to ensure their long-term success. [1]
+While there is a lot of research on how to foster the emergence of new knowledge there is little understanding of how it is adopted. 
+
+Traditional assumptions in the research on innovation adoption referred to innovations in terms of their intrinsic properties, such as newness and relative advantage; however, little attention has been given to the perception of new knowledge in relativity to social life, reflecting the fact that it occurs in social context. [2] 
+
+Social identity theory and self-categorization have been shown to have clear implications for the perception of new knowledge within the context of a social group. Utilizing techniques to prime either the private identity or a social identity, it has been found that subjects judge and evaluate the degree as well as the usefulness of innovations differently. These findings suggest several implications, such as a bias towards ideas that come from in-group members and a shared perception of issues and topics relevant to in-group members. [2]
+Elaborating on these findings, further concepts are being investigated that may contribute to the understanding of consensual domains between group members and thus, their perception and attitudes towards new knowledge. One example is the concept of Group Tacit Knowledge by Nonaka. [3]
+
+In combining these insights, this project opts for making relevant common knowledge and belief structures of social groups accessible to acquire an understanding of how new knowledge is adopted and spread. 
+Results are expected to reveal practical insights into the construction of knowledge as well as enabling its implementation.
+
+!! References
+
+[1] M. D. Mumford et al., “Creativity in Organizations: Importance and approaches”. In Handbook of organizational creativity. New York, NY: Academic Press, 2012.
+
+[2] S. A. Haslam et al., “The Collective Origins of Valued Originality: A Social Identity Approach to Creativity”, Personality and Social Psychology Review, vol. 17, no. 4, pp. 384 – 401, 2013.
+
+[3] I. Nonaka et al., “The Quality of Group Tacit Knowledge”, Journal of Strategic Information Systems, vol. 17. pp. 4 – 18, 2008.
+

@@ -1,0 +1,22 @@
+... title: Proneness to Uncritical Acceptance of Information
+
+
+
+Abstract
+
+!!!! Proneness to Uncritical Acceptance of Information
+
+!! Introduction
+        Something we could call “not thinking critically” is currently being scientifically studied more as a cognitive phenomenon in regards to biases and cognitive errors. I personally believe that at the moment, it is crucial for us to study it as a character trait [1], as well as to study its social impacts and correlating factors. Whilst understanding the value of diversity of thinking amongst people, when dealing with problems concerning humanity as a whole, a scientific approach to understanding and solving them is absolutely necessary. That is why I want to try and find some factors correlating with it, as well as get a picture of a non-scientist’s attitude towards and understanding of science.
+
+!! Methods
+	To acquire needed information, an online questionnaire with a total of 20 questions (plus demographics) has been administered. It consists of three parts, first are demographic data such as one’s age, religious views, and whether or not they work in a field related to science.
+ Second part attempts to measure their style of evaluating new information – whether they apply skeptical criteria (5 questions presented with skeptical criteria) or not (different 5 questions presented with non-skeptical criteria). It does so in the form of presenting a hypothetical situation (one at a time) and letting the participant rate the presented evaluation criterion. Participants have been asked to rate the presented criterion as “highly” or “not at all” relevant to judging an information's credibility on a 5-point Likert scale. 
+The third part is aimed at measuring participant’s own attitude and knowledge regarding science. Questions and statements presented in this part consist either of popular myths about science or short descriptions of how science works (5 questions), or various attitudes towards science (other 5 questions). Participants have been asked to express if they identify themselves with these statements or not. 
+Subsequently, I analyze acquired data for correlations between various part of the questionnaire.   
+
+!! References
+[1] J. Passmore, "On Teaching to Be Critical", Inquiry, v.15, no.3, Spring 1996, p.1-16 (ISSN: 1093-1082) 
+[2]M. McKee, “Denialism: what is it and how should scientists respond?”, European Journal of Public Health, Vol. 19, No. 1, 2–4, 2009
+[3] P. Ditto, D. Lopez, “Motivated skepticism: Use of differential decision criteria for preferred and nonpreferred conclusions.” Journal of Personality and Social Psychology, 1992, Vol. 63, No. 4, 568-584
+

@@ -1,0 +1,25 @@
+... title: Gender Differences in Incentive Sensitivity
+
+
+
+Abstract
+
+## Introduction
+
+In the modern workplace, an organization’s success depends greatly on their employees’ willingness to engage in challenging tasks - problems to be solved in uncertain conditions. Since not all employees are equally as willing to do that, incentives are introduced as a way to make sure that these problems are taken care of. 
+However individuals may respond to incentives differently. Gray and McNaughton believe that incentive sensitivity is dependent on an individual’s motivational disposition [1]. We believe that this can be linked to two psychological systems - the behavioral activation system (BAS - increasing sensitivity to positive incentives) and the behavioral inhibition system (BIS - increasing sensitivity to negative incentives). 
+The aim of our project was to investigate the differences in incentive sensitivity between men and women, seeing as some studies show women tend to perform better and achieve better results in schools, but usually take less demanding jobs.
+
+## Methods
+
+With that in mind we used a modified Sternberg task [2] (short term recall of letter sequences of varying length) with three rounds, corresponding to three difficulty settings (easy, medium, hard), based on the number of letters in the sequence. Each round had the participant choose between an easier and a challenging task of the same difficulty setting (a shorter and a longer sequence of letters). This was done in an incentivised setting and a nonincentivised one. BIS and BAS were measured using the Carver and White BIS/BAS scale [3]. 
+
+## Key Findings
+
+A notable finding of our study is that while women tend to score higher on BIS than men, there is no difference between the genders when it comes to BAS. Additionally, men are more likely to choose the more challenging task, but the difference is not statistically significant. Contrary to our expectations, when performing moderately hard tasks, women were more highly motivated by monetary rewards. Perhaps most surprising was the fact that the best explanatory variable when it comes to determining the choice between easy and challenging tasks was prior outcome - success or failure on prior tasks. 
+
+## References
+[1] J.A. Gray and N. McNaughton, The neuropsychology of anxiety: An enquiry into the functions of the septo-hippocampal system (2nd ed.). Oxford: Oxford University Press, 2000
+[2] S. Sternberg, “High-Speed Scanning in Human Memory,” Science, vol. 153, no. 3736, pp. 652–654, May 1966.
+[3] C. S. Carver and T. L. White, “Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: The BIS/BAS Scales.,” Journal of Personality and Social Psychology, vol. 67, no. 2, pp. 319–333, 1994.
+

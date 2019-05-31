@@ -1,0 +1,9 @@
+... title: Modulation of sensory-motor rhythmic activities for improving BCI training in neurorehabilitation
+
+
+
+Abstract
+
+The brain–computer interface (BCI) technology using motor imagery evoked brain signals has been proven to be a promising novel neurorehabilitation tool. This includes not only ability to train and improve functioning of impaired motor-related brain structures and signals, for example after stroke, but also building compact systems where the BCI technology combined with robotic devices allows the construction of systems where physical robot-assisted rehabilitation is driven by the subject’s own mental processes manipulation. This represents the novel neurorehabilitation concept where the important loop consisting of physical movement, sensory information and mental motor-related intentions is closed. However, several critical issues need to be addressed before using BCI in this setting, namely, the issue of selecting the proper BCI paradigm providing responsive and precise control without requiring excessive attention or high cognitive load on the part of users. 
+	In this talk I will discuss novel neurorehabilitation training paradigm, including the electroencephalogram (EEG) biofeedback (neurofeedback) and mirror-neurons based training, aiming to less strictly and more unintentionally modulate sensory-motor-related brain oscillatory rhythms prior to the BCI training procedure itself. In the context of testing the validity of mirror-neurons training and the neurofeedback training protocol improvement, I will discuss advanced multi-way EEG data analysis approaches allowing decomposing multichannel EEG into elemental components or “atoms” defining spatial, spectral and temporal sub-elements of EEG. Finally, I will report of experimental and analytical results obtained so far and I will discuss some further research directions.
+

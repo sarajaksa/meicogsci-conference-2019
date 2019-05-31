@@ -1,0 +1,23 @@
+... title: Computational Model of Memory Consolidation
+
+
+
+Abstract
+
+Memory is one of the most important and obvious parts of both human and animal cognition. The way it functions has been shrouded in mystery for hundreds of years. Finally, humankind was capable of observing and studying the memory much more rigorously with advances in psychology and medicine. The study of amnesia by Squire and Shimamura [1] in 1989 revealed a strong correlation between severe cases of temporally-graded retrograde amnesia and bilateral lesions involving all cell fields of the hippocampus and dentate gyrus. Zola-Morgan and Squire [2] later discovered that patients with damaged neocortical structures such as anterior and lateral temporal lobe suffered from ungraded forms of retrograde amnesia. These observations of retrograde amnesia suggest, that the long-term memories, lost in the ungraded retrograde amnesia must be stored in neocortical structures, whereas hippocampus must be involved in some process that turns short-term memories into long-term ones [2]. This process was named memory consolidation.
+
+Developments in computer science allowed us to create computational models, such as neural networks. This enabled the researchers to use these models as virtual laboratories where everything was possible to research and analyze. With advances in connectionist models, scientists started to use the neural networks to model various functions and areas of brain and cognition [3].
+
+Considering this, we aimed to designed and implemented model capable of consolidating memories and later recalling them from long-term memory. To do this, we used two self-organizing maps, one being the hippocampus, the other neocortex, and wast knowledge gained from research done in neuroscience. 
+
+We created model capable of transforming episodic data into short-term memories stored in the hippocampus that are later consolidated into long-term memories stored in the neocortex, taking the emotionality and recency of the episodic memories into account when consolidating them.
+Our model was also capable of recollection of the older data from the neocortex showing that even older data was not lost in the neocortex during training.
+
+!!Acknowledgements
+I would like to thank Martin Takáč for his support during this project.
+
+!!References
+[1] L.R. Squire, F. Haist and A.P. Shimamura, "The neurology of memory: quantitative assessment of retrograde amnesia in two group of amnesic patients," J Neurosci, vol. 9., pp. 828-839, 1989
+[2] S. Zola-Morgan and L.R. Squire, "Neuroanatomy of memory," Annu Rev Neurosci, vol. 16, pp. 547-563, 1993
+[3] D.M. Cer and R.C. O'Reilly, In: Neural mechanisms of binding in the hippocampus and neocortex: Insights from computational models, Handbook of binding and memory, perspective from cognitive neuroscience. New York: Oxford University Press, 2006
+

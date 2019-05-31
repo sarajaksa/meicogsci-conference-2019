@@ -1,0 +1,23 @@
+... title: Automatic Processing of Language in Bilinguals
+
+
+
+Abstract
+
+!!!! Automatic Processing of Language in Bilinguals
+
+!! Introduction
+Attention is a cognitive process that helps us interact with our environment. When performing various actions, attention can be needed to different extent – this divides the actions into “automatic” and “controlled” [1]. The processing of language is considered automatic; speech and written text can attract attention very effectively even if you are immersed in a different activity. This behaviour is manifested by Stroop interference [2], where the reading of written text (language processing) is interfering with a secondary task (colour naming, picture naming or picture categorisation). Our previous experiments with Croatian and English (and work of other researchers [3]) have also shown that the interference is absent (or less prominent) in foreign languages, thus Stroop effect is visible primarily in the native language of the participant.
+This study aims to find out which language is more dominant in Slovak minority in Vojvodina, Serbia. The participants live in a Serbian-speaking environment but their families are usually Slovak-speaking. They have various educational backgrounds, some studied in Slovak, some in Serbian.
+
+!! Methods
+This study uses a picture-Stroop task with text labels as distractors. Pictures are from two categories, animals or non-living objects. Distractor can contain the name of the object on the picture (congruent condition) or a name from the other category (incongruent condition). The experiment is implemented as a web application because most of the participants live in Serbia. Participant’s job is to categorise the objects. Firstly, 5 training stimuli are shown to the participant and the presentation application responds whether the answer was correct or not. Then a set of 50 English stimuli is presented to the participant without feedback. The final stage of the experiment contains 90 stimuli in Serbian and Slovak, with languages mixed.
+
+!! Expected Results
+We are focusing on difference in reaction times between congruent and incongruent condition. Stroop effect is manifested by lower reaction time in congruent condition and higher in incongruent. We expect the Stroop effect to be stronger in Slovak trials. It should be weaker in Serbian trials but getting stronger if the participant had more exposure to Serbian in school or current environment. Performance in English trials is not crucial; it is used as a baseline.
+
+!! References
+[1] 	R. M. Shiffrin and W. Schneider, “Controlled and automatic human information processing: II. Perceptual learning, automatic attending and a general theory.,” Psychological Review, vol. 84, no. 2, pp. 127-190, 1977. 
+[2] 	J. R. Stroop, “Studies of interference in serial verbal reactions,” Journal of Experimental Psychology, vol. 18, no. 6, pp. 643-662, 1935.
+[3] 	H. Okuniewska, “Impact of second language proficiency on the bilingual Polish-English Stroop task,” Psychology of Language and Communication, vol. 11, no. 2, pp. 49-63, 2007.
+

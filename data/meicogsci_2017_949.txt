@@ -1,0 +1,25 @@
+... title: Activation of the Mirror Neuron System by Emotional Facial Expressions
+
+
+
+Abstract
+
+Following a thorough review of existing research and related literature, an analysis of fMRI data using FSL software will lead to identification of brain areas specific to processing of emotional facial expressions.
+
+The investigation was conducted on 30 accounting and finance managers (50% women) in business firms in Slovenia. Participants’ average age ranged from 24 to 52 years (37 years on average), and their work experience ranged from 1 to 26 years (12.8 years on average). They had an average of 17 years of education, and most of them held a master degree in business, economics, accounting or finance. 
+
+The subjects participated in an approximately two-hours long fMRI recording at the Centre of Clinical Physiology, Medical Faculty, University of Ljubljana, Slovenia. The recording included various tasks including the one we are interested in: the participants were asked to observe videos of actors expressing different emotional states (anger, disgust, happiness, surprise, neutral) or a moving geometric shape as control.
+
+I will compare and contrast various conditions among themselves, and with previous research, in order to identify areas specific to emotions [1]-[3]. Those, presumably, part of the mirror neuron system [4]. My goal is to localize the latter and elucidate its involvement in processing emotional expressions.
+
+
+!!References
+
+[1] P. F. Ferrari et al., “Distinct EEG amplitude suppression to facial gestures as evidence for a mirror mechanism in newborn moneys”, Journal of Cognitive Neuroscience, vol. 24, no. 5, pp. 1165-1172, 2012.
+
+[2] C. van der Gaag C. et al., “Facial expressions: what the mirror neuron system can and cannot tell us”, Social Neuroscience, vol. 2, no. 3-4, pp. 179-222, 2007
+
+[3] W. Sato W. et al., “Enhanced neural activity in response to dynamic facial expressions of emotion: an fMRI study”, Cognitive Brain Research, vol. 20, pp. 81–91, 2004.
+
+[4] P. G. Enticott et al. “Mirror neuron activation is associated with facial emotion processing”, Neuropsychologia, vol. 46, pp. 2851–2854, 2008.
+

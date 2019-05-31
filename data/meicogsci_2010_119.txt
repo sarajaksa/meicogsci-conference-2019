@@ -1,0 +1,30 @@
+... title: Measuring the capacity of verbal and visuospatial working memory
+
+
+
+Abstract
+
+ABSTRACT
+
+Introduction: Alan Baddeley and Graham Hitch proposed their model of working memory back in 1974, in an attempt to describe a more accurate model of short-term memory [1]. The theoretical concept of working memory assumes that a limited capacity system, which temporarily maintains and stores information, supports human thought processes by providing an interface between perception, long-term memory and action. Current views of working memory involve four parts of a system:
+Central executive - is responsible for coordination of the slave systems and for the control of cognitive processes 
+Visuo-spatial sketchpad - its principal function is to create and maintain a visuo-spatial representation that persists across the irregular pattern of eye movements that characterize our scanning of the visual world.
+Phonological loop - this is the subsystem that is assumed to hold digit sequences for immediate recall. The fact that reasoning was slowed as number of digits increased suggests that it does play a role in reasoning, but the unchanged error rate indicates that it is not essential. It is assumed to have two basic components, a temporary speech-related/acoustic store and a subvocal articulatory rehearsal process. 
+Episodic buffer - holds representations that integrate phonological, visual, and spatial information, and possibly information not covered by the slave systems (e.g., semantic information, musical information). The component is episodic because it is assumed to bind information into a unitary episodic representation.
+Although this basic model was first proposed more then 30 years ago, it has continued to develop and to stimulate research and debate.
+
+In this paper we deal with measuring capacity of verbal and visuo-spatial working memory. For this purpose we created online laboratory, which contains nine tests. Three of them are designed to measure verbal (memory span, irrelevant speech effect, phonological similarity) and six to measure visuo-spatial working memory (visual pattern test, rotated visual pattern test, visual span, Corsi block task, reversed Corsi block task and picture span test) [3]. 
+
+Experimental part: The functionality of online laboratory was verified on forty participants. There were twenty men and twenty women. The half of participants was in the age between 21-25 and the second half was from 47 to 55 years old. Each participant took part in all nine tests. 
+In pursuance of obtained data we have confirmed set hypothesis and we have answered our experimental questions.
+When comparing the capacity in terms of age for measuring the capacity of verbal working memory we have used the test memory span, adapted for Slovak language and for measuring the capacity of visuo-spatial working memory we have used Corsi block task. 
+By averaging the results from these two tests we have got the score for each person. Next we analyzed this final score. We have found out that there is a significant difference between the capacity of working memory for younger and older group, but this difference can be caused also by previous experience with this kind of test in younger group.
+
+When comparing the capacity in terms of gender, for finding out the final score of working memory, we have used the same method that we used in previous case. By statistical analysis of obtained results we haven't found any significant differences between men and women.
+
+By analyzing results from the test visual span we have verified Cowans [2] theory about capacity of visual working memory. It was confirmed that man is able to reproduce three to five units.
+
+We have also verified that when doing tasks requiring active abilities, participants have achieved worse results than when doing passive tasks. We have done this on two pairs of tasks (passive Corsi block task - active reversed Corsi block task and passive visual pattern test - active rotated visual pattern test).
+
+Future plans: There are some future plans for this work. One of them is expanding the laboratory of other, maybe less known test for measuring both verbal and visuo-spatial working memory. Second goal is translating the laboratory to English so that other students from MEi:CogSci consortium can use it too.
+

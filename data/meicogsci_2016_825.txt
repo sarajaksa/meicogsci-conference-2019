@@ -1,0 +1,17 @@
+... title: Identifying Overlapping Shared Networks in Resting State Brain Connectivity
+
+
+
+Abstract
+
+Resting state brain connectivity measured via fMRI is a useful way to explore the brain not only for cognitive science but also for neuroscience research and clinical intervention. As the connectivity architecture across individuals vary, it is necessary to take functional variability into account, in addition to the anatomical variability when comparing subjects to each another.  This project tries to improve state-of-the-art functional parcelation by introducing an algorithm previously unused for this problem.
+
+In previous work, Langs et al.[1] successfully managed to identify functional variability at individual level by projecting all subjects' brain networks into shared embedding space and they determined the networks that are shared across individuals by carving up the embedding space into clusters of similar functionality. After transforming the data back to unique anatomical space of the individual subjects they were able to reproduce the functional system within subjects and to explore the differences in location of these shared networks in the population.
+
+This work tries to expand this previously used method for decoupling the anatomical and functional variability by implementing a novel community detection algorithm developed by Yang et Leskovec [2] that proved itself effective for analyzing social networks. This algorithm will be used to determine overlapping communities (= functional centers) that are shared across subjects in resting state connectivity. The main difference from previously used clustering methods is that this community detection algorithm does not classify each node to only one cluster but instead assigns each node to several clusters with varying degree of affiliation. This allows to take into account brain regions with multiple functions. The measure of successful functional parcelation is to achieve low intrasubject variation and high signal-to-noise ratio in intersubject variability of functional measures. The goal of this project is to improve the results of previous studies on the same topic.
+
+!!References
+[1] G. Langs et al., “Identifying Shared Brain Networks in Individuals by Decoupling Functional and Anatomical Variability,” in Cerebral Cortex, 2015
+
+[2] J. Yang, J. Leskovec, “Overlapping community detection at scale: a nonnegative matrix factorization approach,” Proceedings of the sixth ACM international conference on Web search and data mining, ACM, 2013.
+

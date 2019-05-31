@@ -1,0 +1,21 @@
+... title: How Cues of Being Watched Affect Moral Judgements
+
+
+
+Abstract
+
+!!!!How Cues of Being Watched Affect Moral Judgements
+
+People often consider how their public behaviour is perceived by others and due to reputational consequences of their action, tend to proceed in more cooperatively manner. Laboratory and real-world setting studies have shown that subtle cues of being watched cause people to behave more cooperatively [1], [2]. Expressing our opinions about morality of certain acts is a key means of advertisings our cooperative dispositions.
+
+ In this seminar work, we conducted a replication study [3], where we sought how subtle cues of being watched would affect moral judgements.
+
+ Participants read two short stories (”Kitten” and ”Plane Crash” stories) describing a moral situation and rated moral acceptability of each situation. We hypothesised that images of a pair of eyes would elicit greater disapproval of moral transgressions than in the control condition, where images of flowers were presented. 
+
+In contrast to our predictions and the results of most previous studies, analysis showed no significant difference between two conditions (Mann-Whitney U = 963.5, p = 0.281, one-tailed) in Kitten story and significant difference (Mann-Whitney U = 764, p = 0.014, one-tailed) in the Plane Crash story, where participants showed greater disapproval in the flowers condition, which is in contrast to our hypothesis. We suggest that people may ignore subtle cues of being watched when they know their behaviour is truly anonymous. We conclude that participants in the flowers condition rated greater disapproval of moral transgressions due to the induced positive emotional state of our participants that resulted in stronger endorsements of moral norms.
+
+!!References
+[1]D. Nettle et al., “The watching eyes effect in the Dictator Game: it’s not how much you give, it’s being seen to give something.” Evolution and Human Behavior, vol. 34, pp. 35-40, Jan. 2013.
+[2]M. Bateson et al., “Cues of being watched enhance cooperation in a real-world setting.” Biology Letters, vol. 2, pp. 412-414, Sep. 2006.
+[3]P. Bourrat et al., “Surveilance Cues Enhance Moral Condemnation.”  Evolutionary Psychology, vol. 9, pp. 193-199, May 2011.
+

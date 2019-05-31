@@ -1,0 +1,23 @@
+... title: Mental Imagery Testing Suite
+
+
+
+Abstract
+
+The relation between mental imagery and memory has been explored rather well during the past decades, focusing both on how we recall images from memory or how mental practice influences what we remember (Kosslyn & Moulton, 2009). But there is still room for further study. While the first experiments in the area relied mostly on “pen and paper” techniques, the fast advance in computational technology allowed it to make its way into the field of experimentation. It is common nowadays to utilize personal computers to some extent during experiments. With a strong focus on the visual, and reaction times being used as the primary form of measure in many experiments centred on mental imagery, using computers seems like a step in the right direction.
+
+The goal of this project is to develop a set of specialized software tools focused on carrying out and evaluating experiments in the area of mental imagery. The overall idea is to have a easily modifiable  tool that can be quickly configured to accommodate for changes in the testing protocol and/or parameters, and even be used for different experiments altogether (within the paradigm of mental imagery). The main benefit is a decrease in busywork with aids like paper templates or transfer sheets (that are commonly employed in a “pen and paper” approach), every time a change is introduced  to the experiment, thus allowing for a more rapid evolution of the testing parameters.
+
+Since it is commonly required from test participants to interact with the testing application for an extended period of time during and/or before the test (such as memorizing a given image followed by inquiries about the nature of the image), a great deal of effort is put into creating a pleasant and easy to use user interface in order to minimize any negative effects of disdain or boredom in the test participants could have on their performance in the experiment.
+
+A sample experiment is carried out with help of the tool. A well documented type of experiment is chosen in order to provide a basis to which the gathered data can be compared to. The experiment is based on the scanning paradigm in spatial mental imagery as presented in (Borst & Kosslyn, 2010). In this paradigm, the participants are tasked to memorize an array of dots, and later required to visualize them and decide whether an arrow on the screen points to a location previously occupied by on of the dots. The longer the distance that needs to be scanned, the longer the reaction time. The experiment is carried out only with the help of a personal computer and no additional physical aids. The gathered data is then compared to data from a traditional “pen and paper” approach (Borst & Kosslyn, 2010).
+
+As long term goals, the project will focus on various methods that can be used to enhance mental imagery (Tartaglia et al., 2009), allowing participants to create more precise and vivid mental images, aiming to increase the the benefits gained from mental rehearsal, as shown in (Kosslyn & Moulton, 2009).
+
+References
+Borst, G., & Kosslyn, S. M. (2010). Individual differences in spatial mental imagery. Quarterly Journal of Experimental Psychology, 63 (10), 2031-2050.
+
+Kosslyn, S. M. and Moulton, S. T. (2009). Mental imagery and implicit memory. In: K. D. Markman, W. M. P Klein, & J. A. Suhr (Eds.), Handbook of Imagination and Mental Simulation, pp. 135-151. New York: Hove
+
+Elisa M. Tartaglia, Laura Bamert, Fred W. Mast, Michael H. Herzog (2009). Human Perceptual Learning by Mental Imagery. Current biology, 19 (10), 2081-2085.
+

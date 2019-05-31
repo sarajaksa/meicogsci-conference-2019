@@ -1,0 +1,17 @@
+... title: Explanation of Robot Plans in AI: Block Manipulation Example
+
+
+
+Abstract
+
+The motivation for explaining AI systems stems from the need for understanding what, why and how an AI does what it does. Our project is a re-examination of explanation of robot plans in a blocks manipulation domain proposed by Cvetkov [1]. A complete explanation accompanying the robot’s execution of a plan was verbalised in terms of the causes between actions and goals. However, for long plans such an approach can be too complex and hard to follow. The goal of our project was to review relevant literature as to what makes for a good explanation, and to propose a better explanation process for this specific example.
+Miller [2] states that we usually ask for an explanation to reconcile the inconsistencies between elements of our knowledge structures: the whole process need not be stated. Thus a more intuitive way of providing an explanation is in the form of a question and answer dialogue, a solution embraced both by Miller [2] and Fox et al. [3]. Research [2] also suggests that explanations should be contrastive and selected. In view of this we propose that the explanation consist of the user asking selected types of questions and the robot answering these questions. When people select a cause as an explanation they, in most cases, look at the difference between the event that happened and an event that did not [2]. We propose limiting the question to the form “Why did you perform action A (I) and not action B (II)?” (A is an action the planning algorithm included into the plan, and B is a proposed alternative action by the observer), following [3].
+Our intended method for answering the question will require regression planning and methods for detecting causal relations between different actions and their effects. To answer (I), the purpose of A in the plan has to be detected and expressed in terms of A’s effects in relation to either final goals of the plan, or in terms of the preconditions of later actions in the plan. Answering (II) can be done by injecting action B into the plan in place of A. The consequences of this for the rest of the plan can then be explained in terms of a goal (or a precondition) achieved by A and not by B, or in terms of a goal (or precondition) required for the rest of the plan “deleted” by B and not by A.
+An answer may also include a comparison between the rest of the plan after each action in terms of the optimisation criterion. This may be better presented in the form of an animation of the suggested path and the realised one.
+Lastly, the comprehensibility of the generated explanation will be tested.
+
+##References
+[1] M. Cvetkov, “Making A Robot Explain Its Decisions,” M. S. thesis, University of Ljubljana, Faculty of Computer and Information Sciences, 2017.
+[2] T. Miller, “Explanation in Artificial Intelligence: Insights from the Social Sciences,” arXiv:1706.07269, 2017.
+[3] M. Fox, D. Long, D. and D. Magazzeni, “Explainable planning,” In Proc IJCAI-17 Workshop on Explainable Artificial Intelligence, 2017.
+

@@ -1,0 +1,17 @@
+... title: An Interdisciplinary Framework for Understanding Narrative: A Cognitive Scientific Literary Analysis
+
+
+
+Abstract
+
+!!!! An Interdisciplinary Framework for Understanding Narrative: A Cognitive Scientific Literary Analysis
+Assuming the exhaustive viewpoint of cognitive science with its suitability for biocultural inquiry - striking a balance between the natural sciences and the humanities - how can we explain the instance of a particular literary narrative: motivations for its creation and perception, different functions and effects with respect to human agents involved?
+!! Theory
+This thesis attempts to construct a theoretical framework for understanding narrative, stressing the co-existence of a multiplicity of non-communicating perspectives. Countless scientists from different research fields take part in or describe the “narrative turn” in social sciences. There is a range of established notions: Humans interpret and re-interpret their identity as a narrative, and therefore might be helped by modifying it (narrative psychology). Human brain is specifically suited to process and generate narratives. In some circles, even the entire human “reality” is believed to consist of narratives. Civilizations hold and follow shared schemas of meaning called metanarratives. There have been attempts to find the grounds for these phenomena, including evolutionary explanations of narrative being a useful medium of social information, an efficient device of social grooming, or a pattern exploitable for cognitive play. However, the research fields are insufficiently interconnected. Examples: The evolution of narrative use from the interchange of social information and different fitness benefits as stated by Dautenhahn [1] and Sugiyama [2], and the evolution of literature as outlined by Boyd [3], where art is described as cognitive play with pattern, are rarely treated together. Narrative construction of the self, of knowledge in general, and whole civilizations’ construction of all-encompassing metanarratives – the perspectives stand separate.
+!! Analysis
+This strongly interdisciplinary theoretical basis is applied in analyzing a literary work, specifically Kurt Vonnegut’s 1997 semi-autobiographical novel "Timequake". Why was it written, why is it bought, how does reading specific sentences affect cognitive phenomena such as perception, attention, or mental imagery? The analysis builds on a rough sociobiological/evolutionary structure and it attempts to establish links to psychological, linguistic, and philosophical concepts often thought to be unexplainable by biology. The aspiration is to produce a readable text which, scrutinizing both large-scale and small-scale textual and contextual devices in "Timequake", can rapidly switch theoretical viewpoints and thus enable for the synergy of interdisciplinarity. Since a significant portion of human cognition is related to narrative structure, knowledge produced in this direction of research has a wide range of application - to say the least, every instance of human-targeted design needs to take narrative into account.
+!! References
+[1] K. Dautenhahn, “Stories of Lemurs and Robots: The Social Origin of Story-telling,” in Narrative Intelligence. Amsterdam: John Benjamins, 2003, pp. 63-90.
+[2] M. S. Sugiyama, “On the Origins of Narrative: Storyteller Bias as a Fitness-Enhancing Strategy,” Human Nature, vol. 7, no. 4, 1996, pp. 403-425.
+[3] B. Boyd, On the Origin of Stories. Cambridge, MA: Harvard UP, 2009.
+

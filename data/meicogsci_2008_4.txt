@@ -1,0 +1,19 @@
+... title: A computational cognitive model of performance in the Iowa Gambling Task. Are Somatic Markers indicators of risk?
+
+
+
+Abstract
+
+The Somatic Marker Hypothesis (SMH) provides a plausible neurobiological explanation for the deficits observed in real-life decision making, and for impairments found in patients with ventromedial prefrontal cortical (VMPFC) lesions in the Iowa Gambling Task (IGT) ‎[1]. Roughly, the SMH assumes that overt reasoning processes, including the recall of available knowledge of a given situation and derivation of behavioural strategies to handle it, are preceded by covert emotional biases (somatic markers) that help to decide advantageously under uncertainty and risk. Recent studies suggest that similar mechanisms are responsible for the inferior performance of substance dependent individuals (SDIs) ‎[2] and the superior performance of players with high scores in neuroticism ‎[3]. Bechara ‎[4] proposes an imbalance between reflective and impulsive processes in decision making as the cause of observed deficits: in VMPFC patients the reflective processes would be directly affected, in SDIs hyperactivity in the amygdala would lead to an attenuation of reflective processes and thereby to sensitivity to immediate reward and ignorance of possible negative future consequences of decisions.
+In my study, I employ computational cognitive modelling as a tool to disentangle the complex cognitive and motivational interactions in decision making under uncertainty and risk that contribute to the overall performance of different patient groups including normal controls in the IGT. The aim of my work is to study the hypothesis that deficits in the IGT can result at least in part from a decreased sensitivity to punishment and an increased sensitivity to reward. Furthermore, the hypotheses that differences in risk aversion can account for the high variability in performance of normal controls and that decreased emotional awareness of risky situations in VMPFC patients can explain their bad performance in the IGT and superior performance when risk-taking is rewarded ‎[5] are to be evaluated within the framework of my computational cognitive model that simulates performances in the original and alternative versions of the IGT. Further psychological mechanisms that have been proposed to explain the IGT deficits of different patient groups will also be tested.
+Preliminary results suggest that hypersensitivity to reward may play an important role in the decision process of SDIs.
+
+
+References:
+
+[1]	Damásio, A.R. (1994). Descartes' Error: Emotion, Reason, and the Human Brain. Grosset/Putnam, New York.
+[2]	Bechara, A. and Damásio, H. (2002). Decision-making and addiction (part I): impaired activation of somatic states in substance dependent individuals when pondering decisions with negative future consequences. Neuropsychologia, 40, 1675-1689.
+[3]	Carter, S. and Smith-Pasqualini, M.C.S. (2004). Stronger autonomic response accompanies better learning: A test of Damásio's somatic marker hypothesis. Cognition & Emotion, 18, 901-911.
+[4]	Bechara, A. (2005). Decision making, impulse control and loss of willpower to resist drugs: a neurocognitive perspective. Nature Neuroscience, 8, 1458-1463.
+[5]	Shiv, B.; Loewenstein, G. and Bechara, A. (2005). The dark side of emotion in decision-making: When individuals with decreased emotional reactions make more advantageous decisions. Cognitive Brain Research, 23, 85-92.
+

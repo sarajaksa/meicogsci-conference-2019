@@ -1,0 +1,27 @@
+... title: Toward Automatic Feature Extraction in Brain-Computer Interfacing
+
+
+
+Abstract
+
+!!!! Toward Automatic Feature Extraction in Brain-Computer Interfacing
+
+
+!!Introduction
+Brain-computer interface (BCI) systems provide communication and help control capabilities to people with severe motor disabilities. In their non-invasive form, BCI systems use brain signals recorded from the scalp (EEG) to control the environment (e.g. neuroprosthesis, or wheel chair). Performance of BCI depends on the measured brain signals, signal processing methods that extract signal features, algorithms that translate these features into device commands, output devices that execute these commands, feedback provided to the  user, and characteristics of the user [1]. BCI2000 is a widely used open software that can be used for BCI applications[1]. Typical BCI applications based on motor imagery provide two device commands corresponding to different brain conditions (extracted from the signal), such as imagined motor action versus relax condition.
+
+!!Common Spattial Patterns (CSP) 
+CSP is a commonly used supervised linear feature extraction method used for maximizing discrimination of two conditions (of feature vectors). The projections of the preprocessed EEG data (in terms of their spectral characteristics) are chosen in a way so as to maximize variance for one condition and minimize for the other 
+[2].  
+
+!!Using CSP in BCI2000
+In BCI2000, feature selection is done by offline analysis tool that shows the difference between the two conditions for each electrode and frequency range after a training session. The CSP routines have been designed for off-line analysis to be integrated in BCI2000 that does not come with this feature extraction method [3]. The project goal is to use CSP for automatical selection of features (combination of electrodes and frequencies).
+
+!!Method
+Measured data from previous EEG experiments (using 8 channels) will be processed by standard BCI2000 offline analysis and by offline analysis using CSP using algorithm desribed in [3]. Their comparison will show the possibility of substitution of CSP filter for standard offline analyses. Using CSP online in the user application would be a useful step toward adaptive BCI systems, together with adaptive signal classification, that can also use CSP results. 
+
+!! References
+[1] G. Schalk, D. J. McFarland, T. Hinterberger, N. Birbaumer, J. R. Wolpaw, “BCI2000: a general-purpose brain-computer interface (BCI) system,“ IEEE Transactions on Biomedical Engineering, 51(6), 447-456, 2004.
+[2] C. Guger, H. Ramoser, G. Pfurtscheller, “Real-Time EEG Analysis with Subject-Specific Spatial Patterns for a Brain–Computer Interface (BCI),” IEEE Transactions on Rehabilitation Engineering, 8(4), 1034-1043, 2000.
+[3] A. Hoffman, I. Farkaš, “Using common spatial patterns for EEG feature selection,” Technical report TR-2013-040, Comenius University in Bratislava.
+

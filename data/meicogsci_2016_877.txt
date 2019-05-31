@@ -1,0 +1,28 @@
+... title: Diagnosing of Narcolepsy in Slovenia
+
+
+
+Abstract
+
+!!Introduction
+
+Narcolepsy is a neurologic disease characterized by excessive daytime sleepiness, cataplexy, nighttime hallucinations, sleep paralysis and sleep fragmentation [1]. It is an autoimmune disorder, as there is a strong association with specific genotypes, especially HLA-DQB1*06:02 found in around 95% of narcolepsy type 1 patients [2].
+
+!!Methods
+
+Our research project, based on the study “Patients with narcolepsy in Slovenia” [1], dealt with newly diagnosed narcolepsy patients in Slovenia. Our aim was to investigate whether narcolepsy diagnosis has
+improved in the recent years. We compared data of 8 new patients to data of patients diagnosed from 1994 to 2013 in the mentioned study. Patients were compared on the basis of the following attributes: age of diagnosis, lapse from onset to diagnosis, presence of excessive daytime sleepiness (EDS), cataplexy, hallucinations, sleep paralysis, characteristic changes on polysomnography (PSG) and the mean sleep latency test (MSLT), presence of typical HLA typing and prescribed medication. For patients, thought to have narcolepsy but not diagnosed, the discharge diagnosis was checked.
+
+!!Results
+
+The average age diagnosis was 41 and the average lapse from onset to diagnosis was 2 years. All patients exhibited EDS and cataplexy. 57% had nighttime hallucinations, 43% had sleep paralysis and 83% of the tested patients showed characteristic changes on PSG and MSLT; 1 patient has yet to be tested. All of the tested patients had typical HLA results; 2 patients were not tested. All patients who were prescribed medication were given Sodium Oxybat, 67% Modafinil and 17% Antidepressants; 1 patient has yet to be prescribed any medication. 1 patient was diagnosed with symptomatic narcolepsy due to thyroid gland problems, he received Medrol and Euthyrox. The discharge diagnoses of 19 patients, not diagnosed with narcolepsy, were (by frequency): obstructive sleep apnoea, restless leg syndrome, normal EEG, undefined symptoms, hypersomnia, circadian rhythm disorder, PTSD and night terrors.
+
+!!Conclusion
+
+Our research showed that the lapse from onset to diagnosis has been largely reduced – from 17 to 2 years. The prevalence of narcolepsy is 2.2/100,000, pointing to underdiagnosis, as the average is 25/100,000 in Caucasian population [1]. The average of patients diagnosed per year rose from 2 to 2.7, showing an improvement. The results of other attributes were similar to those of the 2014 paper. Our results show that narcolepsy is becoming more widely recognised, but the low prevalence shows that additional effort is needed to inform doctors and the general public.
+
+!!References
+
+[1] L. Dolenc-Grošelj and M. Todosijević, “Patients with narcolepsy in Slovenia,”Zdravniški Vestnik, vol. 83, no. 11, pp. 776–781, Nov. 2014.
+[2] L. Elliott and T. Swick, “Treatment paradigms for cataplexy in narcolepsy: past, present, and future,” Nature and Science of Sleep NSS, vol. 7, pp. 159–169, Dec. 2015.
+

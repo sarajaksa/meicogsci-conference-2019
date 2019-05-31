@@ -1,0 +1,25 @@
+... title: Impact of Cognitive Load on Visual Attention
+
+
+
+Abstract
+
+Introduction
+Attention is crucial ability, enabling organisms to survive in dynamically changing environment. However, human attention can be easily disrupted. Working memory cognitive load is common cause of impaired attention. Overloaded working memory can cause dangerous situations, such as distracted driving. We tried to find link between different amount of cognitive load and slowed reaction time. We tested the assumption, that different difficulties of secondary tasks (cognitive load) would have different impact on visual attention and reaction time. Based on previous studies [1] [2], we sorted our conditions by potential working memory load: silence, listening, recitation, conversation, word game.
+
+Methods
+We tested participants (N = 10) in within-subject design. Each participant had to complete Attention network test (ANT) in every condition mentioned above. ANT consists of flanker task with centered, spatial, or double cue before the onset of flanker. Conditions were randomized for every participant and after 3 trials participants took obligatory brake, in order to prevent adaptation and fatigue. We examined reaction time, error rate, and effect of alerting, orienting and conflict resolution (core parts of ANT) for each condition. 
+
+Results and conclusion
+Conditions show increase in reaction times in ANT, corresponding to their working memory load, so the order remains the same. The most significant difference in reaction time is between word game and silence or word game and listening. For alerting, orienting and conflict resolution effects, the most prominent difference is also between silence and word game. These results provide some evidence for differences in activation of attentional networks in brain for these two conditions (the most different conditions according to cognitive load) and also for slowing of reaction time depending on cognitive load. Recent computational modelling study [3] provides plausible interpretation of this mechanism, that Prefrontal cortex (related to working memory) is bidirectionally connected with brain regions involved in attention process (Lateral intraparietal area, Frontal eye fields) and working memory load (higher activity in Prefrontal cortex) may influence connections among Prefrontal cortex, Lateral intraparietal area and Frontal eye fields.
+
+Acknowledgement
+Special thanks goes to my supervisor RNDr. Barbora Cimrová PhD. 
+
+References
+[1] 	I. Spence, A. Jia, J. Feng, J. Elserafi, and Y. Zhao, ‘How Speech Modifies Visual Attention: Speech and visual attention’, Applied Cognitive Psychology, p. 633-643, Aug. 2013.
+
+[2] 	Y.-C. Lee, J. D. Lee, and L. Ng Boyle, ‘Visual Attention in Driving: The Effects of Cognitive Load and Visual Disruption’, Human Factors: The Journal of the Human Factors and Ergonomics Society, vol. 49, no. 4, pp. 721–733, Aug. 2007.
+
+[3] 	D. A. Pinotsis, T. J. Buschman, and E. K. Miller, ‘Working Memory Load Modulates Neuronal Coupling’, Feb. 2018.
+

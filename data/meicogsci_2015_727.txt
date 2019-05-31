@@ -1,0 +1,17 @@
+... title: Functional Connectivity of the Dorsal and Ventral Frontoparietal Attentional Systems
+
+
+
+Abstract
+
+The ability to sustain attention over long time periods like while driving a car on the highway or controlling air traffic is called vigilance. According to the literature [1] two systems support attentional control: a bilateral dorsal and a right lateralized ventral frontoparietal attentional system. The dorsal system gets activated during top-down (voluntary) attention, hence, if a person focuses and searches the environment for relevant stimuli, based on internal goals or expectations. The ventral system is mediated by bottom-up sensory-guided shift of attention, according to behaviorally relevant stimuli that appear outside of the focus of attention. The core regions of the dorsal frontoparietal system are the frontal eye field and the intraparietal sulcus. The ventral system consists of the ventral frontal cortex and the temporoparietal junction. It has been suggested that the temporoparietal junction might act as a circuit breaker for the activation of the dorsal system. Therefore, activity of the ventral system can suppress the activation of the dorsal system and disrupt the focused attention, if a behaviorally relevant stimulus suddenly appears. Nevertheless, the role of the temporoparietal junction as a circuit is still under debate [2].
+
+Functional connectivity enables the definition functional brain systems, such as the attentional systems, if for example graph theory is applied to the analysis of fMRI-data. Functional connectivity can be described as the cross-correlation of simultaneous activation of brain areas and their time series. Graph theory is a mathematical theory to study networks. A real-world network, like that of the brain, is then represented as a graph. The analysis of these graphs can show how a network is organized and how efficient networks communicate with each other (e.g.) [3].
+
+23 subjects performed a vigilance task while brain activity was scanned using fMRI in which they had to detect either small or large changes in brightness of two colored dots that where displayed on a screen. Aim of the master thesis will be to analyze the fMRI-data in order to establish functional connectivity profiles of both systems. In addition by applying graph theory to the analysis, system components should be defined more thoroughly and reveal how both systems might interact in order to control attentional processes.
+
+
+[1] M. Corbetta and G. Shulman, “Control of goal directed and stimulus driven attention in the brain,” Nature Reviews Neuroscience, Vol 3., 201-215, Mar. 2002. 
+[2] S. Vossel, J.J  Geng and G.R Fink, “Dorsal and ventral attention systems: distinct neural circuits but collaborative roles.” The Neuroscientist : a review journal bringing neurobiology, neurology and psychiatry, 20(2), 150–9, Jul. 2014.
+[3]O. Sporns, “Networks of the Brain,” Cambridge, MA: The MIT Press, 2011.
+

@@ -1,0 +1,28 @@
+... title: On the Impact of Cognitive Science Terminology on Interdisciplinary Knowledge Creation Processes as Analyzed with the Example of Reinforcement Learning
+
+
+
+Abstract
+
+The (interdisciplinary) cognitive science community is flooded with loaded terms, such as “behavior”, “reward”, “input” or “output”. What scientists *want* to communicate when using such terms, and what they *do* communicate to peers of neighboring disciplines with overlapping terminology diverges [1]. Such phenomena are analyzed by means of philosophical frameworks such as constructivist theories of language and thought. 
+One prominent manifestation of this phenomenon at the intersection of psychology (PSY) and artificial intelligence (AI) will be investigated: “Reinforcement Learning” (RL) and what RL respectively is understood to be. The objective is to investigate language-related and theoretical components in the knowledge creation processes both within AI and PSY, and then in interdisciplinary collaborations on RL.
+Borrowing terminology of speech act theory [2], research involving RL can be characterized by locutionarily identical but illocutionarily and perlocutionarily diverging scientific nomenclature and such mismatches can be expected to affect the scientific results. 
+
+Reaching authoritative conclusions about a phenomenon as intangible as the difference in meaning created by a divergence between the *literal* use of a scientific term and the *implicit* theoretical connotations conveyed constitutes an effort facing serious challenges. However, the use of multiple scientific methods aims at approaching conclusive statements.
+
+This multi-method investigation comprises of two steps, first, a theoretical and qualitative approach to explicate a theoretical grounding, followed by empirical experimentation with a computational model consistent with said grounding:
+-	descriptive literature research (analyzing key journals and glossaries in PSY & AI) and meta-literature comparisons (using e.g. ProQuest or Scopus)
+-	computer simulations (using one tractable RL model to assess the influence of rather PSY- or AI-inspired conceptualizations – of e.g. “behavior” or “reward” – as carried out by different structural representations and formalization of parameters).
+
+Indeed, the very instance of a psychologist as myself, who is studying cognitive science and experiments with AI-inspired computer simulations, might be viewed as a variation of the research topic. This combination – as a further assessment of the phenomenon itself – might also produce interesting insights regarding the field of interest.  
+
+## Acknowledgement 
+
+I would like to thank my supervisor Dr. Paolo Petta at OFAI for his knowledgeable support. 
+
+## References
+
+[1] M. Strober, *Interdisciplinary conversations: Challenging habits of thought.* Stanford: Stanford University Press, 2011.
+
+[2] J. L. Austin, and G. J. Warnock, *Sense and Sensibilia*. Oxford: Oxford University Press, 1964.
+

@@ -1,0 +1,29 @@
+... title: Joint (group) rushing in YouTube videos
+
+
+
+Abstract
+
+Anecdotal evidence suggests that even well trained musicians tend to drift from the desired tempo when playing in a musical ensemble. Investigating under what circumstances this is true helps us update our understanding of how human groups coordinate their actions in time. 
+
+According to substantial evidence from the sensorimotor synchronization literature when participants are asked to maintain a certain tempo without any external queue they tend to drift. The amount of drifting in individuals is known to depend on initial tempo. [1] How drifting in different sized groups differs from that of individuals is relatively understudied. The limited amount of evidence we have indicates that while individuals are equally likely to speed or to slow down, pairs tend to rush. [2] Unpublished work found that this “joint rushing” increases with group size. [3]
+
+
+With our YouTube mining study we intend to answer the following questions:
+
+A. Does observational YouTube data on group/joint rushing confirm experimental findings?
+
+B. What is the relation between amount of rushing and group size when group sizes are relatively large (4 people and above)?
+
+To answer above questions we are collecting and analyzing videos of musical performances (e.g. body percussion, pen tapping, etc.) from YouTube. Public videos are collected through an automated process via the YouTube data API. We extract tempo and visual classification data from the videos.
+
+In this observational study we mainly focus on tempo changes and group size but we also investigate how professional performers compare to amateurs. Our aim is to create a model describing the relation between the amount of tempo drift and group size using simple linear regression. Results will provide further insight into how well our current models of sensorimotor synchronization describe human synchronized rhythmic activities. 
+
+##Acknowledgements
+I would like to thank Natalie Sebanz, Guenter Knoblich and Thomas Wolf for giving me the opportunity to participate in the project.
+
+##References
+[1] B. H. Repp and Y.-H. Su, “Sensorimotor synchronization: A review of recent research (2006–2012),” Psychon. Bull. Rev., vol. 20, no. 3, pp. 403–452, 2013.
+[2] M. Okano, M. Shinya, and K. Kudo, “Paired Synchronous Rhythmic Finger Tapping without an External Timing Cue Shows Greater Speed Increases Relative to Those for Solo Tapping,” Sci. Rep., vol. 7, no. February, p. 43987, 2017.
+[3] Wolf, Vesper, Keller, Knoblich (in preparation)
+

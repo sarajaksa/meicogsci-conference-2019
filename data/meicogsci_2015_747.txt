@@ -1,0 +1,11 @@
+... title: Effect of visual and psychological content of electronic games on depressive traits in perception and attribution of players
+
+
+
+Abstract
+
+Electronic gaming on various platforms has been here for over 50 years. Effect of electronic gaming in terms of stress relief and mood management is in interest of scientists only for last decade. Treatment of depressive disorders is current topic because it is one of the most common diseases in developed countries. In has been discovered that electronic gaming may influence mood of player in positive and also in negative way [1]. We focus on effect of visual and psychological content of electronic games on depressive traits in perception and attribution of players. Furthermore we evaluate strength of this effect depending on various personality traits.  Participants of both sexes were university students (18-28 years). At the beginning of experiment we tested them for Big five personality traits using NEO-FFI and we used PAQ-9 for evaluation of depressive traits. Depressive traits evaluation was performed at the beginning and after testing period which lasted one week during which participants played specific game for one hour per day in the evening hours. We chose two games, first and the main game was “The Cat Lady” by Harvester Games and the secondary game was “Static speaks my name” by developer Thewhalehusband used only for the last session of the testing period (strong content for maximal influence).  Control group was evaluated before and after testing period without undergoing gaming sessions. Results of this study focus on influence of frustrating games on depressive traits in perception and attribution of participants in possible relation with big five personality traits.
+
+!!References
+[1] FLEMING, Theresa M. SERIOUS GAMES FOR THE TREATMENT OR PREVENTION OF DEPRESSION: A SYSTEMATIC REVIEW. Revista de Psicopatología y Psicología Clínica, 2014, 19.3: 227-242.
+

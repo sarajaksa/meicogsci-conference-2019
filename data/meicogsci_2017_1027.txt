@@ -1,0 +1,23 @@
+... title: Placebo Strategies in TMS Research
+
+
+
+Abstract
+
+Repetitive TMS offers a non-invasive method of stimulating neuronal pathways inside the brain of a conscious subject [2]. The effects of rTMS are many times very negligible, highly variable among subjects and rarely last longer than 30 minutes [2]. In our study, we were interested in the possible effects rTMS has on cortical excitability of the motor cortex.
+
+To ensure that any measured changes of cortical excitability were indeed caused by rTMS, a placebo group was also necessary. This is commonly referred to as sham TMS. Sham TMS approaches are widely used in basic and clinical research to ensure that observed effects are due to the intended neural manipulation instead of being caused by various possible side effects [1]. Generally speaking, there are two types of sham TMS approaches. One common method is using a regular but tilted TMS coil, which produces a clicking sound that is very similar to an active TMS pulse while also producing other sensory and nerve effects that are usually accompanied by TMS stimulation [1]. The other method includes purpose built sham TMS coils that resemble regular TMS coils, but that are equipped with a magnetic shield that attenuates the magnetic field and inhibits any possible effects of TMS pulses [1]. Particular creative methods use somewhat of a middle way. For instance, a proposed approached involved mimicking the sham TMS coil using a matched, air-cooled sham TMS coil. To simulate the effects of real TMS, the scalp stimulation associated with TMS was replicated using large rubber electrodes placed over selected muscles [3].
+
+To test for placebo effects, our study used the first method, that is, the same TMS coil as the one in the main condition, placed on its side, so as to ensure that there was no direct neural stimulation. The measurements (TMS and rTMS) were carried out for five days for a single subject (either control/placebo or not). The first and last days included EEG measurements along side the TMS / rTMS protocols. During the intermediate days, EEG measurements were not carried out. The first and last days also consisted of various tests of cognitive ability. 
+
+The aim of our study was thus manifold. First, to test previous studies interested in motor cortex excitability after rTMS and second, to test whether the sham TMS method used is sufficient enough as a control strategy. 
+
+
+!!References
+
+[1] Duecker, F., & Sack, A. T. 2015. Rethinking the role of sham TMS. Frontiers in Psychology, 6. doi:10.3389/fpsyg.2015.00210
+
+[2] Huang, Y. et al. 2005. Theta Burst Stimulation of the Human Motor Cortex. Neuron, Vol. 45, 201-206.
+
+[3] Menneimeier, M., Triggs, W., Chelette, K., C., Woods, A., J., Kimbrell, T., & Dornhoffer, J. 2009. Sham Transcranial Magnetic Stimulation Using Electrical Stimulation of the Scalp. Brain Stimul, 2(3): 168–173. doi:10.1016/j.brs.2009.02.002.
+

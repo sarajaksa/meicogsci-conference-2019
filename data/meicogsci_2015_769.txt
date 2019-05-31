@@ -1,0 +1,27 @@
+... title: Problem of categorization on Obživa.sk
+
+
+
+Abstract
+
+!!Introduction
+Obziva.sk is a portal for ordinary people, who can offer their skills in the form of service. This is how people can earn some money, even mothers on maternity leave.
+The whole project started this March and we have already more than 150 registrations and these people offer more than 400 services. The more interesting part is that everything is based on categorization. Each category has to be accurate and when user visits the site, he has to know where to find the service he is searching for. And that’s the problem, because We are no experts on every field there is. Maybe I’m able to design subcategories of “Hardware” or “Software”, but not “Beauty” or “Electricity”. 
+
+!!Method
+That’s where we decided to use user’s descriptions of the service they provide to improve existing categories. To do so, my advisor Kristína proposed an idea to extract roots of words to be able to count their frequency in the descriptions. For this we searched for a good stemmer to begin with. The best official stemmer closest to Slovak language was the one from Ljiljana Dolamic, stemmer for Czech language [1]. But only counting the words in descriptions wouldn’t be much help as we would get the most common used words that wouldn’t be related to the specific category such as prepositions etc.
+We had to get rid of those and just to have a document with unwanted words wouldn’t be efficient. Here we used more sophisticated way and that’s TF-IDF technique. Its numerical value shows importance of word in the document using term frequency and inverse document frequency.
+
+
+!!Preliminary results and future research
+Now our preliminary results show that there are really some useful suggestions for new subcategories that we didn’t even think about before. There are also useless words, but to improve results we will find stemmer for Slovak language as there are few differences compare to Czech. Also we want to use mentioned file with the words that we eliminate manually but only the ones that pass TF-IDF importance test.
+In future there is lot of potential for these word suggestions, such as search engine optimization where we can set the most commonly used words by users as meta-keywords., because there is a strong believe that when ordinary people write these descriptions, then other people will try to find these services by the same keywords.
+
+!!Acknowledgement
+I would like to thank my supervisor RNDr. Kristína Rebrová PhD..
+
+!!References
+[1] Ljiljana Dolamic, Jacques Savoy, „Indexing and stemming approaches
+for the Czech language“ in Journal Information Processing and Management: an
+International Journal archive, volume 45, issue 6, 2009, pp. 714-720
+

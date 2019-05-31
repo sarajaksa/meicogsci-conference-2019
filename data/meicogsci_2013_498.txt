@@ -1,0 +1,21 @@
+... title: Natural Language Analysis Using Machine Learning
+
+
+
+Abstract
+
+!!!! Natural Language Analysis Using Machine Learning
+
+Human language is an intricate tool. However, we are able to quickly reach high level of proficiency by process of rapid learning. By observing and imitating human communication, we continuously gather vast amounts of meaningless data, which at some point start to make sense. We begin to see patterns in language. So why shouldn’t we do something similar with machines?
+
+As our collective knowledge continues to be digitized and stored – in form of news, blogs, scientific articles, books, images, sound, and video – it becomes more difficult to find what we are looking for. We need tools to help organize, search, and understand these vast amounts of information. One of the best algorithms for this task is Latent Dirichlet Allocation[1], but artificial brains, i.e. artificial neural network models, can perform and scale much better.[2]
+
+In this study, we present an attempt to find a semantic structure in a collection of documents comprising of subtitles for movies and television shows. The corpus, provided by OpenSubtitles.Org, contains 216,303 documents in English language spread across various movie genres, years of production, countries of origin, etc. Our aim is to correctly predict genre of the movie solely by occurrence probabilities of 2000 most common word stems.
+
+We used Replicated Softmax [2], an undirected topic model derived from Restricted Boltzmann Machine, for obtaining 50-dimensional semantic codes based on topic probabilities. After completing dimensionality reduction, we performed embedding onto 2D plane utilizing Barnes-Hut-SNE algorithm [3] and color-coded each document by genre associated with the document.
+
+!! References
+[1] D. Blei.   Probabilistic topic models.   Communications of the ACM, 55(4):77–84, 2012.
+[2] Salakhutdinov, R. and Hinton, G. E. Replicated Softmax: An Undirected Topic Model, Advances in Neural Information Processing Systems 22, Y. Bengio, D. Schuurmans, J. lafferty, C. K. I. Williams, and A. Culotta (Eds.), pp 1607-1614, 2009.
+[3] Laurens van der Maaten: Barnes-Hut-SNE. CoRR abs/1301.3342, 2013.
+

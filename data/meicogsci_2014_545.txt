@@ -1,0 +1,28 @@
+... title: The Emotion of Interest in Storytelling – A Cognitive Narratological Investigation
+
+
+
+Abstract
+
+!!!!The Emotion of Interest in Storytelling – A Cognitive Narratological Investigation
+
+In Romeo and Juliet, Juliet fakes her death by drinking a sleeping draught. When Romeo mistakenly beliefs that his beloved Juliet is dead, he poisons himself to put an end to his life. When Juliet awakes and sees what Romeo has done, she takes Romeo's dagger to follow suit.
+
+What is it that makes this scene so compelling? And what can we as cognitive scientists learn from fiction? The cognitive psychologists Mar and Oatley argue that narrative fiction creates a deep and immersive simulative experience for readers and ﬁctional stories are therefore “informative in that they allow for prediction and explanation while revealing the underlying processes of what is being modeled (in this case, social relations)" [1:173]. Due to this simulative nature, fiction would allow us to study cognitive processes involved in fictional and non-fictional understanding. This exemplifies how narratology and cognitive science enjoy a fertile interaction with mutual benefits.
+
+In my talk, I will interweave insights from the field of narratology with insights from the scattered field of the psychology of interest, which has its roots in Daniel E. Berlyne’s theories of aesthetics [2]. Empirical studies suggest that interest, which is associated with an increased pupil diameter and a decreased heart rate, is a positive emotion distinct from enjoyment. According to Berlyne, interest is primarily aroused through the variables uncertainty, information conflict, novelty and complexity.
+
+In particular, I argue that it is not just the emotion of pity or sadness that makes the scene in Romeo and Juliet so compelling, but also the emotion of interest, which I assume to be the driving process that motivates us to read stories. This is in line with the universals of narrative as proposed by narratologist Meir Sternberg, who refers to the triad of suspense, curiosity, and surprise [3:327], which are different phenomena of the emotion of interest. I propose that stories arouse emotions like anxiety or sadness in a blend with the emotion of interest, which might explain why we engage in horror stories and tragedies.
+
+!!Acknowledgments
+
+Special thanks to Paolo Petta for sharing his wisdom, for facilitating my working process and for spending time with me discussing the topic of narratology.
+
+!!References
+
+[1] R. A. Mar und K. Oatley, "The function of fiction is the abstraction and simulation of social experience", Perspect. Psychol. Sci., 3(3):173–192, 2008.
+
+[2] P. J. Silvia, Exploring the Psychology of Interest. Oxford University Press, New York, NY, USA, 2006.
+
+[3] M. Sternberg, "Universals of narrative and their cognitivist fortunes (I)", Poet. Today, 24(2):297–395, 2003.
+

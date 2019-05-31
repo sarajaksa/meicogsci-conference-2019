@@ -1,0 +1,13 @@
+... title: Relationship between social rejection and neurocognitive functioning
+
+
+
+Abstract
+
+Social rejection is a very common phenomenon which affects all spheres of human's life: behavioural, affective and cognitive.  In the poster will be presented the most visible changes in brain functioning as well as the relation between changes in cognitive functioning and behaviour.  Classic neuroimaging studies have provided evidence that rostral cingulate cortex is a key area of emotion and motivation, and recent research has led to the extension that the function of this area includes also pain sensation and cognitive control. People who experience social rejection show a characteristic pattern of behaviour, they often take risky behaviours, their behaviour is aggressive and their prosocial behaviour is significantly reduced. This pattern may be related to cognitive functioning impairment, particularly cognitive control, which has not yet been fully investigated. The main research paradigm to manipulate a sense of rejection is the CyberBall paradigm. It is used to study relationships between rejection and behavioural changes as well as cognitive and emotional functioning. People are very sensitive to every signal of rejection.  It is shown that the worsening of mental wellbeing has the same power, regardless of whether the participants believe they are playing with another person or know that they are playing with a computer program.
+
+References
+[1] Gerber J, Wheeler L. “On being rejected: A meta-analysis of experimental research on rejection”, in  Perspect Psychol Sci, 2009 Sep;4(5):468-88. 
+[2]Otten, M., Jonas, K., J. “Out of the group, out of control? The brain responds to social exclusion with changes in cognitive control”,  in Soc Cogn Affect Neurosci , 2013, Oct; 8(7): 789–794.
+[3] Rotge J-Y, Lemogne C, Hinfray S, Huguet P, Grynszpan O, Tartour E. “A meta-analysis of the anterior cingulate contribution to social pain”, in  Soc Cogn Affect Neurosci, 2015 Jan; 10(1): 19–27.
+

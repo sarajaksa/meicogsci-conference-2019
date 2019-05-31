@@ -1,0 +1,23 @@
+... title: Visualizing the Nigrostriatal Pathway: Using CLARITY for 3D Tissue Imaging
+
+
+
+Abstract
+
+!!Introduction
+One of the most important dopaminergic pathways is the nigrostriatal pathway, a.k.a. the nigrostriatal bundle (NSB). The NSB contains the axons of the dopaminergic (DA) neurons which project from the Substancia Nigra (SN) to the striatum. This means DA neurons span a rather large distance going from SN where their somas lie to the striatum to which they projects. Understanding this pathway and the DA neurons within is crucial for understanding motivation, movement and behavior in general, while also being a key component in understanding the pathology of Parkinson’s disease.
+
+!!Method: CLARITY Technique
+The reason why tissues are not transparent is that the lipid membranes within the cells scatter light thus making the tissue opaque. CLARITY [1] works by embedding the tissue in a bis-/acrylamide gel, which fixates the proteins in the gel matrix. The lipids can then be removed from such tissue using an SDS clearing solution, which acts as a chemical detergent, leaving the proteins in the gel.
+The tissue cleared this way thus becomes transparent, and can then be labeled Immunoflourescently (IF) and imaged in depth using confocal, two-photon or COLM microscopy. Images obtained can then be used to reconstruct a 3D structure of the tissue.
+
+!!NSB As A Model
+The NSB is similar between humans and model organisms like rats and mice. This enables us to experimentally study the NSB, both in vivo and in vitro. In order to study DA neurons we need to preserve them whole. Yet, the shape of the NSB presents a challenge. Results from a pilot study in our lab show that the canonical sagittal cut does not preserve whole DA neurons.
+In the literature [2], [3] there seem to be variable solutions to this problem all involving cutting at various angles. We follow from that idea and add another possible cutting angle. Cutting sagittally at about 45° from the midline might improve the amount of the preserved neurons and seems to do so according to initial results.
+But in order to fully verify that the neurons in our angled cut are preserved we will employ CLARITY technique, which will enable us in depth 3D visualization of the tissue with thickness ranging from 100 to 400 microns. 
+
+!!Literature
+[1]	R. Tomer, L. Ye, B. Hsueh, and K. Deisseroth, “Advanced CLARITY for rapid and high-resolution imaging of intact tissues.,” Nat. Protoc., vol. 9, no. 7, pp. 1682–97, 2014.
+[2]	N. Daviaud, E. Garbayo, N. Lautram, F. Franconi, L. Lemaire, M. Perez-Pinzon, and C. N. Montero-Menei, “Modeling nigrostriatal degeneration in organotypic cultures, a new ex vivo model of Parkinson’s disease.,” Neuroscience, vol. 256, pp. 10–22, Jan. 2014.
+[3]	F. Cavaliere, E. S. Vicente, and C. Matute, “An organotypic culture model to study nigro-striatal degeneration.,” J. Neurosci. Methods, vol. 188, no. 2, pp. 205–12, May 2010.
+

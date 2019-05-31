@@ -1,0 +1,22 @@
+... title: Challenges for Embodiment: the Case of Language Change
+
+
+
+Abstract
+
+The last thirty years of cognitive science have been marked by the discussion about embodiment, the influence of the bodily and environmental properties on cognition. Proponents of embodiment assert that body shape and function constrain aspects of cognition [1], and in its more extreme form, embodiment denies the existence of representations and of mental computation and proposes that cognition can be best described as a direct coupling of the organism and its environment [2].
+
+While embodied approaches to cognition have been effective in explaining on-line phenomena, such as visually guided motion, it is disputed whether a comprehensive account of off-line cognition is achievable through embodied accounts. In contrast, symbolic models seem to be more effective in this area, having provided many adequate descriptions of the phenomena studied [1]. Some attempts at embodied models of off-line cognition include the work of off-line cognition as a simulation that uses the sensory-motor circuitry in the brain  [3]. 
+
+Some particularly challenging phenomena for embodied accounts are linguistic phenomena, since they are typically used to represent things not immediately present in the environment. Indeed, the majority of linguistic models, among them those of mainstream Generative Linguistics, continue working with the historically older assumption of symbolic computation as the basis for cognition. The present work aims to make a contribution to embodied accounts of language by suggesting the kind of explanations embodied cognitive scientists might employ to describe some of the more abstract aspects of language. This work will focus on the phenomenon of language change, and specifically one type of language change: grammaticalisation. Grammaticalisation is the process through which lexical words develop into grammatical markers and it is one of the processes that lead to the emergence of pidgins. Its results can be seen in the Tok Pisin (English Pidgin; Papua New  Guinea) sentence of “Mama bilong mi I karim pinis fopela pikinini”, (My mother has given birth to four children) in which the grammatical morphemes ‘bilong’,’pinis’ and ‘-pela’ originate in the English ‘belong’, ‘finish’ and ‘fella’ respectively.
+
+In the present work it is suggested that grammaticalisation could be best described by a dynamical system, a tool used by many adherents of embodiment, since this phenomenon depends on the feedback from other parties, such as social feedback, who at the same time experience the same process. 
+
+!!Acknowledgment
+I thank Damar Hoogland for suggesting and discussing the linguistic phenomena.
+
+!!References
+[1] A. Clark, "An embodied cognitive science?". Trends in cognitive sciences, vol. 3.9, pp. 345-351. 1999.
+[2] A. Chemero, Radical embodied cognitive science.MA: MIT press, 2011.
+[3] V. Gallese and G. Lakoff, “The Brain’s concepts: The role of the sensory-motor system in conceptual knowledge”. Cognitive Neuropsychology, vol.  22, pp. 455-479. 2005.
+

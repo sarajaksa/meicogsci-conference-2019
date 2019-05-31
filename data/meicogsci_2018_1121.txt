@@ -1,0 +1,24 @@
+... title: Slovak Programming Keyboard versus Layout Switching
+
+
+
+Abstract
+
+A computer keyboard is a common input device. Keyboard layouts for Latin-script alphabets use mainly the QWERTY design which was created in 1873 by Sholes to avoid jamming of the type bars on a typewriter [1]. The alphabetic part of the keyboard remains almost the same across different languages, while the rest of the keys are subjected to localisation. The standard English (US) QWERTY keyboard layout has punctuation characters and signs that are used as symbols in programming languages. Localised QWERTY keyboard layouts have often different positions of these symbols and many of them are not present in favour of accented characters of a particular language. That is the case of the standard Slovak keyboard layout.
+
+Anyone who does programming is forced to switch between the Slovak keyboard layout when they want to write Slovak text, and the English layout when they want to write code. Therefore, layout switching is a naturally occurring phenomenon of multitasking among Slovak people who work with code or spreadsheets. Frequent task switching leads to higher error rate and switching-time cost than in non-switching condition [2]. In my project I decided to study these effects on layout switching with addition of a subjective psychological measures.
+
+I use a within-subject design. Using modern web technologies, I developed an online application for participant testing. The advantage of an online application is possibility of remote testing of participants. The application measures typing speed and error (the percentage of mistyped characters). Participants will be rewriting presented sentences from different testing sets. The control condition will not require layout switching while in the experimental condition layout switching would be necessary. I will ask participants also to rate their subjective comfort of switching. Expected results are decrease in typing speed, increased error rate and high subjective discomfort.
+
+In the second part of the project I introduce a new layout - the Slovak Programming Keyboard. It includes all characters required to write both Slovak and code and is meant to help Slovak people who write code. The layout utilizes the 3rd and the 4th key levels for Slovak accented letters. For a cost of slightly slower access to accented letters this eliminate the problem of layout switching. The implementation was done independently from the research on layout switching. Empirical evidence for efficiency of this typing method is subject to future research.
+
+## Acknowledgments
+
+Thanks to Peter Gergeľ for supervising, Jakub Šrol for consultation and Tomáš Belan for his implementation of Slovak-AltGr keyboard layout on which I based Slovak Programming Keyboard.
+
+## References
+
+[1] S. J. Liebowitz and S. E. Margolis, "The fable of the keys," *The Journal of Law and Economics*, vol. 33, no. 1, pp. 1-25, 1990.
+
+[2]  J. S Rubinstein, D. E. Meyer and  J. E. Evans, "Executive control of cognitive processes in task switching," *Journal of experimental psychology: human perception and performance*, vol. 27, no. 4, pp. 763-797, 2001.
+

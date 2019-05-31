@@ -1,0 +1,14 @@
+... title: Socioeconomic Status as a Factor in Second Language Acquisition
+
+
+
+Abstract
+
+For many years, research in second language acquisition (SLA) has mainly focused on identifying the universal processes in SLA, emphasizing similarities between second language (L2) learners. Nevertheless, in order to answer the question of why a fairly large individual variation in L2 learning outcomes can be observed, it is important to look at differences between L2 learners as well. There are many factors thought to influence the success of SLA, and they can be categorized as internal or external to the learner. To date, a great deal of research has been concerned with internal factors, such as age of L2 onset, language aptitude, first language transfer, motivation, and so on. Language aptitude, which is conceptualized as comprising of various cognitive skills related to L2 learning, was found to be the most consistent predictor of success in SLA [1].
+
+However, such studies have typically not considered variation in the social context in which SLA takes place as an important factor [2]. In addition to internal factors, the external factors, such as cultural variables, L2 learner’s socioeconomic status (SES), and so on, may also play a role in SLA and therefore affect L2 learning outcomes. Previous studies investigating the relationship between L2 learners’ SES, usually assessed through maternal education levels, and their L2 learning outcomes have found positive correlation between higher SES and more advanced L2 skills [1]. The aim of the research project, which will be presented, is to look at the relationship between L2 learners’ SES and their language aptitude and thus further examine the role of SES in SLA.
+
+!!References
+[1] J. Paradis. “Individual differences in child English second language acquisition: Comparing child-internal and child-external factors.” Linguistic Approaches to Bilingualism, vol. 1, no. 3, pp. 213-237, July 2011.
+[2] E. Hoff. “How social contexts support and shape language development.” Developmental Review, vol. 26, no. 1, pp. 55-88, March 2006.
+

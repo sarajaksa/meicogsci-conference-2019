@@ -1,0 +1,20 @@
+... title: Effects of Sleep Deprivation on Motor and Cognitive Performance
+
+
+
+Abstract
+
+Endurance sport, adventure racing, ultra marathons, alpines, etc. are extreme sports. Most of the time the events take place in outdoors and last one or several days to weeks without a set cool-down period. 
+
+Despite the extremes (length of the event, unpredictability, ingenuity), extreme sports are not about taking risks, but rather psychophysical preparation and development growth of the person taking part in them. 
+
+During multi-days (over 48 hours) events persons are experiencing effects of sleep deprivation. As much of scientific research have been done in field of sports training and implementing it, the question how to prepare, how to train and deal with sleep deprivation remain unanswered. 
+
+The goal of my talk is to present few studies about effect  of endurance sports  and sleep deprivation on cognition. Studies have shown that sleep deprivation of up to at least 24h has not been shown to influence physical as psychological performance, while sleep deprivation of up to 64 h can influence someone performance significant. Can we improve our performance while being sleep deprived? 
+
+[1] A. Dietrich and P. B. Sparling, “Endurance exercise selectively impairs prefrontal-dependent cognition.,” Brain and cognition, vol. 55, no. 3, pp. 516–24, Aug. 2004.
+
+[2] J. P. R. Scott, L. R. McNaughton, and R. C. J. Polman, “Effects of sleep deprivation and exercise on cognitive, motor performance and mood.,” Physiology & behavior, vol. 87, no. 2, pp. 396–408, Feb. 2006.
+
+[3] M. W. Voss, A. F. Kramer, C. Basak, R. S. Prakash, and B. Roberts, “Are Expert Athletes ‘ Expert ’ in the Cognitive Laboratory ? A Meta-Analytic Review of Cognition and Sport Expertise,” 2009.
+

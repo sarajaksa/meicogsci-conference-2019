@@ -1,0 +1,21 @@
+... title: !!Using cTBS for Better Rehabilitation after Stroke
+
+
+
+Abstract
+
+Stroke is a big problem of ageing population, and it became the second most common cause of death in western society. Of people suffering from stroke, up to 30% experiencing it, become disabled [1]. Until very recently the management of most patients with stroke remained primarily focused on secondary prevention and rehabilitation, and any procedure that would allow faster recovery, and/or gain functional independence, would have major benefits for the whole society.
+
+In last few years, research was mostly done with inhibiting contra-lesional hemisphere, and exciting the damaged sites [1]. This is done with repetitive transcranial magnetic stimulation rTMS, which can excite or inhibit brain tissue through magnetic induction, based on the protocol used. Usually the hypothesis was that stimulation facilitates the stroke hemisphere and initiates changes in synaptic plasticity that improve therapy by enhancing learning-related changes in synaptic connections that are required for reacquisition of skills [3]. 
+
+Hoa summarized first few years of research and showed that the effect of rTMS inhibition on undamaged sites gives variable results, and little evidence of curing damaged tissue in the brain [2]. Consequently recent work focused on new approaches, and one of them suggests that rTMS could improve learning through a mechanism that involves the phenomenon of “homeostatic” plasticity. This suggests that the ease of producing long term potentiation/depression (LTD/LTP) depends on activity in that area before the sessions. If there is history of low activity, then it is harder to produce LTD, and vice versa for LTP [3].
+
+At the Neurological clinic in Ljubljana, we will design an experiment where our aim is to compare the effects of continuous theta burst stimulation (a variety of rTMS) as an addition to standard procedures on recovery. One group of stroke patients will receive cTBS of the damaged area and one in contra-lesional area in the unaffected hemisphere. Results of these two groups will be compared with those that will receive sham stimulation. CTBS is a form of inhibitory rTMS, with a longer lasting effect that can last up to 1 hour, which is a great time window for a standard procedures of recovery after stroke.
+
+We will compare the gained results with standard measurements used for patients after stroke during longer period of time, like Action Research Arm Test (ARAT) and Jebsen–Taylor Test (JTT) which will be the primary outcome measures and are all standard measurements of recovery in stroke patients. Grip and pinch-grip dynamometry will be the secondary outcome measures. 
+
+!!References:
+[1] Naoki Yamada; cTBS combined with occupational therapy for upper limb hemiparesis after stroke, Belgian Neurological Soc. 2014 
+[2] Hao Z; rTMS for improving function after stroke (Review). The Cochrane Library 2013, Issue 5
+[3] Vincenzo Di Lazzaro; Inhibitory TBS of affected hemisphere in chronic stroke: A proof of principle. Neuroscience Letters 553, 2013
+

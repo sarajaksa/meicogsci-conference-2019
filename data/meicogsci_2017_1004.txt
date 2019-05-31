@@ -1,0 +1,17 @@
+... title: “Who Will Save Innocent Kitties with Counterfactual Priming?”
+
+
+
+Abstract
+
+Every time we make a wrong decision an innocent kitty dies. This idiom highlights the power of human reasoning that is full of systematic deviations - cognitive biases. Three well-documented biases are attribution effect, confirmation bias, and sunk cost fallacy [1, 2]. Attribution effect is a tendency to overemphasize internal characteristics while failing to consider situational aspects when judging behavior of other people. Confirmation bias is a tendency to favor, seek, interpret, remember, and recall information that corresponds to prior beliefs or expectations of a reasoner. Finally, sunk cost fallacy is an inclination to irrationally continue in an inefficient activity due to regretting previously invested resources. These cognitive deviations have notable consequences in decision making, and therefore, finding effective debiasing strategies is crucial.
+
+Counterfactual priming is a debiasing method that should induce a mental simulation mind-set. It is based on generating “if only” alternative scenarios. Several studies [1, 2] have proven its effectiveness in reducing confirmation bias, attribution effect, and loss aversion. However, recent neuroscientific evidence [3] indicates that engagement of brain areas during self and other-related counterfactual simulations differs. Previous studies use the same unfamiliar person as the main character in priming. Though, we have decided to examine whether a type of the character (self vs. other-related) moderates the effect of counterfactual priming. Next, we aim to verify the effectiveness of counterfactual priming in reducing selected cognitive biases via more ecological valid measures compared to original studies. 
+
+We use a mixed 3x2x2 experiment with at least 230 participants (two-sided tests, medium effect size, 95% power, α =.05). We are going to use a well-established “rock-concert” scenario in priming and prepare two - self and other-related versions. Participants will be randomly assigned to one of the three tasks (attribution effect, confirmation bias, sunk cost fallacy) before priming. After priming, they will solve a task on a different bias. We expect that priming will reduce all of the three biases. We also assume different effects of the self vs. other-related priming. Our findings may contribute to designing interventions for optimizing real-world high-consequence decisions.
+
+!!REFERENCES
+[1] L. Kray and A. Galinsky, "The debiasing effect of counterfactual mind-sets: Increasing the search for disconfirmatory information in group decisions", Organizational Behavior and Human Decision Processes, vol. 91, no. 1, pp. 69-81, 2003.
+[2] D. Strachanová, “What would be if? The debiasing effect of counterfactuals”, Master Thesis, FSEV, Univerzita Komenského, Bratislava, 2017. 
+[3] F. De Brigard, R. N. Spreng, J. Mitchell and D. Schacter, "Neural activity associated with self, other, and object-based counterfactual thinking", NeuroImage, vol. 109, pp. 12-26, 2015.
+

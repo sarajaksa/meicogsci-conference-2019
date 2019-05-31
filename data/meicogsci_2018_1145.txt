@@ -1,0 +1,23 @@
+... title: Human decision-making and learning: a hierarchical approach
+
+
+
+Abstract
+
+It has been a challenge for many years to fully understand and explain the higher functions of the brain, such as decision-making, human behavior, and learning. Advanced understanding and neural modeling in this area would shed new light on these concepts, while also enabling us to use this knowledge in the fields of robotics and artificial intelligence in the future. 
+Reinforcement learning (RL) is a learning technique which has a long history of rich interaction between computational theories and neuroscientific understanding [2]. There are multiple limitations of RL, especially its inability to scale up to complex problems and the knowledge transfer between different tasks. The biological brain excels in both of these tasks.
+Hierarchical Reinforcement Learning (HRL) introduces higher level abstractions into basic RL, often consisting of multiple levels, where the higher the level is in the hierarchy, the more abstract it is.
+An action is an abstraction which can consist of multiple sub-actions: for example, “go to school” would consist of sub-actions required to reach this goal (“leave the house”, “get to the bus stop”, “catch a bus”, etc). Each sub-action can yet again consist of other sub-actions until the lowest level of the hierarchy is reached [3].
+The potential of HRL lies also on the similarity with the brain brain itself; it has been shown that some functions of the brain are hierarchical in nature [2], the underlying neural mechanisms thought to reside within, at least in part, the dorsolateral prefrontal cortex (DLPFC). 
+Recent research has proposed a topological organization exists in the DLPFC, where progressively higher levels of behavioral structure are represented [1]. This finding has placed a new constraint on computer models of hierarchical behavior. One of such models, when trained on a hierarchically structured task, spontaneously came to code information selectively for temporal context information and current stimuli. This has shown how a functional-representational gradient like the one observed in the brain could emerge spontaneously through learning, given only an initial architectural constraint [1].
+
+Though the hierarchical models for modeling and explaining the relationships in human behavior and decision-making are on the rise and hold potential, more research needs to be done in order to solve some of the new questions, such as how abstract action representations emerge through learning, the interaction of different models together and how they are organized in the human brain.
+
+## References
+[1] M. M. Botvinick. Hierarchical models of behavior and prefrontal function.
+Trends in Cognitive Sciences Vol.12 No.5, https://europepmc.org/articles/PMC2957875, Jun 2008.
+
+[2] Cs. Eliasmith D. Rasmussen. A neural model of hierarchical reinforcement learning. PLOS ONE Vol.12 No.7, https://mindmodeling.org/cogsci2014/papers/221/paper221.pdf, Jul 2017.
+
+[3] M. J. Lewis. Hierarchical decision making. STIDS, http://ceur-ws.org/Vol-1097/STIDS2013_P2_Lewis.pdf, Nov 2013
+

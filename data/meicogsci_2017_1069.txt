@@ -1,0 +1,15 @@
+... title: Nothing New under the Sun: Problem of Induction Still Not Solved
+
+
+
+Abstract
+
+The sun has been going up every morning for the last 6,5 Million years, therefore it will go up tomorrow, too. This famous Humean example is only true if we accept a little hidden assumption called “induction”, which states that, at least in some cases, our observations about a sample generalize over a population. Even though induction is used widely in science and daily life, a justification is notoriously hard to come by.
+A statistics-informed attempt by David Stove [1] has been championed by some philosophers [2]. His approach states that, according to the law of big numbers, the proportions of some feature in a sufficiently big sample are very similar to the proportions of the population. On these grounds, he argues that, because the sun has risen hundreds of million times in the past, it is reasonable to believe that it will rise tomorrow.
+While different aspects of this reasoning can be attacked, I am focusing on what I call the Restricted Population objection (RPO, inspired by [3]): it admits that Stove’s proof of induction may hold true for many types of inductive inference, but not for Hume’s famous case of the rising sun. For an inductive inference to be justified, the sample must be representative of the population. For this purpose, the sample has to be drawn randomly from the whole of the population: If you want to make claims about all ravens in the world, you need to make sure to draw your sample from the whole population of ravens, and not just from ravens in e. g. Australia. Otherwise, your claim is limited to the restricted population of ravens in Australia. In the case of the rising sun (just like any other inductive claim about the future), the sample can only ever be drawn from the present and the past, but never from the future. Therefore, we can only generalize over present and past, but not over the future. Induction is thus generally justified, but the range of admissible generalizations has to be monitored closely.
+One counter-argument has been put forward against the RPO: most of the samples that are seemingly representative only of a restricted population, turn out to be representative of the broader population. However, this approach fails to provide an in-depth justification of what connects the restricted population (ravens in Australia, sunrises in the past) with the broader population (ravens worldwide, sunrises in the past and future). How can we be sure that they belong to the same category? Until these bridges are built, induction from restricted to broader populations remains unjustified and we can’t reasonably believe that the sun will rise tomorrow.
+
+[1] Stove, D., The Rationality of Induction, Clarendon Press, 1986, Oxford. 
+[2] Campbell, S., & Franklin, J., “Randomness and the justification of induction,” in Synthese, 138(1), 2004, pp. 79–99.
+[3] Indurkhya, B., “Some Remarks on the Rationality of Induction”, in Synthese 85(1), 1990, pp. 95–114.
+

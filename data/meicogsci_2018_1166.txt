@@ -1,0 +1,21 @@
+... title: The Meaning of Dying
+
+
+
+Abstract
+
+Terror Management Theory (TMT) can be introduced with two observations. First, humans, like other animals, are striving to survive. Second, the capacity for abstraction gives human beings the awareness of their own mortality. Limited existence combined with the will to survive creates a potential for anxiety. In order to deal with this terror of death, humans developed cultural worldviews that give life a sense of order and permanence [1].  
+
+Culture gives humans the possibility to cope with death by pursuing, for example, literal immortality - some religions, for instance, offer the belief that life is just a transition to eternity - and symbolic immortality, by which people want to be part of something bigger than themselves. In the latter case, the ideas of nation and ideology have a strong appeal in reducing death anxiety. This set of beliefs about reality is able to give the sense that humans are valuable individuals in a meaningful world. They can be understood as cultural worldviews that will be defended when threatened [2]. 
+
+Existential terror, according to TMT, can be produced when people are reminded of their mortality. However, this approach is perhaps too reductionist and it seems to lack other existential aspects that might produce the same terror. The idea of a meaningless universe, for example, can be as terrifying (or even more) as the idea of a finite existence. Rather than just a tool to cope with death anxiety, meaning seems to have a value in itself, which perhaps even surpasses the promise of immortality in the endeavor of mitigating existential terror. 
+
+The methodologies developed in empirical studies with TMT are used then to access what is the role of a meaningful finite existence in the cultural worldview defense. In this study, after reading one of two different arguments: one endorsing the belief in mortality, but supporting the meaningfulness of human existence; the second affirming the belief in immortality but refuting the meaningfulness of life, the participants will be primed either with reminders of death- also referred to as mortality salience (MS) - or with a pain-related control condition. The hypothesis in this study is that the subjects who were primed with MS, after reading the essay supporting the belief in a meaningful mortality, will present a reduced defense mechanism in comparison with the participants who read the essay advocating a meaningless immortal existence.
+
+
+## References
+
+[1] J. Greenberg and S. Kosloff, "Terror Management Theory: Implications for Understanding Prejudice, Stereotyping, Intergroup Conflict, and Political Attitudes", Social and Personality Psychology Compass, vol. 2, no. 5, pp. 1881-1894, 2008.
+
+[2] F. Cohen, S. Solomon, M. Maxfield, T. Pyszczynski and J. Greenberg, "Fatal Attraction", Psychological Science, vol. 15, no. 12, pp. 846-851, 2004.
+
