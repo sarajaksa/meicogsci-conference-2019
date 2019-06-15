@@ -1,0 +1,18 @@
+... title: Automaticity in the Context of Computer Technologies
+
+
+
+Abstract
+
+Accountability in engineering computer technologies requires transparency about their potential long-term effects on users. Such technologies may create automatic processes [1] in users without their awareness. The academic research in this area, however, lacks a comprehensive theoretical framework to model how and under what conditions automaticity may be established or discontinued in such contexts. The current talk aims to provide an interdisciplinary evaluation of relevant literature on automaticity and to identify possible research gaps that may lead to future research in the area. 
+
+The talk includes a critical analysis of literature on automaticity, its types and features from a context-specific perspective. I discuss recent computational modelling approaches that may provide an explanation for the development of automaticity and its differences in individuals. I also examine the relevance of specific attentional biases in automaticity that may challenge traditional assumptions that attentional control is the result of either goal-directed or stimulus-driven factors. 
+
+Challenges in researching automaticity in the context of computer technologies may stem from misattribution processes that may create a discrepancy between actual and perceived antecedents. The consequences of this mechanism are explored, and potential research directions are discussed. In addition, translational perspectives are presented in relation to health interventions that are predicated on automaticity and utilise prospective memory processes aided by computer technologies.
+
+Most studies focus on observable context cues of automaticity, but it is possible that other factors, such as abstract representations and affective states may also generalise as cues, which may be of special relevance with regards to computer technologies. Exploring such factors may be a possible direction for future research, such as intervention programs that aim to focus on controlling context-dependent cues as a part of maintenance strategies. 
+
+##References
+
+[1] A. Moors and J. De Houwer, “Automaticity: A Theoretical and Conceptual Analysis.”, *Psychological Bulletin*, vol. 132, no. 2, pp. 297–326, 2006.
+

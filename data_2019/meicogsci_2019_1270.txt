@@ -1,0 +1,27 @@
+... title: The Effect of Referential Uncertainty on the Encoding of Novel Words
+
+
+
+Abstract
+
+## Introduction 
+
+Learning a new word relies on processes that work at multiple time scales - learners need to identify a speaker's referent in-the-moment, encode a mapping between the label and the referent, recall multiple labeling events and integrate across them, and use their learned mappings to identify the object in novel contexts [1]. In the last decades, numerous studies have addressed the question of word-to-world mappings and the mechanisms responsible for the development of reference [2]. However, to date, no study has investigated whether and how referential certainty (i.e. how much the learner is certain about the meaning of the novel word) influences learning and memory encoding process. Therefore, the aim of this project is to extend the existing knowledge about word learning by investigating whether and how referential certainty might influence encoding processes during the acquisition of novel words. In particular, we are going to test whether subjects' certainty about the meaning of a novel word would have an impact on the depth of encoding.
+
+## Method 
+
+In order to investigate this question, we recorded short object naming episodes where each time a person provides a novel word in the presence of two unfamiliar objects. Subjects' certainty about the meaning of the novel words was modulated by variations of two factors: 1) object identity (by using two identical or two different unfamiliar objects) 2) use of the referential cues (with having the speaker pointing at one of the objects or not during the labeling). After participating in the learning sessions, the encoding of the novel words will be assessed. The test phase will consist of a recognition memory task and word-object association test. 
+
+## Hypothesis
+
+Our main hypothesis is that different levels of certainty about the meaning of the novel word will influence the depth of encoding. Specifically, we assume that the least uncertainty is about the interpretation of the novel word, the better the encoding will be. 
+
+## Implications 
+
+The results of this study will enrich our current understanding of those factors that can have an impact on the depth of encoding novel words at a very early stage of word learning, when encoding of the meaning does not necessarily occur yet. Furthermore, we also believe that this project provides an opportunity to test in general the relationship between memory encoding and certainty about the meaning of incoming information.
+
+## References 
+
+[1] D. Yurovsky and M. Frank, "Beyond naïve cue combination: salience and social cues in early word learning", Developmental Science, vol. 20, no. 2, p. e12349, 2015. Available: 10.1111/desc.12349.
+[2] G. Hollich, R. Michnick-Golinkoff and K. Hirsh-Pasek, Breaking the language barrier: an emergentist coalition model for the origins of word learning. Malden: Blacwell Publishers, 2000.
+

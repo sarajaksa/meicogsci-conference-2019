@@ -1,0 +1,30 @@
+... title: Dynamic Determination of Appropriate Training Instances Using Reinforcement Learning
+
+
+
+Abstract
+
+## Introduction and background
+
+Human beings have a unique capability of monitoring one’s progress and choosing appropriate samples to learn from. Our goal is highly motivated by this idea – we want to build a meta-model which is capable of choosing appropriate training instances depending on the progress of the base model. An important motivation behind our work is also the reduction of work needed for sample labelling, while also maintaining a comparable accuracy of the base model to more conventional training approaches. 
+
+In short, we want to build a meta-model that can learn what an appropriate learning instance for the base model is depending on its current knowledge. We are intending to do this using an active learning approach [1]. The approach is based on the learner taking an active part in the training process, usually in the form of providing feedback about its progress or appropriate training samples. 
+
+Past research (e.g. [2]) of incremental machine learning techniques showed that incremental learning can benefit the model in a form of faster convergence or higher final accuracy. The aforementioned article uses a metric of sample difficulty determined by researchers, while we are aiming to train a meta-model for that purpose.
+
+## Method
+
+Combining previously mentioned and other approaches we are going to train 2 models. One will be called the base model and will have the task of solving the main (semi-supervised) problem, that is already well researched in machine learning (e.g. shape or object recognition, spatial relations, etc.). The second model, called meta-model, will have to solve the problem of determining the appropriateness of different training utterances depending on the base model’s progress. This meta-model will be trained using reinforcement learning with the reward based on future improvement or deterioration of the base model classification accuracy. To remedy possible overfitting problems, we might use our meta-model together with other semi-supervised approaches described in [3].
+
+## Outlook
+
+An important question that is still open are the types of attributes that our meta-model will use to represent past states of the base model. We want to make our meta-model as problem independent as possible, so it will have to be trained with that constraint in mind. It also remains to be seen what amount of labelled data will still be required to train the final model.
+
+## References
+
+[1] D. Skocaj, M. Majnik, M. Kristan, and A. Leonardis, “Comparing different learning approaches in categorical knowledge acquisition,” in Proceedings of the 17th Computer Vision Winter Workshop, 2012, pp. 65–72.
+
+[2] Y. Bengio, J. Louradour, R. Collobert and J. Weston, "Curriculum learning", Proceedings of the 26th Annual International Conference on Machine Learning - ICML '09, 2009.
+
+[3] F. Schwenker and E. Trentin, “Pattern classification and clustering: A review of partially  supervised learning approaches,”Pattern Recognition Letters, vol. 37, pp. 4–14, 2014.
+

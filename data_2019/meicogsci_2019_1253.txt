@@ -1,0 +1,22 @@
+... title: Surface-based Searchlight Analysis
+
+
+
+Abstract
+
+Multi-voxel pattern analysis has proven to be an effective statistical tool for assessing how information about cognitive processes is encoded in sets of voxels considered jointly. A difficulty in applying multivariate methods to fMRI data is the large number of variables and a relatively small amount of samples, which are typically available in neuroimaging experiments. The searchlight method [1] presents one of the ways to deal with the 'curse of dimensionality' of fMRI data, by searching through the brain, as if with a searchlight, to find local patterns of neuronal activity, which are informative about a certain experimental condition.  
+
+The standard, volume-based searchlight method analyses spherical neighborhoods, centered around each voxel. The resulting statistic of each multivariate analysis is then assigned to the center voxel, creating an information-based brain map, which allows us to locate informative regions. A surface-based approach has shown to improve the spatial specificity of the searchlight analysis, by taking into account the folded nature of the cerebral cortex [2]. The cortical surface can be reconstructed using high resolution structural images, which allows us to project the functional data onto a surface representation of the cortex. Surface-based searchlight analysis then defines circular areas on this surface and analyses the voxels corresponding to these areas. 
+
+The results of the searchlight analysis can be significantly influenced by the choice of parameters of the voxel selection method, such as the radius of the searchlight [3]. Surface-based methods introduce additional parameters such as the depth and width of the cortical surface, as well as different methods for measuring the geodesic distance. Left unexamined, the effects of these parameters may lead to incorrect interpretation of the analysis results.
+
+To gain a better understanding of the method, we will implement a volume- and surface-based searchlight algorithm in Matlab and systematically analyze how various parameters influence its functionality, using both simulated and experimental fMRI data.
+
+## References
+
+[1] N. Kriegeskorte, R. Goebel and P. Bandettini, "Information-based functional brain mapping", Proceedings of the National Academy of Sciences, vol. 103, no. 10, pp. 3863-3868, 2006. 
+
+[2] N. Oosterhof, T. Wiestler, P. Downing and J. Diedrichsen, "A comparison of volume-based and surface-based multi-voxel pattern analysis", NeuroImage, vol. 56, no. 2, pp. 593-600, 2011. 
+
+[3] J. Etzel, J. Zacks and T. Braver, "Searchlight analysis: Promise, pitfalls, and potential", NeuroImage, vol. 78, pp. 261-269, 2013.
+

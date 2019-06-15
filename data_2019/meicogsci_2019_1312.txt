@@ -1,0 +1,17 @@
+... title: The Association Between Grammatical and Natural Gender – Crosslinguistic Evidence
+
+
+
+Abstract
+
+This research is concerned with the association between grammatical and natural or social gender. Studies have shown that there are crosslingustic differences in the attribution of gender to inanimate entities or animals [1]. In addition to examining the association between grammatical and social gender in different languages and age groups, this investigation aims to detect moderating factors of the attribution of gender properties on in the proper sense ‘genderless’ entities.
+
+In Croatian, grammatical gender is determined by word endings, while in German, it is determined by abstract declension class membership. This experiment investigates whether speakers of languages with typologically different grammatical gender systems assign different social gender to objects. Twelve 5-6 year old, 12 adult (>18 year old) German native monolinguals and 12 adult Croatian native monolinguals were tested using a voice attribution paradigm. Participants were presented 22 pictures of inanimate objects or animals and had to associate a female and a male voice to the given item. Some items had feminine or masculine grammatical gender in both languages; others had different grammatical gender in German and Croatian. After each item, the participants were subject to a semi-structured interview to give account of the reasons for their decisions. In addition, the Croatian participants were also presented with 12 pseudo-words with either male, female or neuter word endings according to the rules of the Croatian grammatical gender system.
+
+Preliminary results show that both German and Croatian adult participants significantly preferred the voice and the grammatical gender to be congruent, meaning that they e.g. preferred a female voice when the grammatical gender of the word was female. However, the effect is not very pronounced.  In contrast, the word endings of the presented pseudo-words clearly triggered the associating to the natural gender. Even though being merely a category of grammar the participants attributed meaning to the grammatical gender of the presented words and mapped them onto the social gender.
+
+This exploratory research provides insight into the association between grammatical and natural gender and hereby contributes to research of the role of language in construction of gender. The experiment should be expanded to populations whose mother tongue does not possess grammatical gender such as Turkish, Finnish or Bahasa Indonesia. Evidence gathered from this research can yield interesting results relevant to the fields of cognitive linguistics, gender studies and pedagogy.
+
+
+[1]M. Sera, C. Elieff, J. Forbes, M. Burch, W. Rodríguez and D. Dubois, "When language affects cognition and when it does not: An analysis of grammatical gender and classification.", Journal of Experimental Psychology: General, vol. 131, no. 3, pp. 377-397, 2002. Available: 10.1037//0096-3445.131.3.377.
+

@@ -1,0 +1,22 @@
+... title: What Is True and What to Do - Implications of the Computational Rationality Paradigm for Improving Human Decision-Making
+
+
+
+Abstract
+
+## Introduction
+The questions of what is true and what to do are interesting in theory and relevant to practical every day situations. After the concept of reason was used to answer them for millennia, a strong notion of rationality has formed in cognitive science. The normative concepts of rationality splits into two parts, namely epistemic rationality, how to form beliefs about the world that map its real structure, and instrumental rationality, how an agent can reach its goals. They stem from economic theory and propose axioms that optimal reasoning and decision-making have to follow. A vast amount of research in the heuristics and biases literature from psychology and behavioural economics has shown, that humans deviate systematically from this normative model. The formalized models of rationality also gain new relevance for artificial intelligence.
+
+## Research Question
+In the psychological attempt to study rationality and its improvements, two schools have formed: one based on the research by Kahneman and Tversky [3] and one based on the work of Gigerenzer [2]. While they fundamentally rest on similar assumptions, they make different claims about whether or not humans are rational and how rationality could be improved. Their main disagreement resting on the question of the optimality of human heuristics. Taking concepts from artificial intelligence into account, the paradigm of computational rationality was formalized by Tenenbaum, Gershman, and Horvitz [1]. This paradigm includes the cost of computation and opportunity costs of an embodied agent in its environment into account when maximizing expected utility. Does this paradigm (fully) formalize and unify the different psychological schools of rationality, is this desirable or possible at all, and what are the implications for rationality enhancement?
+
+## Method
+This work is based on intensive literature review, analysis of empirical findings as well as conceptual analysis, a comparison and discussion.
+
+## References
+ [1] Gershman, S. & Horvitz, E. & Tenenbaum, J. (2015). Computational rationality: A converging paradigm for intelligence in brains, minds, and machines. Science (New York, N.Y.). 349. 273-8.
+
+[2] Gigerenzer, G., & Brighton, H. J. (2009). Homo heuristicus: Why biased minds make better inferences. Topics in Cognitive Science, 1, 107– 143. 
+
+[3] Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-113
+

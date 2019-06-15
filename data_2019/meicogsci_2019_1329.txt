@@ -1,0 +1,23 @@
+... title: The Value of Friendship
+
+
+
+Abstract
+
+## Scope
+“Without friends,” Aristotle noted in his Nicomachean Ethics, “no one would choose to live, though he possessed all the other goods” [1]. Friendship seems to be valuable for human life in at least two ways. Firstly, a rich network of good friends makes nearly all matters of daily life much easier. Stable friendship typically involves reciprocal sharing of resources and mutual support. As such, the willingness to cooperate combined with strong intersubjective interest may present an adaptive “success formula” for attaining nearly any material, mental and emotional care that humans need for a fulfilling existence. Secondly, becoming and being a friend seems to be of intrinsic purposiveness to humans. That is, we may regularly go to extreme efforts and even put ourselves in danger in service of our friendships. Such survival risks can hardly be explained by the expectation for reciprocity.
+
+The purpose of this project is to review the relevant literature within social cognition and evolutionary anthropology to evaluate friendship’s effect on human fitness as well as the intrinsic purposiveness of this universal phenomenon. 
+
+## Material
+The highly cooperative, egalitarian and intersubjectively-focused life style of the “Original Affluent Society” – anatomically modern hunter-gatherers – was distinct in adopting “generalized reciprocity,” a culture of sharing, as their mode of existence [2]. Since such trust- and intimacy-based societies survived very successfully for millennia, their analysis should provide insight as to how and under what conditions friendship enables a selective advantage rather than promote between-group enmity or nepotism.
+
+Regarding cognitive aspects, I will turn to developmental literature. The central role of social interactions within peer environments and friendships for the acquisition of a wide range of skills, attitudes, and experiences in the growing-up of a human has been well documented by now [3]. Among these, one of the most valuable skills may be the ability to procure and maintain healthy, mutually beneficial friendships out of one’s social environment. 
+
+## Profit
+The value and ubiquity of friendship seems intuitively obvious. Yet, it is a highly underrated and understudied phenomenon within the cognitive sciences. As the admission of a correct-as-possible understanding of human nature is of fundamental importance for productive analysis of human cognition, I’m hoping to contribute a puzzle piece to said understanding.
+
+[1] Aristotle, *Nikomachische Ethik*. Hamburg: Felix Meiner, 1972.
+[2] M. Sahlins, „On the Sociology of Primitive Exchange,” in *The Relevance of Models for Social Anthropology*, M. Banton, Ed. London: Tavistock, 1965, pp. 139-236.
+[3] F. Vitaro, M. Boivin and W. M. Bukowski, "The Role of Friendship in Child and Adolescent Psychosocial Development," in *Handbook of Peer Interactions, Relationships, and Groups*, KH. Rubin, W. M. Bukowski and B. Laursen, Eds. New York: The Guilford Press, 2009, pp. 568-588.
+

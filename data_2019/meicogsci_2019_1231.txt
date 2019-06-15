@@ -1,0 +1,16 @@
+... title: Explaining Away Occlusion in Visual Statistical Learning
+
+
+
+Abstract
+
+Humans are constantly confronted with an abundance of visual information, the interpretation of which is critical for survival. A key challenge is determining if the pattern of co-occurrence of features of the visual scene is incidental or due to properties of an underlying structure. *Visual Statistical Learning* (VSL) is a proposed mechanism for dealing with this [1]. Using scenes constructed of simple shapes, it has been shown that participants become sensitive to shape frequencies and positions, as well as joint and conditional probabilities of shape co-occurrence. Importantly, this learning happens automatically, without participants becoming aware of the learned structures.
+	Scenes used in such studies neglect many aspects of the organization of natural scenes. One neglected aspect is occlusion. In natural scenes, objects do not simply align next to each other but are constantly occluding parts of each other. This leads to uncertainty about the underlying scene structure. How do humans make sense of such ambiguity? One possible answer is, that they apply representations built during VSL to the interpretation of such scenes. The objective of this Master’s thesis is to provide a first step in investigating if this is a plausible answer, both on a theoretical and empirical level.
+	Theoretically, this project is influenced by work in the area of *probabilistic models*. It has been shown that a Bayesian learning algorithm outperforms alternative models in modeling human behavior in VSL tasks [2]. Building on this line of research, the representations built during VSL can be formally described as *Bayes Nets* [3]. In this formalism, *Explaining Away* is a mechanism which is potentially able to explain the interpretation of partially occluded scenes, based on previously learned regularities.
+	Empirically, this project advances experimental designs previously used in the study of VSL [1], by introducing an explicit occluder shape. The main hypothesis is that humans apply representations built during VSL to partially occluded scenes; i.e. the interpretation of a partially occluded object is influenced by the full representation of that object. Results in accordance with this hypothesis are of interest for the general question of abstraction in VSL. These results would support theories assuming that VSL builds chunk-like representations by combining features of the visual scene.
+
+##References
+[1] J. Fiser and R. N. Aslin, “Unsupervised Statistical Learning of Higher-Order Spatial Structures from Visual Scenes,” *Psychological Science*, vol. 12, no. 6, pp. 499–504, Nov. 2001.
+[2] G. Orban, J. Fiser, R. N. Aslin, and M. Lengyel, “Bayesian learning of visual chunks by human observers,” *Proceedings of the National Academy of Sciences*, vol. 105, no. 7, pp. 2745–2750, Feb. 2008.
+[3] J. Pearl, *Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference*. San Francisco, CA: Morgan Kaufmann, 1988.
+

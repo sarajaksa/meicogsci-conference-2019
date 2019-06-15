@@ -1,0 +1,30 @@
+... title: Partisan Bias Research: An Overview of a Controversy
+
+
+
+Abstract
+
+## Introduction
+
+Healthy functioning of a democracy depends on the accuracy of knowledge and the level of ideological polarization. Partisanship is associated with both. Underlying it is a multilayered phenomenon of partisan bias. Political psychology has gathered an extensive body of evidence that suggests partisan bias is present at both sides of the political spectrum. However, there is a controversy that permeates the research of partisan bias. The controversy relates to the question of whether conservatives and liberals are symmetrically or asymmetrically biased. Three different research traditions are trying to answer this question.
+
+## Goals
+
+Our aim was to summarise and compare the main findings, concepts, and characteristics of the three research traditions that bring empirical evidence to the debate of whether partisan bias is symmetrical or asymmetrical across the political divide.
+
+## Key Findings
+
+The first research tradition is the research on the cognitive style of conservatives and liberals. This tradition is researching motivational proclivities of conservatives and liberals based on their different cognitive style. Meta-analytic findings of this research are suggesting there is a big asymmetry between conservatives and liberals concerning bias [1]. The second research tradition is the research on selective exposure to information. This research tradition is researching bias manifesting itself in exposure and non-exposure to congenial and non-congenial political information. The findings of this research tradition are very diverse suggesting both symmetry [2] and asymmetry in the bias of conservatives and liberals. The third research tradition is the research of bias in the evaluation of information. This research tradition is researching bias in the evaluation of identical politically relevant information which is framed differently. Meta-analytic findings of this research suggest the bias of conservatives and liberals is symmetrically distributed [3].
+
+## Conclusion
+
+Given the multilayered nature of partisan bias, some seemingly contradictory findings of the three research traditions might be compatible.
+
+## References
+
+[1] J. Jost, J. Sterling, and C. Stern, “Getting Closure on Conservatism, or The Politics of Epistemic and Existential Motivation,” in *The Motivation-Cognition Interface: From the Lab to the Real World: A Festschrift in Honor of Arie W. Kruglanski*, C. E. Kopetz and A. Fishbach, Eds. New York: Routledge, 2017, pp. 56-87.
+
+[2] J. A. Frimer, L. J. Skitka, and M. Motyl, "Liberals and conservatives are similarly motivated to avoid exposure to one another's opinions," *Journal of Experimental Social Psychology*, vol. 72, pp. 1-12, 2017.
+
+[3] P. H. Ditto, B. S. Liu, C. J. Clark, S. P. Wojcik, E. E. Chen, R. H. Grady, et al., "At Least Bias Is Bipartisan: A Meta-Analytic Comparison of Partisan Bias in Liberals and Conservatives," *Perspectives on Psychological Science*, vol. 14, pp. 273-291, 2019.
+

@@ -1,0 +1,28 @@
+... title: The City as a Playground: Influence of Practicing Parkour on Divergent Thinking
+
+
+
+Abstract
+
+## Background
+
+According to the theory of extended cognition [1], cognition does not only emerge from an organism itself, but rather arises from an interaction between the organism and its environment. Hence, affordances, which are possible ways of interactions, offered by the surroundings to a person, should not be neglected in cognitive research. They also play a crucial role in urban design, as most structures are designed for specific use, providing just a few affordances. However, so-called *loose spaces* which are characterized by offering a large variety of affordances to their users, are perceived as more vivid in comparison to monofunctional *tight spaces* [2]. A type of sport having potential to change the attitude towards space is parkour: Its practitioners, so-called *traceurs*, exercise the ability to *loosen up* space by searching for additional affordances in monofunctional spaces, and accepting them as they use urban structures unconventionally [2].
+
+## Aim
+
+Our aim is to connect the issue of monofunctionality to the theory of extended cognition and explore their relation in an empirical field study to approach a cross-disciplinary understanding of the importance of human-environment interactions. The influence of parkour training on divergent thinking (DT) as an aspect of cognition will be investigated. DT describes the ability to generate a range of diverse ideas as possible solutions to a problem. Traceurs might undergo a similar process as they develop a variety of affordances for a given urban structure.
+
+## Methods
+
+The „Alternative uses test“ and the „Title generation task“ for assessing divergent production will be presented to traceurs before and after 30 minutes of training in a previously unknown environment. As a control, gymnasts will do the same tasks but before and after training on gymnastics apparatuses. Gymnastic exercises are restricted in variety in contrast to parkour exercises while they are comparably physically demanding. Performance in divergent production before and after the training sessions will be compared within each group, and we will test for differences between the groups.
+
+## Results and Discussion
+
+Traceurs are expected to show greater improvement in DT after their training as this activity requires to continuously develop new affordances. In contrast, gymnasts might not show any need to use DT during their training due to their constrained variety of exercises. The proposed study’s main limitation is the comparability between traceurs and gymnasts, who might differ in some aspects that are hard to control for. The project’s purpose is to establish a new paradigm to investigate how physical activity and interaction with the environment affect cognitive abilities.
+
+## References
+
+[1] A. Clark and D. Chalmers, "The Extended Mind", *Analysis*, vol. 58, no. 1, pp. 7-19, 1998.
+
+[2] L. Ameel and S. Tani, "Parkour: creating loose spaces?", *Geografiska Annaler: Series B, Human Geography*, vol. 94, no. 1, pp. 17-30, 2012.
+

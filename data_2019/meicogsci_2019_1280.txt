@@ -1,0 +1,23 @@
+... title: The Effects of Negative Art on Emotion Regulation
+
+
+
+Abstract
+
+Emotion regulation refers to the ability of effectively responding to emotions, shaping the expression and experience of those emotions. This project investigates the effects that the way people look at art could have on this process. 
+
+It is hypothesized that focusing on the positive aspects of negative art leads to be able to better deal with emotional events occurring shortly after viewing the art, through an implicit regulation strategy called reappraisal. By “negative art” we mean art which elicits an increase of the negativity of the mood. By “focusing on the positive aspects” we refer to paying more attention to the artistic features of the paintings, for example, instead of to their content.
+
+Previous studies have proven that focusing on the positive aspects of art allows people to be less affected by the negativity of it, but so far it has not been tested whether this phenomenon of reappraisal is also implicitly extended to conditions that come after seeing the negative art. 
+
+Therefore, we propose that this influence on the process of emotion regulation could not only take place while one is looking at it, but also afterwards, during events that follow.
+
+The subjects are presented with a series of paintings with negative content which are supposed to induce negative mood. All the subjects have to rate how much they like each painting. The control group is instructed to only look at them and the experimental group is asked to focus on their positive aspects. Hereafter, all the subjects are shown a short sad movie clip, which simulates a hypothetical following event. Throughout the whole experiment we are measuring brain activity with EEG (late positive potentials) and fNIRS (activation of prefrontal areas). Subjects fill out a mood scale (PANAS) at the start of the experiment, after viewing the art and after viewing the movie clip. We are particularly interested in the differences between the first and the last sets of measurements: we expect that the experimental group will be able to better regulate emotions while watching the clip than the control group, showing that the reappraisal strategy is still implicitly active also then. 
+In particular, we expect the experimental group to show an attenuated LPP and/or increased frontal alpha wave asynchrony in the EEG and higher prefrontal activity corresponding to the OFC with the fNIRS.
+
+If our hypothesis turns out to be correct, it implies that the same process involved in learning how to focus on the positive aspects of negative art could be adapted to help people to better deal with negative emotions in daily life. In the future this might also be used to help people with problems in emotion regulation (e.g. patients with anxiety or mood disorders and autistic patients).
+
+Bibliography
+
+J. J. Gross, “Emotion Regulation: Conceptual and Empirical Foundations,” in Handbook of Emotion Regulation, J. J. Gross, Ed. Guilfort Publications, 2013, pp. 3-20.
+

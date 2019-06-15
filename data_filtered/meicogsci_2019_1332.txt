@@ -1,0 +1,24 @@
+... title: Visualized Historical Map of (the) Cognitive Science(s)
+
+
+
+Abstract
+
+## Introduction
+This map is macroscopic, historical, trans-disciplinary introduction to (the) cognitive science(s).
+Moving from left to right, the map is read in a roughly historical fashion, but not literally, as we are compressing an n-dimensional intellectual space into a two-dimensional map grid. From top to bottom the map shows different disciplines and their intersections.
+
+ ## Intentions
+Next to educating others, one goal was to sort out my own understanding of (the) cognitive science(s). Externally representing my current understanding enables fruitful discussions about where I am wrong, what parts I misrepresented and what my blind spots are, what I left out. I am eager to change my mind and adopt the visualization in the process based on feedback.
+
+## Methods
+The historical visual map of (the) cognitive science(s) was created by an intensive literature review and compression, various design questions answered through drafting different ideas and finally using Adobe Illustrator to finish the first two versions. Main disciplines included are philosophy, psychology, neuroscience, computer science, and linguistics. Meta literature on (the) cognitive science(s) and the history as well as textbooks and papers on the different disciplines were used.[1][2][3] 
+
+## Explanation
+Unfortunately, there is no way to generate an educational map that has everyone and everything on it. As such, there is always someone who should be on the map who is not.  The attempt of abstracting from reality always asks the question of (the most) relevance, in this case primarily to a beginner audience and especially students of the MEi:CogSci programme. 
+
+## References
+[1] Bermudez, J. L. (2014). Cognitive Science: An Introduction to the Science of the mind (2nd Edition).
+[2] Miller et al. (1978). Cognitive Science: Report of The State of the Art Committee to the Advisors of the Alfred P. Sloan Foundation.
+[3] Miller, G. A. (2003). The cognitive revolution: A historical perspective.
+

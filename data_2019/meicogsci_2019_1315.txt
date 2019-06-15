@@ -1,0 +1,24 @@
+... title: Psychopathological Disturbances of Perception with Regard to the Phenomenology of the Body and Potential Neurobiological Explanations
+
+
+
+Abstract
+
+## Research problem 
+
+In recent years we are witnessing a resurgence of phenomenological approaches to psychopathology, rooted in the philosophical traditions of the 20th century and a systemic effort to find common ground between phenomenological and neurobiological understandings of disturbances of consciousness [1] [2] [3]. Following this trend, the goal of this thesis is to come to a theoretical understanding of the philosophical roots underlying the phenomenological approach to psychopathology of the perception of the body and with such an understanding elucidate a concrete examination of such disturbances in schizophrenia patients, integrating a phenomenological approach as well as experimental neurobiological data.
+
+## Method
+
+The proposed method consists firstly of an analysis of relevant phenomenological texts, focusing on the phenomenology of the body (e.g. the difference between the _subject-body_ and the _object-body_ [1]), and research of proposed neurobiological bases for perception disturbances in schizophrenia. This is to be followed by obtaining subjective reports from schizophrenic patients using semi-structured interviews EAWE (Examination of Anomalous World Experience) and EASE (Examination of Anomalous Self-Experience), the first standardized measures of subjective experiences developed primarily for the use in schizophrenia populations. In this way we would gather both abnormal perceptual experiences and accounts of an altered sense of self, potentially linking the two [2]. Finally, the reports are to be integrated with the phenomenological context and neurobiological hypotheses.  
+
+## Implications
+
+Such an analysis has several potential benefits. First, it sheds light on the phenomenological conceptual framework from which many new researchers draw upon, making certain assumptions explicit and open to critical evaluation. Second, it proposes a better differentiation of schizophrenia subtypes, potentially enabling better classification and diagnostics. And finally, although most authors stay agnostic with regard to the question of causality [1] [2], if we accept the notion that changes in the form of perception are connected to neurobiological changes, it can serve as a guiding structure for further research and propositions in both phenomenological and neurobiological research.
+
+## References
+
+[1] T. Fuchs, "Phenomenology and Psychopathology", in Handbook of Phenomenology and Cognitive Science, D. Schmicking and S. Gallagher, Ed. Springer, Dordrecht, pp.546-573, 2010.
+[2] S. M. Silverstein, D. Demmin, and B. Skodlar, “Space and Objects: On the Phenomenology and Cognitive Neuroscience of Anomalous Perception in Schizophrenia (Ancillary Article to EAWE Domain 1),” Psychopathology, vol. 50, no. 1, pp. 60–67, 2017.
+[3] F. J. Varela, “Neurophenomenology: A methodological remedy for the hard problem,” Journal of consciousness studies, vol. 3, no. 4, pp. 330-349, 1996.
+

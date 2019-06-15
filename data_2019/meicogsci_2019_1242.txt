@@ -1,0 +1,28 @@
+... title: Back to the Roots: Grounding the Apparent Inconsistency of Contemporary First-person Research
+
+
+
+Abstract
+
+## Context 
+
+There exists a disagreement regarding the epistemological status of first-person research. Whereas some argue that the field does not meet the essential requirements of scientific discipline (e.g. universally accepted method, repeatability and intersubjective validation), others claim that a novel view of first-person data should be adopted, which would put the field on par with some other scientific disciplines [1]. 
+
+## Problem
+
+It seems that one reason for the scepticism lays in the question of the reliability of memory, which, in broad terms, refers to the question of whether an individual’s memory is reliable enough so that it can be cultivated in the investigation of experience or is it too fallible and prone to confabulation? The question becomes interesting when we consider that some methods (e.g. Microphenomenology) assume that it is possible to investigate reflective, directly accessible, as well as pre-reflective experiences that occurred not only in a narrow time frame (“present experience”) but also in a more distant past (“memory of experience”). Recently, for example, Froese et al. [2] argued that while it is not that controversial to assume that by using certain expert techniques it is possible to investigate both, reflective and pre-reflective “present experience”, it is however unclear whether the “memory of experience”, especially in the pre-reflective field, can be brought to present and investigated.
+
+## Method
+
+I will try to further explore the abovementioned assumption by taking the bottom-up approach. First, I will explore the space of psychological and philosophical thought, focusing especially on the milestones that are credited as being influential for the development of first-person approaches (e.g. traditional phenomenology and introspectionism). Then, acquired insights will be used to test the assumption in terms of three contemporary first-person approaches: Microphenomenology practised by Claire Petitmengin, Max van Mannen's method, and Descriptive Phenomenological Method practised by Amadeo Giorgi. By tracing and comparing the theoretical and methodological roots of these approaches, I will also try to evaluate the current epistemological status of first-person research and compare it with other disciplines in cognitive science.
+
+## Expected results and implications
+
+Since the nature of the research is set to be primarily exploratory, it is hard to predict any specific results. Notwithstanding, I roughly expect that the analysis will show that a part of the scepticism is not warranted. Making transparent the epistemological status of first-person research as well as its theoretical roots might not only help the field secure its place in the existing framework of sciences of the mind, but it can also prove useful for the sole progress of its methodology. 
+
+## References
+
+[1] C. Petitmengin and M. Bitbol, “The Validity of First-Person Descriptions as Authenticity and Coherence,” Journal of Consciousness Studies, vol. 16, no. 10–12, p. 363–404, 2009. Available: http://citeseerx.ist.psu.edu. [Accessed May 10, 2019].
+
+[2] T. Froese, C. Gould, and A. Barret, “Re-Viewing from Within: A commentary on first- and second-person methods in the science of consciousness,” Constructivist Foundations, vol. 6, no. 2, p. 254–269, 2011. Available: https://constructivist.info. [Accessed May 10, 2019].
+

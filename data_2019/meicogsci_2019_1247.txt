@@ -1,0 +1,28 @@
+... title: The Role of the Left Inferior Frontal Cortex in Semantic Retrieval: A tDCS Study
+
+
+
+Abstract
+
+## Introduction
+
+Semantic memory stores conceptual knowledge about the world. In tasks on lexical-semantic retrieval from memory, we employ different retrieval mechanisms. Some representations are automatically retrieved by contextual cues. When contextual cues are insufficient or absent, controlled semantic retrieval is recruited. Suggested neural correlate for controlled semantic retrieval is left lateral inferior frontal cortex (LIFC), also crucial part of language brain network [1]. Transcranial direct current stimulation (tDCS) over LIFC modulates semantic processing [2], but it is not clear how tDCS affects subsequent pre and post-retrieval controlled mechanisms. Our aim is to apply anodal tDCS over LIFC in task distinguishing between aspects of controlled semantic retrieval from memory.
+
+## Method 
+
+In within subject design, participants were assessed in three session separated by least 5 days. On each session participants had lexical-semantic assessment in one of three conditions (tACS, tDCS, sham) and only two were used for this project (active anodal tDCS and sham). On each session participants were assessed in lexical-semantic task in three blocks (baseline, online, offline). First part of lexical-semantic task had 4 subtasks: category fluency, associative retrieval, dissociative retrieval, alternating associative-dissociative retrieval. Second part required associative, dissociative or random discrete response to prime words. Reaction times of responses were measured [3].
+
+## Findings 
+
+According to linear mixed model analysis, anodal tDCS over LIFC enhance controlled pre-retrieval and post-retrieval semantic processes. Substantially improved performance was observed in producing of words from given category (categoric fluency) and in generating of words without semantic relationships (dissociations). However, associative and random condition improved insignificantly.
+
+## Conclusion 
+
+Both improved conditions recruit different retrieval mechanisms. Categoric fluency requires automatic retrieval and dissociations require controlled retrieval, therefore we suggest their functional intersection. We propose that roughly in second half of categoric fluency task, automatically accessible resources are depleted, and controlled retrieval is employed. This suggestion explains intersection of lexical semantic subtasks and their enhancement by tDCS. 
+
+## References
+
+[1] J. R. Binder, R. H. Desai, W. W. Graves, and L. L. Conant, ‘Where Is the Semantic System? A Critical Review and Meta-Analysis of 120 Functional Neuroimaging Studies’, Cerebral Cortex, vol. 19, no. 12, pp. 2767–2796, Dec. 2009.
+[2] M. Joyal and S. Fecteau, ‘Transcranial Direct Current Stimulation Effects on Semantic Processing in Healthy Individuals’, Brain Stimulation, vol. 9, no. 5, pp. 682–691, Sep. 2016.
+[3] M. Marko, D. Michalko, and I. Riečanský, ‘Remote associates test: An empirical proof of concept’, Behavior Research Methods, Oct. 2018.
+

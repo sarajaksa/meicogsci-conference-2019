@@ -1,0 +1,22 @@
+... title: Functional Near-Infrared Spectroscopy Study of Improvisation in Professional Dancers: Do We Always Think of Others As We Dance?
+
+
+
+Abstract
+
+The present contribution, as part of a larger body of research concerning the transmission of emotions through dance, aims to investigate the differences between two distinct dimensions, or modes, of dance improvisation. In the first of these modes, the improvised dance is performed with a clear intention to communicate meaningful content to an audience. The second mode is characterized by the lack of such an explicit intention, allowing dancers to place a stronger focus on themselves and their immediate surroundings as they perform.
+
+The specific research question is: Are there discernable differences in patterns of brain activity between situations in which a dancer performs with the specific intention to convey a certain (emotional) content to an audience, and scenarios in which the dancer improvises without necessarily wanting to transmit any specific kind of information to the viewer?
+
+Brain regions of interest for this question are the medial prefrontal cortex (mPFC), which has been shown to respond to thinking of other people and their psychological states [1], as well as the right inferior frontal gyrus (rIFG), which is linked to affective empathy [2]. Activations in both areas are anticipated to be higher in the first mode of improvisation, as it is directed at communicating content to spectators, than in the second, which does not seem to require thinking of others.
+
+In the experiment conducted, nine professional dancers, including performers and teachers of various styles, experienced in dance improvisation, were connected to a functional near-infrared spectroscopy (fNIRS) device to measure brain activity in mPFC and rIFG in three settings.
+The first task was to express four different emotions through movement or dance in a way that a viewer could guess what emotion is being conveyed. Participants were given a 30 second planning phase and then were asked to perform.
+In the second and third conditions, the task was to improvise. Dancers were told they could do anything they liked, and that they need not worry about communicating anything to another person. Both improvisation settings had two trials, but participants were given 30 seconds to plan for task 3, whereas in task 2, they were asked to improvise immediately.
+
+Results will have implications for the conceptualization of dance improvisation as well as dance as a performing art more generally, and should provide orientation for possible future directions of research.
+
+## References
+[1] J. Mitchell, M. Banaji and C. Macrae, "General and specific contributions of the medial prefrontal cortex to knowledge about mental states", NeuroImage, vol. 28, no. 4, pp. 757-762, 2005. DOI: 10.1016/j.neuroimage.2005.03.011.
+[2] L. Peled-Avron, L. Glasner, H. Gvirts and S. Shamay-Tsoory, "The role of the inferior frontal gyrus in vicarious social touch: A transcranial direct current stimulation (tDCS) study", Developmental Cognitive Neuroscience, vol. 35, pp. 115-121, 2019. DOI: 10.1016/j.dcn.2018.04.010.
+

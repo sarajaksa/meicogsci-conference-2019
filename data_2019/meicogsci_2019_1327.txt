@@ -1,0 +1,20 @@
+... title: The Influence of Music Listening on Heart Rate Variability
+
+
+
+Abstract
+
+## Context
+Music has beneficial effects on human psychophysiology and health [1]. The emotional response during music listening affects heart rate, breathing rate, blood pressure, and muscle tension [2]. However, mechanisms involving both the parasympathetic and the sympathetic autonomic system are still under investigation. 
+ ## Purpose
+Our study aims to deepen understanding of how music elicits the activation of the parasympathetic nervous system that is responsible for relieving stress from the body and thus might accelerate recovery from medical emergencies such as brain stroke. The balance between the parasympathetic and the sympathetic nervous system activity can be measured with heart rate variability (HRV).
+## Method
+In this pilot study undergraduate students with different levels of musical background will be included. We will collect participants’ demographic and medical data, using a questionnaire centered around the participant's music listening habits. Participants will lie in supine position and listen to music through headphones, while we record their interbeat intervals (IBIs). The IBIs will be recorded into a computer, using ECG. Each participant will listen to two musical protocols. Each protocol will begin with a 10 min period of quiet rest and then continue with either four 5 minute long musical pieces of self-selected music or four 5 minute pre-selected music excerpts that were previously shown to be beneficial for physiological well-being: a Gregorian chant, a baroque composition by Bach, a classical composition by Mozart, and one composition of relaxing ambient music. Musical pieces will be separated by a 30 s pause and both musical protocols will end with 10 minutes of quite rest. Both protocols will be compared to control comprised of quite rest of the same overall length as a musical protocol. 
+Data will be analyzed using an open source analysis package RHRV, which extracts HRV parameters from the recording. We expect modulation of the autonomic nervous system in the direction of improved sympatico-vagal balance and correlation with the emotional response to different music styles. 
+##Implications
+Study will add knowledge about how music listening affects the HRV metric, and could help music therapy gain recognition as a viable non-pharmacological medical practice.
+
+##References
+[1] R. A. R. MacDonald, “Music, health, and well-being: a review,” International journal of qualitative studies on health and well-being, 07-Aug-2013. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3740599/. [Accessed: 27-May-2019].
+[2] S. Koelsch and L. Jäncke, “Music and the heart,” European heart journal, 21-Nov-2015. [Online]. Available: https://www.ncbi.nlm.nih.gov/pubmed/26354957. [Accessed: 27-May-2019].
+

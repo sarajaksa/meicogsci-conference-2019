@@ -1,0 +1,30 @@
+... title: The Framework of Physiological and Developmental Adaptation As a Means to Integrate the Concepts of Illness and Health
+
+
+
+Abstract
+
+## Context
+
+The processes of *physiological and developmental adaptation* have been described as sustaining specific physiological parameters around either fixed (homeostasis) or shiftable (allostasis) set points and developmental trajectories (homeorhesis) which may be diverted by environmental perturbances.
+
+How can we apply these key principles to the *etiology and course of disease*? By using a framework that incorporates the mathematical formalisation of the mechanisms of physiological and developmental adaption, namely *network and chaos theory*, one can get a holistic and interdisciplinary understanding of seemingly pathological states. The comprehensiveness of this approach is facilitated by the circumstance that 
+
+“_(…) the basic operational rules of living systems follow some relatively simple mathematical principles, which apply to all levels of the biosphere, ranging from genetic blueprints to protein–protein interactions to social networks (…)._” [1, pp.51].
+
+Therefore, the framework allows for the unification of not only behavioural, physiological and neurobiological factors but also social, genetic and evolutionary ones as well as the depiction of interactions amongst them. 
+
+Broad bodies of existing experimental literature can be newly interpreted highlighting the adaptive function of seemingly pathological reactions to *stress* – i.e. events that are threatening the integrity of the organism and elicit physiological and behavioural responses. 
+
+## Purpose
+
+The aim of this project is to apply the ideas outlined above to the concrete example of *depressive disorders* by integrating literature on the structural and functional changes in the central nervous system (CNS) with studies on social and genetic risk factors, as well as theories focusing on problems with reward learning and sensitivity or flexible decision making. The focus hereby lies on the CNS’s core function of efficient energy regulation which seems to be severely impaired in depressive disorders. Particular attention is paid to the role of primary mediators of allostasis such as hormones of the hypothalamo-pituitary-adrenal axis, catecholamines and cytokines.
+
+## Implications
+
+While the research is purely theoretical, explaining underlying mechanisms within this framework will yield a more comprehensive and yet detailed and individualistic model of depressive disorders which can be readily applied to identify more targeted treatment options. Moreover, the project further expands the set of diseases which have been described in terms of physiological and developmental adaptation and might therefore contribute to a less pathologizing and symptoms-based view of disease towards a more adaptive and mechanistic one.
+
+## References
+
+[1]	G. Baffy and J. Loscalzo, “Complexity and network dynamics in physiological adaptation : An integrated view,” _Physiol. Behav._, vol. 131, pp. 49–56, 2014.
+

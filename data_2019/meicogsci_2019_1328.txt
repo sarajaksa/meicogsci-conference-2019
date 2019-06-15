@@ -1,0 +1,18 @@
+... title: Computational Exploration of Self-Organizing Map with Lateral Connections
+
+
+
+Abstract
+
+Computational modeling and simulation of cognitive phenomena play an important role in neuroscience research [1]. Self-Organizing Maps are based on simulated networks of neurons with afferent connections coming from the external world. Their modification in form of the Laterally Interconnected Synergetically Self-Organizing Map (LISSOM) [2] also integrates reciprocal lateral connections within the neural network. Each neuron in the map influences and is influenced by the rest of neurons by excitatory short-range and inhibitory long-range connections. LISSOM is considered a suitable way for simulating the development of the neocortex and was used for studying primary visual cortex [1] (e.g. ocular dominance, cortical plasticity, tilt aftereffect, etc.).
+
+The map’s reaction to input consists of three steps. Firstly, LISSOM network reacts on input considering only similarity of the input to the afferent weight vector what leads to the initial responses of neurons. Secondly, repeated local cooperation and competition through lateral connections evolve this response into an activity. Thirdly, after the activity in map settles into stable pattern (activity does not change significantly in next iterations) all connection weights are updated. For analyzing dynamics of LISSOM it is needed to combine knowledge from cognitive neuroscience and computational modeling.
+
+The goals of this research are to: implement the LISSOM, conduct experiments on visual inputs and describe changes in activity and weights. The main interest is if learned information (visual patterns) can have influence on settling activity when new visual pattern is presented to map in early stages of training. The LISSOM was implemented using the Python programming language. Visual inputs are bitmap representations of ten Arabic numerals. Experiments were conducted on personal computer.
+
+Pilot training of LISSOM confirmed that activity settles in stable pattern in 10 iterations what is in accordance with [2]. Therefore the following experiments will compare settling dynamics as response to different inputs during 10 settling iterations per input including change of weights. I am not aware of similar experiments were already conducted. The ten different inputs in basic and reverse orders will be presented to untrained LISSOM. Information about changes in activity will be recorded together with visualization of reconstructed input, afferent weights of all neurons and lateral weights for neuron from center of map. For future research the LISSOM will be fully trained on server provided by Comenius University and similar experiments will be executed. 
+
+##References
+[1] R. Miikkulainen, J. Bednar and Y. Choe, Computational Maps in the Visual Cortex. Dordrecht: Springer, 2006.
+[2] J. Sirosh and R. Miikkulainen, "Cooperative self-organization of afferent and lateral connections in cortical maps", Biological Cybernetics, vol. 71, no. 1, pp. 65-78, 1994. Available: 10.1007/s004220050068.
+

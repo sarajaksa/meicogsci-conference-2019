@@ -1,0 +1,22 @@
+... title: Finding the Best Position to Relax in Patients with Parkinsonian and Patients with Essential Tremor
+
+
+
+Abstract
+
+## Introduction
+Tremor is the most common movement disorder, presented as involuntary rhythmic movement of a body part. It can occur at rest, which is typical for Parkinson's disease, or during voluntary muscle activation, as characteristic for essential tremor (ET). In clinical practice there is a common diagnostic dilemma, whether a patient has Parkinsonian tremor (PT) or ET. Almost a fifth of individuals with ET also have a tremor at rest, which could be partly due to the patient's failure to relax. Classical PT depends on the position of limbs during the examination and other factors, such as cognitive effort which increases the tremor's amplitude [1]. Notably, the occurrence of tremor is affected by patient’s position and his state of relaxation. There is no data in the literature on what is the best position to achieve relaxation, particularly in sitting position, which the most common scenario in clinical practice. In this study we will compare different sitting positions and recumbent position in order to define the best sitting position with full relaxation of the upper limb muscles.
+
+## Methods
+30 participants will be included: 10 healthy individuals, 10 PT patients, and 10 ET patients who also have tremor at rest. Muscle activity will be measured with EMG surface electrodes adhered to following muscles: trapezius, deltoideus, biceps brachii, triceps brachii, extensor and flexor carpi radialis, and abductor pollicis brevis on one hand. We will simultaneously collect data on tremor's frequency and amplitude, using an accelerometer. For each individual, EMG measurements will be performed in six positions for two minutes: standing, arms hanging along the body; lying on the back, arms along the body in supination; sitting, arms resting on thighs in supination; sitting, arms resting on thighs in position between pronation and supination; sitting, arms supported on chair arms, hands hanging in pronation; sitting, arms hanging along the body.
+The participants will have to subtract from 100 by one for 30 seconds in the third position.
+
+## Expected results
+We expect to find a sitting position in healthy participants, in which it is possible to achieve (almost) complete relaxation of the upper limb muscles. Additionally, we expect in this position PT will be the most prominent, while the rest tremor component of ET will vanish or become less notable.
+
+## Conclusions
+These findings are important for clinical practice when dealing with patients with tremor, as they would reduce the influence of external factors, such as the way of sitting and arm holding on the tremor occurrence. This would also allow a more reliable differentiation between patients with PT and ET, which is currently possible only with expensive functional imaging.
+
+## References
+[1] V. Kragelj, D. Georgiev, Z. Pirtošek, and S. Ribarič, “Tremor,” *Zdravniški vestnik*, vol. 81, no. 1, pp. 61-69, 2012.
+

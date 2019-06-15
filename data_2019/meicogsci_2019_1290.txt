@@ -1,0 +1,39 @@
+... title: Inverted Encoding Models: Reconstructing Stimulus Locations from Spatial Working Memory
+
+
+
+Abstract
+
+## Background
+
+Can the patterns of neural activity reveal, how working memory operates? Empirically, this question can be addressed through stimulus reconstruction techniques applied to fMRI data. One such technique is Inverted Encoding Modelling (IEM) [1]. IEM reproduces stimulus features from neural data based on a hypothetical neural encoding of those features.
+
+## Methods
+
+In an fMRI experiment, 40 healthy participants (all students, 23 female, 21±3 years of age) memorised the location of a small, circular stimulus, held it in working memory over a 10 second blank delay and freely recalled it by moving a probe to the remembered location using a joystick.
+
+After preprocessing the neural data, the IEM analysis proceeds as follows:
+First, a neural encoding model for spatial location is built by designing a set of spatial filters which act as information channels for the stimuli. Second, the encoding model is trained on a subset of the fMRI data by estimating the weight matrix which best fits the responses in the information channels to the neural signal in terms of a general linear model. Third, the weight matrix is inverted, in order to allow backward calculation from the fMRI data to the channel responses. Finally, the inverted encoding model is tested on the remaining subset of the data by predicting the presented stimulus location from the neural signal.
+
+The steps described above will be repeated within (i) a cross-validation procedure, which shuffles the training and test data sets to increase the validity of the results, and within (ii) a searchlight analysis, which identifies the brain areas most suitable for reconstructing the spatial stimulus location.
+
+## Expected Findings
+
+_Based on previous research [1], we expect to find that ..._
+
+- IEMs can recover the spatial location of presented stimuli in a visual working memory task.
+- the fidelity and location of the reconstructions predict the behavioural mnemonic performance.
+- the fidelity of the reconstructions is higher for stimulus presentation compared to delay phases.
+
+_Expanding previous research [1], we expect to find that ..._
+
+- IEMs based on 2D polar spatial filters are superior to IEMs based on Cartesian or 1D directional spatial filters.
+
+## Implications
+
+This research could have implications for our understanding of the mechanisms governing spatial working memory. For instance, it may reveal, which kind of coordinate encoding is most likely to underly spatial working memory: polar or Cartesian? Additionally, it may hint at the brain areas, which are likely involved in handling latent working memory representations.
+
+## References
+
+[1]	T. C. Sprague, E. F. Ester, and J. T. Serences, "Restoring Latent Visual Working Memory Representations in Human Cortex", _Neuron_, vol. 91, no. 3, pp. 694–707, Aug. 2016.
+

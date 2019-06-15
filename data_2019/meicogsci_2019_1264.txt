@@ -1,0 +1,34 @@
+... title: Good VS Bad Readers: An Eye Tracker Study
+
+
+
+Abstract
+
+## Context
+
+Our mission, as scientists of the new age, has now become not to just simply observe behavior, but perhaps use information obtained from said observations to help others and influence their behavior for the better. This particular work will inspect the reading comprehension of students, assess the eye-movement patterns they employ and attempt to find specific patterns that are used by more comprehensive readers.
+
+## Purpose
+
+The goal of this project is to discover particular eye-movement patterns used by those who have better reading comprehension skills than others. According to studies done in the past, students who’ve displayed better reading comprehension skills seemed to have employed eye-movement patterns during reading that those with lesser skills didn’t use at all [1]. The hope for this project is to find those distinct patterns that are used more often than others, as well as particular areas of interest they are focused on. The driving factor of this research is the assumption that more skilled readers exert less chaotic, more ordered, and succinct eye-movement patterns than do readers of a lower comprehension level. 
+
+## Method
+
+Since this is a pilot study around 10 students (aged 18-30) will receive a control test for the language efficiency. Further on, each student will be placed in front of the Tobii eye tracker and instructed to read a text and answer the questions that follow. These questions will investigate how well the students understood particular aspects of the text such as grammar, vocabulary, and the general meaning. Each question will be displayed alongside the part of text it is referencing, which will allow us to investigate particular eye-movements associated with particular tasks. After which, the eye-tracking data will be sequentially analyzed in the hope of isolating distinct patterns in more skilled readers and less skilled readers. 
+
+## Implications
+
+If this project finds evident patterns in skilled and less skilled readers this could lay a great stepping stone for further investigation into the behaviors of reading as well as studying. Perhaps such information could be employed in a computerized “study-buddy” and prompt less successful readers to use the same patterns that more comprehensive readers use.  
+
+## References
+
+[1] Y. Jian, "Eye-movement patterns and reader characteristics of students with
+good and poor performance when reading scientific text with diagrams",
+Reading and Writing, vol. 30, no. 7, pp. 1447-1472, 2017. Available:
+10.1007/s11145-017-9732-6.
+
+[2] A. Shareghi Najar, A. Mitrovic and K. Neshatian, "Eye Tracking and Studying
+Examples: How Novices and Advanced Learners Study SQL Examples", Journal of
+Computing and Information Technology, vol. 23, no. 2, p. 171, 2015.
+Available: 10.2498/cit.1002627.
+

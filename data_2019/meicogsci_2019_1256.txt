@@ -1,0 +1,28 @@
+... title: ## Electrophysiological Characteristics of Mind-wandering in Relation to Vulnerability for Development of Depression
+
+
+
+Abstract
+
+## Introduction
+
+We are witnessing a growing number of findings based on recent developments in EEG quantitative analysis, which help us better understand the electrophysiological correlates of symptoms present in different brain disorders, e.g. Major Depressive Disorder (MDD). As of yet, the brain oscillatory activity is considered to be the most crucial aspect of such research [1]. MDD is characterized by a persistent resonance of rhythmic thalamocortical activity in the waking state. It is possible to observe the increase in the alpha band power, which could be best described as an indicator for a broadly distributed, shifting state of brain dysregulation. The brain electrical activity has a significant role in the modulation of thinking, memory, mood, cerebral blood flow, and neurotransmitter levels [1].
+Furthermore, studies of resting-state blood oxygen level-dependent  signal in MDD have shown increases in functional connectivity in the default mode network. Such activity is associated with increased mind wandering, a phenomenon observed in MDD. This could be related to the increase in synchronization in the alpha oscillatory activity. Leuchter et al. [1] posit that such activity could present a trait, not state phenomenon.
+
+## Method
+
+We will examine the LEMON database [2] enabling the exploration of individual variance across cognitive faculties and emotional phenotypes in relation to the functional architecture of the brain in subjects without a major psychiatric history. The open-source database consists of data gathered from 228 healthy participants, who performed various tests during a two-day examination period along with their EEG resting-state data. It is useful to further delve into general personality characteristics and subclinical symptoms of depression as well to observe mind wandering determined with different scales as a trait phenomenon.
+The aim of our data analysis is to focus on the identification of biomarkers related to depression in healthy people (e.g. high neuroticism), such as correlations between changes in the EEG oscillatory activity and increased mind wandering. In order to better understand the data acquired from the LEMON database, we will use the open-source programme ORANGE [3] for data visualization. We will perform the time-frequency analysis on the raw EEG data that would first be preprocessed. Furthermore, the data will be prepared for possible machine learning algorithms, such as linear regression and deep learning.
+
+## Future Research
+
+Restoration of normal oscillatory patterns is associated with effective treatment of MDD. Future studies should focus on developing techniques crucial for the normalisation of oscillatory activity. Until now, the most prominent approach appears to be non-invasive brain stimulation. Moreover, based on its effect on the normalisation of hyperactivation of the default-mode network, mindfulness should be considered as an integrative part of the comprehensive approach in therapy for MDD.
+
+## References
+
+[1] A. Leuchter, I. Cook, Y. Jin and B. Phillips, "The relationship between brain oscillatory activity and therapeutic effectiveness of transcranial magnetic stimulation in the treatment of major depressive disorder", Frontiers in Human Neuroscience, vol. 7, 2013. Available: 10.3389/fnhum.2013.00037.
+
+[2] A. Babayan et al., "A mind-brain-body dataset of MRI, EEG, cognition, emotion, and peripheral physiology in young and old adults", Scientific Data, vol. 6, p. 180308, 2019. Available: 10.1038/sdata.2018.308.
+
+[3] U. Bioinformatics Laboratory, "Orange – Data Mining Fruitful & Fun", Orange.biolab.si, 2019. [Online]. Available: https://orange.biolab.si/.
+

@@ -1,0 +1,28 @@
+... title: It’s about What You Say and How You Say It – the Impact of Toxicity in Language on the Participation of Female Users in Stack Overflow
+
+
+
+Abstract
+
+## Introduction
+
+Stack Overflow (SO) is an online community for software developers to ask programming questions and receive answers from other members. This “knowledge marketplace” could potentially democratize knowledge and mitigate existing inequalities. Yet, specifically in the field of gender disparity it seemed to have failed: Contribution rates of women in such open-source programming communities are even lower than their overall presence in the IT labor market. Considering the type of contribution, female users are more likely to ask questions, whereas male users provide more answers and cast more evaluative feedback for both, answers and questions [1]. Low active participation rates of female users are problematic, because SO has a big impact on how newcomers perceive norms and culture of coding and thus perceive it as only-male. Besides that, headhunting in the IT-sector uses SO reputation rankings, in which women due to their low participation are underrepresented immensely. Thus, the real-world underrepresentation of women in the IT-sector and participation barriers could probably worsen. 
+
+## Aim
+
+Until now, most researches done on low participation rates of female users suggested the toxic atmosphere in SO-forums to be an essential barrier, but no further examinations on that topic were made. The aim of this project is to evaluate the degree of toxicity in a sample of answers and comments given in these forums. Furthermore, I will draw implications on the exact impact on participation of female users.
+
+## Method
+
+For this purpose, I use a dataset consisting of 100.000 gender-identified SO-profiles, resulting from a former published research of May et al. [1], in order to assign questions, answers and comments stated to a male or female user base. Subsequently, I will determine the degree of toxicity in those Q&A-forum-entries with the help of the *R statistical language* and the *Perspective API*. The API uses machine learning models to score the perceived impact on the degree of toxicity in a discussion. 
+Moreover, I will accumulate toxicity degrees belonging to entries of specific threads to calculate the average toxicity of SO forum threads. In addition, I will examine the impact of factors such as female vs. male users stating a question, answer or comment on expressed toxicity.  
+
+## Results
+
+This project is a continuation of former studies by May et al.
+[1] and the analysis will proof empirically that the communication in Stack Overflow is specifically toxic towards female users.
+
+## References
+
+[1] A. May, J. Wachs and A. Hannák, "Gender differences in participation and reward on Stack Overflow", *Empirical Software Engineering*, 2019. Available: https://arxiv.org/abs/1811.11539. [Accessed May 3, 2019].
+

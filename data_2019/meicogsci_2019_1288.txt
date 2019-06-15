@@ -1,0 +1,21 @@
+... title: Fine-tuning a Multilingual BERT Model on English and German for Sentiment Analysis
+
+
+
+Abstract
+
+##Introduction
+Recently, the BERT model (Bidirectional Encoder Representations from Transformers) has combined a number of advances in natural language processing (bidirectional models, semi-supervised learning and deep learning) and achieved state-of-the-art performance by fine-tuning the model across different language tasks (e.g. part-of speech tagging, sentiment analysis) [1]. This paper is in line with other attempts to transfer language specific and often English-based resources to languages, for which there are fewer extensive data collections. We examined the impact of using a pre-trained multilingual BERT model fine-tuned on either English or German texts on sentiment classification performance in the two languages.
+
+##Methods
+We gathered 5,000 English and 3,000 German Amazon product reviews of various editions of the game TES 5: Skyrim. The product ratings were binarized into negative (rating < 3) and positive (rating > 3). Classifiers were either trained and tested on the same language or trained and tested on a different language. An English dataset of 3,000 comments was also created to control for the smaller size of the German dataset. In all cases, stratified sampling was used. A baseline model was calculated using the zero-rule algorithm. Each classifier was trained 10 times and the average measures are reported below. Specificity was used as the main evaluation metric since only 18% of the reviews in the datasets were negative and the zero-rule classifier already has high accuracy (0.816).
+
+##Results
+The highest specificity was achieved by training and testing in English (specificity: 0.603; accuracy: 0.874). In comparison, the classifier trained and tested on German reviews performed worse (specificity: 0.331; accuracy: 0.84), even when compared to the classifier trained and tested on a smaller English dataset (specificity: 0.512: accuracy: 0.86). The classifier trained on English performed better on the German test set than the German-trained classifier (specificity: 0.623; accuracy: 0.735). However, the classifier trained on German and tested on English performed worse than the English-trained classifier (specificity: 0.223; accuracy 0.841).
+
+##Conclusions
+Considerably high performance can be achieved by fine-tuning the BERT model on a specific task in English and then testing it on German texts. Further work should examine factors of this success in detail (the effect of dataset sizes, text normalization procedures and the tokenizers used).
+
+##References
+[1]	J. Devlin, M. Chang, K. Lee, K. Toutanova, “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding”, arXiv:1810.04805 [cs.CL], Octber 2018. [Online serial]. Available https://arxiv.org/abs/1810.04805. [Accessed April 29., 2019].
+

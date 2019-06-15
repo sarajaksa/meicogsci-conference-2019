@@ -1,0 +1,27 @@
+... title: The Experience of Grammaticality Judgments
+
+
+
+Abstract
+
+## Grammaticality Judgments
+
+Grammaticality judgments are reports of speaker intuition about the grammaticality of sentences. They form the empirical basis for a large amount of linguistic research. Roughly, such research is conducted as follows: based on previous findings, linguists construct a hypothesized grammar that predicts which sentences are grammatical and which are not. The linguist then asks a native speaker of that language whether, based on intuition, those predictions are accurate. The ability to make grammaticality judgments is often implicitly assumed to be a universal linguistic ability that reflects an aspect of cognition of language.
+
+## Problems with Grammaticality Judgments
+
+The use of grammaticality judgments has been criticized on various bases. For example, linguists often use their own intuitions as data at the risk of introducing bias, use small sample sizes, or donâ€™t note inter- and intra-participant variability. Confounding factors, such as context or political attitude, have been difficult to control for. Syntacticians responded by developing standardized questionnaires and introducing reporting conventions. 
+
+Additionally, some consider intuitions necessarily unsuitable for scientific inquiry, or have noted that non-linguists often donâ€™t understand request for grammatical judgments, and some report not having them at all, indicating grammaticality judgments are not a universal basic ability. (See [1] for an overview of criticism and responses.)
+
+## Our proposal
+
+Although grammaticality judgments have been researched using methods from cognitive psychology, to the best of our knowledge no one has systematically investigated the phenomenon of linguistics intuitions from the point of view of experience. We propose to use phenomenological interviewing techniques [2] in an exploratory investigation into the experience of making grammaticality judgments. Over two sessions, we will ask native speakers of English to report their grammaticality judgments on a set of sentences with increasingly subtle violations of various types. They are asked to report their experience while making judgments, with particular focus on the differences between types and gradations of violations.
+
+We hope to contribute to a clearer understanding of, and/or deconstruction of the intuition that underlies grammaticality judgments. Such a contribution is relevant to theoretical linguistics because it may help refine models of language cognition and methodological tools, and to researchers who reject the use of grammaticality judgments but are interested in speakers' experience of language.
+
+
+## References
+[2]C. SchuÌˆtze, The empirical base of linguistics. Berlin: Language Science Press, 2016.
+[2]C. Petitmengin, "Describing oneâ€™s subjective experience in the second person: An interview method for the science of consciousness", Phenomenology and the Cognitive Sciences, vol. 5, no. 3-4, pp. 229-269, 2006.
+

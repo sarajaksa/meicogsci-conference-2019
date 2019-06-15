@@ -1,0 +1,39 @@
+... title: Resting-State Connectivity and Emotion Regulation
+
+
+
+Abstract
+
+## Introduction:
+
+Emotion regulation (ER) is the ability to regulate one’s own emotion. For instance, when prompted with the image of a car accident, one can imagine it to be merely a movie set and therefore modulate his or her emotional experience and response. The networks involved in ER are still being researched and identifying them could greatly benefit clinical research as ER can affect both mental and physical health [1]. Resting state fMRI (rs-fMRI) provides an insight into the intrinsic functional connectivity of the human brain. In this study we explore the relationship between rs-fMRI networks and ER. We also evaluate the stability of these networks by comparing the results from 3 different sessions.
+
+## Research Questions:
+
+In this study we aim to answer the following three research questions:
+Q1: Are the regions implicated in ER also co-activated during rs-fMRI? 
+Q2: Are these networks stable over the course of three sessions? 
+Q3: Does rs-fMRI networks of ER correlate with ER success?
+
+## Methods:
+
+Rs-fMRI was recorded from 22 participants (18 females, age: M=22.7 ± 3.2) as part of a project on the reproducibility of ER networks. This study consisted of a one-hour fMRI scanning session, in which 4 runs of a well-established ER task measuring brain activation as well as ER success were assessed.
+Each session was repeated three times separated by one week using the CMMR multiband EPI sequence (TR=1.4s; TE=23ms; 78 slices; voxel size=1.5x1.5x1.2mm3) at ultra-high field (7 Tesla). 258 rs-fMRI volumes were acquired for each participant in each session. The data was pre-processed using the SPM toolbox (motion correction, slice time correction, realignment, normalisation and spatial smoothing with a FWHM=6mm). Rs-fMRI data will be analysed using the CONN toolbox [2].
+The following analysis will be performed to address the research questions:
+Q1: We will use functionally defined seed regions related to ER (Amygdala, dlPFC, vlPFC) for a seed-to-voxel analysis. 
+Q2: Using the networks identified in Q1, we will compare the stability of the networks between sessions and identify significant differences.
+Q3: We will use the obtained networks and relate them to ER success using a correlational approach.
+
+## Predictions:
+
+We predict that regions involved in ER will be co-activated during rs-fMRI (Q1). These ER networks are also expected to be stable over the course of the 3 sessions (Q2). Finally, we predict these obtained networks to be correlated with ER success (Q3). 
+
+## Implications:
+
+Our results could provide evidence for highly replicable and robust ER networks across sessions which would offer a promising biomarker candidate for ER ability. 
+
+## References:
+
+[1]	J. J. Gross, “Emotion Regulation: Taking Stock and Moving Forward,” Emotion, vol. 13, no. 3, pp. 359–365, 2013.
+[2]	S. Whitfield-Gabrieli and A. Nieto-Castanon, “Conn: A Functional Connectivity Toolbox for Correlated and Anticorrelated Brain Networks,” Brain Connect., vol. 2, no. 3, pp. 125–142, 2012.
+

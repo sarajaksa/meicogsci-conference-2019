@@ -1,0 +1,21 @@
+... title: “Education in the city: Planning Urban Enabling Spaces for learning activity”
+
+
+
+Abstract
+
+## Context
+The conceptualization of ‘Bildung’ as learning activity  emphasizes the processual character of Bildung - Aneignung (appropriation) [1]. “Bildung” refers to the formation of one’s personality or of the self - a process of self-cultivation unfolding from within, which gives rise to one’s own talents and potentials [2]. There are spaces that enable the phenomenon of learning activity and there are spaces that do so worse. Currently discussed with prominence under the notion of “educational landscapes” are potentials and possibilities to integrate and enable non-formal educational formats in the planning of cities and rural areas. This is the theoretical and practical discipline called planning theory. No research so far has attempted to integrate the concept of learning activity as an indicator for Bildung in the discourse of planning theory. Challenges in this process include questions on space, education and interaction. In my master thesis I want to use this open niche within planning theory by attempting a theoretical work on the process of planning enabling spaces for learning activity in the city [3].
+## Method
+This master thesis follows my previous research projects’ focus on the concept of enabling spaces within play-cities and universities. Play-cities are aesthetic action spaces for learning opportunities, in which children between 7 and 15 years are enabled to play, develop and mediate their own city, by taking on roles within urban establishments such as a bakery, post office, architecture bureau etc. The projects have employed grounded theory based on qualitative and quantitative data collection. The present thesis will go one step further to integrate previous findings in a theoretical attempt at situating enabling spaces for learning activity in planning theory. 
+## Research Question
+How can planning theory integrate the theme of enabling learning activity in the debate on educational landscapes? 
+## Interdisciplinary Cognitive Science
+The aim is an integration, interaction and exchange between various theoretical concepts from interdisciplinary fields to enter a debate within planning theory, which in itself again is the interdisciplinary field of architecture, sociology, philosophy, urban studies, and organizational theory. 
+## References
+[1] Engeström, Y. (2014). Learning by Expanding: An Activity-theoretical Approach to Developmental Research.. 1st ed. Cambridge: Cambridge University Press 
+
+[2] Mogensen, F. and Schnack, K. (2010). The action competence approach and the ‘new’ discourses of education for sustainable development, competence and quality criteria. Environmental Education Research, 16(1), pp.59-74.
+
+[3] Peschl, M. and Fundneider, T. (2014). Designing and Enabling Spaces for collaborative knowledge creation and innovation: From managing to enabling innovation as socio-epistemological technology. Computers in Human Behavior, 37, pp.346-359.
+

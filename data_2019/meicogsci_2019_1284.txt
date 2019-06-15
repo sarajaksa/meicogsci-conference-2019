@@ -1,0 +1,27 @@
+... title: Grounded Language Learning in Robots - An Information-Theoretic Approach to Adjective Learning
+
+
+
+Abstract
+
+## Introduction
+Grounded language learning refers to viewing the language learning process as forming mappings between words and concepts of entities in the physical world. It is important for embodied agents, like factory robots, that have to learn to interact in the real world and communicate with human coworkers. We are concerned with scenarios where robots learn the correct words in an online fashion by interacting with humans that talk about referents while using them.
+
+## Problem
+In this research, we extend the information-theoretic model for language learning from multi-sensory data introduced by Gross et al. in order to not only learn words that denote objects and actions but also words related to properties of objects [1]. Initially, the algorithm will allow the robot to learn the words referring to the color of an object, however, for future work it will be possible to expand the algorithm to learn words referring to several different properties.
+
+## Gap in literature
+The existing literature discusses different approaches towards adjective learning from multi-sensory data. However, our approach can operate with fewer data points and it can cope with the fact that adjectives are not used each time an object is referred to.
+
+## Approach
+The approach to solve the posed problem is based on using normalized pointwise mutual information between words in the utterance describing an action and the referents involved in the action. Moreover, we will utilize the knowledge about objects’ types and their properties by representing all information about a particular object as informational frames. Thereby, the different objects can be compared and, based on their similarities and differences, the adjective-property mappings can be calculated.
+
+## Method
+In order to achieve this goal, we will implement the existing model in Python and enhance it as described above. Each possible solution will be tested with data comprising descriptions of the test subject’s actions aligned with a list of object references, partaking in the respective scene. This can be data from existing corpora or self-constructed data to test edge cases. These steps are part of an iterative process where implementations are tried out in practice and improved based on their performance.
+
+## Impact
+We expect this new method to enable robots to learn the words denoting various properties of an object, which is important for differentiating objects (also of the same kind), a crucial part of successful human-robot interactions.
+
+## References 
+[1] S. Gross, B. Krenn, F. Neubarth, S. Sadeghi, M. Scheutz and M. Trapp, “Models of Cross-Situational and Crossmodal Word Learning in Task-Oriented Scenarios”,  *IEEE TCDS Special Issue on Language Learning in Humans and Robots*, to be published.
+

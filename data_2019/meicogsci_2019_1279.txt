@@ -1,0 +1,28 @@
+... title: Comparison of Emotional and Behavioral Problems in Children with Type 1 Diabetes and Their Healthy Peers
+
+
+
+Abstract
+
+## Introduction
+
+Over the last couple of decades research has been trying to gain a better insight into which major factors can cause development of diabetes 1. This project is a part of a bigger study, which aims to find whether stress can cause the development of diabetes type 1 through psychological and genetic factors. Previous literature has shown evidence that emotional and behavioural problems could be important factors [1]. Therefore, we are aiming to determine whether children with diabetes type 1 have more emotional and behavioural problems than their peers. We used Achenbach System of Empirically Based Assessment (ASEBA), Child behaviour checklist for ages 6-18 (CBCL) questionnaire for parent [2].
+
+## Methods
+
+In our project 194 children (94 with diabetes 1, 100 healthy peers) between the ages of 8 and 15 (M = 11,7;M(diabetes) = 11,7;M(control) = 11,6) were included. The CBCL questionnaire was completed by the children's parents. We were interested in parent’s answers regarding emotional and behavioural problems of their children. Data was first checked for normality. Since the preliminary analysis of each group separately showed that the data was not distributed normally, the data was analysed with the Mann Whitney U test and statistical significance was quoted at the 5% level.
+
+## Results
+
+Independent – Samples Mann-Whitney U Test did not show any statistically significant difference in emotional and behavioural problems between children with diabetes type 1 and their healthy peers. There were higher values for all variables in favour of children with diabetes and the biggest trends were found in aggressive behaviour (M(diabetes) = 3,7; M(control) = 3,0; M-W coefficient = 4119; p = 0,132 ) and withdrawal, depressive mood (M(diabetes) = 2,8;M(control) = 2,3; M-W coefficient = 4235; p = 0,215) measures. Even though these results are not statistically important, they suggest a possible importance of the two factors.
+
+## Conclusion
+
+Our hypothesis was not confirmed, due to the data of CBCL ASEBA questionnaire not showing significant differences between children with type 1 diabetes and their healthy peers in emotional and behavioural problem based on the parents’ evaluations. However, it is important to note the parent’s evaluations might have presented a biased measure. Moreover, results of other review articles suggest that children with diabetes are at bigger risk for developing emotional and behavioural problems. Nevertheless, the article from 2012 shows that they are at bigger risk only for depression, anxiety and psychological distress [1].
+
+## References
+
+[1] K. Reynolds and V. Helgeson, "Children with Diabetes Compared to Peers: Depressed? Distressed?: A Meta-Analytic Review," Annual behavioural medicine, vol. 42, no. 1, pp. 29 - 41, 2012.
+
+[2] T. Achenbach and L. Rescorla, "Manual for the ASEBA School-Age Forms & Profiles," Burlington, VT: ASEBA, 2001
+

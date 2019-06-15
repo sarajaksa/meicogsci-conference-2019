@@ -1,0 +1,27 @@
+... title: The Exclusiveness of Words: A Comparative Language Study of Arabic and English Idioms in the WWW
+
+
+
+Abstract
+
+## Introduction 
+
+Idiomatic expressions are a fascinating linguistic phenomenon. Idiom defined as a group of words in a fixed order that have a particular meaning that is different from the meaning of each word on its own. They are expressions closer to the way people communicate, feel, and interact within their culture. They act as conceptual shortcuts to express meaning. Thus, learning idioms and phrases in a new language can be a big challenge. It is safe to assume that all languages rely on idioms to some extent. In this study, the frequency and the exclusive use of Arabic and English idioms are examined in a quantitative comparative approach using the World Wide Web (WWW) as corpus.
+
+##Purpose 
+
+In a pioneer study by Berger (2019), [1] the world-wide-web was searched for idiomatic expressions in three living and one extinct language: 1102 English, 1183 German, 1138 French, and 1128 Latin phrases distributed into three categories, with high, middle and low frequencies. The WWW offers a colossal amount of heterogeneous collection of all sorts of texts, from high arts and literature down to the most trivial gossip. My goal is to extend the original study to the case of Arabic.
+
+## Method 
+
+The queries search, with Google’s search engine, is targeted at combined word group (n >= 3). The best way to use the exact match search operator, i.e., search for a word group between quotation marks (“ "). As some kind of normalization, I also will search for the same group of words without the quotation marks. The latter search will usually result in much more hits. By dividing the first by the second number, generally resulting in a ratio <<1 (the author in [1]) call this ratio 'exclusiveness'). Theoretically, if the exclusiveness = 1 means the particular phrase is always used in that order (i.e., exclusive use of the idiom). All searches will be repeated within a relatively short period (within a couple of weeks). The mean of the two results will be accepted if they differ by less than 25%. If they vary by more, a third search will be conducted, hoping that this third result will differ from one of the two by less than 25%. If all three results differ from each other by more than 25%, I conclude that this is a very unstable phrase. In parallel, also phrases in English will be examined in the same procedure.
+
+##Implications
+
+The Implication of this work is threefold: firstly, to provide a source for the frequencies and the exclusive use of idioms, especially for teaching and learning purposes of a language. Secondly, to compare the results among languages. Thirdly, to illustrate the advantage of using the Internet as a tool to explore and better understand the use of phrases, and in this case of idioms, in a given language. 
+
+
+## References
+
+[1] M. L. Berger, “On the ‘Stickiness’ of Words. A Comparative Language Study Screening the Internet for English, German, French and Latin Phrases,” J. Quant. Linguist., vol. 26, no. 1, pp. 81–94, Jan. 2019.
+

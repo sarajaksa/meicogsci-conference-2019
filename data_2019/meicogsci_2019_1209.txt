@@ -1,0 +1,21 @@
+... title: Core Cognitive Processes in Human Evolution: An Interdisciplinary Analysis of the Human Mind
+
+
+
+Abstract
+
+## Introduction
+Evolutionary biology has significantly contributed to our understanding of human cognition. Indeed, the concept of cognition has developed in tight association to our understanding of the phenomenon of living. Considering this, the present research aims to explore the phenomenon of human cognitive evolution through the analysis of core-conserved processes (CCPs), as described by the theory of *Facilitated Variation* [1]. CPPs are defined as evolutionary mechanisms enabling a system´s replication and self-maintenance while allowing further adaptive change. We propose that the comprehensive study of the biological principles underlying CPPs can also contribute to the analysis of human cognitive and cultural evolution.
+
+## Method
+A theoretical analysis of the theory of *Facilitated Variation* [1], the theory of the *Origins of the Human Modern Mind* [2] and the *Scaffolding* approach [3], within the fields of evolutionary biology, psychology and bio-cultural studies will be implemented. First, the standpoints of each perspective, regarding CCPs, will be established. Second, a systematic comparison of each model´s approach to CCPs will be presented. Finally, an integral conceptual framework of human cognitive evolution, in the light of the concept of CCPs, will be proposed. 
+##Preliminary Findings
+At a cellular-based level, CCPs developed in biological systems of increasing complexity (i.e., prokaryote cell, eukaryote cell, multicellular animals). Nevertheless, once established, though CCPs facilitate phenotypic variation, they themselves are resilient to selective change [1]. Concordantly, human cognition appears as evolving in complexity from basic cognitive architectures (i.e., mimetic, mythic and theoretic). Each configuration was based on previous representational phases that were preserved within the following emergent phase [2]. At a cultural level, CCPs are understood as innate inferential mechanisms, that while constraining certain cultural expressions, act as cornerstones for additional developmental change [3].
+##Discussion 
+From a theoretical perspective, human cognitive evolution can be approached as a series of CCPs that manifest at a biological, psychological and cultural level [1]-[3]. This study proposes that CCPs enable evolutionary variation without undermining the continuity of their structural and functional cores. Our findings might contribute to the development of novel interdisciplinary frameworks on the evolution of the human mind.
+
+## References
+[1] M. Kirschner and J. Gehart, *The Plausibility of Life: Resolving Darwin's Dilemma*. New Haven: Yale Univ. Press, 2005.
+[2] M. Donald, *Origins of the Modern Mind*. Cambridge, MA: Harvard University Press, 1991.
+[3] C. Heintz, “Scaffolding on Core Cognition”, in *Developing Scaffolds in Evolution, Culture, and Cognition*, L.R. Caporael, J. R. Griesemer, and W.C. Wimsatt Eds. London: The MIT Press. 2014, pp- 209–228.
+

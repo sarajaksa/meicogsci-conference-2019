@@ -1,0 +1,29 @@
+... title: Learning Object Grasping in a Physical Robotic System
+
+
+
+Abstract
+
+## Context
+
+Intelligent object grasping is a continuing challenge for cognitive robotics. Due to long training times of reinforcement learning, it is common to start training in a virtual environment and then to transfer the model to the identical physical environment. However, due to inherently existing difference between the two worlds, the completion of the task requires additional effort (fine-tuning).
+
+## Purpose
+
+In our approach this is done by dividing robotic grasping into several steps, namely robotic reaching, grasping, lifting, reaching to the desired position and releasing the object. Each of those steps consists of hundreds of operations in a learned system, which were ingrained by reinforcement learning. Transferring from simulated environment to physical environment poses many challenges.
+Simulations tend to reduce the complexity of the world and account for a limited part of physical properties. For example, difference in friction can mean difference between successfully grasping and lifting an object or failing to do so.
+Another amount of inaccuracy can stem from the fact that in simulated environment the position of the target object is fed to the robotic system. In contrast, the position of the target object has to be estimated in physical spaces using methods of computer vision, which increases the difficulty of successfully accomplishing the task. We try to improve the overall efficiency of the system by using the information about perceived error to retry an attempt.
+
+## Methods
+
+We chose machine learning methods to implement our solution. Namely, reinforcement learning using Continuous Actor Critic Learning Automaton[1]. In this method, a robot learns from scratch in continuous state-action environments. Actor tries out different actions, while critic provides feedback that is used for learning. This allowed us to train the robotic grasping in a way that’s biologically inspired, which makes our approach relevant for comparisons with human motoric learning. 
+
+## Conclusion
+
+The task of robotic gripping is by no means solved, what we’re proposing is a solution that takes a low amount of resources compared to other approaches[2] and achieves satisfactory results. We also make a brief summary of currently used approaches in the field of cognitive robotics, namely in robotic gripping task.
+
+## References
+
+[1]H. van Hasselt, "Reinforcement Learning in Continuous State and Action Spaces", Adaptation, Learning, and Optimization, pp. 207-251, 2012. Available: 10.1007/978-3-642-27645-3_7 [Accessed 13 May 2019].
+[2]L. Pinto and A. Gupta, "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours", 2016 IEEE International Conference on Robotics and Automation (ICRA), 2016. Available: 10.1109/icra.2016.7487517 [Accessed 13 May 2019].
+

@@ -1,0 +1,22 @@
+... title: Exploring Fine Restrictions in the Derivation of Subject Nominalizations in Slovenian
+
+
+
+Abstract
+
+## Introduction
+In the past, a lot of research on morphological processing has been done. However, the studies so far have been conducted only on a few languages. Previous research on English [1] and Greek [2] confirmed Full Decomposition model, which suggests that all visually presented complex words are decomposed into morphemes (e.g. _teach+er_). In the present study, we want to examine the cross-linguistic validity of the above findings in Slovene. The study from 2016 [3] examined morphological processing in Slovenian native speakers with Mild Cognitive Impairment (MCI). In an attempt to tease apart the types of information that are being processed, pseudo-words violating the syntactic category of the base (e.g. *_črkilec_ ‘letter-er’), the thematic specifications (e.g. *_umiralec_ 'die-er'), and the aspectual specifications (e.g. *_preplavalec_ from _preplavati_ 'to swim-pf') of the verbal stem were created. Patients had to decide whether or not the presented words were part of their language. The results showed that MCI patients were much slower at lexical decision task than the control group, especially with thematic and aspectual violations.
+
+## Method
+We extended the stimuli list from 2016 [3] with pseudo-words violating aspect. Our goal is to further delineate aspectual violations into more fine-grained categories and add more words to each category to have a more balanced list. The variables we took into consideration are the following: change of meaning (e.g. *_prepisalec_ from _pisati_ ‘to write’ – _prepisati_ ‘to copy-pf’), no change of meaning (e.g. *_preplavalec_), aktionsart (e.g. *_zaigralec_ from _zaigrati_ ‘start playing-pf’), or suffix (e.g. *_dvignilec_ from _dvigniti_ ‘to lift once’).
+
+## Future Research
+Our aim is to carry out two tasks: an offline grammaticality judgment task and an online lexical decision task to obtain behavioral results. Insofar as we discover important differences in processing between different violations, we will conduct an MEG study, following [2], to examine neurobiological correlates of morphological processing. We want to confirm the role of different brain regions involved in various steps of complex morphological processing and to examine their time course. We expect to find higher acceptance rates and longer RTs in aspectual and thematic violations, as well as to cross-linguistically validate the results and thus confirm Full decomposition model in Slovene.
+
+## References
+[1] C. Manouilidou and L. Stockall, “Teasing apart syntactic category vs. argument structure information in deverbal word formation: A comparative psycholinguistic study,” _Rivista di Linguistica_, vol. 26, no. 2, pp. 71-98, 2014.
+
+ [2] K. Neophytou, C. Manouilidou, L. Stockall, and A. Marantz, “Syntactic and semantic restrictions on morphological recomposition: MEG evidence from Greek,” _Brain and Language_, vol. 183, pp. 11-20, 2018.
+
+[3] C. Manouilidou, B. Dolenc, T. Marvin, and Z. Pirtošek, “Processing complex pseudo-words in mild cognitive impairment: The interaction of preserved morphological rule knowledge with compromised cognitive ability,” _Clinical Linguistics and Phonetics_, vol. 30, no. 1, pp 49-67, 2016.
+

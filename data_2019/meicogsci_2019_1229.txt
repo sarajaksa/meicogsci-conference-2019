@@ -1,0 +1,23 @@
+... title: The Effects Of Loneliness On Trust
+
+
+
+Abstract
+
+This experiment investigates the effects of loneliness on trust, examining both behavioral data and fMRI data. We hypothesize that subjects’ scores on a revised UCLA loneliness scale will correlate to behavioral differences in performance during a Trust Game, as well as to differences in brain activity. The data have already been collected by the Social, Cognitive, and Affective Neuroscience Unit of the University Vienna. The analysis of these data is still underway. 
+
+Some investigations have already been conducted on how loneliness affects trust. Researchers found that subjects who measured high on a loneliness scale were less likely to act in a trusting manner during a Prisoner’s Dilemma game [1]. Our study provides a different paradigm, using a Trust Game, and incorporates neuroimaging data, which has not been used in previous studies.
+
+In this experiment’s modified Trust Game, participants in a 3T MRI scanner (the “investor”) choose what amount of money to give to another participant (the “trustee”). The trustee then chooses how much money is returned to the investor, and this process continues for several rounds. The trustee’s behavior is an independent variable. One “trustworthy” group returned generous amount to the investor, while another “untrustworthy” group returned small amounts. We can then examine how subjects respond to breaches of trust. The most likely hypothesis is that lonely individuals will be quicker to break reciprocity and reduce the amount of money they give to the trustee. 
+
+We will also investigate how any behavioral changes are instantiated in neural activity. From past studies of the neuroscience of the trust game, we can identify key regions responsible for the intention to trust, breach of trust, and fear of betrayal during the Trust Game. These include the prefrontal cortex, cingulate cortex, caudate nucleus, amygdala, and insula [2]. 
+
+Some of these areas will be examined for Region of Interest analysis. If significant activity is shown, these areas will be chosen as seed regions for psychophysiological interaction analysis. This will allow us to model functional connectivity in the brain and how it is modulated by the Trust Game task. Other ANOVAs will be conducted for variables such as the participants’ age.
+
+This study will provide a more complete picture of the neuroscience of trust and loneliness. We may see how complex social situations can alter behavior and become manifest in the brain, and the wide reach that social contact (or lack thereof) can have over other cognitive domains.  
+
+References
+
+[1]	K. J Rotenberg, “Loneliness and Interpersonal Trust,” Journal of Social and Clinical Psychology, vol. 13, no. 2, pp152-173, 1994. 
+[2]	H. Tzieropoulos, “The Trust Game in neuroscience: A short review,” Social Neuroscience, vol. 8, no. 5, pp. 407-416, 2013.
+

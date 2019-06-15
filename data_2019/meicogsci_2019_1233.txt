@@ -1,0 +1,31 @@
+... title: Word Formation in Italian: Morphological Processing in Italian Native Speakers and Bilinguals
+
+
+
+Abstract
+
+##Introduction
+
+This study investigates the processing of derivational suffixes in the Italian language. In order to look at the recognition of linguistic structures below the level of the word, i.e. derivational morphemes and combinations thereof, it has to be assumed that words can be segmented in smaller parts. We based our hypotheses on two underlying assumptions. First, suffix order is handled as binary combinations of SUFF1-SUFF2 type (depending on their position to the root morpheme) [1, 2]. Second, although it seems that affixes are not organized in the same way throughout different languages, it is understood that SUFF1 relates to SUFF2 in a fixed or predictable way [1, 2, 3]. Fixed, if SUFF 1 can derive only one particular SUFF 2 within a major lexical category (noun, adjective, verb). Predictable, if there is more than one SUFF2, but one by default derives a majority of words.
+
+
+##Hypoteses And Method
+
+Our two hypotheses about the native speakers’ intuition on the derivational suffixes are that if SUFF1 is fixed, i.e. tends to combine with only one SUFF2 and thus their combination is unique, speakers should know them by heart. And if so, they should also differentiate with a higher accuracy between existing and non-existing combinations, and also between productive and unproductive combinations.
+
+In order to examine this, native-speaking Italian participants were asked to categorize standalone SUFF1-SUFF2 type combinations as existing or non-existing. A psycholinguistic experiment using a lexical decision task was conducted with 34 native Italian participants. As in the previous study for the Slovenian language [2], 30 existing and 30 non-existing suffix combinations were selected for the testing. The accuracy of their categorization was examined according to the productivity and fixed status of the existing suffix combinations.
+
+
+##Results And Further Studies
+
+By investigating native speakers’ intrinsic knowledge on the existing and non-existing combinations, we expected that suffix combinations falling into the categories of fixed and productive would be the most accurately categorized. As the results showed, Italian native speakers could intuitively distinguish between existing and non-existing suffix combinations, and they were better at recognizing productive combinations, affirming the hypotheses.
+
+In the next step, we will conduct the task also on Italian-Slovene bilinguals, and on Italian foreign learners to investigate whether the active use of a language is a key factor in this accuracy.
+
+
+##Bibliography
+
+[1] Manova, S. & Brzoza, B. (2015). “Suffix ordering in Polish: Implications for foreign language learning”, in Journal of Slavic Linguistics, revised and resubmitted
+[2] Medvešek, Š. & Manova, S. (2017). “Processing Suffix Combinations in Slovene”, revised and resubmitted.
+[3] Manova, S. & Talamo, L. (2015). “On the significance of the corpus size in affix-order research”, in SKASE Journal of Theoretical Linguistics, 12(3): 369:397.
+

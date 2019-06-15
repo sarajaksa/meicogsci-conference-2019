@@ -1,0 +1,23 @@
+... title: The Label Effect - Investigating the Art Experience With and Without Contextual Information
+
+
+
+Abstract
+
+## Introduction
+Museums are symbolic cultural spaces that foster unique æsthetic experiences, reason why numerous studies have analysed the display effect on viewing behaviour. Labels are textual additions that accompany artworks, providing information about the cultural background of each creation, facts about the artist or depicted subject. Very few studies focus on the time spent on labels [1] and even fewer on how labels influence art appreciation [2]. The present research analyses the label effect by exploring its implications on artwork perception, while aiming to determine whether the addition of labels enhances the experience or acts as a restriction to the imaginative processes otherwise engaged.
+
+## Method
+The Austrian Gallery Belvedere offered unique research conditions by displaying the same artworks from the years around 1900 in two different museological settings. Thirteen artworks by artists such as Gustav Klimt, Vincent van Gogh and Auguste Rodin were displayed in both settings, out of which four had additional labels. Data has been collected in a mixed method approach combining mobile eye tracking, a quantitative survey and a subjective mapping (drawing task in conjunction with an open interview, providing *a posteriori* personal insight). Mobile eye tracking allows precise recording of the viewing time with a high degree of ecological validity [3]. Our data sample consists of 30 participants for each exhibition/exhibiting condition. 
+
+## Findings
+Our results show that participants a) spend consistently more time looking at artworks that have additional labels (21.25s as opposed to 14.24s), b) explicitly refer to the labels’ content and report how it facilitates the artwork understanding and c) appreciate having contextual information as they are able to relate more with the artwork. 
+
+## Impact
+The usage of mixed methods allows a particularly comprehensive overview of the visitors’ æsthetic experiences and makes ground for a better understanding of the cognitive processes involved. Our findings support the theory that contextual information enhances the æsthetic experience and positively influences the viewing behavior. The study could potentially influence museum display decisions by providing an argument in favour of using labels to increase the viewers engagement in the art appreciation experience.
+
+## References
+[1] Most prominent: L. Smith, J. Smith and P. Tinio, "Time spent viewing art and reading labels", *Psychology of Aesthetics, Creativity, and the Arts*, vol. 11, no. 1, pp. 77-85, 2017.
+[2] E.g.: J. Temme, V. Elbert, “Amount and Kind of Information in Museums: Its Effects on Visitors Satisfaction and Appreciation of Art”, *Visual Arts Research*, vol. 18, no. 2, pp. 28–36, 1992.
+[3] T. Santini, H. Brinkmann, L. Reitstätter, H. Leder, R. Rosenberg, W. Rosenstiel, E. Kasneci, “The Art of Pervasive Eye Tracking: Unconstrained Eye Tracking in the Austrian Gallery Belvedere”, *7th Workshop Conf.*, 2018.
+

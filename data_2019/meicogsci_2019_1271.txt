@@ -1,0 +1,25 @@
+... title: Blink and You'll Miss It: Comparing Results of Removing Artifacts from EEG Recordings Using ICA Versus ASR
+
+
+
+Abstract
+
+## Introduction
+One of the greatest challenges while conducting electroencephalography (EEG) research is that EEG recordings are regularly contaminated by artifacts such as sensor motion, eye movements and blinks as well as other muscle activities [1]. 
+A well established method for artifact rejection is Independent Component Analysis (ICA), a blind source separation technique that aims to separate a set of independent signals from a set of mixed signals, allowing for extraction of signals contributing to the artifacts [2]. While removing artifacts is crucial, a downfall of such methods could be the inadvertent additional removal of salient signals which actually display neural activity. 
+The main added value of our research would be in utilizing another method, Artifact Subspace Reconstruction (ASR). ASR is an adaptive filtering approach which is designed to remove high-amplitude data components (eye blinks, muscle, sensor motion) while recovering EEG background activity that lies in the subspace spanned by the artifact components [3]. 
+
+## Methods
+We will be using data from a study on cognitive control where partially the resting state network was being observed. We will preprocess the data in three different ways; without ICA, with ICA and with ASR. The results will then be statistically analyzed to discover any systematic differences between the three differently preprocessed groups of data. 
+
+## Results
+We expect the results from the different preprocess techniques to differ somewhat; the data preprocessed without ICA will still contain all ocular artifacts, whereas the ICA and ASR processed data will not. However, what we are curious about is whether the ASR method also removes relevant signal from the recordings alongside ocular and muscular artifacts.
+
+## Discussion
+With our research, we wish to improve the preprocessing part of EEG analysis by comparing a new and emerging method of artifact reduction to a more established and wide-spread method utilized for the same task. If we were to discover that the ASR method is significantly more successful in artifact removal, that could lead to a wider spread of this method and hopefully to a more optimal preprocessing pipeline in EEG analysis throughout the field of neurological research.
+
+## References
+[1] C.-Y. Chang, S.-H. Hsu, L. Pion-Tonachini, and T.-P. Jung, “Evaluation of Artifact Subspace Reconstruction for Automatic EEG Artifact Removal,” 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2018.
+[2] C. L. Dickter and P. D. Kieffaber, EEG methods for the psychological sciences. London: Sage, 2014. 
+[3] T. R. Mullen, C. A. E. Kothe, Y. M. Chi, A. Ojeda, T. Kerth, S. Makeig, T.-P. Jung, and G. Cauwenberghs, “Real-time neuroimaging and cognitive monitoring using wearable dry EEG,” IEEE Transactions on Biomedical Engineering, vol. 62, no. 11, pp. 2553–2567, 2015.
+

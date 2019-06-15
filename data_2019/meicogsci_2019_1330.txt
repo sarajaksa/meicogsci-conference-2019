@@ -1,0 +1,22 @@
+... title: Phonaesthetics: A Pilot Investigation
+
+
+
+Abstract
+
+In popular discourse, certain natural languages (e.g., Italian and French) are considered to be more mellisonant than others (e.g., German and Arabic). In spite of this observation, only limited scientific research can be found on this topic (e.g., the controversial field of _phonaesthetics_ – which is primarily concerned with “the aesthetic properties of sound” [1, p. 361] – has not received much scientific attention). The only systematic analysis seems to have been conducted by Crystal [2], who examined a list of allegedly beautiful English words in an attempt to identify the phonaesthetic patterns found within.
+
+In the field of sociolinguistics, on the other hand, two opposing theories regarding the aesthetics of a language’s sound have been discussed: the ‘inherent value hypothesis’, which states that certain languages are inherently more beautiful than others, and the ‘social connotations hypothesis’, which argues that languages are perceived as beautiful because of the social connotations they carry [3].
+
+To test the two hypotheses empirically, we plan to design and carry out a series of psycholinguistic pilot experiments, all of which are part of a larger research framework. The experiments shall employ a set of auditory stimuli (each language represented by its own stimulus), whereby the stimuli themselves shall consist of native-speaker readings of Aesop’s fable _The North Wind and the Sun_. As all stimuli represent translations of the same text, we hope to ensure semantic inter-comparability between the stimuli, reducing the possibility of aesthetically preferential ratings based solely on differences in meaning.
+
+Participants shall be asked to rate each auditory stimulus using the Semantic Differential scale, employing a yet-to-be-determined set of opposite qualitative terms. Factors such as a participant’s language background shall be considered in the ultimate statistical analyses. To control for potential influences of prosody and voice quality associated with each stimulus, the participants shall additionally be asked to rate each speaker’s voice.
+
+Preliminary results for the first in the series of pilot experiments, carried out with 16 European languages and 24 participants, have revealed an aesthetic preference (in descending order) for English, French, Spanish, Catalan, and Croatian (with Welsh and German appearing at the bottom). The favorable attitude towards Romance languages and the aesthetic aversion to languages such as German largely coincide with prevalent cultural stereotypes about language beauty, inviting cautious interpretations in the analyses to come. 
+
+## References
+
+[1] D. Crystal, _A Dictionary of Linguistics and Phonetics_. Oxford, UK: Blackwell, 2008.
+[2] D. Crystal, “Phonaesthetically Speaking”, _English Today_, vol. 42, no. 11, pp. 8–12, 1995.
+[3] H. Giles and N. Niedzielski, “Myth 11: Italian is Beautiful, German is Ugly”, in _Language Myths_, L. Bauer and P. Trudgill, Eds. London, UK: Penguin Books Ltd, 1998, pp. 85–93.
+

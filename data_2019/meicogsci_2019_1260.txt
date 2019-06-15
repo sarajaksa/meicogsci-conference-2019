@@ -1,0 +1,26 @@
+... title: Improving Digital Privacy Management with the Support of Intelligent Systems
+
+
+
+Abstract
+
+Introduction
+The collection and processing of personal data has become ubiquitous. Governments, companies, public organizations are all benefiting from this “valuable resource” as we leave more and more digital traces with our activities online. While there are recent regulations that aim to increase data protection, management of personal privacy is still largely an individual task.
+
+Problem
+Individuals are tasked with managing what data they share with the digital services they use. This is an effortful task: keeping track of every privacy policy we ever accepted is time consuming, end users are not legal experts on how the data can be rightfully used, our decision-making is restricted by the lack of relevant information [1]. For example, many services keep track of our online behavior such as clicking across different platforms but we usually don’t know how our consent for one service carries on to another one. This is a classical problem of bounded rationality [2]. 
+
+Approach
+One solution that can reduce the burden on individuals trying to manage their privacy is to introduce consent intermediaries. A support structure that can provide relevant information when making privacy choices can help users overcome some of their cognitive limitations. Therefore, we argue that users will benefit from privacy assistants which would allow users to select which information they share, keep track of their data and re-negotiate consent where it is necessary. Our research goal is to provide information on how to design effective privacy management tools.
+
+Method
+We will use mixed methods to collect data on individual privacy management techniques. First, we will conduct a survey to categorize user attitudes. This survey includes questions about users’  familiarity with virtual personal assistants, their attitudes in regards to the protection of their data and their trust in privacy policies. Then, we will interview end users and experts to learn what they would expect from a personal privacy assistant. We will use grounded theory to identify the issues that different types of users face.
+
+Impact
+We believe that intelligent, personalized privacy assistants will empower users and help them overcome problems related to bounded rationality. As we rely increasingly on sociotechnical infrastructures to provide us with personalized information or services, exploring how people interact with virtual assistants will create a good opportunity to discuss how distributed cognition systems [3] could shape decision-making processes.
+
+References
+[1] T. Lehtiniemi and Y. Kortesniemi, "Can the obstacles to privacy self-management be overcome? Exploring the consent intermediary approach", Big Data & Society, vol. 4, no. 2, p. 205395171772193, 2017.
+[2] H. Simon, M. Egidi and R. Marris, Economics, bounded rationality and the cognitive revolution. Cheltenham: Edward Elgar, 2008.
+[3] I. Dror and S. Harnad, Cognition distributed. Amsterdam: John Benjamins Pub., 2008, pp. 1-23.
+

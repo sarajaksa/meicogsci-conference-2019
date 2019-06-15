@@ -1,0 +1,26 @@
+... title: Changing the Way We Make Sense of the World: An Enactive Approach to Profound Change
+
+
+
+Abstract
+
+## Context and Purpose
+
+In recent years, the enactive approach gained increasing influence in cognitive science. More than any other paradigm in this field, it emphasizes the relation between cognition and life. The enactive approach combines several old and new ideas in the context of cognition. Few of its key ideas are the following: a living system is organized as an *autonomous system*. In autonomous systems, the constituent processes recursively depend on each other, constitute the system as a unity, and determine the domain of possible interactions with the environment [1].
+Thereby, some of these interactions with the environment may support the self-production of the living system, some of them may endanger it. Hence, the autonomous system gains a perspective on its environment. It attributes value to aspects of the environment regarding its self-production. Accordingly, what the system experiences as its environment is the sense it makes of it. Therefore, significance and valence do not pre-exist but are enacted by a living being. This enaction of a world is what the enactive approach refers to as cognition or *sense-making* [1], [2].
+But how do living systems *change* the way they make sense of the world? Guided by that research question, this thesis aims at opening up the enactive approach to questions of cognitive and existential change.
+
+## Method
+
+Based on a review of enactivist ideas, this thesis develops an enactive account for the processes that constitute changes in sense-making. These findings are translated into implications for two recent change frameworks, the U-theory and triple-loop learning [3].
+
+## Findings
+
+Building on the ideas of (1) autonomous organization, (2) co-emergence, and (3) the enactive reframing of the mind-body problem, the two-way causal relation between consciousness and embodiment is emphasized. This enables two conceptual moves. First, the global-to-local determination from consciousness to the body (including the neural system) allows for an account of a change in sense-making as triggered by experiential acts. Second, the enactive non-dualist and non-reductionist approach to the mind-body relation allows for drawing systemic links between those acts of consciousness (experiential gestures) and those bodily acts (embodied gestures) which may constitute changes of sense-making. On this basis, a detailed model of processes that constitute changes of sense-making is presented and discussed.
+
+## References
+
+[1] E. Thompson, Mind in life: biology, phenomenology, and the sciences of mind. Cambridge, Mass: Belknap Press of Harvard University Press, 2007.
+[2] F. J. Varela, E. Thompson, and E. Rosch, The embodied mind: Cognitive science and human experience. MIT press, 1991.
+[3] M. F. Peschl, “Triple-loop learning as foundation for profound change, individual cultivation, and radical innovation. Construction processes beyond scientific and rational knowledge.,” Constructivist Foundations, vol. 2, no. 2–3, pp. 136–145, 2007.
+

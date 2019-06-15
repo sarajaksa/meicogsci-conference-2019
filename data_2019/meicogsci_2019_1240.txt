@@ -1,0 +1,19 @@
+... title: Effects of Perceptual Deprivation (Ganzfeld Effect) on Academic Procrastination: A Pilot Study
+
+
+
+Abstract
+
+## Introduction
+The ganzfeld effect is a form of perceptual deprivation where, through being exposed to unstructured, uniform visual and auditory stimuli, the participant experiences an altered state of consciousness (ASC) [1]. Following research that has been done on therapy with psychedelics which uses ASC to treat psychological issues, we predicted that ASC induced through the perceptual deprivation experience (PDE) may have a similar effect regarding dealing with a specific problem; in our case, academic procrastination. We aim to find out whether perceptual deprivation is comparable to the induction of ASC through a psychedelic experience, and whether we can utilize it so that individuals can gain motivation to avoid procrastination. We expect that, after the PDE, the participants will procrastinate less, and that the participants with a history of psychedelic use will be more successful at reducing their procrastination, as they may be able to better control the induced ASC due to their previous experience with it. 
+## Method
+The study includes 11 participants who consider themselves academic procrastinators. 6 of them have experienced an ASC through a psychedelic experience before. We made sure the participants fit the inclusion and exclusion criteria, the latter including epilepsy and mental disorders. Positive effects of the PDE include a relaxed mood; negative effects may include fatigue. Before the induction of the PDE, a group meeting was held to discuss the participants’ reasons for procrastination and to discuss additional solutions to end procrastination. During the PDE, the EEG was used to measure brain connectivity. The participants completed the questionnaire PANAS-SF (used for affect assessment) [2] immediately before and after the PDE. They completed the PASS (used for procrastination assessment for students) [3] before the PDE and three weeks after it.
+## Results
+The results from the questionnaires suggest that the participants’ procrastination has decreased, but we are currently still collecting the data. The brain connectivity analysis will also be conducted in the future.
+## Discussion
+As far as we are aware, ours is the first study to focus on perceptual deprivation and its practical applications on gaining a new perspective on a specific problem. With our study, we will broaden the current body of knowledge regarding the beneficial effects of PDE.
+## References
+[1] J. Wackermann, P. Pütz, and C. Allefeld, “Ganzfeld-induced hallucinatory experience, its phenomenology and cerebral electrophysiology,” *Cortex*, vol. 44, no. 10, pp. 1364–1378, 2008.
+[2] D. Watson, L. A. Clark, and A. Tellegen, “Development and validation of brief measures of positive and negative affect: The PANAS scales,” *Journal of Personality and Social Psychology*, vol. 54, no. 6, pp. 1063–1070, 1988.
+[3] L. J. Solomon and E. D. Rothblum, “Academic procrastination: Frequency and cognitive-behavioral correlates,” *Journal of Counseling Psychology*, vol. 31, no. 4, pp. 503–509, 1984.
+

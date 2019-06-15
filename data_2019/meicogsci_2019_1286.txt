@@ -1,0 +1,23 @@
+... title: Understanding Multimedia Exposure and Improving Its Assessment
+
+
+
+Abstract
+
+## Introduction
+
+Research of Multimedia exposure (MME) as a process of understanding the behavior of multimedia (MM) consumers, fulfilling their needs and requirements, is widespread. It uses different methodologies with the aim of helping companies to better understand their target group and consequently increase sales and growth of the company. Furthermore, MME research measures how and to what extent people are exposed to and influenced by multimedia. Until recently, researchers in this field mainly used “third-person” methods, such as questionnaires or focus groups, and did not recognize enough the importance and usability of “first-person” methods, such as phenomenological research of one’s experience. The goal of our study is to compare data obtained from the self-report questionnaire with data obtained using the Descriptive experience sampling (DES) method. Its purpose is to find possible differences and consequently designing an improved MME Model that companies could use to meet their goals more efficiently.
+
+## Methods
+
+In the first phase of research, we decided to test three participants who first need to be trained in how to observe and report their experience. According to the Descriptive Experience Sampling method [1], we will use a mobile application that will beep at random times during the two days of training. After each beep, the participants will be asked to write down what they were experiencing at the moment right before the beep. Within 24 hours, the researcher will conduct an interview with each participant, helping them explore their experience in greater detail.
+In the next phase, participants will enter the “living lab” individually in order to watch various television content with different ads. While watching, a semi-randomized beep will prompt them to write down their experience. The salient aspects of their TV-watching experience in the living lab will be explored in depth during the expositional interview. Acquired data will be analyzed according to the principles of qualitative research. We aim to use this data to improve existing questionnaires regarding multimedia content, or – if our findings digress considerably – construct a new one.  
+
+## Expectations and Conclusion
+
+In the research, we expect to find considerable differences in data obtained by self-report and DES method. There is a strong need to include “first-person” approach, in our case DES method, in improving the MME Model, since, based on previous studies, these methods are bound to give more insight into a person’s inner world. The obtained data will be used in modeling exposure using non-intrusive sensors.
+
+## References
+
+[1] R. Hurlburt, Investigating pristine inner experience. Cambridge: Cambridge University Press, 2012.
+

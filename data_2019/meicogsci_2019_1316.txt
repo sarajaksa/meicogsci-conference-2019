@@ -1,0 +1,18 @@
+... title: Organisms as Unities are Gestalts of Biological Perception
+
+
+
+Abstract
+
+It is often taken for granted that the process of scientific inquiry involves extracting facts from the natural world. The common view is one of scientists observing the world from a position of detachment, developing theories and testing them with evidence to deduce truth. This rendering is, of course, oversimplified. In reality, the process is not a simple linear progression from observation to fact.
+
+One complication that is often not obvious to non-scientists is the inherently social nature of scientific work - in order for research to proceed, there must be consensus amongst a group of practitioners regarding standards, foci and methods. Furthermore, the fundamental view of the world held by scientists in one community must be aligned - basic metaphysical components and kinds of things are agreed. In other words, an ontology and a style of perception are created [1,2]. In this view of scientific practice, science changes from a practice of observation and recording to one of collective fact construction.
+
+In order to make the best use of science, we must account for scientific perception - what does the world look like to a given scientist and why? What informs their understanding of nature?
+
+In my thesis, I am developing the idea that organisms as unities are gestalts of biological perception. There are a number of instances in which the common view that one organism = one body is not sufficient to explain various phenomena. I will, therefore, develop the notion of organisms existing in multiplicity, embedded in their environments [3]. This view goes against the notion of organisms as pre-existing objects, ready to be discovered by natural scientists in one given form. It is rather the idea that we construct them in various forms according to our thought style [2]. 
+
+[1] T. S. Kuhn, The Structure of Scientific Revolutions, 3rd ed. Chicago: University of Chicago Press, 1996.
+[2] L. Fleck, Genesis and Development of a Scientific Fact. Chicago: University of Chicago Press, 1979.
+[3] F. Varela, “Organism: A Meshwork of Selfless Selves,” Org. Orig. Self, pp. 79–107, 1991.
+

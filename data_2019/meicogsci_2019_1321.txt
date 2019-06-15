@@ -1,0 +1,27 @@
+... title: would a warm cup make your heart warmer?
+
+
+
+Abstract
+
+## Introduction
+Williams and Bargh showed that merely holding a warm cup for about 20 seconds makes participants judge another person’s personality as warmer [1]. Furthermore, in their second study they found that after holding a hot pack, people had a higher tendency to a warm-hearted behavior, measured by deciding to give a reward to one’s friend instead of keeping it for oneself. This phenomenon is known as body priming effect. However, body priming experiments sometimes have inconsistent results. Several studies with the similar objective found no effect in the experimental groups [2]. Therefore, our aim was to contribute to this discussion by conducting a replication study, which is highly important yet often undermined practice in the field of psychology. Our hypothesis was that the mere tactile experience of physical warmth will activate concepts or feelings of interpersonal warmth. In other words, does holding a warm cup make us judge other people as warmer?
+
+## Methods
+
+We used the same method as in the original research [1]. The research sample consisted of 20 participants. Half of the participants were manipulated to hold a warm cup, while the other half held a cold cup, with the excuse to help the experimenter while he writes something down. After 15 seconds, the participants were asked to rate a person on the laptop screen based on the 10 adjectives. On the screen, there was a picture of a woman with a neutral expression together with a short description. Half of the adjectives were related to warm-hearted features (such as social vs antisocial) and the other half are related to a neutral feature (such as weak vs strong). Based on the original research, we expected a difference in the ratings or warm-related adjectives depending on the experimental manipulation.
+
+## Results
+
+Our results showed no statistically significant difference between the two groups in the case of both warm-hearted adjectives and neutral adjectives (warm cup group: M=4.3, SD=0.64, cold cup group: M=4.36 SD=0.54; *p*=0.88). 
+
+## Discussion
+
+Previous research showed that the brain areas related to perceiving physical and interpersonal warmth overlap [3]. It is possible that there was no effect observed in our research since the exposure time might have been too short. Another limitation is the small sample size. However, our results suggest that the priming effect of mere tactile experiences of physical warmth is not so strong as the original research suggested. 
+
+## References
+
+[1] L. Williams and J. Bargh, "Experiencing physical warmth promotes interpersonal warmth." *Science*, vol. 322, no. 5901. pp. 606-607, 2008
+[2]D. Lynott, K.S. Corker, J Wortman, L Connell, M. B. Donnellan, R.E. Lucas, and K O’Brien. "Replication of “Experiencing physical warmth promotes interpersonal warmth” by Williams and Bargh (2008)." Social Psychology. 2014.
+[3] I Thomas and J Young . "The neurobiology of attachment." Nature Reviews Neuroscience 2, no. 2 2001.
+

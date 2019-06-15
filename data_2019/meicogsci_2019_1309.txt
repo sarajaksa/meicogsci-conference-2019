@@ -1,0 +1,27 @@
+... title: The Effect of Short-term Zen Meditation on Sustained Attention and Executive Function
+
+
+
+Abstract
+
+The Effect of Short-term Zen Meditation on Sustained Attention and Executive Function
+
+## Context
+
+Mindfulness meditations typically represent sustaining non-focused attention, but often also include a sort of concentrative form of meditations as a preparation for mindfulness [1]. The long term practice of mindfulness meditations increases the functioning of executive functions and the ability to sustain attention [2]. The immediate effects of mindfulness training may be related to increased meta-awareness, which improves the effectiveness of attention [2]. The meditator is training to detect mind-wandering, changes in attention or other signals non-judgementally, and return her attention to breath and bodily perceptions [2]. Studies have shown that improving mood can also reduce rumination and mind-wandering, which can also improve attention, since mind-wandering negatively affects cognitive performance by reducing control of goal-oriented attention [3].
+
+## Goal
+In this research we are interested in the usefulness of sitting mindfulness meditation based on »zazen« as an independent training of higher cognitive functions (sustained attention, concentration, executive function) in a short period. The meditation exercise includes maintaining upright posture, focusing on the feeling of breath and non-judging acceptance of bodily feelings and thoughts. The research will answer the question whether unsupervised zen meditation (outside the religious-philosophical context of buddhism) can measurably impact executive functions of meditators, sustained attention and the ability to inhibit irrelevant signals in the period of a few weeks.
+
+## Method
+During the study, the test group will perform a form of sitting mindfulness meditation of 30 minutes per day for two weeks. Participants will not be supervised and the successfulness of the meditation practice will not be measured or graded beyond the participants' reports. Flanker Test will be used to measure the participants' ability to inhibit irrelevant signals and the a dynamic typing task will be used to measure their ability to maintain concentrated attention and perform at a steady rate.
+The research will show whether independent sitting Zen meditation can achieve an effect similar to other forms of mindfulness meditation, within a short period of time. This would mean that an individual has at their disposal a technique to control their own ability to sustain attention and higher cognitive functions, but can also achieve noticeable change in a short time.
+
+## References
+
+[1] A. Chiesa, »Zen Meditation: A Review of current evidence,« The Journal of alternative and complementary medicine, vol. 15, no. 5, p. 585-592, 2009. Available: https://www.ncbi.nlm.nih.gov/pubmed/19422285 . [Accessed Mar. 5, 2019]
+
+[2] F. Zeidan. S. K. Johnson, B. J. Diamond, Z. David, P. Goolkasian, »Mindfulness meditation improves cognition: Evidence of brief mental training,« Consciousness and Cognition, vol. 19, p. 597-605, 2010. Available: https://www.ncbi.nlm.nih.gov/pubmed/20363650 . [Accessed Apr. 2, 2019]
+
+[3] J. Smallwood, M. McSpadden & J. W. Schooler, »The lights are on but no one’s home: Meta-awareness and the decoupling of attention when the mind wanders,« Psychonomic Bulletin and Review, vol. 14, no.3, p. 527–533, 2007. Available: https://link.springer.com/article/10.3758/BF03194102 . [Accessed Mar. 5, 2019]
+

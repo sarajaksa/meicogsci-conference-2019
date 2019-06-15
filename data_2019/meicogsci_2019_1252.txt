@@ -1,0 +1,26 @@
+... title: Benefits of Music Education for Children with Autism Spectrum Disorder
+
+
+
+Abstract
+
+Autism spectrum disorder (ASD) is a range of neurological disorders characterized by difficulties with social cognition, verbal and non-verbal communication, repetitive behaviors and restricted interests. Autism and Asperger syndrome are the most common conditions on the spectrum. Many theories address deficiencies of ASD from cognitive perspective, e.g. theory of mind and weak central coherence theory. In contrast, theory of social motivation [1] suggests that it is a disrupted social interest that may cause impaired social skills. If so, such deficits could be reduced by encouraging appropriate social interactions.
+
+Previous research has shown that specifically in the domain of music, ASD does not hinder the understanding of emotions as opposed to the social context [2]. Ockelford argues that the inherent structure of music reflects the features of the autistic mind as "music is typically supersaturated with far more repetition than is required for it to be coherent" [3]. This notion is supported by the remarkable musical talents of autistic individuals and their natural preference for music over speech and environmental noise [2].  
+
+In our project, we collect real-life data from thirteen pupils with ASD, who attend an inclusive music school together with their neurotypical peers. We use qualitative observational methods including video recordings of the individual and group music lessons, behavior evaluation scales and observation notes. The emphasis is put on the eye contact, focused attention, appropriate verbal and emotional responsiveness. We hypothesize that children with ASD show less social deficits in the inclusive environment where they can pursue their natural interest. We would also like to see if there is any positive dynamics in the communication skills development and transfer of learning.
+
+Although the concepts of neurodiversity and inclusion remain controversial and there may be no universal theory of autism that would explain both social and non-social aspects of it, the studies of evidence-based practices can help recognize effective educational strategies for children with ASD.
+
+## Acknowledgements
+
+I would like to thank prof. Katarina Habe for making this ŠIPK GIMAS project possible, my colleagues from the Faculties of Music, Special and Social Pedagogy for their commitment, children and their families for the courage to participate in the study and the school director Nuša Piber together with her team for their devotion.
+
+## References
+
+[1] C. Chevallier, G. Kohls, V. Troiani, E. Brodkin, and R. Schultz, "The social motivation theory of autism," *Trends in Cognitive Sciences*, vol. 16, no. 4, pp. 231-239, 2012.
+
+[2] I. Molnar-Szakacs and P. Heaton, "Music: a unique window into the world of autism," *Annals of the New York Academy of Sciences*, vol. 1252, no. 1, pp. 318-324, 2012. 
+
+[3] A. Ockelford, *Music, language and autism*. London: Jessica Kingsley Publishers, 2013.
+

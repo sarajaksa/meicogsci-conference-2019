@@ -1,0 +1,30 @@
+... title: Identifying Attribute Interactions by Interpreting Model Predictions: The Case of Grapevine Yellows Disease
+
+
+
+Abstract
+
+## Introduction
+
+The last decades gave rise to big volumes and many varieties of data, while at the same time computational processing has become faster and therefore made possible to analyze complex data and build accurate machine learning models. However predictions that these models generate are usually hard to interpret and tend to give us very little information about the nature of attribute interactions as well as the key attributes that played an important role in making the predictions [1].
+
+## Method
+
+The ability to correctly interpret predictions of machine learning models is very important. There are many approaches that try to demystify a prediction model’s output [2]. In our research we will focus on the following algorithms, LIME (*Local Interpretable Model-agnostic Explanations*) and SHAP (*Shapley Additive exPlanation*). The dataset has been provided by the National Institute of Biology in Ljubljana. It is part of their research on early detection of  a grapevine yellows disease “bois noir”. They have monitored a number of grape vines over a period of six years and measured expression of selected gene markers [3].
+
+## Goals and Results
+
+In our research we will first compare interpretations of model’s predictions given by LIME and SHAP, and later on focus on identifying gene interactions that might play an important role in detecting infected plants using SHAP and association rules. We hypothesize that the SHAP approach to interpreting model predictions will be more successful, because LIME builds an interpretable model locally around the prediction and is therefore prone to making errors when the local environment of a data point consists of different class predictions, while SHAP interpretations take into account all the instances in a dataset and gives a more informed explanation. We also hypothesize that the identified interactions will coincide with interactions known to be involved in plant defense mechanisms against bacterial infection.
+
+## Conclusion
+
+Correct model interpretation provides us with key insights about important attributes as well as correlational or even causal interactions between them. They also give researchers ideas about testing various hypotheses which brings us closer to identifying important interactions in various complex datasets.
+
+## References
+
+[1] Z. C. Lipton, “The Mythos of Model Interpretability”, *Queue*, vol. 16, no. 3, pp. 1–30, 2018.
+
+[2] S. M. Lundberg et al., “A unified approach to interpreting model predictions”, *31st Conference on Neural Information Processing Systems 30 (NIPS 2017)*, 2017.
+
+[3] A. Rotter et al., “Statistical modeling of long-term grapevine response to ’candidatus phytoplasma solani’ infection in the field”, *European Journal of Plant Pathology*, vol. 150, no. 3, pp. 653–668, 2018.
+

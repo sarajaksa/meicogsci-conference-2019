@@ -1,0 +1,30 @@
+... title: Frequency of Idiomatic Word Groups in the Internet: a Comparative Language Study
+
+
+
+Abstract
+
+## Context
+
+As humans the primary instrument we use for communication is language. Not only we put words in a specific order, but we also group them in a certain way, and attribute a meaning to those groups – the meaning different from just a sum of meanings of the constitutive words. But the ways we use these groups of words differ from language to language. Especially, these differences become apparent when we look across distant groups of languages, such as Germanic and Slavic, for instance. How can we approach these differences scientifically? Is it possible to apply a quantitative approach to the matter?
+
+## Idea
+
+The idea of this research is to perform a comparative search in the World Wide Web and create statistics describing how often an idiom or a common phrase appears in Google search when placed between quotation marks (fixed), and without quotation marks. In this study we compare two languages – Russian and English.
+The empirical research that is undertaken here has a significant gap in terms of literature, primarily, because the WWW text corpus does not offer high credibility. Based on the data gathered, we aim at developing a theory of and answer the questions about the reliability of the WWW as a rich source of text and a basis for further empirical research.
+
+
+## Method
+
+We search for groups of at least three words using Google Search Engine. If the words are parts of phrases or idioms, they yield a high number of hits if placed between quotation marks ("). We call the ratio between "word1 word2 word3" and word1 word2 word3 - *exclusiveness*. We then repeat the search with each word group after at least 24 hours, and accept the mean of the results, if they do not differ by more then 25%. If they do, we perform the third search, following the same procedure. If then, again, the results differ too much, we give up on that phrase - this is our criterion for reproducibility.
+We investigate two languages in parallel, in a mixed regime.
+From the hit numbers, we construct a diagram, with exclusiveness on the x- and number of hits of phrase parts on the y-axis. 
+
+## Results
+
+According to the previously conducted research, the number of hits and exclusiveness factor result in a scatter plot quite typical for each language in case of the comparison of English, French, German and Latin languages [1]. As it looks now, English and Latin appear quite special. The question is, whether only these two languages are special, and all other languages look the same, or not. The first hypothesis would be, that Russian will look like German and French, but different from English.
+
+##References
+
+[1] M. Berger, “On the ‘Stickiness’ of Words. A Comparative Language Study Screening the Internet for English, German, French and Latin Phrases”, _Journal of Quantitative Linguistics_, vol. 26, no. 1, pp. 81-94, 2018. Available: 10.1080/09296174.2018.1451206 [Accessed 8 May 2019].
+

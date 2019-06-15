@@ -1,0 +1,27 @@
+... title: Neurophysiology of Emotion Transfer Between Professional Dancers and Viewers of Dance Using Near-infrared Spectroscopy
+
+
+
+Abstract
+
+## Introduction
+
+One can argue that dance might be the most clear and direct way of, nonverbally, transmitting one´s emotions, although there has been little empirical data gathered on this topic. 15 years of neuroscientific research has shown that there are various brain networks associated with processing of aesthetic experiences. Activations in the dorsolateral prefrontal areas which are believed to be responsible for higher executive functions were found [1] as well as orbitofrontal cortex and reward brain areas [2] and fronto-median brain areas associated with social judgement [3]. Based on lack of empirical data concerning the performers point of view we ask this question: Does making a dance to express a specific emotion which is easier to guess by the observer or is more expressive show different brain activation patterns in the dancer?
+
+## Methods
+
+The experiment consists of two phases. In the first phase professional dancers are asked to perform a specific emotion by movement. While performing, the participants brain activations were being recorded by the near infra-red spectroscopy, specifically the medial prefrontal cortex, right inferior frontal gyrus and temporo-parietal junction bilaterally. After each performance the participants were asked a series of questions about their performance. In the second phase of the experiment non-dancer participants were seated before a computer and shown a series of 30 second black and white videos without sound (for minimisation of factors affecting emotion state) of the performers from the first phase. After each video the participants were asked a series of questions concerning the performance and the communicated emotion.
+
+## Results
+
+Results show that there seem to be no correlations between the evaluation of the observers and the brain activation of the dancers. They do show, however, that there are correlations between activations of each of the brain areas that we have been focusing on suggesting that they are, on some level, connected in processing emotion transfer, aesthetic evaluation and nonverbal communication. Furthermore, there are also correlations between the evaluations of the dances themselves. The more confidence the observers had while guessing what emotion was performed on the video the more expressive they ranked the performance and overall likability of the dance showing that more expressive dance results in clearer communication of emotion and higher pleasure of the performance.  
+
+
+## References
+
+[1] H. Kawabata a S. Zeki, “Neural Correlates of Beauty”, Journal of Neurophysiology, year. 91, nr. 4, p. 1699–1705, apr. 2004.
+
+[2] C. J. Cela-Conde et al., “Activation of the prefrontal cortex in the human visual aesthetic perception”, Proceedings of the National Academy of Sciences, year. 101, nr. 16, p. 6321–6325, apr. 2004.
+
+[3] T. Jacobsen, R. I. Schubotz, L. Höfel, a D. Y. v. Cramon, “Brain correlates of aesthetic judgment of beauty”, NeuroImage, year. 29, nr. 1, p. 276–285, jan. 2006.
+

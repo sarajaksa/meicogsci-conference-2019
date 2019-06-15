@@ -1,0 +1,16 @@
+... title: Associations Between Dog and Owner Personality Traits and Dogs' Aggressive Behaviour
+
+
+
+Abstract
+
+Aggression is one of the most common and dangerous behavioral problems in dogs. It is generally expressed as biting or threatening behavior and can be influenced by a variety of factors, including individual personality profile. Since dogs are in daily contact with humans and other animals, the aim of this study was to assess the connection between dogs' and owners' personality, and dog aggression towards different targets, using a combination of questionnaires and behavioral testing. Forty Slovenian owners and dogs of different breeds and behavioral history (non-aggressive dogs, dogs aggressive towards humans and dogs aggressive towards animals) participated in the study. Data on dogs' behavioral history was obtained using parts of the Canine Behavioral Assessment and Research Questionnaire related to owner-, stranger-, dog-directed aggression and chasing [1]. Owners’ personality was assessed with the Big Five Inventory Questionnaire [2] while personality in dogs was assigned to each dog using a behavioral test called Dog Mentality Assessment (DMA) [3]. DMA was performed outdoors, with dogs being exposed to nine different tasks in a company with their owners. Behavior responses were recorded and later analyzed using a pre-prepared ethogram. Based on dogs' reactions to various stimuli, low or high scores for five personality traits called “Openness”, “Conscientiousness”, “Extroversion”, “Agreeableness” and “Neuroticism”, and one personality dimension “Shyness/boldness” were given to each dog. We expect to find differences in dogs' and owner's personality traits between aggressive and non-aggressive dogs.
+
+## References
+
+[1]   	Y. Hsu and J. A. Serpell, “Development and validation of a questionnaire for measuring behavior and temperament traits in pet dogs,” *JAVMA*, vol. 223, no. 9, pp. 1293-1300, 2003.
+
+[2]   	B. Rammstedt and O. P. John, “Measuring personality in one minute or less: A 10-item short version of the Big Five Inventory in English and German,” *Journal of Research in Personality*, vol. 41, no. 1, pp. 203-212, 2007.
+
+[3]   	K. Svartberg, B. Forkman, “Personality traits in the domestic dog (Canis familiaris),” *Applied Animal Behavioral Science*, vol. 79, no. 2, pp. 133-155, 2002.
+

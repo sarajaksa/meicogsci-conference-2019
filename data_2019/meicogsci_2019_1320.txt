@@ -1,0 +1,34 @@
+... title: Computational Simulation of Simultaneous LTP and LTD in Hippocampus
+
+
+
+Abstract
+
+## Context
+
+Long-term potentiation (LTP) and long-term depression (LTD) play a crucial role in learning and memory. LTP and LTD occur in the hipppocampus as a result of the sequences of coincident pre- and postsynaptic spiking. This type of synaptic plasticity is called spike-timing dependent synaptic plasticity (STDP). Benuskova and Abraham modified the original STDP rule to include metaplasticity, which means that the previous average activity of a neuron affects the result of STDP [1].
+
+## Purpose
+
+The purpose of this study is to investigate whether the Benuskova and Abraham rule applies to the model of CA1 hippocampal cell. We attempt to simulate the experiments of Dong et al. in freely moving rats [2]. When the spikes in the Schaffer input consistently come before the commisural input spikes, the Schaffer synapses exhibit LTP whereas the commisural synapses exhibit LTD. Simulating experiments in the hippocampus using computational modelling may help us to understand mechanisms responsible for memory formation. 
+
+## Method
+
+We simulate a single CA1 neuron using the Izhikevich spiking neuron model [3]. The simulated cell has two inputs representing two major excitatory inputs: the Schaffer collateral pathway and commisural pathway. We simulate the ongoing spontaneous spiking in the inputs by Poisson homogeneous spiking process. According to the work of Dong et al., Schaffer and commisural synapses are stimulated by 600 spikes at 5 Hz. These protocol spikes come to Schaffer synapse < 40 ms before the commisural synapse. We implement synaptic plasticity according to Benuskova and Abraham [1].
+
+## Results
+
+We present the results of simulations of how the input synapses evolve their weights when they are subjected to the spontanous activity only. They are suppossed to stay more or less stable. Then we present the results of Dong et al. stimulation protocol, which should induce LTP/LTD simultaneously in afferent hippocampal pathways. 
+
+## Conclusion
+
+Computational simulations may help us to better understand how flexibility and stability contribute to processes underlying memory. These processes include simultaneous LTP and LTD caused by coincident activity in afferent hippocampal pathways. When one input gets stronger, then the other input should get weaker in order to balance the increase in one input‘s influence upon the postsynaptic cell.
+
+## References
+
+[1] L. Benuskova, and W. C. Abraham, "STDP rule endowed with the BMC sliding threshold accounts for hippocampal heterosynaptic plasticity," _Journal of Computational Neuroscience_, vol. 22, no. 2, pp. 129 - 133, 2007.
+
+[2] Z. F. Dong, H. L. Han, J. Cao, X. Zhang, and L. Xu, "Coincident activity of converging pathways enables simultaneous long-term potentiation and long-term depression in hippocampal CA1 network in vivo," _PloS one_, vol. 3, no. 8, pp. e2848, 2008.
+
+[3] E. M. Izhikevich, "Simple model of spiking neuron," _IEEE Transactions on Neural Networks_, vol. 4, no. 6, pp. 1569 - 1572, 2003.
+

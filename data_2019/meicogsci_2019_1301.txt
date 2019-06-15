@@ -1,0 +1,20 @@
+... title: Morphological Variation in the Slovene Lexicon of Word Forms Sloleks: A Corpus Approach
+
+
+
+Abstract
+
+This research deals with the morphological variation in the Slovene lexicon of word forms Sloleks. We define the morphological variation as two or more interchangeable variants on the level of word forms, e.g. “študenti” and “študentje” both meaning “students” in plural nominative form. In the Sloleks lexicon, variability is represented inconsistently and heterogeneously, which proves to be problematic since Sloleks is frequently used both by different language users and researchers. Sloleks proves to be a valuable source for building language tools and technologies and since it is a strong candidate to be used in the compilation of a new dictionary of contemporary Slovene [1], a consistent and detailed representation of linguistic phenomena, including morphological variation, is much needed.
+
+Since large collections of texts are available for linguistic research, we use a corpus approach to obtain empirical data based on real language use. Our two main research questions are: 1) how does the data obtained from corpora differ from the morphological variation represented in the language manuals (dictionaries, grammars, etc.) and 2) can some solutions regarding morphological variation (specific paradigms) be ascribed to a group of lemmas systematically.
+
+A comprehensive list of problematic lemmas from Sloleks regarding morphological variation have already been presented in [2] and arranged into 8 categories. However, morphological patterns were extracted automatically from the lexicon and need additional analyses. We use the biggest corpus for Slovene, Gigafida 2.0 [3], to further examine this language phenomenon and provide a systematic representation of morphological variation. We compare the results to other language manuals as well and decide whether a specific variant should be included in the lexicon or not; what are the criteria for including them; and whether some specific tags for marked word forms should be added.
+
+Along with the information on specific morphological variants based on corpora, we will present a demo of an improved entry in the Sloleks lexicon. Using corpus linguistics and providing objective data on this language phenomenon, we believe we will contribute to a more consistent and detailed description of morphological variation in Slovene.
+
+
+## References
+[1] K. Dobrovoljc, S. Krek and T. Erjavec, “Leksikon besednih oblik Sloleks in smernice njegovega razvoja,” Slovar sodobne slovenščine: problemi in rešitve, pp. 80-105, Znanstvena založba Filozofske fakultete, 2015.
+[2] Š. Arhar Holdt, and J. Čibej, “Oblikoslovni vzorci v leksikonu Sloleks: izhodiščni nabor za samostalnike,” Slovenščina 2.0: empirical, applied and interdisciplinary research, vol. 6, no 2, pp. 33-66, Ljubljana, 2018.
+[3] S. Krek, P. Gantar, Š. Arhar Holdt and V Gorjanc, “Nadgradnja korpusov Gigafida, Kres, ccGigafida in ccKres”, Zbornik konference Jezikovne tehnologije in digitalna humanistika, pp. 200-202, Znanstvena založba Filozofske fakultete Ljubljana, 2016.
+

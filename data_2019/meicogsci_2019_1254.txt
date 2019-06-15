@@ -1,0 +1,16 @@
+... title: End-user Empowerment: A Multilevel Approach
+
+
+
+Abstract
+
+Information systems are increasingly being used in almost every personal and social aspect of human life. End-user Empowerment can be considered a useful concept to ensure that users make appropriate decisions according to their contextual personal needs and values (or the needs and values of the society) while interacting with information systems. However, understanding the concept of empowerment is a complex task, since comprehending on the one hand human needs and values as underlying concepts of empowerment is a matter of vast disagreement and on the other hand, various disciplines have conceptualized the concept of empowerment from very different vantage points. As a result, while many researchers are using the term "empowerment", the use of the concept remains unclear. To address this issue we report our systematic literature research conducted on the concept of empowerment in this paper, which aims to provide an overview regarding 1) the usage of the term in different contexts and disciplines, 2) the underlying and enabling concepts, 3) different approaches for the realization of user-empowering information systems, and 4) the implication of different approaches in computational cognitive modeling towards empowering of end-users. 
+
+Empowerment can be classified in a multilevel approach focusing on individual end-user empowerment and the social context of the end-user. Individual empowerment refers to the psychological process of fostering motivation, goal orientation, reflection upon the impact of actions and self-efficacy. The social context of the end-user relates to the access to digital technology, the capabilities and the knowledge to use them [1]. Accountability, fairness, controllability and transparency are identified as enablers for the empowered use of information systems, which are crucial for empowering information systems. Moreover, literature shows that empowerment should be considered a fundamental design principle of information systems [2]. Finally, considering the emerging application of cognitive computing, we also discuss how empowerment can be conceptualized and implemented based on the different approaches to computational cognitive modelling. 
+
+This paper presents a possibility of applying concepts of end-user empowerment in the context of information systems. It contributes to research on end-user empowerment by identifying crucial facilitators and applying a multidisciplinary approach, which could bring forward the discussion on the concept of end-user empowerment and its enablers. 
+
+[1] L. B. Cattaneo and A. R. Chapman, “The process of empowerment: A model for use in research and practice,” *American Psychologist*, vol. 65, no. 7, Oct., pp. 646–659, 2010. 
+
+[2] D. Bihanic, Ed., *Empowering end-users through Design. Interdisciplinary Studies and Combined Approaches for Technological Products and Services*. Cham: Springer, 2015. Springer, 2015.
+

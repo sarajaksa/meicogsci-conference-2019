@@ -1,0 +1,14 @@
+... title: Understanding Effective Connectivity in Major Depression: Dynamic Causal Modelling of Transcranial Magnetic Stimulation for Depression Treatment
+
+
+
+Abstract
+
+Transcranial Magnetic Stimulation (TMS) is a brain stimulation technique used for treating depression by external application of a magnetic field to the skull of a patient. The repetition of short pulses induces a current in the targeted brain area and locally modulates brain activity. In major depression therapy, repetitive TMS of the left dorso-lateral prefrontal cortex (DLPFC) has proved to be successful and is FDA-approved, even though the underlying mechanism is poorly understood [1]. The recent development of simultaneous stimulation and imaging of neuronal activity by combining TMS and functional magnetic resonance imaging (fMRI) can be used to directly trace the effect of depression therapy on brain activation [2]. In my work, I will study the treatment mechanism by analysing TMS/fMRI resting state data of DLPFC stimulation with dynamic causal modelling (DCM) to understand its effect on other brain areas. Usual functional connectivity measures such as the General Linear Model (GLM) only describe correlations. DCM allows to test different causal models of neuronal connections by Bayesian model comparison and takes into account the interactions of brain regions. In contrast to GLM, DCM allows neuroscientists to derive the effective connectivity that describes how different brain regions are dynamically coupled [3]. By fitting different connection models, I hope to get insight into activation and inhibition behaviour between coupled areas and how neuronal stimulation is transmitted through the brain. It has been shown that stimulating the left DLPFC modulates activity of the anterior cingulate cortex (ACC), which is associated with major depression. A better understanding of effective connectivity of the ACC and the DLPFC with adjacent areas could highlight the underlying mechanism of TMS depression treatment and help to improve current therapy methods by refining stimulation targets.
+
+[1] M. Tik, A. Hoffmann, R. Sladky, L. Tomova, A. Hummer, L. Navarro de Lara, H. Bukowski, J. Pripfl, B. Biswal, C. Lamm, and C. Windischberger, "Towards Understanding rTMS Mechanism of Action: Stimulation of the DLPFC Causes Network-Specific Increase in Functional Connectivity," *NeuroImage*, vol. 162, no. 15, pp. 289–296, 2017.
+
+[2] L. I. Navarro de Lara, M. Tik, M. Woletz, R. Frass-Kriegl, E. Moser, E. Laistler, and C. Windischberger, "High-Sensitivity TMS/FMRI of the Human Motor Cortex Using a Dedicated Multichannel MR Coil," *NeuroImage*, vol. 150, no. 15, pp. 262–269, 2017.
+
+[3] K. J. Friston, L. Harrison, and W. Penny, "Dynamic Causal Modelling," *NeuroImage*, vol. 19, no. 4, pp. 1273–1302, 2003.
+

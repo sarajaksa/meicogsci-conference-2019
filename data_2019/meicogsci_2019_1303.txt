@@ -1,0 +1,32 @@
+... title: Electrophysiological characteristics of cortical network activity related to vulnerability for the development of depression and anxiety
+
+
+
+Abstract
+
+## Context
+
+Activity in the brain is modulated by rhythmic oscillations in different frequency bands. The oscillations influence many complex processes, including thinking, memory, attention, and mood [1]. If the cortical activity across different frequency bands is disturbed, functionality of the affected individual will be hindered, sometimes resulting in major depressive disorder. In those diagnosed with such a condition, similar patterns have been observed, namely increased synchronization in alpha and theta frequency bands. Another characteristic, frequently observed in depressed individuals, is mind-wandering. It is thought to correlate to the neural activity in default-mode network [2]. The latter is also associated with anxiety, and subsequently to lower levels of happiness in affected individuals.
+
+## Purpose
+
+If I can confirm my hypothesis about correlation between increased alpha/theta synchronization and depressive states and between increased mind-wandering and lower levels of happiness, the treatment of depression and anxiety could take on more effective forms. For example, TMS therapy to reset the oscillatory activity and mindfulness to decrease default-mode network activity in resting state.
+
+## Method
+
+I will analyze the publicly accessible Lemon dataset, provided by the Max Planck Institute. The dataset includes 228 healthy individuals, who performed various psychological and physiological tests during a two-day examination period per individual. I will use raw data and preprocess them with the help of my mentor, through time-frequency analysis of EEG parameters, searching for relevant correlations in the process.
+
+## Result
+
+I expect to confirm my hypotheses, successfully correlating the increased oscillatory synchronization and bigger vulnerability for developing depression. Also, I expect to find the connection between mind-wandering in resting state and lower level of happiness, as opposed to a greater level of happiness in people practicing mindfulness.
+
+## Implications
+
+Confirming the theory of increased synchronized rhythmic activity and mind-wandering in the depressed could improve the therapeutic approach to the illness. For example, a more individual-oriented transcranial magnetic stimulation (TMS) therapy or integrating the practice of mindfulness into the treatment process.
+
+## References
+
+[1] Leuchter, A. F., Cook, I. A., Jin, Y. in Phillips, B. (2013). The relationship between brain oscillatory activity and therapeutic effectiveness of transcranial magnetic stimulation in the treatment of major depressive disorder. Frontiers in Human Neuroscience, 37(7).
+
+[2] Brewer, J. A., Worhunsky, P. D., Gray, J. R., Tang, Y. Y., Weber, J. in Kober, H. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. PNAS, 108(50). 20254-20259.
+

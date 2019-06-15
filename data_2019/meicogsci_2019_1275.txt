@@ -1,0 +1,27 @@
+... title: ##The Psychosomatics of the Judgment of Agency
+
+
+
+Abstract
+
+## Context
+Agency, as the ability to act, is an essential component of being. However, the concept has been undergoing much controversy in literature. Additionally, most research has focused primarily on the sensorimotor and physical aspects of agency, while the higher-order level, the “judgment of agency” (JoA) has been barely acknowledged. This acknowledgement, however may not only occur on a cognitive level but could also involve a bodily influence [2]. A context where agency is consciously tackled, often lacking but worked on to be increased, is psychotherapy. And yet, psychotherapeutic settings are mostly conversation-based and operated in bodily stillness, e.g. sitting. Intercultural theories from e.g. Patanjali, suggest that body awareness (BA) is a crucial component of the sense of agency and that it may be supported through movement therapies. 
+
+## Purpose
+These theories give reason to believe that a body in movement has a profound connection to cognition not only on a posterior level, i.e. when working with symptoms but also as a causal factor. This thesis will therefore investigate what the connection between body awareness and judgment of agency is, if the body is moving and acting. The research question will therefore be: How is the level of bodily awareness connected to the judgment of agency?
+
+## Method
+Patients of a Psychosomatic Clinic will receive two questionnaires before and immediately after a body therapy session: A JoA and a BA Scale. The repeated measures method design is intended to reveal a change in either JoA and/or BA within and potentially between subjects. Moreover, answers are compared with the quantity of body therapy session subjects have engaged in already at this clinic. Furthermore, all subjects have to estimate the personal value of the experience and state whether this is the first experience with bodily practices or if not, which other they have participated in prior to their stay at the clinic. Based on these differentiations, participant’s data will be statistically revised.
+
+## Results
+It is expected that if people will score higher on BA, they will likewise score higher on their JoA. In case other correlations between the participant’s data and the controlling variables will be found, alternative conclusions will have to be drawn and our hypothesis would decrease in validity.
+
+## Implications
+In addition to the novel understanding of the JoA, the expected insights could consolidate the growing demand and acknowledgement for the involvement of the enacted body in science and would further urge the exigency of involving the body in psychotherapy.
+
+## References
+[1] Synofzik, M., Vosgerau, G., & Newen, A. (2008). Beyond the comparator model: a
+multifactorial two-step account of agency. Consciousness and cognition, 17(1), 219-239.
+
+[2] Leitan, N. D., & Murray, G. (2014). The mind-body relationship in psychotherapy: grounded cognition as an explanatory framework. Frontiers in psychology, 5, 472.
+

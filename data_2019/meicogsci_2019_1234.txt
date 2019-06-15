@@ -1,0 +1,29 @@
+... title: Exploring Brain Dynamics with Simultaneous EEG-fMRI
+
+
+
+Abstract
+
+## Introduction
+
+Recent advances in understanding that mental processes are based on the functioning of brain systems that involve spatially dispersed areas has shifted the focus of research to studying the integration of brain activity and the functional interactions of brain networks. Several studies have revealed that neurological and psychiatric diseases are often characterised by alterations in multiple functional networks and indicated how functional brain networks are associated with various cognitive processes and intellectual abilities [1]. In order to better understand the spatial and temporal properties of brain networks, there is a need for the use of multimodal methods. A promising technique of brain imaging is the simultaneous use of EEG and fMRI, which allows us to have an excellent temporal resolution of the EEG combined with the high spatial precision of fMRI [2]. 
+The aim of this study is to explore the nature of functional connectivity of brain networks using simultaneous EEG and fMRI recording. Specifically, we aim to explore longitudinal time-space variability of brain networks and how brain dynamics relate to individual differences, such as personality traits and cognitive abilities.
+
+## Method
+
+So far 40 healthy subjects (23 female, 21±3 years) participated in the study. Subjects underwent behavioural testing as well as neuroimaging sessions that combined EEG and fMRI methods on three occasions, approximately 2-3 weeks apart. Behavioural testing included a battery of questionnaires and tasks that tested individual's cognitive abilities (intelligence, attention, cognitive inhibition and working memory) and personality traits. The imaging protocols consisted of structural images (T1- and T2- weighted, DWI) and four functional BOLD images (two task-based and two resting-state, eyes open and eyes closed). BOLD images will be preprocessed using HCP minimal preprocessing pipeline [3]. Further analyses will include regressive, multivariate, correlational and other statistical analyses.
+
+## Results
+
+The study is ongoing, so no results are available.
+
+## Significance
+
+We expect that the combination of EEG and fMRI will give us a better insight into the nature of brain dynamics. Additionally, finding links between a person’s personality trait, cognitive ability or psychopathology and functional connectivity within the brain would allow us to develop new methods to diagnose different disorders of interest.
+
+## References
+
+[1] F. Barkhof, S. Haller, and S. A. R. B. Rombouts, “Resting-State Functional MR Imaging: A New Window to the Brain,” *Radiology*, vol. 272, no. 1, pp. 29-49, Jul. 2014. 
+[2] K. J. Mullinger, P. Castellone, and R. Bowtell, “Best Current Practice for Obtaining High Quality EEG Data During Simultaneous fMRI,” *Journal of Visualized Experiments*, no. 76, pp. 1-10, Jun. 2013. 
+[3] M. F. Glasser et al., “The minimal preprocessing pipelines for the Human Connectome Project,” *NeuroImage*, vol. 80, pp. 105-124, Oct. 2013.
+

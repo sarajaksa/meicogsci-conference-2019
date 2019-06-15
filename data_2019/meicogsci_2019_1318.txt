@@ -1,0 +1,18 @@
+... title: Bayesian Modelling in Cognitive Science: An Inceptive Psychologist’s Reflection Informed by a Little Hands-on Experience
+
+
+
+Abstract
+
+*Computational cognitive modelling* (CCM) “explores the essence of cognition (including motivation, emotion, perception, etc.) … through developing detailed, process-based understanding by specifying corresponding computational models (…) of representations, mechanisms, and processes” [1] (p.3). 
+Marr proposed a seminal multi-level approach to CCM, suggesting three presumably *necessary*, but not necessarily *sufficient*,  particular *levels* at and across which to study cognitive phenomena: At the *Computational Level*, the problem faced by the mind and how it is solved is to be characterised in *functional* terms; at the *Algorithmic Level*, the particular *processes* the mind executes to solve the problem stated at the computational level are to be described in terms of specific *algorithms* and *representations*; contributions at the *Hardware Level* should explicate how these processes could be *instantiated* in the *brain*. 
+*Bayesian Modelling* (BM) provides a flexible and principled framework for relating cognitive models to behavioural data [2]. The defining feature of the Bayesian approach is the use of *probability distributions* to represent uncertainty. *Bayes’ rule* maps  *Prior probabilities* over *models* and their *parameters* to *posterior probabilities*, based on the *evidence* provided by *data*. Bayesian methods allow to draw inferences about parameters and models, and to describe and predict data.
+I investigate the application of Bayesian Modelling under the guidance of Marr’s approach in a psychological case study of *social learning* in a Probabilistic Reversal Learning task (PRL) [3]:  Each of the five participants of a study group has to learn the dynamic reward probabilities associated with different stimuli while playing against their four opponents. Bayesian Modelling is to be used to quantify the *latent* mechanisms employed by the participants, thereby explicating how participants might integrate normative and informational influences in their decision-making process at the computational level.
+The purpose of this study is to allow me to *experience* the practical value of “BM–in–Cognitive Science”, which then in turn should support my development of genuine reflections on this *type* of modelling: What are its signature mechanisms, limitations, and underlying assumptions, and what are its offerings to Cognitive Science?
+
+## References:
+
+[1]	R. Sun, *The Cambridge Handbook of Computational Psychology.* New York and Melbourne and Madrid: Cambridge University Press, 2008.
+[2]	M. D. Lee, “Bayesian Methods In Cognitive Modelling,” in *Stevens’ Handbook of Experimental Psychology and Cognitive Neuroscience,* E.-J. Wagenmakers and J. T. Wixted, Eds. Malden, MA and Oxford, UK and Carlton, Victoria, Australia: Blackwell Publishing, 2018, pp. 37–84.
+[3]	L. Zhang and J. P. Glascher, “A Network Supporting Social Influences in Human Decision-making,” *bioRxiv* 551614, 2019. doi: 10.1101/551614
+

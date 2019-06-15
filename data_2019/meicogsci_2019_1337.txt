@@ -1,0 +1,20 @@
+... title: The Study of Dance as an Art Form in Cognitive Science - a Paradigmatic Turn?
+
+
+
+Abstract
+
+Traditionally, the study of dance as art form has been neglected in the humanities. In philosophy, especially in aesthetics, it is considered as under-represented, and dance research as a scientific discipline in its own right has only been established at the end of the last century. However, over the last decades the scientific interest in dance is increasing [1].
+
+In cognitive science, dance has entered the scene in interestingly diverse ways. Firstly, the perception of dance is studied the field of neuroaesthetics, in which the neural bases of aesthetic experiences are investigated. Secondly, it is used by various philosophers as a metaphor for thinking, supporting embodied and enactivist approaches of cognition. Thirdly, the growing number of researchers with a dual background (dance and science) as well as recent collaborations between scientists and dance artists show that the interest is mutual, and the encounters are enriching.
+
+According to Brandstetter [1], these developments can be understood as a profound challenge to our understanding of scientific knowledge: Dance – studied as a phenomenon – subverts a binary mode of thinking that poses body versus mind, emotionality versus rationality, and theory versus practice. By doing so, dance ultimately questions our notion of science, and therefore might have the potential to evoke a paradigm shift. 
+
+In my master thesis, I will - from the perspective of theory of science - argue that the interdisciplinary investigations on dance within the field of cognitive science can bridge the gap between the humanities and exact sciences. I aim to substantiate this hypothesis by analyzing current scholarly investigations on dance in cognitive science and focusing on their research paradigms and its implicit assumptions about knowledge. By drawing on theories of cognitive science (neurophenomenology, enactivism), I will hypothesize that the study of dance might cause a paradigm shift by revisiting the corporeal turn – but this time including the human body not merely in terms of theory.
+
+For my endeavor, I will first have to clarify concepts concerning knowledge, epistemic cultures, and paradigm shift theory to establish a theoretical and a methodological framework regarding dance as a practice and dance as a research object. Secondly, I will discuss selected research projects from the fields of philosophy and neuroaesthetics. Finally, I will lay out my hypothesis and propose a view in which an interdisciplinary scholarly focus on dance implies a paradigm shift that, in the long run, may result in a reconceptualization of the relationship between the humanities and the exact sciences. 
+
+## References
+
+[1] G. Brandstetter, "Dance as Culture of Knowledge: Body Memory and the Challenge of Theoretical Knowledge", in *Knowledge in Motion: Perspectives of Artistic and Scientific Research in Dance*, TanzScripte, Vol. 9, S. Gehm, P. Husemann, & K. v. Wilcke, Eds., 2007, Bielefeld: transcript Verlag, pp.37–48.
+

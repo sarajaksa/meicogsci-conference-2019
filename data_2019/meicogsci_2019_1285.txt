@@ -1,0 +1,26 @@
+... title: Twitter Activity Analysis of Users Diagnosed with Bipolar Disorder
+
+
+
+Abstract
+
+## Context
+Bipolar disorder (BD) is associated with significant functional, cognitive, and social impairment [1]. It is severe and sometimes underestimated disease. Up to 15% of patients commit suicide, and about half of them make at least one suicide attempt in their lifetime [2]. Nevertheless, 70% of people with this disease still are initially misdiagnosed [3].
+
+## Purpose
+The main goal of this project is to find significant correlations in BD users’ behavior in the social network (Twitter) with the comparison to the control group (not diagnosed BD users) that may promote more detailed research of the disease in social networks and help to monitor bipolar disorder indications in the future.
+
+## Method 
+Unlike depression, bipolar disorder is not so broadly researched with the methods of data analysis. Partially, it may be explained by the complicated structure and multifaceted symptoms of the disease. Symptoms vary depending on the phase of the illness (mania/hypomania, (major) depression) and its type (I, II, Cyclothymic, etc.). In this project, I concentrate my research on sentiment and behavior analysis of bipolar users. Twitter was chosen as most text-oriented social network compared to other platforms. Sentiment analysis includes finding interrelations in mood swings as well as defining changes in arousal score. For this purpose, I use the software package Natural Language Toolkit. Main characteristics of behavior analysis are tweeting frequency and their (in)stability, average number of tweets per period and time of posting. All bipolar users’ metrics will be compared with the control group. I assume that bipolar users will have more significant ups and downs in arousal scores and tweeting frequency, plus we may expect late night posting. The hypothesis is based on medical literature (e.g., the Diagnostic and Statistical Manual of Mental Disorders) and research paper review of BD symptoms. 
+
+## Research phase
+At this stage, data from 2200 bipolar users and 5000 control group users were prepared for analysis (it means collection, cleaning, converting and producing datasets). 
+
+## Implications
+In the era of Big Data, quantitative methods take a significant part of scientific research. It helps us to find new angles for the problem and prove challenging hypotheses. Thus, I expect that this research project may contribute to more precise recognizing of psychiatric diseases or even find new patterns of the illness and give a boost to future research.
+
+## References
+[1] T. Martini et al., "Bipolar Disorder Affects Behavior and Social Skills on the Internet", PLoS ONE, vol. 8, no. 11, p. e79673, 2013. Available: 10.1371/journal.pone.0079673 [Accessed 9 May 2019].
+[2] F. Ghali, "Suicide in bipolar disorder", Bipolar Disorders, vol. 18, no. 1, p. 190, 2016.
+[3] Y.-H. Huang, L.-H. Wei, and Y.-S. Chen, “Detection of the prodromal phase of bipolar disorder from psychological and phonological aspects in social media,” arXiv preprint arXiv:1712.09183, 2017.
+

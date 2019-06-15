@@ -1,0 +1,33 @@
+... title: Cognitive control, motivation and affect — A Study of the Interrelations and a Proposal for a Joined Cognitive Model
+
+
+
+Abstract
+
+## Background
+
+The two-way relationships between cognitive control, motivation and affect (CC,M&A) have all been studied both in cognitive psychology and cognitive neuroscience [1]. *Cognitive control* is a set of higher-level tasks that encode and maintain a representation of the current task. *Motivation* is an adjusting factor of behaviour and cognition, which carries a representation of prospective reward or goal completion. *Affect* is an umbrella-term for internal states that involve valuation, or a “good-” vs. “bad-for-me” judgement. Recently, there has been a large amount of research investigating the relationships between CC,M&A, and a calling for a consistent combination of them that would serve as a pragmatic model for further examination [2]. 
+The relationships between the three abilities are interesting for cognitive modelling, as they provide an explanation for the inner workings of the mind in relation to its ever-changing environment (processed via cognitive control and adjusted by motivation) and internal states (affective judgement) [3]. The combination of CC,M&A in a pragmatic cognitive model would serve as a basis for a number of applications requiring a level of human-like processing and behaviour.
+
+## Aims
+
+My project is to, first, extensively review the current core behavioural and neuroscientific research of the interrelations between CC,M&A. Second, based on the existing scope of research, I will propose criteria for an evaluation of cognitive models that incorporate CC,M&A and their interrelations. The third aim of this project is to evaluate existing models that combine CC,M&A in line with the previously proposed criteria for evaluation.
+
+## Preliminary results
+
+The preliminary review of behavioural and neuroscientific research indicate that a cognitive model should include: cognitive conflict as initiator of control, motivational incentives as drivers of direction and intensity of control, and goal completion conflict as a trigger for affective judgement and dopamine release [1,2].
+The first results of the research into cognitive models point to a need of modularity, adaptability, sequentiality, generalisation-ability and minimalism of the processes implemented into a model [3].
+
+## Summary
+
+In summary, the project will be a review of behavioural and neuroscientific research about CC,M&A, an introduction of points for evaluation of cognitive models and architectures implementing the mechanisms, and an evaluation of existing models and architectures that employ the concepts in combination.
+
+
+## References
+
+[1] M. Botvinick and T. Braver, "Motivation and Cognitive Control: From Behavior to Neural Mechanism", *Annual Review of Psychology*, vol. 66, no. 1, pp. 83-113, 2015.
+
+[2] L. Pessoa, "How do emotion and motivation direct executive control?", *Trends in Cognitive Sciences*, vol. 13, no. 4, pp. 160-166, 2009.
+
+[3] R. Sun, *The Cambridge handbook of computational psychology*. Cambridge: Cambridge University Press, 2008.
+

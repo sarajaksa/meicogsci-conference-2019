@@ -1,0 +1,23 @@
+... title: The Effects of Different Types of Gender Expression on Information Processing in the Slovene Language
+
+
+
+Abstract
+
+## Language shapes the way we think and vice versa
+How the choice of words with regard to gender and gender inclusivity affects our thinking has been extensively studied on major European languages, however this type of research has not yet been conducted on the Slovene language. Studies that research gender bias in language are mainly focused on the effect of role typicality on processing person information and show a consistent neural response when expectations (based on gender stereotypes) are violated. Our study (based on recent studies[1][2]) focuses on the effect of different word forms with regard to gender. The research design is adjusted to the rules of Slovene grammar; instead of using nominal anaphora to refer to the noun (i.e. **she**), the connection (and gender) is expressed by the verb. The aim of this study is to test the neural responses to the use of generic plural male nouns referring to professions (i.e. **the mechanics**) in contrast to parallel use of male and female plural noun forms (i.e. **the authors and the authoresses**) when combined with verbs expressing either masculine or feminine gender properties.
+
+## Methods
+The experimental part will include 30 participants (students of both genders from the human resources and management department). They will be asked to read semantically connected pairs of sentences, broken down into compounds (up to 7 syllables) from a screen, while their neural response will be measured by an electroencephalograph. They will be required to answer “Is the second sentence a logical continuation of the first one?” by pressing a YES/NO button.
+
+## Expected results
+We expect that a measurable deviation in the EEG signal will be present in cases where a masculine plural noun form is followed by a verb expressing feminine gender. No deviation is expected with congruents pairings, i.e. where the masculine plural noun form will be followed by a verb expressing masculine properties and in examples where the noun form is expressed by parallel noun forms, regardless of the verb form that follows. We anticipate the signal deviation to correspond to the N400 component. The results of the study will not provide information about the cause of the neural response (whether it violates either gender bias or stylistic rules).
+
+## Conclusions
+As the research has not yet been conducted, it is impossible to anticipate further advances. The special design of the study provides us with an opportunity to explore new possibilities for the research of Slavic languages.
+
+## References
+[1]    L. Irmen, D. Holt and M. Weisbrod, "Effects of role typicality on processing person information in German: Evidence from an ERP study", Science Direct, 2010. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0006899310015805. [Accessed: 12- May- 2019].
+
+[2]    A. Garnham, U. Gabriel, O. Sarassin, P. Gygax and J. Oakhill, "Gender Representation in Different Languages and Grammatical Marking on Pronouns: When Beauticians, Musicians, and Mechanics Remain Men", Taylor & Francis Online, 2012. [Online]. Available: https://www.tandfonline.com/doi/abs/10.1080/0163853X.2012.688184. [Accessed: 12- May- 2019].
+

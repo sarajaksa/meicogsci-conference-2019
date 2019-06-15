@@ -1,0 +1,25 @@
+... title: Natural Love Potion: How St. John's Wort Affects the Feelings of Love and Devotion in People in a Relationship
+
+
+
+Abstract
+
+## Context
+St. John’s wort (SJW) is an herb that is known for its various positive effects, nowadays people mostly use it to reduce everyday stress and to increase mental well-being [1]. The origin of these positive effects is not yet fully understood but available research assumes that hypericin and hyperforin contained in the herb are the main active substances [2]. Research showed that SJW capsules may have similar healing effect on mild and moderate depression as standard antidepressants [1], [2]. SJW can evoke side effects and cause contradiction with other medicines, and therefore it should always be treated with caution.
+
+## Purpose
+Anecdotal evidence says that SJW has another effect that was not proven nor investigated in the past studies. It claims that SJW can evoke a strong feeling of romantic love and devotion towards a close person. This study tries to examine this assumption in people, who are in a relationship, and investigates if participants’ feelings for their partners will change after SJW treatment.
+
+## Method
+Twenty participants received 15 concentrated capsules of SJW and were instructed to take one pill (300 mg) per day. Inclusion of participants was made on a voluntary basis, all participants met research criteria (being in a relationship, not taking any medications) and were informed about the process of the study and possible side effects of the treatment. Instructions also contained a false information that half of the participants received placebo capsules instead of SJW capsules. This step provided a prevention of placebo effects. We used the between-subject design with pre/post questionnaire to detect how SJW treatment changed participants’ feelings towards their partners. The questionnaire contains six parts with distractive function in order to confuse the participants about the aim of the research. Three relevant parts focus on participants’ feelings towards their partners, couple satisfaction and dependency on partner.
+
+## Results
+We expect to find an increase in romantic feelings and devotion to participants’ significant others indicated by responses in the pre- and post- questionnaire. 
+
+## Conclusion
+Many herbs have healing effects that are known for centuries, but some have never been studied before. This paper presents a theory based on an anecdotal evidence that SJW strongly affects emotional life, specifically romantic feelings. Positive findings would suggest new important facts about previously unknown effects of SJW. In that case, the next research should focus on examining the interaction of SJW with body hormones like oxytocin and serotonin in humans.
+
+## References
+[1] F. Borrelli and A. Izzo, "Herb–Drug Interactions with St John’s Wort (Hypericum perforatum): an Update on Clinical Observations", *The AAPS Journal*, vol. 11, no. 4, 2009. 
+[2] S. Lawvere and M. C. Mahoney, "St. John’s Wort," *Roswell Park Cancer Institute*, vol. 72, no. 11, p. 2249-54, 2005.
+

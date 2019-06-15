@@ -1,0 +1,26 @@
+... title: Online Experimental Paradigm to Investigate Scarcity and Economy Inequality
+
+
+
+Abstract
+
+## Purpose
+
+People who are economically less-privileged often tend to engage in actions which reinforce their monetary disadvantages. For instance, it is believed among scholars that low-income individuals borrow too much and save too little [1]. Despite their general agreements, scholars have different ideas about the origin of these (mis)behaviors; Some claim that the cause lies in the personal characteristics of the aforementioned people, while others consider environmental circumstances such as health, educational and political situations, and living conditions of the poor people to be the source. A. K. Shah et al. promote a broader reason: “Resource scarcity creates its own mindset, changing how people look at problems and make decisions.” [1] They claim scarcity shifts poor people's attention to solve the related problems; thus (mis)behaviors like overborrowing is explainable. Building on Shah et al.'s research, my project aims to examine the subjective scarcity compared with objective scarcity in participants' performance.
+
+## Method
+
+Data will be collected online via a web-based game and is similar to Angry Birds. The participants, who are students at ELTE, will receive a link to the game and complete the task on their own at their convenience. After reading and accepting the informed consent form, the participants will be introduced to the game. The game starts with an initial number of berries which should be used to shoot at randomized distributed targets on the screen. Participants are randomly divided into two groups of rich and poor who start the game with respectively 150 and 30 total berries. The main change of the game compared to Shah et al.'s research is an added story in the introduction section of the game which describes an imaginary society to the participants perceive themselves in a different economic situation compare to others.
+
+## Results and Findings
+
+For the aim of this research, the points gathered by each person per level, per shooting and in total, and the reaction times will be analyzed. Inspecting the points will reveal the differences in the participants' performances under dissimilar conditions. Reaction times of participants will indicate their deliberation in several situations. The early analysis indicates that people with scarce resources spend more time on each shooting on average. Moreover, by studying the dynamicity of participants’ points during the game, (mis)behaviors can be explained over time.
+
+## Conclusion
+
+As a conclusion, this study tends to stand on the shoulders of previous studies of poverty and decision making. It aims to shed light on new aspects of human decision making and gain more insights into people's performance in objective resource scarcity and subjective scarcity circumstances.
+
+## References
+
+[1]A. Shah, S. Mullainathan and E. Shafir, "Some Consequences of Having Too Little", Science, vol. 338, no. 6107, pp. 682-685, 2012. Available: 10.1126/science.1222426.
+

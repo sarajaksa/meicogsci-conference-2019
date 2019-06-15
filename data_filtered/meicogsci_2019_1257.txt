@@ -1,0 +1,10 @@
+... title: Cognitive Science and Technology
+
+
+
+Abstract
+
+In recent years, many new technological developments are incorporating cognitive aspects. Wearable devices, self-driven cars, and social robots are but a few examples. In this talk, I will present two recent research projects we have done with industry to illustrate how cognitive science can be incorporated into emergent technology.
+
+One project was a collaboration with Xerox on Cognitively Inspired Task Design to Improve User Performance on Crowdsourcing Platforms. The other one was a collaboration with Samsung on Towards Multimodal Affective Feedback : Interaction between Visual and Haptic Modalities. Towards the end of the talk, I will give a brief glimpse of some of my student projects in this area from the last year.
+

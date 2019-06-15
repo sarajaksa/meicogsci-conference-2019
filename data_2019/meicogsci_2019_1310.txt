@@ -1,0 +1,17 @@
+... title: The Role of Auditory Feedback in Singing
+
+
+
+Abstract
+
+Singing is a special type of vocalization, used to produce music. In contrast to speech, where precision in vocalization has to be just sufficient enough for the message to be transmitted to the listener, in singing a much higher emphasis is put on the precise control over different parameters in vocalization. An important part in this control is played by auditory perception, which provides auditory feedback (AF) [1]. A speaker/singer may use his auditory system to listen to his output vocal signal and make appropriate muscular adjustment, resulting in the desired vocal output. The greater the emphasis on the precise form of vocal output, the bigger the role of AF may be. Since the interaction between vocal production and perception is directly mediated by cognitive processes, the study of AF in singing can be an useful approach in studying cognitive mechanisms, involved in the control over the vocal production. In addition, insight into physiological and cognitive mechanisms underlying vocal control in singing can provide novel ideas in pedagogical approaches to vocal development.
+
+The aim of the study is to investigate the role of AF in singing using a theoretical and an empirical approach. The goal of the theoretical part is to review the existing literature, including an overview of the experimental approaches in studying AF and their findings, the developed psychological models used to explain the empirical data, and the identified neurological correlates. In addition, an attempt will be made to investigate how the existing knowledge on AF can be framed within some of the paradigms in cognitive science, especially predictive coding.
+
+The goal of the empirical part is to investigate the role of vocal training on the control over pitch through AF. Professional and nonprofessional singers will be tested in an experimental design using a modified AF. The task of the participants will be to utter a vowel at a constant pitch. Their acoustic signal will be recorded and played back in real time with a shifted pitch. Electroglottography [2] will be used to record direct changes in the vibration frequency of the vocal folds in response to the altered feedback. Based on previous similar studies, we expect that the subjects will automatically compensate for the pitch-shifted AF by adjusting their pitch in the opposite direction. Previous studies have also suggested that professional singers increasingly rely through training on their somatosensory feedback [1]. Based on that we predict that the pitch-shifted AF will modify the pitch response in professional singers to a lesser degree in comparison to nonprofessional singers.
+
+## References
+
+[1] B. A. Kleber and J. M. Zarate, “ The Neuroscience of Singing,” in *The Oxford Handbook of Singing*, G. F. Welch, D. M. Howard and J. Nix, Eds. Oxford, UK: Oxford University Press, 2019, pp. 257-280.
+[2] C. T. Herbst, “Electroglottography - An Update,” *Journal of Voice*, in press.
+

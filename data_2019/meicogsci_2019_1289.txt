@@ -1,0 +1,14 @@
+... title: Saliency Models Analysis for Paintings
+
+
+
+Abstract
+
+Processing visual information in real time is a difficult task. Therefore we process visual data by selecting some stimuli and ignoring other. Which stimuli will be selected is determined by top-down factors that are driven by a task, and bottom-up factors that highlight regions in a visual scene that are different from their surroundings – often referred to as visual saliency. In this thesis we will test computational saliency models and analyze them in terms of their performance and applicability in visual art. There is a continuous effort in computer science to create systems that would help with understanding art concepts, but also on the other side - art expertise is benefiting from computational methods which aid the analysis, and give new insights into the research. More specifically we will test saliency models, and asses their accuracy against previously acquired ground truth data – eye fixations of people looking at digitalized paintings. By running saliency model on these paintings, we will get their corresponding saliency maps. Saliency map is a topographic representation of saliency. While the saliency map retrieved from a model just estimates salient locations (what attracts our gaze), true eye fixations can be acquired by an eye tracking technology. Using various comparison metrics (see [1] for a review) we can then asses how well models predicted salient locations. Since paintings often portray natural scenes different from the reality, and are vulnerable to many elements like painting skills, painting materials, and techniques, we think this data may be challenging and pose a space for further improvements. Considering to date only few studies have focused on this topic (for example [2]), by studying saliency models in the context of paintings, we would like to benefit not only the field of visual saliency modeling, but also the field of art.
+
+# # References
+
+[1] Z. Bylinskii, T. Judd, A. Oliva, A. Torralba and F. Durand, "What Do Different Evaluation Metrics Tell Us About Saliency Models?", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 41, no. 3, pp. 740-757, 2019.
+
+[2] B. Stoica, L. Florea, A. Bădeanu, A. Racoviţeanu, I. Felea and C. Florea, "Visual saliency analysis in paintings", in International Symposium on Signals, Circuits and Systems (ISSCS), Iasi, Romania, 2017.
+

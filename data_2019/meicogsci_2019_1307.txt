@@ -1,0 +1,24 @@
+... title: Ontology Based Simulations of Socially Intelligent Agents in Bystander Effect Scenarios
+
+
+
+Abstract
+
+## Introduction
+Simulations of  humans inhabiting virtual worlds is a current and important research topic. Semantic virtual environments were introduced as an approach to both modelling the world but also as a better representation of agent-object and agent-agent interactions in the virtual environment.
+Ontologies represent a promising tool to represent a world's knowledge base and introduce the semantic overview that helps with the sensorization of complex scenes containing interactive objects. Ontologies also help to define the social interaction between agents in the virtual environment, where these interactions are invaluable when modeling decisions as well as behaviour of agents in a socially acceptable and believable way.
+The Bystander effect [2] is usually defined as a social psychological phenomenon where individuals are less likely to help a victim in need when other people are present, the effect being more pronounced with greater amount of bystanders present. To make things more complex, many other variables such as group size, group cohesiveness [1] and social norm adherence, individual personality traits and characteristics, subconscious perceptions of the victim (how similar and / or sympathetic the bystander feels towards the victim on a more personal level), and possibly others, are at play when faced with a difficult situation in which one is the bystander. 
+
+##Methods
+The simulation will be visualized in a simplified, two-dimensional environment from the top-down perspective implemented using Python. 
+The simulation will consist of a specified number of bystanders, with a specified parameters related to their personality (empathy, social norm adherence), as well as relationships among the agents to incorporate group cohesiveness into the model.
+The victim will be represented as either being alone (no external threat to the bystanders) and requiring help, or with an attacker harassing the victim (external threat to the bystanders), where the harassment could be either verbal or physical, either unarmed or armed with a weapon.
+
+## Results
+The final product will be a simulation model of the bystander effect – a multi-agent system using ontologies to represent the social relationships among agents, as well as potential actions they can take in the virtual world. 
+The simulation will model the bystander effect according to empirically proven research, enabling students and researchers to have a controlled environment to experiment with other, possibly non-studied scenarios in the area, all in a morally and ethically non-concerning manner.  
+
+## References
+    1. K. Rutkowski, Gregory & L. Gruder, Charles & Romer, Dan. (1983). Group cohesiveness, social norms, and bystander intervention. Journal of Personality and Social Psychology - PSP. 44. 545-552. 10.1037/0022-3514.44.3.545.
+    2. Gerritsen, Charlotte. (2011). The Bystander Effect: Agent-Based Simulation of People’s Reaction to Norm Violation. 26-35. 10.1007/978-3-642-24965-5_4.
+

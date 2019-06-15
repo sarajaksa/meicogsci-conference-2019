@@ -1,0 +1,31 @@
+... title: Cognitive Control in People with Depression
+
+
+
+Abstract
+
+## Introduction
+
+The cognitive control system is a frontoparietal system that coordinates goal pursuit. It consists of flexible hubs that regulate brain processes. The system promotes optimal behavioural outcomes by supporting goal-directed processes and reducing goal-disrupting ones which can manifest as symptoms of mental illness [1]. Depression as a prevailing mental health problem has yet to meet a refined diagnosis. Major depressive disorder consists of multiple different symptoms that occur in many possible combinations. Sharpley and Bitsika [2] offer four basic subtypes of depression based on the differences in neurobiological pathways and accordingly suggest distinct treatment approaches. Proposed subtypes include anhedonia, somatic, cognitive, and mood depression. While previous studies have shown declined cognitive control abilities in people suffering with mental illness, more research is needed to better understand the importance of cognitive control for mental health. This project aims to confirm differences in cognitive control between healthy people and people with depression, as well as to observe distinct  types of depression reflected in the cognitive control results.
+
+## Method
+
+Healthy controls and people with diagnosed depression are currently being recruited for this study.
+The research consists of two parts. The first part involves several cognitive psychological tests, such as Stroop interference and Word fluency. Additionally, participants with depression are asked to complete some diagnostic measures.
+The second part is a Cognitive Control Challenge Task (CCCT) that was developed in the Laboratory for Cognitive Neuroscience in Faculty of Arts. The CCCT measures stable maintenance of goal representations and flexible switching between them.
+
+## Results and discussion
+
+The project is still in the process of data collection. Therefore, the analysis has yet to be performed. Nevertheless, it is expected that people with depression will exhibit lower scores on CCCT and thus have lower cognitive control. Furthermore, the results of CCCT taken together with diagnostic measures are predicted to differentiate among types of depression.
+Such results would confirm and add to the literature on cognitive control malfunctions in mental illness as well as aid in improving diagnostic tools and treatment.
+
+## Acknowledgements
+
+We would like to thank our mentor, Ana Vida Politakis for her excellent supervision and guidance. 
+
+## References
+
+[1] M. W. Cole, G.Repovš and A. Anticevic,  “The frontoparietal control system: a central role in mental health,”. The Neuroscientist, vol. 20, no. 6, pp. 652-664, 2014
+
+[2] C. Sharpley and  V. Bitsika, “Differences in neurobiological pathways of four "clinical content" subtypes of depression,” Behavioural Brain Research, vol. 265, pp. 368-376, 2013
+

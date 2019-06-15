@@ -1,0 +1,26 @@
+... title: The Effects of Emotional Intensity and Individual Differences on Emotion Regulation Ability
+
+
+
+Abstract
+
+## Introduction
+
+Implementation of emotion regulation strategies in response to stressful events varies as a function of contextual demands. For instance, reappraisal (i.e. reinterpretation of the meaning of the emotional stimulus), is preferred in situations related to low compared to high emotional intensity [1]. Although this strategy has been extensively investigated in the past decade, it remains unknown whether 1) reappraisal ability can be trained, 2) whether it is modulated by arousal and 3) how it is related to individual differences. The present study set out to address these gaps in the literature.
+
+## Method
+
+Twenty-three participants (19 female, age: M = 22.7 years) took part in the study. During an emotion regulation task participants were instructed to either down-regulate (Decrease) or maintain their emotions (Look) in response to an aversive image. The pictures were selected from standardized picture databases and divided into two types of differing intensity based on normative ratings of arousal (low: M = 5.77 SD = 0.29; high: M = 6.90, SD = 0.31). An event-related design was used (instruction 2s, regulation 8s, and emotional state rating 4s). Participants completed 3 testing sessions separated by one week. Each session consisted of 4 runs and a total of 80 trials. Participants rated all presented images on valence and arousal.  Additionally, participants filled in a set of questionnaires on personality traits and emotion regulation ability. 
+
+## Analysis
+
+Statistical analyses will be performed using the computing environment R. A series of repeated measure ANOVAs will be conducted to assess the interaction between regulation instruction (Decrease/Look), arousal (High/Low) and session (First/Second/Third) on ratings of emotional state. In addition, regression analysis will be performed to evaluate the effect of personality characteristics on emotion regulation success. We expect that 1) emotion regulation ability will remain stable over time, 2) arousal intensity will have an effect on regulation success and 3) individual differences in personality and emotion regulation ability will predict emotion regulation success and emotion processing.
+
+## Impact
+
+Findings from this study will contribute to our understanding of factors influencing emotion regulation success and could inform prevention programs and therapies directed at improving regulatory abilities and thereby emotional well-being.
+
+## References
+
+ [1] G. Sheppes, S. Scheibe, G. Suri, P. Radu, J. Blechert and J. Gross, "Emotion regulation choice: A conceptual framework and supporting evidence," Journal of Experimental Psychology: General, vol. 142, no. 1, pp. 163-181, 2014.
+

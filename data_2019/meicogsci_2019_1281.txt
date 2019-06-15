@@ -1,0 +1,18 @@
+... title: Experience sampling and citizen science
+
+
+
+Abstract
+
+Experience sampling method (ESM) is a way of empirically estimating characteristics of the human experience. This is done by collecting samples of lived experiences over a certain period of time. ESM is designed as a questionnaire presented to a person, usually on their mobile devices. The person is prompted to answer the questions about their experiential and situational context [1]. These answers provide data for representing the general experiential landscape of the person or the insight into the phenomena of interest. 
+
+ESM has an advantage of large data sets, minimisation of memory bias, and high ecological validity [1]. Hence, there is a growing number of research designs using ESM. However, in our review of the studies, we detected oversimplifications and ambiguous representations of different lived phenomena in various designs. For example, the use of the inappropriate scales for representing certain feelings or asking too general questions that miss important information about the experiential states. ESM is also presented with a challenge of participant burden (i.e. disruption of daily activities for a longer period of time) and their lack of motivation. This translates into inconsistent data collection as well as participants providing quick and shallow answers. Our suggestion for addressing this challenge is to conduct the research in the form of a citizen science (CS) project. Citizen scientists are actively involved and considered co-researchers who provide their expertise and perform tasks necessary for the research [2]. This is a clear parallel to how empirical phenomenology considers participants as co-researchers and the only real experts on their own experience [3]. 
+
+In our project we are designing ESM for representing general experiential landscapes. We are implementing the design as a mobile application. In order to overcome the methodological shortcomings, we are considering the principles of empirical phenomenology, human-computer interaction, and probabilistic modelling. Alongside we are designing CS framework for inclusion of the co-researchers and the grounds for building the community. Iterative development of the the application will be followed by a CS pilot project on researching the experiential landscapes. 
+
+[1] N. Berkel, D. Ferreira and V. Kostakos, "The Experience Sampling Method on Mobile Devices", *ACM Computing Surveys*, vol. 50, no. 6, pp. 1-40, 2017.
+
+[2] M. Pleijte, R. Dam and R. During, "Exploring citizen science: Embedded, embodied and actionable knowledge production", Research.wur.nl, 2019. [Online]. Available: https://research.wur.nl/en/publications/exploring-citizen-science-embedded-embodied-and-actionable-knowle. [Accessed: 10- May- 2019].
+
+[3] U. Kordes and F. Klauser, "Second-Person in-Depth Phenomenological Inquiry as an Approach for Studying Enaction of Beliefs", *Interdisciplinary Description of Complex Systems*, vol. 14, no. 4, pp. 369-377, 2016.
+

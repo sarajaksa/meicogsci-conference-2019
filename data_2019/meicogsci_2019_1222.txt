@@ -1,0 +1,32 @@
+... title: A Picture Is worth 13/9 Words – Effect of Visual Format on Short Term Memory
+
+
+
+Abstract
+
+## Context
+Learning styles (further in the text just LS) are very widely used in general education. However, there is some criticism [2][3] focused on the problem of valid determination of the specific learning style of an individual and its benefits for teaching.
+
+## Purpose
+
+We tried to overcome this validity problem by using *triangulation of data*, with the use of more questionnaires (VARK-learn.com, VVQ: Visualizer - Verbalizer [1]) and self-reporting. 
+The aim of this research is to examine whether the information presented in Visual format is easier to memorize compared to Audio format, regardless of the preferred LS of an individual [1].
+
+## Method
+
+We divided participants *N*(22) into 2 experimental groups – Audio and Visual. In each group were half of the participants with their preferred LS correlating with an experimental group and others having it as the least preferred LS, e.g. for Audio group 4 participants having preferred Audio LS and 5 participants having preferred Visual or Kinesthetic LS and its combinations. After assigning to groups their task was to do a short-term memory test (15 B&W everyday objects) provided in the Audio format for the Audio group and Visual format for Visual group.
+
+## Results
+
+The participants in Visual group (*N* = 11, *Mdn* = 13, *SD* = 1.55) had higher scores in short – term memory test compared to Audio group (*N* = 11, *Mdn* = 9, *SD* = 2.28). Interestingly, Levene's test showed that two groups had approximately homogenous variances (*F*(1,20) = 1.78, *p* = .19). The difference between these scores was also statistically significant, with large effect size (*t*(20) = -3.28, *p*= .004, *d*=-1.4.)
+
+## Conclusions
+
+We have not found any significant difference in the memory score between participants with the information presented in their preferred LS or not. However, using visual aid in teaching could be beneficial. The difference between the two groups could be caused also by the technique of remembering. Participants in Visual group used mostly creating a story or a scene. Participants in the Audio group mostly repeated words in their head. There are some studies [1] showing the importance of visual aid in many areas of life. Our results showed that it doesn’t matter which learning style a person has, but when they receive information in a visual format, it helps them to remember it more at least for a short time.
+
+## References
+
+1] Constantidinou, F., & Baker, S. (2002). Stimulus modality and verbal learning performance in normal aging. Brain and Language, 82, 296e311.
+[2] HUSMANN, Polly R.; O'LOUGHLIN, Valerie Dean. Another nail in the coffin for learning styles? Disparities among undergraduate anatomy students’ study strategies, class performance, and reported VARK learning styles. Anatomical sciences education, 2019, 12.1: 6-19.
+[3] Kirschner, P. A., & van Merrienboer, J. J. G. (2013). Do learners really know best? Urban legends in education. Educational Psychologist, 48(3), 169e183.
+

@@ -1,0 +1,28 @@
+... title: How Can Computers Help Us Understand Text? Topic Modeling on Example of MeiCogSci Abstracts
+
+
+
+Abstract
+
+Many methods for analyzing texts exist in cognitive science. Some of these stop working when the datasets become too big to read. Topic analysis can help with the exploratory analysis of these. Topic analysis is a method to find common topics in a group of documents. I used Latent Dirichlet Allocation [1], where each document can have multiple topics, represented as co-occurrence of words. 
+
+In this work, I will try to show the usefulness of topic analysis on the example of MeiCogSci abstracts. 
+
+I preprocessed all the abstracts for MeiCogSci conference from years 2008-2018. I kept only the first-year posters and second-year talks and removed duplicates based on cosine similarity. 744 abstracts were left. I removed the references and acknowledgments and kept only adjectives and nouns. I kept 50 articles for test set. 
+
+I used perplexity and coherence to arrive at 3 different models. I used interpretability to decide on the model with 21 topics based on word importance for specific topics. I confirmed the topics by the five abstracts with the highest values for this topic. The model was evaluated on test set. 61% of all found topics were clearly present.
+
+The topics found are pitch (music), movement, categorization (art), modeling, society (socialization), decision making, abnormality (disease), neuroscience (brain imaging), constructivism (first-person research), health (sleep), perception (visual perception), learning (cognition), sound (mental states), language, reasoning (working memory), attention, rules (legal), tasks (games), TMS, neural network and reinforcement learning.
+
+Out of found topics, the most popular is constructivism, which also includes first-person research and sense-making, followed by society and decision making. Constructivism has been the most popular topic since 2013. Before were perception (2012), neuroscience (2011) and modeling (2010). 
+
+The interdisciplinary overall is slowly increasing. Appearing together more than expected are neuroscience and TMS, constructivism and society, and tasks and decision making. Appearing together less frequently than expected are neuroscience and decision making, neuroscience and constructivism and, neuroscience and society.  
+
+I also analyzed the experiments with humans, which included about 50% abstracts. Word participants were used more by topics of decision making, constructivism, language, attention, and tasks, while topics of pitch, neuroscience, reasoning, TMS and neural network prefer to use the word subjects. 
+
+Topic modeling can be another analytical tool to help us get a better perspective over textual data, no matter the size of dataset.
+
+## References
+
+[1] D. M. Blei, A. Y. Ng and M. I. Jordan, "Latent Dirichlet Allocation", *The Journal of Machine Learning Research*, vol. 3, pp. 993-1022, 2003.
+

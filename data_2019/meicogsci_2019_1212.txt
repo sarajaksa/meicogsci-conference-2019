@@ -1,0 +1,26 @@
+... title: Cross-lingual Approach to Abstractive Summarization
+
+
+
+Abstract
+
+﻿## Introduction
+Automatic text summarization is a process of extracting important information from the text and presenting that information in the form of a summary. Summarization approaches can be abstractive or extractive. The former is a productive process and can generate novel words and sentences, whereas the latter copies the most representative ones. Cross-lingual summarization can help us do that task for languages without adequate training set using model transfer from another language. 
+
+## Research Problems and Hypothesis
+Abstractive summarization approaches were improved significantly with deep neural networks but the results can still be repetitive and absurd, can misrepresent facts and be misleading in various ways. Our hypothesis is that cross-lingual word embeddings and language models enable the transfer of deep learning text summarization models between languages.
+
+## Method
+We will use the pre-trained summarization model with cross-lingual embedding at the input and language model [1] in the target language at the output. The pre-trained state-of-the-art summarization model [2] combines extractive and abstractive techniques and follows a two-step approach: first it selects important phrases and then it paraphrases them. MUSE library [3] includes two ways to obtain cross-lingual word embeddings. The supervised method uses a bilingual dictionary to learn a mapping from the source to the target space using (iterative) Procrustes alignment. The unsupervised method learns a mapping from the source to the target space using adversarial training and (iterative) Procrustes refinement. Results will be evaluated automatically with ROUGE metric and for a small set of summaries we will also use human evaluation of accuracy and coherence.
+
+## Interdisciplinarity
+It seems that word embeddings approach corresponds to the idea that the meaning of a word is determined by its use in the language and confirms that words primarily get their meaning from the contexts in which they are used. A common vector space seems to confirm the assumption of universal concepts, possibly also language. Neural approaches seem to refute the assumption that mental representations are a necessary condition for solving natural language tasks such as translation or summarization.
+
+## Expected results
+We will implement the cross-lingual model for text summarization. The results may have important implications for problems in linguistics and philosophy. 
+
+## References
+[1]	A. Radford, K. Narasimhan, T. Salimans, and I. Sutskever, “Improving Language Understanding by Generative Pre-Training,” *Technical Report*, *OpenAI*, 2018.
+[2]	S. Gehrmann, Y. Deng, and A. M. Rush, “Bottom-Up Abstractive Summarization,” *arXiv:1808.10792*, 2018.
+[3]	G. Lample, A. Conneau, M. Ranzato, L. Denoyer, and H. Jegou, “Word translation without parallel data,” *arXiv:1710.04087*, 2018.
+

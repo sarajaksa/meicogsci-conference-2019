@@ -1,0 +1,22 @@
+... title: The Dynamics of Collective Emotions and the Spread of Emotional Information in Social Media: Sentiment Analysis in Online Discussion Forums
+
+
+
+Abstract
+
+Collective emotions are emotional states shared and spread by a group of individuals [1]. With our thesis, we take a complex systems approach to understand the dynamics of collective emotions and the spread of emotional information. Using a social interactionist framework, we approach collective emotions as shared emotional states that emerge from the interactions of individuals. As such, they may be computationally modeled using agent-based modeling.
+
+Upvote and downvote systems are implemented in social media for users to evaluate content and express their opinions. This can lead to visible polarization of posts and we aim to investigate the effects of this polarization on the emotional well-being of discussion participants, by applying quantitative text analysis and other linguistic methods. Using sentiment analysis, we may not only approximate the emotional state of an individual, but also draw inferences about the degree of cognitive complexity involved [2].
+
+Dual-process theory assumes two distinct collections of cognitive processes, popularized as system 1 and 2. Our leading research questions are: if polarization and sentiment of online discussion posts affect the polarizations and sentiments of their responses; and if emotional and cognitive contents of posts provide useful information about the cognitive processes involved in their creation.
+
+First, we conceptualize and implement an agent-based model that abstracts the spread of emotional information online and the dynamics of collective emotions. Second, using our model as a hypotheses generator, we test its predictions against real-world data by applying sentiment analysis on the “One Million Posts” corpus [3], a collection of posts originally published in the discussion forum of a news website. We expect to find correlations between polarizations of posts, their sentiment and degree of cognitive complexity, and developing discussion dynamics that validate our model. On the microscopic level, our findings are expected to highlight effects of upvotes and downvotes on the emotional well-being of discussion participants. On a mesoscopic level, our model could be further applied to analyze the spread of emotions in online discussions and collective emotion dynamics.
+
+## References
+
+[1] Von Scheve, C. & Salmela, M. (2014) _Collective Emotions: Perspectives from Psychology, Philosophy, and Sociology_. New York, NY: Oxford University Press. DOI: 10.1093/acprof:oso/9780199659180.001.0001
+
+[2] Tausczik, Y.R. & Pennebaker, J. (2010) “The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods” in: _Journal of Language and Social Psychology_, 29, pp.24-54, DOI: 10.1177/0261927X09351676
+
+[3] Schabus D. & Skowron, M. & Trapp, M. (2017) “One Million Posts: A Data Set of German Online Discussions” in: _Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval_, Tokyo, Japan, August 2017, pp.1241-1244, DOI: 10.1145/3077136.3080711
+

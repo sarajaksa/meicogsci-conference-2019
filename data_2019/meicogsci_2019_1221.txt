@@ -1,0 +1,23 @@
+... title: "The Role of Metacognitive Self-evaluation In The Process of Learning"
+
+
+
+Abstract
+
+## Introduction
+We live in an era in which the required knowledge and the overall burden on students are immense. Additionally, students usually have a finite amount of time to dedicate to learning [1]. Thus, the essential capacity of a learner is to accurately assess whether the studied topic requires more time to be spent on or a learner can proceed further with another task [2].The aim of our study is to explore whether a learner can benefit from studying a topic coming from different sources of information. The advantage of learning from various sources is based on the theories of memory and learning that put their focus on the depth of processing [3]. It is assumed that the greater the variety and a need for processing, the deeper the processing of information, the more efficient saving of information into semantic networks, the better the understanding; hence, the more accurate self-reflection.
+
+## Method
+The participants were divided into four groups. Three textbook articles from different authors dealing with the topic of dual-system theories of thinking were used. The participants encountered the text exactly 3 times according to rule described below. Group 1 read only one of the three articles three times. Group 2 read all three articles, but each article could be viewed just once.  After each studying session, there was a metacognitive task reflecting one’s self-evaluation of comprehension of particular text. The very next day, participants were tested on the given topic through a series of open-ended questions. In addition, the participants were also asked to answer metacognitive questions about their performance on the test.
+
+##Results
+We expect that the group which encounters all three texts will score better on the learning test, due to having more structured knowledge about the topic. Moreover, it is expected that the same group will have more accurate metacognitive self-evaluation of their performance. 
+
+## Implications
+The result of the research might shed light on the efficiency of learning processes. Students usually have tendency to read the materials multiple times over during studying. However, the opposite might be more beneficial to the learning process. If our hypothesis is confirmed, this learning strategy might help students who seek for efficient ways to approach the study material.
+
+## References
+[1] K. Rawson, J. Dunlosky, “Optimizing schedules of retrieval practice for durable and efficient learning: How much is enough?,” *Journal of Experimental Psychology: General*, vol. 140, pp. 283-302, 2013
+[2] K. Rawson, J. Dunlosky, “Improving students’self-evaluation of learning for key concepts in textbook materials,” *European Journal of Cognitive Psychology*, vol. 19, pp. 559–579, 2007
+[3] F.I.M. Craik, R.S. Lockhart, “Levels of processing: A framework for memory research,” * Journal of Verbal Learning and Verbal behavior*, vol. 11, pp. 671-684, 1972
+

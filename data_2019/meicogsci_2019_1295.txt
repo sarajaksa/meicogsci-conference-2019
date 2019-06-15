@@ -1,0 +1,21 @@
+... title: Jump Once, Jump Twice: Different Languages Conceptualize Actions Differently
+
+
+
+Abstract
+
+## Purpose
+Linguistic relativity theory proposes that a particular language we speak has an impact on the way we think. The methodology used in this study is based on the structure-centered approach which begins with an observed difference between languages in their structure of meaning [1]. Recent findings indicate that German-English bilinguals categorize events depending on the grammatical constraints of the language which they use [2]. A grammatical constraint of interest for this study is the verb aspect, a notion that expresses how an event, action, or state verb lasts over time. The goal of this study is to find out whether German-Serbian bilinguals routinely encode actions as perfective and imperfective even after receiving instructions in the language that does not contain the notion of grammatical aspect (such as German). 
+Our initial pilot study showed that Serbian monolinguals had different encoding patterns and used different words to denote both images showing perfective and imperfective activities. They were asked to provide only one word related to activity. As expected, German monolinguals homogenously used the same words to denote the same activities. Therefore, we assume that the bilinguals, having a repository of both languages, will be able conceptualize the activities faster and thus respond faster and more accurately to congruent than to incongruent trials.
+## Method
+Our sample consists of 30 bilinguals that use both German and Serbian on a daily basis. The instructions to the first two parts of the experiment will be in German, while the last part of the experiment is meant as a feedback round and will have instructions in Serbian. There will be three groups according to the three conditions:
+- a congruent one, that will present images of perfective activities (e.g. climbing a cliff) in both sets to the participants,
+- a second congruent condition, which will present images of imperfective activities (e.g. person has already climbed the cliff) in both sets, and 
+- an incongruent condition, which will present a set of images of imperfective activities, followed by images of perfective activities.
+The participants will be instructed to memorize the images, after which we will present them with the same pictures again (or the action counterpart in the incongruent trial) and we will measure reaction time while they answer if they have seen the image before or not. Afterwards, they will be asked to give feedback to the images in the form of a sentence in Serbian. 
+## Conclusion
+We expect to find longer reaction times and lower accuracy for the incongruent trials, which would suggest that the conceptualization of the verbal aspect in the congruent trials occurs before recalling the exact image in our brain. 
+## References
+[1] J. Lucy, "Linguistic relativity," _Annual Review of Anthropology_, vol. 26, pp. 291–312, 1997.
+[2] P. Athanasopoulos et al., "Two Languages, Two Minds: Flexible Cognitive Processing Driven by Language of Operation," _Psychological Science_, vol. 26, no. 4, pp. 518-526, 2015.
+

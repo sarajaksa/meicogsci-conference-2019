@@ -1,0 +1,24 @@
+... title: The Recreating of Art Through Posing and Posting
+
+
+
+Abstract
+
+## Introduction and problem
+Participation culture of visitors in museums has been studied from different perspectives, including the phenomenon of the museum selfie. This study examines the recreation of art (reproduction of the character’s pose in front of the artwork) and the reasons behind on the example of the Austrian Gallery Belvedere. 
+In the social network Instagram we can find a lot of different types of selfies and photos with accounts' owners in the museum, but only some visitors try to copy works they are looking at. Why do they interact in this particular way with artworks and choose certain works more often than others?
+
+## Literature research
+Existing studies about museum selfies with imitating the pictures examine them as a process of meaning-making through embodiment [1], as a possibility to virtually touch and appropriate the artwork to raise visitor’s social capital [2], to become associated with “something larger than themselves”. [3] Still, they do not answer the question how visitors choose objects to interact with. The aim of this research was to define this call-to-action, hidden in the artworks: affordances for situated cognition.
+
+## Approach and method
+According to my hypothesis, a presence of a person and a clear composition with readable character’s pose, a content of the artwork resonating with the visitor and the popularity of the work can be the affecting affordances. Also, I want to examine which artworks are chosen more often, and if awareness of existing examples of art recreating and social approval expressed in likes influence the decision. 
+The study uses quantitative and qualitative methods of netnography: collecting of open data in Instagram (posts, photos, comments and likes’ amount) and in-depth interviews with subjects. Current sample contains 73 posts with location “Belvedere” shared during March and April 2019. Python library Pandas was used to quantitatively analyze the data and to define, which paintings were recreated more often and if the amount of likes in such posts is increased. Also 9 visitors were interviewed about their experience, associations, motives and feelings to clarify their motives to recreate the artworks.
+
+## Results and perspectives 
+During the interviews composition, content and popularity of the artwork were confirmed as affecting affordances. More wide-known pictures, such as “The Kiss” and “Napoleon”, were recreated more often; in average, art imitating did not receive more likes (which did not confirm the influence of social approval). The study can be continued with a larger number of interviews and using of graphical analysis of posts.
+
+[1] R. Steier (2014). Posing the Question: Visitor Posing as Embodied Interpretation in an Art Museum, *Mind, Culture, and Activity*, 21(2), 148-170. 
+[2] E.B. Hunter (2018). In the frame: the performative spectatorship of museum selfies, *Text and Performance Quaterly*, 38(1-2), 55-74. 
+[3] R. Kozinets, U. Gretzel, A. Dinhopl (2017). Self in Art/Self As Art: Museum Selfies As Identity Work, *Frontiers in Psychology*, 8(731).
+

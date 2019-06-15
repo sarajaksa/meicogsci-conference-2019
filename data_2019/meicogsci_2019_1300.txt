@@ -1,0 +1,24 @@
+... title: Predicted Markers of Attention Biased Towards Regularities in Eye Movements
+
+
+
+Abstract
+
+## Context
+
+Statistical learning is the ability of extracting statistical regularities from our environment. It makes us perceive events in our surroundings and react to them more efficiently. There are several findings indicating that visually perceived temporal structures are implicitly learned and influence visual attentional processes. The capability of statistical learning seems to be present from a very young age: an experiment has shown that after looking at temporally structured visual stimuli, infants as young as 2 months-old could discriminate between novel and familiar sequences [1]. Investigating the relationship between attention and statistical learning, it has already been shown that, in a noisy environment, visual data with structural regularities will receive attentional priority. Regularities also bias feature attention: the colour or weight of a stimuli captures more attention when it shares the common feature of the sequence [2]. We can also find evidence that being exposed to sequences of structured visual cues helps us to predict future cues, without explicitly realising the structure. [3]
+
+## Method & Expected Outcome
+
+The research will be conducted with an eye-tracker device with about 30 test participants. Participants will look at a screen where simultaneously two streams of images (simple shapes) will show: one stream with temporal structure in its elements, the other one without it. After a learning period, a search task (deciding the direction of a _T_ that appears somewhere on the screen) will interrupt the stream. During the experiment, eye-movement behaviour and reaction time will be measured. According to our expectations, eye-movement behaviour will be influenced by the structured stream. More gazing time will be spent on that stream compared to the other one. When the searching task appears in the stream with structure, reaction time is expected to be faster, compared to cases when the searching task appears elsewhere on the screen.
+
+
+
+
+
+[1]N. Z. Kirkham, J. A. Slemmer and S. P. Johnson, "Visual statistical learning in infancy: evidence for a domain general learning mechanism" *Cognition* vol.83, 35-42, 2002.
+
+[2]J. Zhao, N. Al-Aidroos and N. B. Turk-Browne, "Attention is spontaneously biased towards regularities" *Psychological Science* vol.24, no.5, 667-677, 2013.
+
+[3]R. Baker, M. Dexter, T. E. Hardwicke, A. Goldstone and Z. Kourtzi, "Learning to predict: Exposure to temporal sequences facilitates prediction of future events." *Vision Research* vol.99, 124-133, 2014.
+

@@ -1,0 +1,26 @@
+... title: The Looping Effects of Personality Types
+
+
+
+Abstract
+
+## Introduction
+
+According to Hacking [1], human kinds of phenomena, such as homosexuality, differ from natural kinds, such as water, in that they exert influence on themselves. Because of the self-understanding capacities of the phenomenon classified as a human kind, the very act of classification changes the nature of this phenomenon, which furthermore affects how it will be classified in the future; in other words, human kinds are subject to a looping effect.
+
+To empirically test this primarily philosophical theory, I have chosen to examine the personality types of the Myers-Briggs Type Indicator (MBTI) personality assessment system [2] as exemplary human kinds. My research hypothesis is that after reading descriptions of their assigned personality type, the MBTI characteristics of participants will shift further in the direction of the poles predicted by this type.
+
+## Methods
+
+Participants (n = 36) were divided into three equal groups. Each group took an online 94-question MBTI instrument [2] before and after a two-week period. Control group (1) did not receive questionnaire results, participants in group (2) were informed of their personality type, calculated from questionnaire answers, while group (3) was assigned a fixed type irrespective of questionnaire answers; both (2) and (3) received detailed descriptions of their type and were requested to read them. Agreement with assigned type was determined on a Likert scale using a post-reading quiz. I will compare differences between first and second testing in the number of responses in favour of either pole in all four MBTI characteristics for each group.
+
+## Expectations
+
+Research is ongoing with partial results. I predict control group (1) will display standard variability between first and second testing, while experimental group (2) and (3) will see an increase in the number of answers predicted by their assigned personality type, e.g. an extroverted type will provide more extroverted answers on second assessment. It is also possible that participants, should they disagree with their assessment, determined using the Likert scale, may attempt to manipulate the questionnaire and provide answers they suppose go against the assigned type. Either outcome would indicate that systems of human classification, i.e. human kinds, affect how classified people understand themselves and will thus in effect change them and their consequent classification.
+
+## References 
+
+[1] I. Myers Briggs, and P. Myers B., *Gifts Differing: Understanding Personality Type*. California: Davies-Black Publishing, 1995.
+
+[2] I. Hacking, ‘The looping effects of human kinds’, in *Causal Cognition*, D. Sperber, D. Premack, and A. J. Premack, Eds. Oxford University Press, 1996, pp. 351–383
+

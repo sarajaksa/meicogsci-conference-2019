@@ -1,0 +1,34 @@
+... title: Influence of Working Memory Load and Task Importance on Prospective Memory Performance
+
+
+
+Abstract
+
+## Context 
+
+Prospective memory can be described as memory oriented to execution of intention in the future or “remember to remember” [1]. There is solid evidence for good working memory to facilitate prospective memory performance and working memory load to reduce prospective memory performance in experimental setting [2]. High prospective memory task importance increases the performance, especially social importance of prospective memory task [3]. 
+
+## Purpose 
+
+Those two factors mentioned above have never been put together in one experiment, so we decided to do so. The purpose of our study was to examine role of working memory load and task importance manipulation in prospective memory performance. We were not satisfied with classical prospective memory paradigm, since it resembles multitasking. Because of that, we differ from the classical paradigm, in order to have more ecologically valid results. 
+
+## Methods 
+
+We designed 2x2 factors experiment, where we manipulated cognitive load (high or low) and task importance (social or no importance). We recruited and tested 55 participants. Our performance measure in experiment was naturalistic and simple.
+
+## Results 
+
+We found no significant differences between groups in prospective memory performance. However, there was trend of groups with social importance to have better success/fail ratio. Positive outcome is, that our paradigm seems to be practical in prospective memory assessment.
+
+## Discussion
+
+Our results came out to be not significant, but we still see the trend in the data. For next research in this area we suggest to use even more pronounced difference in working memory load and task importance manipulation in order to have more clear results.
+
+## References
+
+[1]	A.L. Cohen and J.L. Hicks, Prospective Memory.S.l.: Springer, 2017.
+
+[2]	B. Uttl, C. A. White, K. Cnudde, and L. M. Grant,‘Prospective memory, retrospective memory, and individual differences in cognitive abilities, personality, and psychopathology’, PLOS ONE, vol. 13, no. 3, p. e0193806, Mar. 2018.
+
+[3]	S. Walter and B. Meier, ‘How important is importance for prospective memory? A review’, Frontiers in Psychology, vol. 5, Jun. 2014.
+

@@ -1,0 +1,23 @@
+... title: Recognizing and Imitating Emotions in a Robotic System
+
+
+
+Abstract
+
+Interest in emotion recognition by artificial intelligence is growing steeply, especially because of improvements in the processing capabilities of computers and the creation of new algorithms, substantially improving the accuracy of the task. Currently, emotion recognition through facial expressions can achieve close to 73% accuracy on the dataset FER2013 in state-of-the-art implementations [1].
+
+This thesis consists of two main parts: first, the emotion recognition system which has an artificial neural network that is trained with static images of faces with expressions of 6 basic emotions (sadness, happiness, anger, fear, disgust, surprise) and a neutral expression; and second, a robotic system that will be trained with the results of the emotion recognition system and will try to imitate the facial expressions of new images. 
+
+The thesis aims to combine state-of-the-art level facial expression recognition implementations with a robotic system to produce a human-robot interactive system capable of perceiving and imitating human emotions through facial expressions. For this purpose, I will test neural network models and train them with static images of faces from public datasets, modifying the structure of the models, according to the requirements for emotion recognition. Also, train the robotic system with associative learning, with the information gained from the best previously trained neural network. 
+
+The main question I want to answer with my research is if the robot will learn to recognize and imitate emotions accurately, and secondly, how changes in lighting will affect the accuracy of the system. Three hypotheses were formulated from these questions; first, the emotion recognition system will be as performant as state-of-the-art implementations; second, the robot will be able to imitate emotions through associative learning; and third, changes in lighting conditions will affect the accuracy of the system depending on the brightness and contrast. 
+
+The two main concepts considered in this research are universality of emotions [2] (concept researched extensively by psychologist Paul Ekman), and the adaptation of brain structures like neurons and synapses into artificial structures that resemble their connections and operation, which make this research interdisciplinary, connecting artificial intelligence, neuroscience, and psychology together.
+
+With the help of this research, I expect that we will be able to better understand what architectures fit best for emotion recognition, and if it is plausible to teach robots to recognize emotions through associative learning.
+
+## References
+[1] C. Pramerdorfer and M. Kampel, “Facial Expression Recognition using Convolutional Neural Networks: State of the Art,” Dec. 2016. Available: https://arxiv.org/abs/1612.02903 [Accessed: May 30, 2019]
+
+[2] P. Ekman, “Basic Emotions,” in Handbook of Cognition and Emotion, no. 1992, Chichester, UK: John Wiley & Sons, Ltd, 2005, pp. 45–60.
+

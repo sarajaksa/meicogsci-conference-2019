@@ -1,0 +1,26 @@
+... title: The Rhythms of the Brain. Utilizing Brain Wave Behavior in BCI Assisted Neurorehabilitation.
+
+
+
+Abstract
+
+## Purpose
+Using brain activity to control external devices is increasingly integrated into health care. Brain-computer interfaces (BCIs) can assist disabled patients in daily life or improve the recovery of neural functions in rehabilitation therapy [1].
+The presented work is part of a broader project aiming to study the effectiveness of motor training methods in patients with chronic movement disabilities due to stroke [2]. 
+Scalp electroencephalogram (EEG) data has been collected during the use of a motor rehabilitation training system called RoboArm, which uses a robotic splint for bending the subject’s wrist. The splint is controlled by a brain-computer interface (BCI) protocol which reacts to Mu-rhythm desynchronization during motor imagery. 
+We analyzed seven identified EEG oscillatory sensorimotor rhythms of two stroke patients. The objective is to investigate the behavior of the rhythms in time and find potential patterns of (de-)synchronization comparing motor imagery and rest periods. Obtained knowledge will lead to the design of alternative training protocols with the aim to improve the motor rehabilitation process of stroke patients.
+
+## Methods
+EEG data of 40 training trials was manually checked for artifacts. Using the MATLAB software, the seven EEG oscillatory rhythms Theta, Mu, Alpha, SMR, Beta 1, Beta 2 and High Beta were extracted separately for every training day. An average representation of each rhythm was constructed. The behavior of the extracted rhythms over time and their relation to motor training events was analyzed. In MATLAB, statistical testing (z-scores) was performed on time series representations of the rhythms.
+
+## Findings
+The measured oscillatory rhythms of both patients showed similar patterns. More lateralization and stronger differences between the participants were observable for Beta rhythms. Lower frequency rhythms showed a stronger tendency towards scalp symmetry. Two lateralized left and right SMR rhythms were observed.
+The focus was on finding event-related synchronization and desynchronization [3] in Theta, Alpha, SMR and Beta rhythms simultaneous to Mu-desynchronization.
+
+## References
+[1] U. Chaudhary, N. Birbaumer and A. Ramos-Murguialday, "Erratum: Corrigendum: Brain–computer interfaces for communication and rehabilitation", Nature Reviews Neurology, vol. 13, no. 3, pp. 191-191, 2017. Available: 10.1038/nrneurol.2017.23.
+
+[2] R. Rosipal, N. Porubcová, P. Barančok, B. Cimrová, I. Farkaš and L. Trejo, "Effects of mirror-box therapy on modulation of sensorimotor EEG oscillatory rhythms: a single-case longitudinal study", Journal of Neurophysiology, vol. 121, no. 2, pp. 620-633, 2019. Available: 10.1152/jn.00599.2018.
+
+[3] G. Pfurtscheller and F. Lopes da Silva, "Event-related EEG/MEG synchronization and desynchronization: basic principles", Clinical Neurophysiology, vol. 110, no. 11, pp. 1842-1857, 1999. Available: 10.1016/s1388-2457(99)00141-8.
+

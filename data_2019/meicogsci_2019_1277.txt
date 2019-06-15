@@ -1,0 +1,27 @@
+... title: Abduction in the Logic of Scientific Discovery
+
+
+
+Abstract
+
+##Context 
+After the philosophy of science broadened its perspective to include the analysis of how scientists actually reason, some theoretical approaches to central questions, such as scientific discoveries have been detached from formal logic. Consequently, some authors have argued that a narrowly construed logic of discovery exists, which can explain hypothesis generation as a rational process [1], others maintained that scientific creativity is part of the holistic cognitive experience of the scientists [2]. 
+
+##Purpose
+
+The aim of the thesis is to use the interdisciplinary notion of abduction in order to elucidate how an alternative framework of the scientific methodology for discovery can be construed. Abduction is posited as ‘reasoning towards explanation’, consequently, such a position is committed to an explanatory view of science, meaning that the latter's aim is to provide for - usually deductively valid - explanations. It will be argued, that multiple formulations of abduction suggest that discovery can only be connected to models and scientific representations, as a process of abstraction. However, the cognitivist theories on scientific representations, which take this perspective cannot provide for a unified representational view to connect mental models and scientific conceptual change. My aim is to show that the scientific community is too specialized for its outcomes to be interpreted merely on the cognitive level, due to the lack of a comprehensive position in the latter orientation.
+
+##Results
+
+It will be argued that abduction as a notion is more fruitful if it is connected to scientific reasoning practice as argumentation based on Toulmin’s work [3]. Additionally, such a view can explain representational change in science from a comprehensive, cognitively relevant, but socially informed perspective. 
+
+##Implication
+
+By arguing against scientific discovery as merely happening on the cognitive level, the thesis also invites further research of social analysis into the cognitive science of discovery. Furthermore, the proposed perspective can enlighten creativity studies, as it proposes an argumentative, dynamic epistemology behind acquiring new knowledge. It also takes visualization to be central to not only science but the reasoning process of individuals as well, thereby suggesting that the abstraction of information of images follows the intersubjective practice of argumentation. 
+
+##References
+
+[1] I. Niiniluoto, *Truth-seeking by Abduction*. Cambridge: Springer, 2018.
+[2] L. Magnani, *Abduction, Reason, and Science*. New York: Kluwer Academic/Plenum Publishers, 2001.
+[3] S. Toulmin, *The Uses of Argument*. Cambridge: Cambridge University Press, 2003.
+

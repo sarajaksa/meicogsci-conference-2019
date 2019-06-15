@@ -1,0 +1,18 @@
+... title: Amphetamine-induced Dopamine Hypersensitivity and Its Effect on Reward-based Learning in Healthy, Male Volunteers
+
+
+
+Abstract
+
+## Context
+The mesolimbic dopamine (DA) system is pivotal for reward-based learning and motivational processes. The DA response to unpredicted reward occurrences (absence or presence) is thought to serve as a prediction error that is forwarded to other brain regions involved in reward processing, thereby facilitating learning and decision-making [1]. A dysregulated DA system is characteristic for many psychiatric disorders, especially schizophrenia. More recently, dysregulated extracellular DA levels in the striatum have been proposed as a potential neurobiological explanation for positive and negative symptoms in schizophrenia. Based on this view, aberrantly increased responses to neutral stimuli underlie positive symptoms whereas decreased dopaminergic responses to relevant stimuli underlie negative symptoms [2].
+While many studies point to a link between schizophrenic symptoms and DA hypersensitivity, findings are usually correlational. This study aims at investigating the causal role of striatal DA hypersensitivity in the perception of neutral and relevant stimuli.
+## Method
+To do so, the study adopts a blind, placebo-controlled, parallel group design. D-amphetamine (AMPH) is used to approximate a DA hypersensitivity as observed in schizophrenia [3]. 50 healthy volunteers are randomly assigned to the AMPH or control group (n = 25, each). Participants in the AMPH group repeatedly receive therapeutic doses of AMPH for sensitisation. Participants in the control receive placebos. Before and after sensitisation, participants complete a computer-based reinforcement learning task in which they have to predict rewards based on previous stimuli and differentiate between salient and non-salient stimuli. AMPH group participants complete the task always with AMPH; control group participants complete the task first without, then with AMPH challenge. Neural activity is recorded with fMRI in both sessions. Due to effects of sex on reward processing and DA levels, the study includes only male participants.
+## Hypotheses
+Sensitised participants are expected to perform worse at distinguishing between salient and non-salient stimuli. Moreover, neural activity in their reward-processing brain regions are expected to differ from that of non-sensitised participants. Acute AMPH challenge is assumed to amplify these effects in both groups, with control group performance deteriorating between sessions.
+## References
+[1] W. Schultz, “Predictive reward signal of dopamine neurons,” *Journal of neurophysiology*, vol. 80, no. 1, pp. 1–27, 1998.
+[2] T. V. Maia and M. J. Frank, “An Integrative Perspective on the Role of Dopamine in Schizophrenia,” *Biological psychiatry*, vol. 81, no. 1, pp. 52–66, 2017.
+[3] O. G. O'Daly, D. Joyce, K. E. Stephan, R. M. Murray, and S. S. Shergill, “Functional magnetic resonance imaging investigation of the amphetamine sensitization model of schizophrenia in healthy male volunteers,” *Archives of general psychiatry*, vol. 68, no. 6, pp. 545–554, 2011.
+

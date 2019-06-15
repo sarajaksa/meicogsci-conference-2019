@@ -1,0 +1,28 @@
+... title: Evaluation and Biases of Word Embeddings
+
+
+
+Abstract
+
+## Introduction
+
+Embeddia is an EU project that aims to contribute to the multilingual future internet, as today, despite the diversity of 37 languages that exist in the EU, most of its content is in English. Multilingualism could be achieved through research in computational linguistics and development of new tools that could produce automatic transformations between languages. During the three year time span of the project, the project aims to develop novel tools for smaller languages and test them in media and news contexts [1].
+
+Modern language tools use word embeddings - representations of words with vectors that preserve the linguistic relationships between words [2]. Word embeddings can be produced using different machine learning methods; the most popular are Word2vec [2] and BERT [3]. Word2vec uses shallow neural networks, while Bert uses deep bidirectional neural networks and and can generate several embeddings for each word depending on the context [2, 3]. The first goal of our project is to assess the workings and biases of word embedding.
+
+For small language communities, including Slovene, the lack of language-specific tools is especially problematic [1]. This motivates the second goal of  our project to create evaluation methods for Slovene word embeddings in order to assess and compare them. We have chosen two precomputed embeddings publicly available: CLARIN.si and fastText, which were both trained using the Word2vec algorithm. 
+
+## Method and Expected results
+
+We are going to assess the gender bias of Word2vec and BERT embeddings for professional occupations, measuring the distance between gender (male or female) and occupation. As BERT takes context into account, we expect it to provide more reliable results about the bias.
+
+We are going to evaluate Slovene word embeddings by implementing two well-known evaluation methods, word analogies (WA) and synonym detection (SD) [2]. The CLARIN.si embeddings have been trained specifically for the Slovene language and have used many corpora (including movie subtitles and book recipes) [2]. The fastText embeddings only use texts from the Wikipedia and Common Crawl data and incorporate several languages [2], which is why we expect that the CLARIN.si embeddings will achieve higher scores in both WA and SD tasks. 
+
+## References
+
+[1] Embeddia, “EMBEDDIA – Cross-Lingual Embeddings for Less-Represented Languages in European News Media,” *Embeddia.eu*, 2019. [Online]. Available: http://embeddia.eu. [Accessed May 8, 2019].
+
+[2] A. Bakarov, “A Survey of Word Embeddings Evaluation Methods,” *ArXiv.org*, Jan., 2018. [Online serial]. Available: https://arxiv.org/pdf/1801.09536.pdf. [Accessed May 7, 2019].
+
+[3] J. Devlin, M.-W., Chang, K. Lee, “BERT”, *GitHub*, 2019. [Online]. Available: https://github.com/google-research/bert/blob/master/README.md?fbclid=IwAR3lA8iDoJEH5iCHdy0ccqq5QCjxG4_CiC6TRpysEIhSIdNa05n2qtLo4t4. [Accessed May 7, 2019].
+

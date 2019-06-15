@@ -1,0 +1,20 @@
+... title: Lucid Dreaming: Can Anyone Learn to Fly?
+
+
+
+Abstract
+
+##Introduction
+Originally a concept of philosophical debate, lucid dreaming is now known to be a hybrid state of consciousness--sleep with conscious awareness. Compared to regular dreaming, there is increased frontal activity, especially in gamma wave frequency, and increased coherence between different areas of the brain [3]. Lucid dreams are characterized by higher level thinking, insight, and access to waking memory. Current studies suggest that lucid dreaming may be useful in therapy, for nightmare prevention, as stress relief, and other areas of cognitive control. It has been demonstrated to be a learnable skill and to have correlations with certain personality traits and characteristics. This study aims to test whether lucid dreaming is learnable for people with non- or negatively correlative personality traits.
+
+##Method
+Thirty participants were given a basic introduction to the concept and surveyed regarding their stress, quality of life, personality, and dreaming experiences. They spent a baseline week keeping a dream journal while learning the mnemonic technique for lucid dream induction [1]. The technique is four steps, dream journaling, reality checks, dream visualization, and self-suggestion. They continued to train for four weeks while reporting the lucidity of their dreams using two validated lucidity scales [2]. To conclude they answered follow-up questions regarding the study and their stress and quality of life.
+
+##Results & Discussion
+Of the thirty participants, fifteen achieved some measure of lucidity according to the dream lucidity questions of Schredl et al while twenty experienced increased insight and memory according to the lucidity and consciousness scale developed by Voss et al. No significant negative correlation was found between neuroticism or agreeableness and lucid dreaming, but a slight correlation between openness and lucidity was present. Those who participated in training had higher lucidity than the control group, suggesting that attention to dreams and dream journaling is not enough to induce lucidity. Although one in three did not achieve lucidity, this may prove to be insignificant depending on the follow-up questions regarding the frequency of training. A future study should be conducted with a larger sample size to verify the significance of the results.
+
+##References
+[1] S. P. La Berge, "Lucid dreaming as a learnable skill: A case study", Perceptual and Motor Skills, vol 51, no. 3, pp 1039-42, 1980. Available: 10.2466/pms.1980.51.3f.1039. 
+[2]T. Stumbrys, D. Erlacher and M. Schredl, "Testing the Involvement of the Prefrontal Cortex in Lucid Dreaming: A tDCS Study", Consciousness and Cognition, vol. 22, no. 4, pp. 1214-22, 2013. Available: 10.1016/j.concog.2013.08.005.
+[3]U. Voss, R. Holzmann, I. Tuin and A. Hobson, "Lucid Dreaming: a State of Consciousness with Features of Both Waking and Non-Lucid Dreaming", Sleep, vol. 32, no. 9, pp. 1191-1200, 2009. Available: 10.1093/sleep/32.9.1191.
+
