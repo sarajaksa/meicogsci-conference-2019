@@ -1,0 +1,343 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+                <section data-markdown>
+                    <textarea data-template>
+
+                        # Topic Modeling of MeiCogSci Abstracts
+
+                        Sara Jakša (University of Ljubljana)
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ## Once upon a time...
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ## Problem
+
+                        ![](images/big-data.png)
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ## Latent Dirichlet Allocation
+
+                        ![](images/table-with-bowls.png)
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ![](images/teme.png)
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ![](images/teme-neurology.png)
+
+                    </textarea>
+                </section>
+
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ![](images/teme-constructivism.png)
+
+                    </textarea>
+                </section>
+
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ![](images/teme-modeling.png)
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ## How popular is the conference?
+
+                    </textarea>
+                </section>
+
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ![](images/abstract-numbers.png)
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ## Which topics are popular?
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        * Constructivism
+                        * Society
+                        * Learning
+                        * Decision Making
+                        * Neuroscience
+                        * Language
+                        * Perception
+                        * Modeling
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        | Year | 1st            | 2nd             | 3rd             |
+                        |------|----------------|-----------------|-----------------|
+                        | 2014 | constructivism | learning        | neuroscience    |
+                        | 2015 | constructivism | learning        | perception      |
+                        | 2016 | constructivism | decision making | society         |
+                        | 2017 | constructivism | society         | decision making |
+                        | 2018 | constructivism | society         | decision making |
+                        | 2019 | constructivism | society         | language        |
+
+
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ![](images/relative-topics.png)
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ![](images/abstract-numbers.png)
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ## Which topics are studied together? (Interdisciplinary)
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ### Topics that appear together a lot
+
+                        | Topic1                | Topic2          |
+                        | --------------------- | --------------- |
+                        | TMS                   | Neuroscience    |
+                        | Tasks                 | Decision Making |
+                        | Constructivism        | Society         |
+                        | Reinforcment Learning | Neural Networks |
+                        | Reinforcming Learning | Modeling        |
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ### Topics that don't appear together as much
+
+                        | Topic1                | Topic2          |
+                        | --------------------- | --------------- |
+                        | Constructivism        | Neuroscience    |
+                        | Neuroscience          | Society         |
+                        | Neuroscience          | Decision Making |
+                        | Perception            | Constructivism  |
+                        | Language              | Neuroscience    |
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ### Number of abstracts by number of topics
+
+                        ![](images/interdiciplinarity-in-time.png)
+
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ## Which topics use humans in their experiments?
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ### Topics with most human experiments:
+
+                        Perception, Attention, Non-Typical, Categorization, Neuroscience
+
+                        ### Topics with least human experiments:
+
+                        * Reinforcment Learning, Modeling, Systems
+
+                    </textarea>
+                </section>
+
+
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        | ***Subject***   | ***Participant*** |
+                        | --------------- | ----------------- |
+                        | TMS             | Tasks             |
+                        | Pitch           | Language          |
+                        | Neural Networks | Decision Making   |
+                        | Neuroscience    | Attention         |
+                        | Reasoning       | Verbalization     |
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ## What is the personality (Big Five) of researchers of each topic?
+
+                    </textarea>
+                </section>
+
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ### Topics with most agreeable researchers:
+
+                        Health, Non-Typical, Decision Making
+
+
+                        ### Topics with least agreeable researchers:
+
+                        Reinforcment Learning, Neural Netowrks, Systems
+
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ### Topics with most neurotic researchers:
+
+                        Reinforcment Learning, Systems, Tasks
+
+                        ### Topics with least neurotic researchers:
+
+                        Non-Typical, Health, Pitch
+
+
+                    </textarea>
+                </section>
+
+                <section data-markdown>
+                    <textarea data-template>
+
+                        ### Topics with most extraverted researchers:
+
+                        Decision Making, Society, Attention
+
+                        ### Topics with least extraverted researchers:
+
+                        Neuroscience, TMS, Health
+
+
+                    </textarea>
+                </section>
+
+
+
+
+
+                
+
+
+			</div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
