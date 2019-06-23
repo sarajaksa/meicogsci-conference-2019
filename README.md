@@ -16,6 +16,7 @@ These are some of the scripts, that I used to get data for analysis:
 
 * Personality-IBM (using IBM's API in order to get the personality of each abstract author)
 * Choosing the number of topics: NumberOfTopics-FullScope-ver1.ipynb, NumberOfTopics-FullScope-ver2.ipynb, NumberOfTopics-NarrowScope.ipynb
+* MostFrequentWords (which words are the most popular)
 
 ## Testing different models:
 
