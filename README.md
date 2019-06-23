@@ -15,6 +15,7 @@ The published abstract can be found in file Abstract.md.
 These are some of the scripts, that I used to get data for analysis:
 
 * Personality-IBM (using IBM's API in order to get the personality of each abstract author)
+* Choosing the number of topics: NumberOfTopics-FullScope-ver1.ipynb, NumberOfTopics-FullScope-ver2.ipynb, NumberOfTopics-NarrowScope.ipynb
 
 ## Testing different models:
 
