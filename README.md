@@ -12,6 +12,10 @@ The published abstract can be found in file Abstract.md.
 
 ## Preanalysis
 
+These are some of the scripts, that I used to get data for analysis:
+
+* Personality-IBM (using IBM's API in order to get the personality of each abstract author)
+
 ## Testing different models:
 
 These are the different algoritms, that I also tested:
