@@ -17,6 +17,7 @@ These are some of the scripts, that I used to get data for analysis:
 * Personality-IBM (using IBM's API in order to get the personality of each abstract author)
 * Choosing the number of topics: NumberOfTopics-FullScope-ver1.ipynb, NumberOfTopics-FullScope-ver2.ipynb, NumberOfTopics-NarrowScope.ipynb
 * MostFrequentWords (which words are the most popular)
+* VizualizingTopicsInText.ipynb (testing the test set and vizualizing topics for test set - the results of test set can be found in file MeiCogSci_TestSet_Results.csv)
 
 ## Testing different models:
 
