@@ -12,6 +12,12 @@ The published abstract can be found in file Abstract.md.
 
 ## Preanalysis
 
+## Testing different models:
+
+These are the different algoritms, that I also tested:
+
+* Hierarchical Dirichlet Process
+
 ## Analysis
 
 This is a list of analysis, that are present here:
