@@ -8,6 +8,12 @@ This was the peliminary work for my master thesis. In my master thesis I am rese
 
 The published abstract can be found in file Abstract.md. 
 
+## Data
+
+The data that I analized is in folders data and data_2109. The abstracts that I filtered out are in data_duplicate (filtered, because they were duplicate) and data_filtered (abstracts that were not peer-reviewed talks or posters).
+
+In the folder personality is the API response for the individual differences for each abstract. 
+
 ## Download Abstracts
 
 Run donwload_meicogsci_abstracts.py script. Script takes two arguments, the folder in which to save the abstracts in (--folder) and an optional argument of year, which indicates the year for which to download the abstracts (--year).
@@ -27,6 +33,8 @@ These are the different algoritms, that I also tested:
 
 * Hierarchical Dirichlet Process
 
+The model was also tested on test data. The results are in the file: MeiCogSci_TestSet_Results.csv
+
 ## Analysis
 
 This is a list of analysis, that are present here:
@@ -44,6 +52,14 @@ In file constants.py I collected constants, that are constantlly used.
 
 In the file helping_functions.py I collected functions, that I frequently used. 
 
+Model can be found in folder models.
+
+The vizualization of model with name of the topics is in vis/Model-Names.html. Original vizualization of the model is in vis/LDA_21.html.
+
+Sildes from my presentation at the conference can be found in the folder presentation.
+
 ## Thanks
 
 I would like to thank Toma and Urban for conversation about this work and Enja, Gašper and Tomaž for answering my query and Peter for sending me the data. 
+
+I would also like to thank all the people that listened to my talks and to all the questions that I got. 
