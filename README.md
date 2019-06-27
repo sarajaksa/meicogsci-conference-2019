@@ -10,6 +10,8 @@ The published abstract can be found in file Abstract.md.
 
 ## Download Abstracts
 
+Run donwload_meicogsci_abstracts.py script. Script takes two arguments, the folder in which to save the abstracts in (--folder) and an optional argument of year, which indicates the year for which to download the abstracts (--year).
+
 ## Preanalysis
 
 These are some of the scripts, that I used to get data for analysis:
