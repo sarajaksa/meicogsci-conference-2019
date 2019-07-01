@@ -6,7 +6,9 @@ This was the peliminary work for my master thesis. In my master thesis I am rese
 
 ## Abstract
 
-The published abstract can be found in file Abstract.md. 
+The published abstract can be found in file Abstract.md.
+
+The report of how I came up with these topics can be found in the file Methodology.md. 
 
 ## Data
 
