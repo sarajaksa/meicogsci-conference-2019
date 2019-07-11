@@ -54,7 +54,7 @@ This is a list of analysis, that are present here:
 
 In file constants.py I collected constants, that are constantlly used. 
 
-In the file helping_functions.py I collected functions, that I frequently used. 
+In the file helping_functions.py I collected functions, that I frequently used. In the file GetTopicsForEachWord.ipynb I have a script that gets me the most representative topic for each word, which I used on my website: https://sarajaksa.eu/2019/meicogsci-topics/text-modeling/ 
 
 Model can be found in folder models.
 
