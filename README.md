@@ -29,6 +29,7 @@ These are some of the scripts, that I used to get data for analysis:
 * MostFrequentWords (which words are the most popular)
 * VizualizingTopicsInText.ipynb (testing the test set and vizualizing topics for test set - the results of test set can be found in file MeiCogSci_TestSet_Results.csv)
 * DescriptionOfTopics.ipynb (the description of all topics)
+* Similarity of the Articles (what I used to filter them): ArticleSimilarity.ipynb
 
 ## Testing different models:
 
